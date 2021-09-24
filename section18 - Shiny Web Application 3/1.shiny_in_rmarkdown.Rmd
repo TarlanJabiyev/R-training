@@ -1,0 +1,122 @@
+---
+title: "Customer Churn Report"
+subtitle: "Rmarkdown Report with Shiny!"
+author: "Tarlan Jabiyev"
+output: 
+  html_document:
+    theme: flatly
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo    = F, 
+  message = F, 
+  warning = F)
+```
+
+# Problem
+
+Customer Churn is impacting revenue sales. What can we do?
+
+# Solution
+
+My analysis suggests that we can __reduce churn by moving customers to longer term contracts.__
+
+```{r}
+library(tidyverse)
+library(tidyquant)
+library(correlationfunnel)
+library(plotly)
+library(shiny)
+```
+
+## Contract Type Effect
+
+Customer churn varies significantly by contract type. A potential strategy is to encourage purchasing long-term contracts versus month-to-month. 
+
+```{r}
+inputPanel(
+  selectInput("chart_type", label = "Chart Type",
+              choices = c("Customer-Level", "Aggregated"))
+  )
+```
+
+```{r}
+output$p1 <- renderPlotly({
+  if (input$chart_type == "Aggregated") {
+    g <- customer_churn_tbl %>%
+      select(Contract, Churn) %>%
+      count(Contract, Churn) %>%
+      group_by(Contract) %>%
+      mutate(prop = n / sum(n)) %>%
+      ungroup() %>%
+      mutate(Contract = as_factor(Contract) %>% fct_reorder(prop) %>% fct_rev()) %>%
+      filter(Churn == 'Yes') %>%
+      ggplot(aes(prop, Contract)) +
+      geom_col(aes(text = str_glue("Churn %: {scales::percent(prop)}")), 
+               fill = palette_light()[2]) +
+      scale_x_continuous(labels = scales::percent_format()) +
+      theme_tq() 
+  } else {
+    g <- customer_churn_tbl %>%
+      mutate(value = ifelse(Churn == 'Yes', 1, 0)) %>%
+      mutate(Contract = factor(Contract, 
+                               levels = c("Month-to-month", "One year", "Two year"))) %>%
+      ggplot(aes(value, Contract, color = Churn)) +
+      geom_jitter(
+        (aes(text = str_glue({
+        "Customer ID: {customerID}
+        Contract: {Contract}
+        Tenure: {tenure}
+        Payment Method: {PaymentMethod}"}))),
+        alpha = 0.5) +
+      labs(x = "Churn Numeric (Yes = 1, No = 0)") +
+      scale_x_continuous(breaks = c(0,1)) +
+      scale_color_tq() +
+      theme_tq() 
+  }
+   ggplotly(g)
+})
+
+plotlyOutput("p1", height = "600px")
+```
+
+## Feature Importance
+
+```{r}
+inputPanel(
+  sliderInput("n_breaks", label = "Number of Bins (Numeric Features):",
+              min = 2, max = 8, value = 4, step = 1))
+```
+
+
+```{r}
+output$g1 <- renderPlot({
+   customer_churn_tbl %>%
+    select(-customerID) %>%
+    replace_na(replace = list(TotalCharges = 0)) %>%
+    binarize(n_bins = input$n_breaks, 
+             thresh_infreq = 0.05) %>%
+    correlate(target = Churn__Yes) %>%
+    plot_correlation_funnel(interactive = F) +
+    geom_point(size = 3, alpha = 0.7, color = palette_light()[1])
+  })
+
+plotOutput("g1", height = "600px")
+
+br()
+```
+
+<div class="well">
+# Learn Shiny
+
+Businesses need scalable `shiny` applications. There are 2 free youtube courses and 2 paid spectacular courses here, which I recommend:
+
+1. [R Shiny App Tutorial - Building Interactive Web Apps in R using Shiny](https://youtube.com/playlist?list=PL6wLL_RojB5xNOhe2OTSd-DPkMLVY9DfB)
+
+2. [R Shiny Web Application](https://youtube.com/playlist?list=PLtqF5YXg7GLkxx_GGXDI_EiAvkhY9olbe)
+
+3. [Shiny Dashboards](https://university.business-science.io/p/ds4b-102-r-shiny-web-application-business-level-1)
+
+4. [Shiny Developer with AWS](https://university.business-science.io/p/expert-shiny-developer-with-aws-course-ds4b-202a-r)

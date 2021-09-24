@@ -1,0 +1,2680 @@
+country,year,infant_mortality,life_expectancy,fertility,population,gdp,continent,region
+Armenia,1960,NA,66.86,4.55,1867396,NA,Asia,Western Asia
+Azerbaijan,1960,NA,61.33,5.57,3897889,NA,Asia,Western Asia
+Bahrain,1960,134.5,51.64,7.09,162501,NA,Asia,Western Asia
+Bangladesh,1960,176.3,46.2,6.73,48200702,12767231590,Asia,Southern Asia
+Bhutan,1960,175,35.94,6.67,224108,NA,Asia,Southern Asia
+Brunei,1960,63,62.52,6.49,81825,NA,Asia,South-Eastern Asia
+Cambodia,1960,NA,42.29,6.97,5722370,NA,Asia,South-Eastern Asia
+China,1960,190,30.53,3.99,644450173,70348527260,Asia,Eastern Asia
+Cyprus,1960,30,69.72,3.5,572929,NA,Asia,Western Asia
+Georgia,1960,NA,63.5,2.96,4159769,NA,Asia,Western Asia
+"Hong Kong, China",1960,NA,67.45,5.16,3075752,NA,Asia,Eastern Asia
+India,1960,165.1,41.26,5.87,449661874,81042654922,Asia,Southern Asia
+Indonesia,1960,148.4,45.01,5.67,87792512,18448917543,Asia,South-Eastern Asia
+Iran,1960,191.61,46,6.93,21906905,NA,Asia,Southern Asia
+Iraq,1960,131.7,46.96,6.25,7289759,NA,Asia,Western Asia
+Israel,1960,32,68.55,3.84,2089891,12313161088,Asia,Western Asia
+Japan,1960,30.4,67.78,2,92500754,719165142029,Asia,Eastern Asia
+Jordan,1960,107.5,53.3,7.69,888632,NA,Asia,Western Asia
+Kazakhstan,1960,NA,58.91,4.56,9995997,NA,Asia,Central Asia
+South Korea,1960,80.2,53.02,6.16,25074028,28928298962,Asia,Eastern Asia
+Kuwait,1960,101.6,62.15,7.25,261962,NA,Asia,Western Asia
+Kyrgyz Republic,1960,NA,56.09,5.17,2172500,NA,Asia,Central Asia
+Lao,1960,155,42.13,5.96,2119944,NA,Asia,South-Eastern Asia
+Lebanon,1960,57.6,62.9,5.74,1804927,NA,Asia,Western Asia
+"Macao, China",1960,NA,64.93,4.95,171456,NA,Asia,Eastern Asia
+Malaysia,1960,67.4,59.89,6.19,8160975,6631037036,Asia,South-Eastern Asia
+Maldives,1960,NA,38.07,7.02,89875,NA,Asia,Southern Asia
+Mongolia,1960,NA,49.2,6.95,955514,NA,Asia,Eastern Asia
+Nepal,1960,219.6,39.8,5.99,10056945,1354713257,Asia,Southern Asia
+Oman,1960,164,44.64,7.25,551737,538829577,Asia,Western Asia
+Pakistan,1960,192,46.79,6.6,44911810,8608436616,Asia,Southern Asia
+Philippines,1960,67.9,58.82,7.15,26273023,17990832237,Asia,South-Eastern Asia
+Qatar,1960,94,60.82,6.97,47309,NA,Asia,Western Asia
+Saudi Arabia,1960,150,47.62,7.22,4086539,NA,Asia,Western Asia
+Singapore,1960,35.5,65.02,5.82,1633718,3705795365,Asia,South-Eastern Asia
+Sri Lanka,1960,72.7,59.76,5.54,9896172,2708601390,Asia,Southern Asia
+Syria,1960,121.8,52.87,7.47,4592777,2203477369,Asia,Western Asia
+Tajikistan,1960,NA,57.1,6.24,2064035,NA,Asia,Central Asia
+Thailand,1960,102.2,55.46,6.15,27397178,8764726641,Asia,South-Eastern Asia
+Timor-Leste,1960,NA,37.74,6.37,499525,NA,Asia,South-Eastern Asia
+Turkey,1960,166,46.91,6.3,27553280,44566050533,Asia,Western Asia
+Turkmenistan,1960,NA,54.91,6.42,1593501,NA,Asia,Central Asia
+United Arab Emirates,1960,137.3,51.85,6.93,92612,NA,Asia,Western Asia
+Uzbekistan,1960,NA,59.35,6.71,8789492,NA,Asia,Central Asia
+West Bank and Gaza,1960,NA,50.82,7.69,1069399,NA,Asia,Western Asia
+Vietnam,1960,75.6,58.52,6.35,32670623,NA,Asia,South-Eastern Asia
+Yemen,1960,225,32.64,7.29,5166311,NA,Asia,Western Asia
+Armenia,1961,NA,67.33,4.51,1934239,NA,Asia,Western Asia
+Azerbaijan,1961,NA,61.76,5.6,4030130,NA,Asia,Western Asia
+Bahrain,1961,123.8,52.99,7.13,167924,NA,Asia,Western Asia
+Bangladesh,1961,171.7,46.73,6.76,49593610,13540691011,Asia,Southern Asia
+Bhutan,1961,NA,36.49,6.67,229297,NA,Asia,Southern Asia
+Brunei,1961,NA,63.11,6.49,85687,NA,Asia,South-Eastern Asia
+Cambodia,1961,NA,42.47,6.96,5872247,NA,Asia,South-Eastern Asia
+China,1961,161,32.95,3.28,654625069,51282752582,Asia,Eastern Asia
+Cyprus,1961,NA,70.06,3.47,576395,NA,Asia,Western Asia
+Georgia,1961,NA,63.9,2.97,4225733,NA,Asia,Western Asia
+"Hong Kong, China",1961,NA,68.01,5.21,3227426,10490975371,Asia,Eastern Asia
+India,1961,162.5,41.99,5.86,458691457,84059664307,Asia,Southern Asia
+Indonesia,1961,144.8,45.83,5.66,90138235,19575208346,Asia,South-Eastern Asia
+Iran,1961,183.85,46.61,6.92,22480420,NA,Asia,Southern Asia
+Iraq,1961,124.7,48.11,6.36,7475354,NA,Asia,Western Asia
+Israel,1961,NA,68.85,3.84,2174271,13692713599,Asia,Western Asia
+Japan,1961,27.9,68.43,1.98,93357259,805778057743,Asia,Eastern Asia
+Jordan,1961,101.9,54.12,7.8,927850,NA,Asia,Western Asia
+Kazakhstan,1961,NA,59.38,4.51,10411040,NA,Asia,Central Asia
+South Korea,1961,76.1,53.75,5.99,25808542,30356298714,Asia,Eastern Asia
+Kuwait,1961,95.2,62.98,7.28,294639,NA,Asia,Western Asia
+Kyrgyz Republic,1961,NA,56.54,5.26,2245062,NA,Asia,Central Asia
+Lao,1961,NA,42.38,5.96,2169287,NA,Asia,South-Eastern Asia
+Lebanon,1961,56.1,63.19,5.72,1864605,NA,Asia,Western Asia
+"Macao, China",1961,NA,65.42,4.76,175135,NA,Asia,Eastern Asia
+Malaysia,1961,64.2,60.48,6.14,8429369,7134862821,Asia,South-Eastern Asia
+Maldives,1961,NA,38.82,7.08,92327,NA,Asia,Southern Asia
+Mongolia,1961,NA,50.15,7.17,982180,NA,Asia,Eastern Asia
+Nepal,1961,216.7,40.26,5.99,10215153,1380564790,Asia,Southern Asia
+Oman,1961,237.2,45.57,7.25,564895,544970113.4,Asia,Western Asia
+Pakistan,1961,184.8,47.73,6.6,45988447,9123853537,Asia,Southern Asia
+Philippines,1961,65.9,59.17,7.09,27164618,19001301599,Asia,South-Eastern Asia
+Qatar,1961,NA,61.57,6.97,51355,NA,Asia,Western Asia
+Saudi Arabia,1961,NA,48.22,7.23,4218879,NA,Asia,Western Asia
+Singapore,1961,32.9,65.41,5.56,1690353,4217950558,Asia,South-Eastern Asia
+Sri Lanka,1961,69.8,60.18,5.42,10129134,2823071268,Asia,Southern Asia
+Syria,1961,116,53.43,7.5,4742596,2442181480,Asia,Western Asia
+Tajikistan,1961,NA,57.57,6.27,2140413,NA,Asia,Central Asia
+Thailand,1961,99,56.01,6.15,28224208,9234702982,Asia,South-Eastern Asia
+Timor-Leste,1961,NA,38.45,6.38,508311,NA,Asia,South-Eastern Asia
+Turkey,1961,161.6,47.71,6.24,28229291,45081264990,Asia,Western Asia
+Turkmenistan,1961,NA,55.36,6.54,1649914,NA,Asia,Central Asia
+United Arab Emirates,1961,130.5,52.89,6.91,100985,NA,Asia,Western Asia
+Uzbekistan,1961,NA,59.8,6.76,9044671,NA,Asia,Central Asia
+West Bank and Gaza,1961,NA,51.43,7.8,1096903,NA,Asia,Western Asia
+Vietnam,1961,72.6,59.17,6.39,33666768,NA,Asia,South-Eastern Asia
+Yemen,1961,269.2,33.58,7.31,5251663,NA,Asia,Western Asia
+Armenia,1962,NA,67.82,4.44,2002170,NA,Asia,Western Asia
+Azerbaijan,1962,NA,62.2,5.59,4167558,NA,Asia,Western Asia
+Bahrain,1962,114.1,54.33,7.17,173107,NA,Asia,Western Asia
+Bangladesh,1962,167.6,47.28,6.79,51030604,14279069088,Asia,Southern Asia
+Bhutan,1962,NA,37.04,6.67,234703,NA,Asia,Southern Asia
+Brunei,1962,NA,63.67,6.45,89603,NA,Asia,South-Eastern Asia
+Cambodia,1962,NA,42.7,6.96,6026696,NA,Asia,South-Eastern Asia
+China,1962,110,43.29,5.97,665426760,48151766858,Asia,Eastern Asia
+Cyprus,1962,NA,70.38,3.42,577691,NA,Asia,Western Asia
+Georgia,1962,NA,64.31,2.95,4292101,NA,Asia,Western Asia
+"Hong Kong, China",1962,NA,68.55,5.18,3391625,12021980539,Asia,Eastern Asia
+India,1962,160.1,42.72,5.84,468054145,86523560442,Asia,Southern Asia
+Indonesia,1962,141.2,46.65,5.65,92558006,19949028314,Asia,South-Eastern Asia
+Iran,1962,176.37,47.22,6.91,23071426,NA,Asia,Southern Asia
+Iraq,1962,118.3,49.24,6.51,7674220,NA,Asia,Western Asia
+Israel,1962,NA,69.13,3.83,2264304,15083361632,Asia,Western Asia
+Japan,1962,25.5,68.71,1.97,94263646,877564607312,Asia,Eastern Asia
+Jordan,1962,96.6,54.94,7.9,962783,NA,Asia,Western Asia
+Kazakhstan,1962,NA,59.85,4.44,10819503,NA,Asia,Central Asia
+South Korea,1962,72.4,54.51,5.79,26495107,31102566019,Asia,Eastern Asia
+Kuwait,1962,89,63.77,7.31,335161,NA,Asia,Western Asia
+Kyrgyz Republic,1962,NA,56.99,5.31,2323642,NA,Asia,Central Asia
+Lao,1962,NA,42.64,5.97,2219964,NA,Asia,South-Eastern Asia
+Lebanon,1962,54.7,63.47,5.69,1925276,NA,Asia,Western Asia
+"Macao, China",1962,NA,65.9,4.53,181025,NA,Asia,Eastern Asia
+Malaysia,1962,61.1,61.07,6.05,8710678,7592994493,Asia,South-Eastern Asia
+Maldives,1962,NA,39.64,7.12,94909,NA,Asia,Southern Asia
+Mongolia,1962,NA,51.08,7.35,1011328,NA,Asia,Eastern Asia
+Nepal,1962,213.3,40.74,6,10377061,1406937995,Asia,Southern Asia
+Oman,1962,226,46.47,7.25,578825,654987545.7,Asia,Western Asia
+Pakistan,1962,178,48.63,6.6,47122931,9532862993,Asia,Southern Asia
+Philippines,1962,64.2,59.53,7.02,28081234,19908256877,Asia,South-Eastern Asia
+Qatar,1962,NA,62.31,6.98,56187,NA,Asia,Western Asia
+Saudi Arabia,1962,NA,48.84,7.24,4362863,NA,Asia,Western Asia
+Singapore,1962,30.8,65.72,5.27,1742472,4216235949,Asia,South-Eastern Asia
+Sri Lanka,1962,67.1,60.61,5.3,10366190,2930856681,Asia,Southern Asia
+Syria,1962,110.6,53.98,7.52,4897428,3041036058,Asia,Western Asia
+Tajikistan,1962,NA,58.03,6.31,2223956,NA,Asia,Central Asia
+Thailand,1962,95.8,56.51,6.16,29081037,9932315403,Asia,South-Eastern Asia
+Timor-Leste,1962,NA,39.15,6.38,517446,NA,Asia,South-Eastern Asia
+Turkey,1962,157.1,48.52,6.18,28909985,47592935468,Asia,Western Asia
+Turkmenistan,1962,NA,55.82,6.63,1708711,NA,Asia,Central Asia
+United Arab Emirates,1962,124,53.91,6.89,112240,NA,Asia,Western Asia
+Uzbekistan,1962,NA,60.25,6.78,9319510,NA,Asia,Central Asia
+West Bank and Gaza,1962,NA,52.08,7.91,1128809,NA,Asia,Western Asia
+Vietnam,1962,69.9,59.82,6.43,34684164,NA,Asia,South-Eastern Asia
+Yemen,1962,263.7,34.52,7.33,5339285,NA,Asia,Western Asia
+Armenia,1963,NA,68.3,4.32,2070427,NA,Asia,Western Asia
+Azerbaijan,1963,NA,62.62,5.55,4307315,NA,Asia,Western Asia
+Bahrain,1963,105.1,55.64,7.19,178048,NA,Asia,Western Asia
+Bangladesh,1963,163.7,47.81,6.83,52532595,14213971626,Asia,Southern Asia
+Bhutan,1963,NA,37.57,6.67,240364,NA,Asia,Southern Asia
+Brunei,1963,NA,64.21,6.36,93650,NA,Asia,South-Eastern Asia
+Cambodia,1963,NA,42.95,6.94,6181137,NA,Asia,South-Eastern Asia
+China,1963,NA,50.64,7.41,677332765,53131628623,Asia,Eastern Asia
+Cyprus,1963,NA,70.71,3.35,577912,NA,Asia,Western Asia
+Georgia,1963,NA,64.71,2.92,4357379,NA,Asia,Western Asia
+"Hong Kong, China",1963,NA,69.05,5.05,3554025,13425142977,Asia,Eastern Asia
+India,1963,157.6,43.46,5.83,477729958,91710088309,Asia,Southern Asia
+Indonesia,1963,137.7,47.45,5.63,95055669,19499569412,Asia,South-Eastern Asia
+Iran,1963,169.26,47.83,6.9,23680433,NA,Asia,Southern Asia
+Iraq,1963,112.5,50.36,6.69,7888914,NA,Asia,Western Asia
+Israel,1963,NA,69.41,3.82,2355929,16696634703,Asia,Western Asia
+Japan,1963,23.2,69.79,1.97,95227653,951926293813,Asia,Eastern Asia
+Jordan,1963,91.6,55.75,7.98,1000506,NA,Asia,Western Asia
+Kazakhstan,1963,NA,60.31,4.33,11211938,NA,Asia,Central Asia
+South Korea,1963,68.8,55.27,5.57,27143075,34067175844,Asia,Eastern Asia
+Kuwait,1963,83.3,64.53,7.35,381665,NA,Asia,Western Asia
+Kyrgyz Republic,1963,NA,57.44,5.34,2406263,NA,Asia,Central Asia
+Lao,1963,NA,42.89,5.97,2272078,NA,Asia,South-Eastern Asia
+Lebanon,1963,53.4,63.74,5.65,1984982,NA,Asia,Western Asia
+"Macao, China",1963,NA,66.36,4.24,188703,NA,Asia,Eastern Asia
+Malaysia,1963,58.3,61.63,5.94,8999247,8150229423,Asia,South-Eastern Asia
+Maldives,1963,217.1,40.54,7.15,97556,NA,Asia,Southern Asia
+Mongolia,1963,NA,51.94,7.48,1042383,NA,Asia,Eastern Asia
+Nepal,1963,209.4,41.21,6,10544586,1433601041,Asia,Southern Asia
+Oman,1963,218.7,47.37,7.26,593504,684666626.6,Asia,Western Asia
+Pakistan,1963,171.7,49.47,6.6,48312888,10361157397,Asia,Southern Asia
+Philippines,1963,62.7,59.87,6.95,29016770,21313876851,Asia,South-Eastern Asia
+Qatar,1963,NA,63.06,6.98,61647,NA,Asia,Western Asia
+Saudi Arabia,1963,NA,49.48,7.25,4516663,NA,Asia,Western Asia
+Singapore,1963,29.3,65.97,4.97,1790682,4591736530,Asia,South-Eastern Asia
+Sri Lanka,1963,64.6,61.06,5.18,10608672,3004618975,Asia,Southern Asia
+Syria,1963,105.6,54.56,7.54,5057825,2777902913,Asia,Western Asia
+Tajikistan,1963,NA,58.51,6.37,2312193,NA,Asia,Central Asia
+Thailand,1963,92.7,56.98,6.16,29967043,10726883846,Asia,South-Eastern Asia
+Timor-Leste,1963,NA,39.85,6.37,526936,NA,Asia,South-Eastern Asia
+Turkey,1963,152.6,49.35,6.1,29597047,51907856546,Asia,Western Asia
+Turkmenistan,1963,NA,56.27,6.67,1769008,NA,Asia,Central Asia
+United Arab Emirates,1963,117.4,54.91,6.88,125216,NA,Asia,Western Asia
+Uzbekistan,1963,NA,60.7,6.79,9611601,NA,Asia,Central Asia
+West Bank and Gaza,1963,NA,52.75,7.99,1159693,NA,Asia,Western Asia
+Vietnam,1963,67.3,60.42,6.45,35722092,NA,Asia,South-Eastern Asia
+Yemen,1963,276.9,35.45,7.35,5429501,NA,Asia,Western Asia
+Armenia,1964,NA,68.78,4.16,2138133,NA,Asia,Western Asia
+Azerbaijan,1964,NA,63.06,5.47,4445653,NA,Asia,Western Asia
+Bahrain,1964,96.6,56.9,7.19,182774,NA,Asia,Western Asia
+Bangladesh,1964,160.3,48.29,6.85,54129390,15770797883,Asia,Southern Asia
+Bhutan,1964,NA,38.12,6.67,246324,NA,Asia,Southern Asia
+Brunei,1964,NA,64.72,6.23,97933,NA,Asia,South-Eastern Asia
+Cambodia,1964,NA,43.2,6.91,6329411,NA,Asia,South-Eastern Asia
+China,1964,NA,52,6.12,690932043,61546062211,Asia,Eastern Asia
+Cyprus,1964,NA,71.02,3.25,578629,NA,Asia,Western Asia
+Georgia,1964,NA,65.11,2.86,4419583,NA,Asia,Western Asia
+"Hong Kong, China",1964,NA,69.52,4.83,3695136,14982653355,Asia,Eastern Asia
+India,1964,155.3,44.23,5.81,487690114,98545195448,Asia,Southern Asia
+Indonesia,1964,134.1,48.24,5.62,97638027,20172590380,Asia,South-Eastern Asia
+Iran,1964,162.5,48.43,6.87,24308080,NA,Asia,Southern Asia
+Iraq,1964,107.1,51.46,6.87,8122200,NA,Asia,Western Asia
+Israel,1964,NA,69.68,3.82,2443297,18021878652,Asia,Western Asia
+Japan,1964,21,70.26,1.97,96253064,1063079949387,Asia,Eastern Asia
+Jordan,1964,87.1,56.55,8.03,1050725,NA,Asia,Western Asia
+Kazakhstan,1964,NA,60.79,4.2,11577537,NA,Asia,Central Asia
+South Korea,1964,65.3,56.04,5.36,27770874,36643076469,Asia,Eastern Asia
+Kuwait,1964,77.8,65.24,7.38,431366,NA,Asia,Western Asia
+Kyrgyz Republic,1964,NA,57.9,5.32,2490244,NA,Asia,Central Asia
+Lao,1964,NA,43.13,5.97,2325742,NA,Asia,South-Eastern Asia
+Lebanon,1964,52.3,64,5.58,2041212,NA,Asia,Western Asia
+"Macao, China",1964,NA,66.81,3.93,197523,NA,Asia,Eastern Asia
+Malaysia,1964,55.8,62.17,5.81,9287442,8586997221,Asia,South-Eastern Asia
+Maldives,1964,211.1,41.48,7.18,100177,NA,Asia,Southern Asia
+Mongolia,1964,NA,52.74,7.56,1074517,NA,Asia,Eastern Asia
+Nepal,1964,205.2,41.67,6,10719988,1541586302,Asia,Southern Asia
+Oman,1964,207.9,48.26,7.26,608889,685178342.7,Asia,Western Asia
+Pakistan,1964,165.8,50.27,6.6,49555472,11145471881,Asia,Southern Asia
+Philippines,1964,61.4,60.21,6.87,29962877,22048562380,Asia,South-Eastern Asia
+Qatar,1964,NA,63.79,6.99,67487,NA,Asia,Western Asia
+Saudi Arabia,1964,NA,50.15,7.26,4677409,NA,Asia,Western Asia
+Singapore,1964,28.3,66.16,4.66,1836087,4617455666,Asia,South-Eastern Asia
+Sri Lanka,1964,62.4,61.55,5.07,10858780,3121994086,Asia,Southern Asia
+Syria,1964,100.8,55.15,7.56,5224579,3035452396,Asia,Western Asia
+Tajikistan,1964,NA,58.98,6.43,2401598,NA,Asia,Central Asia
+Thailand,1964,89.7,57.4,6.15,30881332,11459639926,Asia,South-Eastern Asia
+Timor-Leste,1964,NA,40.55,6.35,536798,NA,Asia,South-Eastern Asia
+Turkey,1964,148.2,50.15,6.03,30292969,54741536059,Asia,Western Asia
+Turkmenistan,1964,NA,56.72,6.66,1829697,NA,Asia,Central Asia
+United Arab Emirates,1964,111,55.9,6.86,138220,NA,Asia,Western Asia
+Uzbekistan,1964,NA,61.15,6.78,9917202,NA,Asia,Central Asia
+West Bank and Gaza,1964,NA,53.47,8.04,1182168,NA,Asia,Western Asia
+Vietnam,1964,61.7,60.95,6.46,36780984,NA,Asia,South-Eastern Asia
+Yemen,1964,270.7,36.37,7.39,5522690,NA,Asia,Western Asia
+Armenia,1965,NA,69.26,3.98,2204650,NA,Asia,Western Asia
+Azerbaijan,1965,NA,63.49,5.35,4579759,NA,Asia,Western Asia
+Bahrain,1965,88.6,58.1,7.17,187348,NA,Asia,Western Asia
+Bangladesh,1965,157.4,48.6,6.88,55835020,16024117621,Asia,Southern Asia
+Bhutan,1965,NA,38.68,6.67,252629,NA,Asia,Southern Asia
+Brunei,1965,NA,65.21,6.07,102525,NA,Asia,South-Eastern Asia
+Cambodia,1965,NA,43.45,6.87,6467196,NA,Asia,South-Eastern Asia
+China,1965,81,54.28,6.02,706590947,71616855292,Asia,Eastern Asia
+Cyprus,1965,NA,71.33,3.13,580971,NA,Asia,Western Asia
+Georgia,1965,NA,65.52,2.8,4477328,3371856942,Asia,Western Asia
+"Hong Kong, China",1965,NA,69.96,4.55,3801814,17469241673,Asia,Eastern Asia
+India,1965,153.2,44.98,5.78,497920270,95947770642,Asia,Southern Asia
+Indonesia,1965,130.6,43.77,5.61,100308896,20363640993,Asia,South-Eastern Asia
+Iran,1965,155.99,49.04,6.83,24955116,24187876610,Asia,Southern Asia
+Iraq,1965,102.1,52.52,7.04,8375791,NA,Asia,Western Asia
+Israel,1965,NA,69.93,3.81,2522530,19660782112,Asia,Western Asia
+Japan,1965,19.1,70.31,1.98,97341852,1124948096897,Asia,Eastern Asia
+Jordan,1965,82.8,57.35,8.06,1119798,NA,Asia,Western Asia
+Kazakhstan,1965,NA,61.24,4.06,11909001,NA,Asia,Central Asia
+South Korea,1965,61.6,56.84,5.16,28392722,38544903391,Asia,Eastern Asia
+Kuwait,1965,72.6,65.92,7.41,482173,NA,Asia,Western Asia
+Kyrgyz Republic,1965,NA,58.34,5.27,2573494,NA,Asia,Central Asia
+Lao,1965,NA,43.39,5.97,2381063,NA,Asia,South-Eastern Asia
+Lebanon,1965,51.4,64.25,5.5,2092354,NA,Asia,Western Asia
+"Macao, China",1965,NA,67.24,3.59,206910,NA,Asia,Eastern Asia
+Malaysia,1965,53.4,62.71,5.66,9569784,9246896226,Asia,South-Eastern Asia
+Maldives,1965,205.3,42.47,7.2,102723,NA,Asia,Southern Asia
+Mongolia,1965,NA,53.48,7.59,1107125,NA,Asia,Eastern Asia
+Nepal,1965,200.7,42.14,6,10905006,1523038106,Asia,Southern Asia
+Oman,1965,197.6,49.13,7.27,625007,688248615.9,Asia,Western Asia
+Pakistan,1965,160.5,51.01,6.6,50848775,12306759369,Asia,Southern Asia
+Philippines,1965,60.2,60.56,6.78,30913931,23209597885,Asia,South-Eastern Asia
+Qatar,1965,NA,64.53,6.99,73543,NA,Asia,Western Asia
+Saudi Arabia,1965,NA,50.88,7.26,4843635,NA,Asia,Western Asia
+Singapore,1965,27.3,66.31,4.36,1879571,5250605184,Asia,South-Eastern Asia
+Sri Lanka,1965,60.4,62.07,4.96,11117685,3201197958,Asia,Southern Asia
+Syria,1965,96.2,55.77,7.56,5398333,3105248796,Asia,Western Asia
+Tajikistan,1965,NA,59.45,6.51,2489648,NA,Asia,Central Asia
+Thailand,1965,86.8,57.8,6.13,31822798,12397227908,Asia,South-Eastern Asia
+Timor-Leste,1965,NA,41.29,6.31,547035,NA,Asia,South-Eastern Asia
+Turkey,1965,144.1,50.96,5.95,31000167,56287179430,Asia,Western Asia
+Turkmenistan,1965,NA,57.17,6.62,1890000,NA,Asia,Central Asia
+United Arab Emirates,1965,104.4,56.87,6.84,150318,NA,Asia,Western Asia
+Uzbekistan,1965,NA,61.59,6.75,10233502,NA,Asia,Central Asia
+West Bank and Gaza,1965,NA,54.2,8.06,1191509,NA,Asia,Western Asia
+Vietnam,1965,60.7,61.32,6.48,37860014,NA,Asia,South-Eastern Asia
+Yemen,1965,263.6,37.27,7.42,5619170,NA,Asia,Western Asia
+Armenia,1966,NA,69.74,3.79,2269475,NA,Asia,Western Asia
+Azerbaijan,1966,NA,63.91,5.21,4708485,NA,Asia,Western Asia
+Bahrain,1966,81.3,59.23,7.1,191782,NA,Asia,Western Asia
+Bangladesh,1966,155,48.63,6.9,57675529,16435426595,Asia,Southern Asia
+Bhutan,1966,NA,39.28,6.67,259270,NA,Asia,Southern Asia
+Brunei,1966,NA,65.67,5.92,107450,NA,Asia,South-Eastern Asia
+Cambodia,1966,NA,43.73,6.82,6588993,NA,Asia,South-Eastern Asia
+China,1966,NA,55.37,6.21,724490033,79279858808,Asia,Eastern Asia
+Cyprus,1966,NA,71.62,3.01,585311,NA,Asia,Western Asia
+Georgia,1966,NA,65.9,2.74,4529961,3625947639,Asia,Western Asia
+"Hong Kong, China",1966,NA,70.37,4.25,3868497,18666560243,Asia,Eastern Asia
+India,1966,151,45.73,5.75,508402908,95894683921,Asia,Southern Asia
+Indonesia,1966,127,44.18,5.6,103067352,20944091970,Asia,South-Eastern Asia
+Iran,1966,149.86,49.66,6.77,25624650,26709951060,Asia,Southern Asia
+Iraq,1966,97.4,53.51,7.19,8651167,NA,Asia,Western Asia
+Israel,1966,NA,70.17,3.8,2591594,19645123302,Asia,Western Asia
+Japan,1966,17.5,71.12,2,98494630,1244626392694,Asia,Eastern Asia
+Jordan,1966,78.9,58.13,8.05,1210948,NA,Asia,Western Asia
+Kazakhstan,1966,NA,61.69,3.92,12200891,NA,Asia,Central Asia
+South Korea,1966,57.8,57.67,4.99,29006181,43440106074,Asia,Eastern Asia
+Kuwait,1966,68,66.58,7.42,533521,NA,Asia,Western Asia
+Kyrgyz Republic,1966,NA,58.76,5.19,2655349,NA,Asia,Central Asia
+Lao,1966,NA,43.64,5.97,2437527,NA,Asia,South-Eastern Asia
+Lebanon,1966,50.5,64.5,5.4,2136640,NA,Asia,Western Asia
+"Macao, China",1966,NA,67.66,3.26,216873,NA,Asia,Eastern Asia
+Malaysia,1966,51.2,63.21,5.49,9844116,9969699383,Asia,South-Eastern Asia
+Maldives,1966,199.2,43.48,7.22,105145,NA,Asia,Southern Asia
+Mongolia,1966,NA,54.16,7.6,1139960,NA,Asia,Eastern Asia
+Nepal,1966,195.9,42.6,6,11100672,1630269783,Asia,Southern Asia
+Oman,1966,187.8,49.97,7.28,642005,724068246.5,Asia,Western Asia
+Pakistan,1966,155.7,51.7,6.6,52194629,13019314804,Asia,Southern Asia
+Philippines,1966,59.1,60.91,6.69,31867565,24236853336,Asia,South-Eastern Asia
+Qatar,1966,NA,65.25,6.99,79735,NA,Asia,Western Asia
+Saudi Arabia,1966,NA,51.68,7.26,5015672,NA,Asia,Western Asia
+Singapore,1966,26.4,66.46,4.07,1921099,5820947343,Asia,South-Eastern Asia
+Sri Lanka,1966,58.6,62.62,4.85,11385943,3362019679,Asia,Southern Asia
+Syria,1966,91.7,56.42,7.57,5579283,2867415756,Asia,Western Asia
+Tajikistan,1966,NA,59.9,6.6,2575335,NA,Asia,Central Asia
+Thailand,1966,83.8,58.18,6.08,32789097,13776112396,Asia,South-Eastern Asia
+Timor-Leste,1966,NA,42.12,6.27,557252,NA,Asia,South-Eastern Asia
+Turkey,1966,140.2,51.74,5.87,31718266,62598556529,Asia,Western Asia
+Turkmenistan,1966,NA,57.61,6.55,1949425,NA,Asia,Central Asia
+United Arab Emirates,1966,97.5,57.81,6.82,161077,NA,Asia,Western Asia
+Uzbekistan,1966,NA,62.02,6.71,10559050,NA,Asia,Central Asia
+West Bank and Gaza,1966,NA,54.94,8.05,1184822,NA,Asia,Western Asia
+Vietnam,1966,59.9,61.36,6.49,38959335,NA,Asia,South-Eastern Asia
+Yemen,1966,256,38.15,7.45,5720538,NA,Asia,Western Asia
+Armenia,1967,NA,70.22,3.61,2332624,NA,Asia,Western Asia
+Azerbaijan,1967,NA,64.35,5.06,4832098,NA,Asia,Western Asia
+Bahrain,1967,74.5,60.29,7,196203,NA,Asia,Western Asia
+Bangladesh,1967,153,48.37,6.92,59625294,16127120357,Asia,Southern Asia
+Bhutan,1967,NA,39.94,6.67,266293,NA,Asia,Southern Asia
+Brunei,1967,NA,66.12,5.8,112680,NA,Asia,South-Eastern Asia
+Cambodia,1967,NA,44,6.75,6695460,NA,Asia,South-Eastern Asia
+China,1967,NA,56.9,5.25,744365635,74760906856,Asia,Eastern Asia
+Cyprus,1967,NA,71.92,2.89,591304,NA,Asia,Western Asia
+Georgia,1967,NA,66.26,2.68,4577953,3852569346,Asia,Western Asia
+"Hong Kong, China",1967,NA,70.77,3.96,3901653,19031588145,Asia,Eastern Asia
+India,1967,148.9,46.49,5.7,519162069,103399366432,Asia,Southern Asia
+Indonesia,1967,123.4,50.54,5.58,105907403,21179712360,Asia,South-Eastern Asia
+Iran,1967,191.3,50.3,6.7,26318116,29548432307,Asia,Southern Asia
+Iraq,1967,93,54.42,7.3,8947399,NA,Asia,Western Asia
+Israel,1967,NA,70.39,3.8,2652697,20233498694,Asia,Western Asia
+Japan,1967,16.3,71.41,2.02,99711082,1382557660944,Asia,Eastern Asia
+Jordan,1967,75.2,58.9,8.03,1320414,NA,Asia,Western Asia
+Kazakhstan,1967,NA,62.12,3.79,12455366,NA,Asia,Central Asia
+South Korea,1967,54,58.54,4.85,29606633,46089969105,Asia,Eastern Asia
+Kuwait,1967,63.7,67.2,7.41,585831,NA,Asia,Western Asia
+Kyrgyz Republic,1967,NA,59.19,5.11,2735838,NA,Asia,Central Asia
+Lao,1967,NA,43.89,5.97,2495093,NA,Asia,South-Eastern Asia
+Lebanon,1967,49.8,64.76,5.3,2174850,NA,Asia,Western Asia
+"Macao, China",1967,NA,68.06,2.94,227258,NA,Asia,Eastern Asia
+Malaysia,1967,49.1,63.7,5.33,10111920,10354245291,Asia,South-Eastern Asia
+Maldives,1967,193.1,44.49,7.23,107488,NA,Asia,Southern Asia
+Mongolia,1967,NA,54.8,7.59,1173186,NA,Asia,Eastern Asia
+Nepal,1967,191.3,43.05,5.99,11307139,1604650135,Asia,Southern Asia
+Oman,1967,178.5,50.8,7.28,660117,1203539587,Asia,Western Asia
+Pakistan,1967,151.5,52.34,6.6,53594445,13722437560,Asia,Southern Asia
+Philippines,1967,58,61.26,6.59,32826602,25527259808,Asia,South-Eastern Asia
+Qatar,1967,NA,65.95,6.98,86161,NA,Asia,Western Asia
+Saudi Arabia,1967,NA,52.55,7.26,5196349,NA,Asia,Western Asia
+Singapore,1967,25.3,66.63,3.82,1960547,6535267252,Asia,South-Eastern Asia
+Sri Lanka,1967,57,63.17,4.73,11661660,3578500632,Asia,Southern Asia
+Syria,1967,87.4,57.12,7.57,5767478,3104197851,Asia,Western Asia
+Tajikistan,1967,NA,60.34,6.69,2659452,NA,Asia,Central Asia
+Thailand,1967,80.8,58.56,6.01,33778500,14963060547,Asia,South-Eastern Asia
+Timor-Leste,1967,NA,43.02,6.21,567330,NA,Asia,South-Eastern Asia
+Turkey,1967,136.6,52.48,5.8,32448404,65561039657,Asia,Western Asia
+Turkmenistan,1967,NA,58.02,6.47,2008148,NA,Asia,Central Asia
+United Arab Emirates,1967,90.6,58.7,6.78,171781,NA,Asia,Western Asia
+Uzbekistan,1967,NA,62.43,6.66,10894306,NA,Asia,Central Asia
+West Bank and Gaza,1967,NA,55.7,8.02,1165200,NA,Asia,Western Asia
+Vietnam,1967,59,61.06,6.49,40074695,NA,Asia,South-Eastern Asia
+Yemen,1967,247.8,39.01,7.47,5827223,NA,Asia,Western Asia
+Armenia,1968,NA,70.67,3.45,2394635,NA,Asia,Western Asia
+Azerbaijan,1968,NA,64.75,4.9,4950977,NA,Asia,Western Asia
+Bahrain,1968,68.2,61.29,6.86,200953,NA,Asia,Western Asia
+Bangladesh,1968,151.5,47.83,6.94,61585520,17657496028,Asia,Southern Asia
+Bhutan,1968,192.1,40.66,6.67,273868,NA,Asia,Southern Asia
+Brunei,1968,NA,66.54,5.74,118176,NA,Asia,South-Eastern Asia
+Cambodia,1968,NA,44.13,6.67,6795514,NA,Asia,South-Eastern Asia
+China,1968,NA,57.87,6.37,765570668,71695709675,Asia,Eastern Asia
+Cyprus,1968,NA,72.19,2.78,598491,NA,Asia,Western Asia
+Georgia,1968,NA,66.6,2.64,4622441,4024252757,Asia,Western Asia
+"Hong Kong, China",1968,NA,71.15,3.72,3915095,19647855786,Asia,Eastern Asia
+India,1968,146.9,47.21,5.64,530274729,106902463736,Asia,Southern Asia
+Indonesia,1968,119.8,51.27,5.56,108821565,23728516741,Asia,South-Eastern Asia
+Iran,1968,176.8,50.98,6.62,27032944,33242581511,Asia,Southern Asia
+Iraq,1968,88.9,55.24,7.36,9260685,NA,Asia,Western Asia
+Israel,1968,NA,70.6,3.81,2711303,23519814853,Asia,Western Asia
+Japan,1968,15.1,71.73,2.05,100988866,1560665211109,Asia,Eastern Asia
+Jordan,1968,71.8,59.66,8,1438986,NA,Asia,Western Asia
+Kazakhstan,1968,NA,62.53,3.68,12682452,NA,Asia,Central Asia
+South Korea,1968,49.9,59.44,4.73,30204127,51482408205,Asia,Eastern Asia
+Kuwait,1968,60,67.8,7.38,639170,NA,Asia,Western Asia
+Kyrgyz Republic,1968,NA,59.58,5.03,2814423,NA,Asia,Central Asia
+Lao,1968,NA,44.15,5.97,2554843,NA,Asia,South-Eastern Asia
+Lebanon,1968,49.1,65.01,5.18,2210965,NA,Asia,Western Asia
+"Macao, China",1968,NA,68.45,2.65,237129,NA,Asia,Eastern Asia
+Malaysia,1968,47.2,64.17,5.17,10375877,11180306434,Asia,South-Eastern Asia
+Maldives,1968,186.9,45.48,7.24,109901,NA,Asia,Southern Asia
+Mongolia,1968,NA,55.43,7.58,1207108,NA,Asia,Eastern Asia
+Nepal,1968,186.8,43.51,5.99,11524132,1615489280,Asia,Southern Asia
+Oman,1968,169.3,51.62,7.29,679593,2189091628,Asia,Western Asia
+Pakistan,1968,147.7,52.95,6.6,55045897,14715011785,Asia,Southern Asia
+Philippines,1968,57,61.6,6.49,33797041,26789689529,Asia,South-Eastern Asia
+Qatar,1968,NA,66.64,6.97,93043,NA,Asia,Western Asia
+Saudi Arabia,1968,NA,53.51,7.27,5389848,37099721527,Asia,Western Asia
+Singapore,1968,24.1,66.84,3.58,1998637,7423671459,Asia,South-Eastern Asia
+Sri Lanka,1968,55.7,63.7,4.61,11940634,3786093206,Asia,Southern Asia
+Syria,1968,83.2,57.83,7.57,5963248,3219955879,Asia,Western Asia
+Tajikistan,1968,NA,60.77,6.78,2743461,NA,Asia,Central Asia
+Thailand,1968,77.8,58.96,5.9,34790945,16178399797,Asia,South-Eastern Asia
+Timor-Leste,1968,NA,43.96,6.13,577824,NA,Asia,South-Eastern Asia
+Turkey,1968,133.1,53.21,5.72,33196289,70004764349,Asia,Western Asia
+Turkmenistan,1968,NA,58.42,6.4,2066889,NA,Asia,Central Asia
+United Arab Emirates,1968,83.8,59.54,6.74,185312,NA,Asia,Western Asia
+Uzbekistan,1968,NA,62.83,6.61,11240523,NA,Asia,Central Asia
+West Bank and Gaza,1968,NA,56.45,7.98,1141217,NA,Asia,Western Asia
+Vietnam,1968,58.2,60.45,6.49,41195833,NA,Asia,South-Eastern Asia
+Yemen,1968,239.2,39.87,7.49,5937125,NA,Asia,Western Asia
+Armenia,1969,NA,71.1,3.31,2456370,NA,Asia,Western Asia
+Azerbaijan,1969,NA,65.14,4.75,5066080,NA,Asia,Western Asia
+Bahrain,1969,62.4,62.22,6.69,206469,NA,Asia,Western Asia
+Bangladesh,1969,150.4,47.09,6.95,63422570,17873068964,Asia,Southern Asia
+Bhutan,1969,186,41.45,6.67,282210,NA,Asia,Southern Asia
+Brunei,1969,NA,66.97,5.73,123875,NA,Asia,South-Eastern Asia
+Cambodia,1969,NA,44.03,6.58,6902025,NA,Asia,South-Eastern Asia
+China,1969,84.1,59.38,5.67,787191243,83812284610,Asia,Eastern Asia
+Cyprus,1969,NA,72.47,2.69,606117,NA,Asia,Western Asia
+Georgia,1969,NA,66.93,2.61,4665146,4216537591,Asia,Western Asia
+"Hong Kong, China",1969,NA,71.53,3.55,3928928,21999705847,Asia,Eastern Asia
+India,1969,144.8,47.93,5.57,541844848,113893564473,Asia,Southern Asia
+Indonesia,1969,116.4,52,5.52,111800090,25502789513,Asia,South-Eastern Asia
+Iran,1969,163.1,51.67,6.53,27765239,37532993345,Asia,Southern Asia
+Iraq,1969,85.1,55.96,7.38,9585576,NA,Asia,Western Asia
+Israel,1969,NA,70.78,3.81,2775162,26710443176,Asia,Western Asia
+Japan,1969,14.2,71.96,2.08,102323674,1755403369875,Asia,Eastern Asia
+Jordan,1969,68.6,60.42,7.97,1553585,NA,Asia,Western Asia
+Kazakhstan,1969,NA,62.92,3.6,12897025,NA,Asia,Central Asia
+South Korea,1969,45.7,60.35,4.62,30811523,58741465078,Asia,Eastern Asia
+Kuwait,1969,56.6,68.38,7.33,693876,NA,Asia,Western Asia
+Kyrgyz Republic,1969,NA,59.95,4.96,2890720,NA,Asia,Central Asia
+Lao,1969,NA,44.41,5.97,2618246,NA,Asia,South-Eastern Asia
+Lebanon,1969,48.6,65.27,5.06,2250609,NA,Asia,Western Asia
+"Macao, China",1969,NA,68.83,2.39,245310,NA,Asia,Eastern Asia
+Malaysia,1969,45.3,64.63,5.01,10640347,11726859459,Asia,South-Eastern Asia
+Maldives,1969,180.5,46.44,7.24,112591,NA,Asia,Southern Asia
+Mongolia,1969,NA,56.02,7.58,1242213,NA,Asia,Eastern Asia
+Nepal,1969,182.6,43.97,5.98,11750914,1687595378,Asia,Southern Asia
+Oman,1969,160.4,52.43,7.29,700729,2750947628,Asia,Western Asia
+Pakistan,1969,144.3,53.52,6.6,56545924,15525499865,Asia,Southern Asia
+Philippines,1969,56.1,61.94,6.38,34787588,28037113537,Asia,South-Eastern Asia
+Qatar,1969,53.5,67.29,6.95,100697,NA,Asia,Western Asia
+Saudi Arabia,1969,NA,54.55,7.27,5601649,39339763036,Asia,Western Asia
+Singapore,1969,22.9,67.09,3.38,2036270,8440042998,Asia,South-Eastern Asia
+Sri Lanka,1969,54.6,64.21,4.48,12217248,4078258886,Asia,Southern Asia
+Syria,1969,79.2,58.57,7.57,6166933,3824274467,Asia,Western Asia
+Tajikistan,1969,NA,61.17,6.84,2829641,NA,Asia,Central Asia
+Thailand,1969,74.8,59.39,5.76,35826803,17238191546,Asia,South-Eastern Asia
+Timor-Leste,1969,NA,44.86,6.04,589519,NA,Asia,South-Eastern Asia
+Turkey,1969,129.6,53.91,5.64,33969201,72861760698,Asia,Western Asia
+Turkmenistan,1969,NA,58.8,6.35,2126749,NA,Asia,Central Asia
+United Arab Emirates,1969,77.2,60.33,6.68,205570,NA,Asia,Western Asia
+Uzbekistan,1969,NA,63.2,6.55,11599763,NA,Asia,Central Asia
+West Bank and Gaza,1969,NA,57.22,7.92,1124929,NA,Asia,Western Asia
+Vietnam,1969,57.3,59.63,6.49,42309662,NA,Asia,South-Eastern Asia
+Yemen,1969,230,40.71,7.51,6047230,NA,Asia,Western Asia
+Armenia,1970,NA,71.47,3.21,2518408,NA,Asia,Western Asia
+Azerbaijan,1970,NA,65.48,4.61,5178160,NA,Asia,Western Asia
+Bahrain,1970,57.2,63.1,6.5,213102,NA,Asia,Western Asia
+Bangladesh,1970,149.5,46.31,6.95,65048701,18877509042,Asia,Southern Asia
+Bhutan,1970,181.2,42.31,6.67,291457,NA,Asia,Southern Asia
+Brunei,1970,58,67.38,5.75,129729,NA,Asia,South-Eastern Asia
+Cambodia,1970,NA,43.28,6.48,7022185,NA,Asia,South-Eastern Asia
+China,1970,80.4,61,5.75,808510713,100071867825,Asia,Eastern Asia
+Cyprus,1970,29,72.73,2.61,613619,NA,Asia,Western Asia
+Georgia,1970,NA,67.24,2.6,4707327,4724719621,Asia,Western Asia
+"Hong Kong, China",1970,NA,71.89,3.42,3958197,24091796597,Asia,Eastern Asia
+India,1970,142.8,48.65,5.49,553943226,119767317248,Asia,Southern Asia
+Indonesia,1970,113.1,52.71,5.47,114834781,27581801389,Asia,South-Eastern Asia
+Iran,1970,150.8,52.43,6.44,28514011,41224753977,Asia,Southern Asia
+Iraq,1970,81.5,56.61,7.36,9917982,NA,Asia,Western Asia
+Israel,1970,24,70.96,3.82,2849623,28662263303,Asia,Western Asia
+Japan,1970,13.4,72.05,2.1,103707537,1737431737253,Asia,Eastern Asia
+Jordan,1970,65.7,61.15,7.93,1654769,NA,Asia,Western Asia
+Kazakhstan,1970,NA,63.27,3.54,13109992,NA,Asia,Central Asia
+South Korea,1970,41.4,61.22,4.53,31437141,63643234642,Asia,Eastern Asia
+Kuwait,1970,53.5,68.93,7.24,750184,NA,Asia,Western Asia
+Kyrgyz Republic,1970,92.8,60.3,4.89,2964499,NA,Asia,Central Asia
+Lao,1970,141.1,44.66,5.97,2686025,NA,Asia,South-Eastern Asia
+Lebanon,1970,48.1,65.52,4.95,2297403,NA,Asia,Western Asia
+"Macao, China",1970,NA,69.2,2.17,250997,NA,Asia,Eastern Asia
+Malaysia,1970,43.5,65.08,4.87,10908634,12428892426,Asia,South-Eastern Asia
+Maldives,1970,174,47.37,7.23,115703,NA,Asia,Southern Asia
+Mongolia,1970,NA,56.58,7.57,1278825,NA,Asia,Eastern Asia
+Nepal,1970,178.6,44.43,5.97,11986974,1731067702,Asia,Southern Asia
+Oman,1970,151.8,53.26,7.31,723850,3133194420,Asia,Western Asia
+Pakistan,1970,141.1,54.06,6.6,58094239,17288181549,Asia,Southern Asia
+Philippines,1970,55.4,62.26,6.26,35804731,29092600073,Asia,South-Eastern Asia
+Qatar,1970,50.4,67.91,6.92,109329,NA,Asia,Western Asia
+Saudi Arabia,1970,118,55.65,7.28,5836394,44074095962,Asia,Western Asia
+Singapore,1970,22,67.4,3.19,2074071,9603756795,Asia,South-Eastern Asia
+Sri Lanka,1970,53.6,64.69,4.34,12487493,4235134591,Asia,Southern Asia
+Syria,1970,75.3,59.31,7.57,6378802,3678653011,Asia,Western Asia
+Tajikistan,1970,108,61.55,6.88,2919586,NA,Asia,Central Asia
+Thailand,1970,71.8,59.86,5.6,36884914,19204716561,Asia,South-Eastern Asia
+Timor-Leste,1970,NA,45.56,5.92,602737,NA,Asia,South-Eastern Asia
+Turkey,1970,126.2,54.59,5.56,34772031,75217752385,Asia,Western Asia
+Turkmenistan,1970,NA,59.15,6.3,2188499,NA,Asia,Central Asia
+United Arab Emirates,1970,70.9,61.08,6.61,235434,NA,Asia,Western Asia
+Uzbekistan,1970,NA,63.54,6.49,11972994,NA,Asia,Central Asia
+West Bank and Gaza,1970,NA,57.97,7.86,1124843,NA,Asia,Western Asia
+Vietnam,1970,56.4,58.78,6.47,43407291,NA,Asia,South-Eastern Asia
+Yemen,1970,221.1,41.55,7.54,6156234,NA,Asia,Western Asia
+Armenia,1971,NA,71.79,3.12,2580894,NA,Asia,Western Asia
+Azerbaijan,1971,NA,65.75,4.48,5287272,NA,Asia,Western Asia
+Bahrain,1971,52.5,63.92,6.29,220808,NA,Asia,Western Asia
+Bangladesh,1971,148.9,45.74,6.94,66417450,17843119136,Asia,Southern Asia
+Bhutan,1971,176.2,43.23,6.67,301653,NA,Asia,Southern Asia
+Brunei,1971,NA,67.79,5.77,135716,NA,Asia,South-Eastern Asia
+Cambodia,1971,NA,41.67,6.34,7167716,NA,Asia,South-Eastern Asia
+China,1971,76.8,62.04,5.4,829367784,107076898572,Asia,Eastern Asia
+Cyprus,1971,NA,72.99,2.55,620860,NA,Asia,Western Asia
+Georgia,1971,NA,67.54,2.59,4749544,4841464417,Asia,Western Asia
+"Hong Kong, China",1971,NA,72.25,3.33,4005761,25876416574,Asia,Eastern Asia
+India,1971,140.6,49.35,5.41,566605402,121735010893,Asia,Southern Asia
+Indonesia,1971,109.9,53.4,5.41,117921994,29511800441,Asia,South-Eastern Asia
+Iran,1971,126,53.28,6.36,29281130,46575433743,Asia,Southern Asia
+Iraq,1971,78.1,57.21,7.31,10255904,NA,Asia,Western Asia
+Israel,1971,NA,71.13,3.81,2936668,31879397099,Asia,Western Asia
+Japan,1971,12.6,72.87,2.11,105142875,1819073516325,Asia,Eastern Asia
+Jordan,1971,62.9,61.87,7.88,1739903,NA,Asia,Western Asia
+Kazakhstan,1971,68.2,63.6,3.49,13325342,NA,Asia,Central Asia
+South Korea,1971,37.3,62.02,4.41,32087884,68889189755,Asia,Eastern Asia
+Kuwait,1971,50.6,69.46,7.12,807900,NA,Asia,Western Asia
+Kyrgyz Republic,1971,91.8,60.61,4.82,3035474,NA,Asia,Central Asia
+Lao,1971,139.6,44.91,5.98,2759634,NA,Asia,South-Eastern Asia
+Lebanon,1971,47.6,65.75,4.84,2353569,NA,Asia,Western Asia
+"Macao, China",1971,NA,69.56,1.98,253881,NA,Asia,Eastern Asia
+Malaysia,1971,41.7,65.51,4.74,11182078,13143980655,Asia,South-Eastern Asia
+Maldives,1971,167.1,48.25,7.2,119315,NA,Asia,Southern Asia
+Mongolia,1971,NA,57.08,7.55,1317049,NA,Asia,Eastern Asia
+Nepal,1971,174.6,44.91,5.96,12232454,1710374808,Asia,Southern Asia
+Oman,1971,143.9,54.14,7.35,748971,3161337597,Asia,Western Asia
+Pakistan,1971,138.3,54.6,6.6,59690467,17369154645,Asia,Southern Asia
+Philippines,1971,54.9,62.54,6.15,36851055,30671930089,Asia,South-Eastern Asia
+Qatar,1971,47.5,68.49,6.87,119246,NA,Asia,Western Asia
+Saudi Arabia,1971,NA,56.82,7.29,6096106,52863669424,Asia,Western Asia
+Singapore,1971,21,67.75,3.01,2112873,10761031619,Asia,South-Eastern Asia
+Sri Lanka,1971,52.7,65.15,4.21,12749209,4290483612,Asia,Southern Asia
+Syria,1971,71.7,60.08,7.57,6599366,4043428384,Asia,Western Asia
+Tajikistan,1971,NA,61.9,6.87,3013956,NA,Asia,Central Asia
+Thailand,1971,68.7,60.33,5.4,37964925,20144859060,Asia,South-Eastern Asia
+Timor-Leste,1971,NA,45.8,5.75,618508,NA,Asia,South-Eastern Asia
+Turkey,1971,122.8,55.27,5.48,35608079,79404894949,Asia,Western Asia
+Turkmenistan,1971,NA,59.46,6.25,2252386,NA,Asia,Central Asia
+United Arab Emirates,1971,65.1,61.78,6.51,275160,NA,Asia,Western Asia
+Uzbekistan,1971,NA,63.86,6.42,12361237,NA,Asia,Central Asia
+West Bank and Gaza,1971,NA,58.73,7.8,1144297,NA,Asia,Western Asia
+Vietnam,1971,55.5,58.17,6.42,44485910,NA,Asia,South-Eastern Asia
+Yemen,1971,212.5,42.4,7.59,6262934,NA,Asia,Western Asia
+Armenia,1972,NA,72.02,3.03,2643464,NA,Asia,Western Asia
+Azerbaijan,1972,NA,65.93,4.35,5393176,NA,Asia,Western Asia
+Bahrain,1972,48.1,64.67,6.09,229588,NA,Asia,Western Asia
+Bangladesh,1972,148.2,45.52,6.93,67578486,15349770078,Asia,Southern Asia
+Bhutan,1972,171.2,44.2,6.68,312712,NA,Asia,Southern Asia
+Brunei,1972,NA,68.19,5.76,141836,NA,Asia,South-Eastern Asia
+Cambodia,1972,NA,39.73,6.17,7331162,NA,Asia,South-Eastern Asia
+China,1972,73.3,61.36,4.92,849787991,111145820718,Asia,Eastern Asia
+Cyprus,1972,NA,73.23,2.49,628000,NA,Asia,Western Asia
+Georgia,1972,NA,67.85,2.58,4791480,4978810636,Asia,Western Asia
+"Hong Kong, China",1972,NA,72.58,3.24,4068406,28723554183,Asia,Eastern Asia
+India,1972,138.3,50.08,5.32,579800632,121061449480,Asia,Southern Asia
+Indonesia,1972,106.7,54.09,5.34,121059511,31838126471,Asia,South-Eastern Asia
+Iran,1972,120.7,54.24,6.29,30073845,54161809687,Asia,Southern Asia
+Iraq,1972,74.9,57.77,7.23,10599846,NA,Asia,Western Asia
+Israel,1972,NA,71.33,3.8,3033919,36234390201,Asia,Western Asia
+Japan,1972,11.9,73.39,2.11,106616535,1972122126228,Asia,Eastern Asia
+Jordan,1972,60.2,62.59,7.82,1811870,NA,Asia,Western Asia
+Kazakhstan,1972,66.9,63.89,3.44,13540301,NA,Asia,Central Asia
+South Korea,1972,33.3,62.73,4.27,32759447,71967189142,Asia,Eastern Asia
+Kuwait,1972,47.9,69.97,6.98,866747,NA,Asia,Western Asia
+Kyrgyz Republic,1972,90.8,60.88,4.72,3103694,NA,Asia,Central Asia
+Lao,1972,138.2,45.16,5.99,2837967,NA,Asia,South-Eastern Asia
+Lebanon,1972,47.2,65.98,4.73,2416743,NA,Asia,Western Asia
+"Macao, China",1972,NA,69.91,1.82,254282,NA,Asia,Eastern Asia
+Malaysia,1972,39.8,65.93,4.6,11460080,14377137703,Asia,South-Eastern Asia
+Maldives,1972,159.7,49.12,7.16,123372,NA,Asia,Southern Asia
+Mongolia,1972,NA,57.49,7.5,1356669,NA,Asia,Eastern Asia
+Nepal,1972,170.9,45.41,5.95,12487785,1763700880,Asia,Southern Asia
+Oman,1972,136.1,55.07,7.41,776379,3471946111,Asia,Western Asia
+Pakistan,1972,135.7,55.12,6.61,61341255,17510436463,Asia,Southern Asia
+Philippines,1972,54.7,62.77,6.04,37925400,32342566048,Asia,South-Eastern Asia
+Qatar,1972,44.8,69.03,6.79,130377,NA,Asia,Western Asia
+Saudi Arabia,1972,110.3,58.04,7.3,6382106,65283338516,Asia,Western Asia
+Singapore,1972,19.6,68.12,2.84,2152603,12214093126,Asia,South-Eastern Asia
+Sri Lanka,1972,51.9,65.56,4.08,13003394,4272872021,Asia,Southern Asia
+Syria,1972,68.2,60.82,7.56,6828765,5055401755,Asia,Western Asia
+Tajikistan,1972,116,62.23,6.81,3112041,NA,Asia,Central Asia
+Thailand,1972,65.8,60.82,5.18,39061999,21006757943,Asia,South-Eastern Asia
+Timor-Leste,1972,NA,45.51,5.54,636100,NA,Asia,South-Eastern Asia
+Turkey,1972,119.3,55.96,5.38,36475356,85301334432,Asia,Western Asia
+Turkmenistan,1972,NA,59.74,6.18,2318070,NA,Asia,Central Asia
+United Arab Emirates,1972,59.6,62.45,6.4,324069,NA,Asia,Western Asia
+Uzbekistan,1972,NA,64.14,6.34,12762439,NA,Asia,Central Asia
+West Bank and Gaza,1972,NA,59.48,7.75,1180273,NA,Asia,Western Asia
+Vietnam,1972,54.7,58,6.35,45549487,NA,Asia,South-Eastern Asia
+Yemen,1972,204.3,43.28,7.67,6370599,NA,Asia,Western Asia
+Armenia,1973,NA,72.19,2.94,2705584,NA,Asia,Western Asia
+Azerbaijan,1973,NA,66.04,4.22,5496061,NA,Asia,Western Asia
+Bahrain,1973,44.2,65.38,5.9,239860,NA,Asia,Western Asia
+Bangladesh,1973,147.4,45.77,6.9,68658472,15860254341,Asia,Southern Asia
+Bhutan,1973,166.4,45.18,6.69,324465,NA,Asia,Southern Asia
+Brunei,1973,NA,68.58,5.69,148067,NA,Asia,South-Eastern Asia
+Cambodia,1973,NA,37.58,5.99,7478147,NA,Asia,South-Eastern Asia
+China,1973,69.7,60.97,4.51,869474823,119926340555,Asia,Eastern Asia
+Cyprus,1973,NA,73.47,2.44,635109,NA,Asia,Western Asia
+Georgia,1973,NA,68.17,2.56,4832510,5301575079,Asia,Western Asia
+"Hong Kong, China",1973,NA,72.9,3.13,4147596,33720979270,Asia,Eastern Asia
+India,1973,135.8,50.81,5.24,593451889,125051055134,Asia,Southern Asia
+Indonesia,1973,103.6,54.75,5.25,124242299,34950673891,Asia,South-Eastern Asia
+Iran,1973,115.9,55.24,6.24,30903565,57158920109,Asia,Southern Asia
+Iraq,1973,71.9,58.31,7.15,10951169,NA,Asia,Western Asia
+Israel,1973,NA,71.54,3.77,3137029,37445540316,Asia,Western Asia
+Japan,1973,11.3,73.45,2.09,108085729,2130534807640,Asia,Eastern Asia
+Jordan,1973,57.8,63.3,7.75,1873548,NA,Asia,Western Asia
+Kazakhstan,1973,65.6,64.16,3.39,13751019,NA,Asia,Central Asia
+South Korea,1973,29.5,63.34,4.09,33435268,80627951049,Asia,Eastern Asia
+Kuwait,1973,45.3,70.46,6.81,926817,NA,Asia,Western Asia
+Kyrgyz Republic,1973,90,61.14,4.62,3169771,NA,Asia,Central Asia
+Lao,1973,136.8,45.39,6.01,2916148,NA,Asia,South-Eastern Asia
+Lebanon,1973,46.6,66.18,4.63,2480426,NA,Asia,Western Asia
+"Macao, China",1973,NA,70.26,1.68,252845,NA,Asia,Eastern Asia
+Malaysia,1973,38,66.34,4.47,11741849,16061304719,Asia,South-Eastern Asia
+Maldives,1973,152,49.98,7.1,127717,NA,Asia,Southern Asia
+Mongolia,1973,NA,57.82,7.41,1397305,NA,Asia,Eastern Asia
+Nepal,1973,167.2,45.92,5.93,12753028,1755296206,Asia,Southern Asia
+Oman,1973,128.6,56.06,7.5,806989,2977122354,Asia,Western Asia
+Pakistan,1973,133.4,55.64,6.61,63062204,18747419896,Asia,Southern Asia
+Philippines,1973,54.5,62.95,5.93,39026082,35227732138,Asia,South-Eastern Asia
+Qatar,1973,42.2,69.52,6.7,142111,NA,Asia,Western Asia
+Saudi Arabia,1973,104.1,59.26,7.31,6697486,82007434858,Asia,Western Asia
+Singapore,1973,17.8,68.5,2.65,2191924,13569873937,Asia,South-Eastern Asia
+Sri Lanka,1973,51,65.97,3.97,13253063,4574425143,Asia,Southern Asia
+Syria,1973,65,61.56,7.54,7066474,4623408750,Asia,Western Asia
+Tajikistan,1973,112.8,62.53,6.71,3212446,NA,Asia,Central Asia
+Thailand,1973,62.9,61.29,4.95,40164969,23157099913,Asia,South-Eastern Asia
+Timor-Leste,1973,NA,44.71,5.3,652017,NA,Asia,South-Eastern Asia
+Turkey,1973,115.9,56.65,5.26,37366922,88084149122,Asia,Western Asia
+Turkmenistan,1973,NA,60.01,6.07,2385039,NA,Asia,Central Asia
+United Arab Emirates,1973,54.7,63.09,6.28,382823,NA,Asia,Western Asia
+Uzbekistan,1973,NA,64.4,6.24,13170848,NA,Asia,Central Asia
+West Bank and Gaza,1973,NA,60.26,7.7,1227160,NA,Asia,Western Asia
+Vietnam,1973,53.8,58.35,6.25,46604726,NA,Asia,South-Eastern Asia
+Yemen,1973,196.7,44.17,7.78,6487853,NA,Asia,Western Asia
+Armenia,1974,NA,72.28,2.85,2766495,NA,Asia,Western Asia
+Azerbaijan,1974,NA,66.05,4.08,5596160,NA,Asia,Western Asia
+Bahrain,1974,40.7,66.03,5.72,252139,NA,Asia,Western Asia
+Bangladesh,1974,146.4,46.49,6.87,69837960,17381563007,Asia,Southern Asia
+Bhutan,1974,161.6,46.2,6.69,336677,NA,Asia,Southern Asia
+Brunei,1974,NA,68.95,5.56,154395,3547350293,Asia,South-Eastern Asia
+Cambodia,1974,NA,34.94,5.8,7561583,NA,Asia,South-Eastern Asia
+China,1974,66.2,60.63,4.15,888132761,122684646387,Asia,Eastern Asia
+Cyprus,1974,NA,73.7,2.39,642335,NA,Asia,Western Asia
+Georgia,1974,NA,68.47,2.54,4871634,5768553308,Asia,Western Asia
+"Hong Kong, China",1974,NA,73.2,2.98,4243512,34451734607,Asia,Eastern Asia
+India,1974,133.1,51.53,5.16,607446519,126533330634,Asia,Southern Asia
+Indonesia,1974,100.6,55.41,5.15,127465232,37836507705,Asia,South-Eastern Asia
+Iran,1974,110.9,56.24,6.21,31784896,62523079757,Asia,Southern Asia
+Iraq,1974,68.9,58.81,7.07,11312304,NA,Asia,Western Asia
+Israel,1974,25,71.78,3.72,3239561,40006912003,Asia,Western Asia
+Japan,1974,10.6,73.88,2.05,109495053,2104430646638,Asia,Eastern Asia
+Jordan,1974,55.5,63.98,7.68,1929939,NA,Asia,Western Asia
+Kazakhstan,1974,64.5,64.4,3.32,13950987,NA,Asia,Central Asia
+South Korea,1974,26,63.84,3.87,34091816,86418752518,Asia,Eastern Asia
+Kuwait,1974,42.8,70.93,6.62,988267,NA,Asia,Western Asia
+Kyrgyz Republic,1974,89.3,61.38,4.49,3234611,NA,Asia,Central Asia
+Lao,1974,135.4,45.62,6.03,2987544,NA,Asia,South-Eastern Asia
+Lebanon,1974,46.1,66.37,4.53,2535503,NA,Asia,Western Asia
+"Macao, China",1974,NA,70.61,1.57,250550,NA,Asia,Eastern Asia
+Malaysia,1974,36.1,66.73,4.34,12025930,17395939033,Asia,South-Eastern Asia
+Maldives,1974,144.4,50.82,7.04,132122,NA,Asia,Southern Asia
+Mongolia,1974,NA,58.06,7.29,1438423,NA,Asia,Eastern Asia
+Nepal,1974,163.6,46.47,5.91,13028248,1866469477,Asia,Southern Asia
+Oman,1974,121.2,57.11,7.62,841947,3319455844,Asia,Western Asia
+Pakistan,1974,131.2,56.16,6.61,64873705,19411114501,Asia,Southern Asia
+Philippines,1974,54.4,63.1,5.82,40149959,36481175386,Asia,South-Eastern Asia
+Qatar,1974,39.9,69.98,6.6,153593,NA,Asia,Western Asia
+Saudi Arabia,1974,98.5,60.48,7.31,7045477,104553438731,Asia,Western Asia
+Singapore,1974,16,68.88,2.46,2228896,14449518821,Asia,South-Eastern Asia
+Sri Lanka,1974,50,66.36,3.87,13502870,4750350421,Asia,Southern Asia
+Syria,1974,62,62.26,7.51,7311685,5738909210,Asia,Western Asia
+Tajikistan,1974,109.4,62.81,6.57,3313144,NA,Asia,Central Asia
+Thailand,1974,60.2,61.77,4.72,41259539,24191357185,Asia,South-Eastern Asia
+Timor-Leste,1974,NA,43.49,5.04,661528,NA,Asia,South-Eastern Asia
+Turkey,1974,112.4,57.36,5.14,38272701,93011994443,Asia,Western Asia
+Turkmenistan,1974,NA,60.25,5.94,2452528,NA,Asia,Central Asia
+United Arab Emirates,1974,50.2,63.7,6.15,451948,NA,Asia,Western Asia
+Uzbekistan,1974,NA,64.64,6.12,13578783,NA,Asia,Central Asia
+West Bank and Gaza,1974,NA,61.03,7.65,1276368,NA,Asia,Western Asia
+Vietnam,1974,52.8,59.23,6.13,47661770,NA,Asia,South-Eastern Asia
+Yemen,1974,189,45.1,7.92,6626208,NA,Asia,Western Asia
+Armenia,1975,NA,72.33,2.75,2825650,NA,Asia,Western Asia
+Azerbaijan,1975,NA,66.02,3.95,5693796,NA,Asia,Western Asia
+Bahrain,1975,37.7,66.63,5.56,266686,NA,Asia,Western Asia
+Bangladesh,1975,145.2,47.58,6.82,71247153,16670967499,Asia,Southern Asia
+Bhutan,1975,157.1,47.21,6.69,349146,NA,Asia,Southern Asia
+Brunei,1975,NA,69.32,5.37,160799,3559959840,Asia,South-Eastern Asia
+Cambodia,1975,178.2,21.69,5.62,7551988,NA,Asia,South-Eastern Asia
+China,1975,62.6,60.78,3.58,905580445,133358210623,Asia,Eastern Asia
+Cyprus,1975,NA,73.93,2.35,649755,1930010486,Asia,Western Asia
+Georgia,1975,56.6,68.76,2.5,4908265,6194327097,Asia,Western Asia
+"Hong Kong, China",1975,NA,73.49,2.81,4355301,34634966188,Asia,Eastern Asia
+India,1975,130.3,52.25,5.08,621703641,138111019057,Asia,Southern Asia
+Indonesia,1975,97.8,56.04,5.04,130724118,40176101277,Asia,South-Eastern Asia
+Iran,1975,105.8,57.1,6.21,32730555,66120533947,Asia,Southern Asia
+Iraq,1975,66.2,59.19,6.99,11684585,NA,Asia,Western Asia
+Israel,1975,22.4,72.04,3.66,3336760,41334478728,Asia,Western Asia
+Japan,1975,10,74.38,2,110804519,2169490717683,Asia,Eastern Asia
+Jordan,1975,53.3,64.64,7.6,1985121,2024891600,Asia,Western Asia
+Kazakhstan,1975,63.4,64.64,3.25,14136006,NA,Asia,Central Asia
+South Korea,1975,22.8,64.26,3.62,34713078,91558614219,Asia,Eastern Asia
+Kuwait,1975,40.5,71.39,6.43,1051187,NA,Asia,Western Asia
+Kyrgyz Republic,1975,87.9,61.6,4.37,3299001,NA,Asia,Central Asia
+Lao,1975,134,45.85,6.06,3047864,NA,Asia,South-Eastern Asia
+Lebanon,1975,45.4,66.54,4.44,2575693,NA,Asia,Western Asia
+"Macao, China",1975,NA,70.95,1.48,248213,NA,Asia,Eastern Asia
+Malaysia,1975,34.2,67.13,4.21,12311782,17535397065,Asia,South-Eastern Asia
+Maldives,1975,137.2,51.69,6.98,136434,NA,Asia,Southern Asia
+Mongolia,1975,NA,58.22,7.14,1479650,NA,Asia,Eastern Asia
+Nepal,1975,159.9,47.05,5.89,13313487,1893654058,Asia,Southern Asia
+Oman,1975,114.2,58.2,7.75,882044,4130515114,Asia,Western Asia
+Pakistan,1975,129.4,56.68,6.61,66791496,20228597212,Asia,Southern Asia
+Philippines,1975,54.4,63.21,5.72,41295129,38511270214,Asia,South-Eastern Asia
+Qatar,1975,37.7,70.4,6.47,164333,NA,Asia,Western Asia
+Saudi Arabia,1975,93.1,61.67,7.31,7428705,110018966655,Asia,Western Asia
+Singapore,1975,14.3,69.26,2.27,2262393,15119171982,Asia,South-Eastern Asia
+Sri Lanka,1975,48.7,66.76,3.78,13755990,5041367314,Asia,Southern Asia
+Syria,1975,59.1,62.95,7.47,7564000,6859408730,Asia,Western Asia
+Tajikistan,1975,106.7,63.08,6.4,3412819,NA,Asia,Central Asia
+Thailand,1975,57.6,62.24,4.49,42334954,25393763440,Asia,South-Eastern Asia
+Timor-Leste,1975,NA,42.12,4.79,661634,NA,Asia,South-Eastern Asia
+Turkey,1975,108.8,58.08,5.01,39185637,99684779523,Asia,Western Asia
+Turkmenistan,1975,NA,60.49,5.78,2520002,NA,Asia,Central Asia
+United Arab Emirates,1975,45.9,64.3,6.01,531265,29899277858,Asia,Western Asia
+Uzbekistan,1975,NA,64.87,5.98,13980997,NA,Asia,Central Asia
+West Bank and Gaza,1975,78,61.81,7.61,1321677,NA,Asia,Western Asia
+Vietnam,1975,51.8,60.54,5.97,48729397,NA,Asia,South-Eastern Asia
+Yemen,1975,181.2,46.05,8.09,6793979,NA,Asia,Western Asia
+Armenia,1976,70.8,72.38,2.65,2882831,NA,Asia,Western Asia
+Azerbaijan,1976,NA,65.92,3.81,5789050,NA,Asia,Western Asia
+Bahrain,1976,35,67.2,5.41,283843,NA,Asia,Western Asia
+Bangladesh,1976,143.5,48.92,6.76,72930206,17614771185,Asia,Southern Asia
+Bhutan,1976,152.4,48.22,6.69,361862,NA,Asia,Southern Asia
+Brunei,1976,NA,69.67,5.13,167283,4277483739,Asia,South-Eastern Asia
+Cambodia,1976,166.4,19.04,5.5,7431505,NA,Asia,South-Eastern Asia
+China,1976,59.1,60.46,3.25,921688199,131224479253,Asia,Eastern Asia
+Cyprus,1976,NA,74.15,2.32,657526,2321151992,Asia,Western Asia
+Georgia,1976,55,69,2.46,4942018,6572030155,Asia,Western Asia
+"Hong Kong, China",1976,NA,73.78,2.63,4485813,40336855124,Asia,Eastern Asia
+India,1976,127.2,52.93,5,636182810,140407948437,Asia,Southern Asia
+Indonesia,1976,95.1,56.67,4.93,134010695,42581905063,Asia,South-Eastern Asia
+Iran,1976,100.5,57.64,6.24,33739231,77844297523,Asia,Southern Asia
+Iraq,1976,63.6,59.35,6.92,12068195,NA,Asia,Western Asia
+Israel,1976,20.3,72.33,3.59,3427662,41878380069,Asia,Western Asia
+Japan,1976,9.4,74.78,1.94,111992858,2255727628567,Asia,Eastern Asia
+Jordan,1976,51.2,65.28,7.52,2039114,2517134034,Asia,Western Asia
+Kazakhstan,1976,62.4,64.88,3.18,14304946,NA,Asia,Central Asia
+South Korea,1976,19.9,64.62,3.36,35290737,101238554972,Asia,Eastern Asia
+Kuwait,1976,38.2,71.85,6.23,1115463,NA,Asia,Western Asia
+Kyrgyz Republic,1976,86.1,61.83,4.25,3362961,NA,Asia,Central Asia
+Lao,1976,132.6,46.05,6.1,3094940,NA,Asia,South-Eastern Asia
+Lebanon,1976,44.6,66.69,4.36,2598362,NA,Asia,Western Asia
+"Macao, China",1976,NA,71.29,1.44,245915,NA,Asia,Eastern Asia
+Malaysia,1976,32.4,67.5,4.09,12599655,19563161663,Asia,South-Eastern Asia
+Maldives,1976,130.3,52.59,6.94,140582,NA,Asia,Southern Asia
+Mongolia,1976,NA,58.31,6.97,1520865,NA,Asia,Eastern Asia
+Nepal,1976,156.2,47.64,5.87,13608670,1976947117,Asia,Southern Asia
+Oman,1976,107.1,59.32,7.89,927439,4978927994,Asia,Western Asia
+Pakistan,1976,127.7,57.17,6.61,68818471,21271622035,Asia,Southern Asia
+Philippines,1976,54.3,63.32,5.61,42461189,41902815508,Asia,South-Eastern Asia
+Qatar,1976,35.8,70.79,6.34,173759,NA,Asia,Western Asia
+Saudi Arabia,1976,88.2,62.83,7.31,7845300,124012084323,Asia,Western Asia
+Singapore,1976,13,69.62,2.1,2291621,16238161023,Asia,South-Eastern Asia
+Sri Lanka,1976,47.3,67.17,3.71,14013610,5209502382,Asia,Southern Asia
+Syria,1976,56.4,63.6,7.42,7822610,7611317847,Asia,Western Asia
+Tajikistan,1976,104.3,63.34,6.22,3511050,NA,Asia,Central Asia
+Thailand,1976,55.2,62.7,4.26,43386846,27762192462,Asia,South-Eastern Asia
+Timor-Leste,1976,NA,40.94,4.61,650490,NA,Asia,South-Eastern Asia
+Turkey,1976,105.2,58.81,4.87,40100696,110112983274,Asia,Western Asia
+Turkmenistan,1976,NA,60.73,5.61,2587417,NA,Asia,Central Asia
+United Arab Emirates,1976,41.9,64.87,5.87,622051,34840688594,Asia,Western Asia
+Uzbekistan,1976,NA,65.11,5.83,14374729,NA,Asia,Central Asia
+West Bank and Gaza,1976,73.7,62.6,7.57,1361612,NA,Asia,Western Asia
+Vietnam,1976,50.9,62.07,5.8,49808071,NA,Asia,South-Eastern Asia
+Yemen,1976,173.1,47.05,8.28,6994840,NA,Asia,Western Asia
+Armenia,1977,68.3,72.44,2.56,2938181,NA,Asia,Western Asia
+Azerbaijan,1977,NA,65.8,3.68,5882395,NA,Asia,Western Asia
+Bahrain,1977,32.6,67.72,5.28,303236,NA,Asia,Western Asia
+Bangladesh,1977,141.4,50.27,6.68,74848466,18085623890,Asia,Southern Asia
+Bhutan,1977,147.8,49.22,6.67,374801,NA,Asia,Southern Asia
+Brunei,1977,NA,70.01,4.88,173826,4744443736,Asia,South-Eastern Asia
+Cambodia,1977,155.4,18.1,5.44,7222050,NA,Asia,South-Eastern Asia
+China,1977,55.8,61.94,2.87,936554514,141197539676,Asia,Eastern Asia
+Cyprus,1977,NA,74.37,2.31,665528,2700938929,Asia,Western Asia
+Georgia,1977,53.5,69.19,2.42,4973542,7025273570,Asia,Western Asia
+"Hong Kong, China",1977,NA,74.06,2.44,4633329,45033141351,Asia,Eastern Asia
+India,1977,124,53.56,4.92,650907559,150594214556,Asia,Southern Asia
+Indonesia,1977,92.5,57.27,4.81,137322122,46259476457,Asia,South-Eastern Asia
+Iran,1977,95,57.78,6.29,34814231,76831816865,Asia,Southern Asia
+Iraq,1977,61.2,59.26,6.83,12460997,NA,Asia,Western Asia
+Israel,1977,18.6,72.62,3.51,3513516,41875043567,Asia,Western Asia
+Japan,1977,8.8,75.35,1.89,113067848,2354761694697,Asia,Eastern Asia
+Jordan,1977,49.1,65.89,7.46,2091716,2680998094,Asia,Western Asia
+Kazakhstan,1977,61.4,65.13,3.11,14461278,NA,Asia,Central Asia
+South Korea,1977,17.4,64.95,3.11,35832213,111356972145,Asia,Eastern Asia
+Kuwait,1977,36,72.29,6.05,1180939,NA,Asia,Western Asia
+Kyrgyz Republic,1977,84.5,62.05,4.15,3426646,NA,Asia,Central Asia
+Lao,1977,131.2,46.26,6.14,3131492,NA,Asia,South-Eastern Asia
+Lebanon,1977,43.6,66.83,4.27,2606224,NA,Asia,Western Asia
+"Macao, China",1977,NA,71.62,1.44,243729,NA,Asia,Eastern Asia
+Malaysia,1977,30.5,67.86,3.99,12891715,21080573283,Asia,South-Eastern Asia
+Maldives,1977,123.7,53.53,6.93,144645,NA,Asia,Southern Asia
+Mongolia,1977,NA,58.36,6.78,1562212,NA,Asia,Eastern Asia
+Nepal,1977,152.3,48.28,5.85,13913775,2036591087,Asia,Southern Asia
+Oman,1977,100.1,60.45,8.02,977806,5029076787,Asia,Western Asia
+Pakistan,1977,126.1,57.63,6.6,70953777,22111361495,Asia,Southern Asia
+Philippines,1977,54.2,63.44,5.51,43650333,44250234521,Asia,South-Eastern Asia
+Qatar,1977,34,71.15,6.21,182370,NA,Asia,Western Asia
+Saudi Arabia,1977,83.4,63.95,7.3,8295384,132697452565,Asia,Western Asia
+Singapore,1977,12.3,69.98,1.95,2317796,17449848067,Asia,South-Eastern Asia
+Sri Lanka,1977,45.6,67.6,3.63,14274023,5475218413,Asia,Southern Asia
+Syria,1977,53.9,64.24,7.36,8088148,7514369603,Asia,Western Asia
+Tajikistan,1977,102.5,63.57,6.04,3608761,NA,Asia,Central Asia
+Thailand,1977,52.9,63.15,4.03,44416007,30494953638,Asia,South-Eastern Asia
+Timor-Leste,1977,NA,40.25,4.51,630151,NA,Asia,South-Eastern Asia
+Turkey,1977,101.5,59.55,4.74,41020211,113864169358,Asia,Western Asia
+Turkmenistan,1977,106.2,61,5.44,2655036,NA,Asia,Central Asia
+United Arab Emirates,1977,38.2,65.41,5.74,722849,42310298856,Asia,Western Asia
+Uzbekistan,1977,NA,65.37,5.66,14762133,NA,Asia,Central Asia
+West Bank and Gaza,1977,69.8,63.39,7.52,1398295,NA,Asia,Western Asia
+Vietnam,1977,49.8,63.58,5.61,50899504,NA,Asia,South-Eastern Asia
+Yemen,1977,164.6,48.06,8.47,7226885,NA,Asia,Western Asia
+Armenia,1978,65.9,72.53,2.48,2991954,NA,Asia,Western Asia
+Azerbaijan,1978,NA,65.68,3.54,5975045,NA,Asia,Western Asia
+Bahrain,1978,30.4,68.21,5.16,323511,NA,Asia,Western Asia
+Bangladesh,1978,139.1,51.47,6.59,76948378,19364971579,Asia,Southern Asia
+Bhutan,1978,143.3,50.21,6.64,387731,NA,Asia,Southern Asia
+Brunei,1978,NA,70.33,4.65,180357,5065919390,Asia,South-Eastern Asia
+Cambodia,1978,143.3,19.55,5.46,6982522,NA,Asia,South-Eastern Asia
+China,1978,52.9,62.15,2.74,950537317,157717651819,Asia,Eastern Asia
+Cyprus,1978,NA,74.58,2.31,673252,2911001893,Asia,Western Asia
+Georgia,1978,52,69.31,2.38,5004521,7547190094,Asia,Western Asia
+"Hong Kong, China",1978,NA,74.35,2.26,4786580,48845400325,Asia,Eastern Asia
+India,1978,120.7,54.14,4.84,665936435,159196957387,Asia,Southern Asia
+Indonesia,1978,90,57.87,4.68,140665859,50517919166,Asia,South-Eastern Asia
+Iran,1978,89.4,57.52,6.35,35977589,71085306304,Asia,Southern Asia
+Iraq,1978,58.9,58.94,6.75,12859226,NA,Asia,Western Asia
+Israel,1978,17.2,72.9,3.43,3594470,43894054771,Asia,Western Asia
+Japan,1978,8.3,75.67,1.84,114054587,2478903353776,Asia,Eastern Asia
+Jordan,1978,47.2,66.46,7.39,2146662,3244118237,Asia,Western Asia
+Kazakhstan,1978,60.3,65.41,3.05,14610810,NA,Asia,Central Asia
+South Korea,1978,15.4,65.31,2.88,36356187,121707854639,Asia,Eastern Asia
+Kuwait,1978,33.9,72.72,5.87,1247597,NA,Asia,Western Asia
+Kyrgyz Republic,1978,82.8,62.3,4.08,3491143,NA,Asia,Central Asia
+Lao,1978,139.6,46.47,6.19,3164146,NA,Asia,South-Eastern Asia
+Lebanon,1978,42.6,66.96,4.18,2604875,NA,Asia,Western Asia
+"Macao, China",1978,NA,71.94,1.49,242458,NA,Asia,Eastern Asia
+Malaysia,1978,28.8,68.21,3.91,13191699,22482860323,Asia,South-Eastern Asia
+Maldives,1978,117.7,54.51,6.95,148797,NA,Asia,Southern Asia
+Mongolia,1978,121.8,58.4,6.59,1603908,NA,Asia,Eastern Asia
+Nepal,1978,148.3,48.94,5.82,14228941,2126318022,Asia,Southern Asia
+Oman,1978,92.9,61.57,8.14,1032799,4843326253,Asia,Western Asia
+Pakistan,1978,124.7,58.05,6.58,73204087,23891001859,Asia,Southern Asia
+Philippines,1978,54,63.6,5.4,44866279,46538902356,Asia,South-Eastern Asia
+Qatar,1978,32.4,71.49,6.08,192018,NA,Asia,Western Asia
+Saudi Arabia,1978,79,65.01,7.28,8785326,131404162525,Asia,Western Asia
+Singapore,1978,12.3,70.34,1.83,2344224,18963876784,Asia,South-Eastern Asia
+Sri Lanka,1978,43.7,68.06,3.56,14534087,5784778418,Asia,Southern Asia
+Syria,1978,51.5,64.84,7.29,8363346,8170120908,Asia,Western Asia
+Tajikistan,1978,101.3,63.81,5.89,3707624,NA,Asia,Central Asia
+Thailand,1978,50.8,63.62,3.81,45423442,33634638293,Asia,South-Eastern Asia
+Timor-Leste,1978,NA,40.27,4.51,606295,NA,Asia,South-Eastern Asia
+Turkey,1978,97.7,60.29,4.61,41953105,115575471186,Asia,Western Asia
+Turkmenistan,1978,102.8,61.28,5.28,2723006,NA,Asia,Central Asia
+United Arab Emirates,1978,34.8,65.93,5.62,827394,41637732956,Asia,Western Asia
+Uzbekistan,1978,NA,65.64,5.48,15148932,NA,Asia,Central Asia
+West Bank and Gaza,1978,66,64.18,7.46,1433382,NA,Asia,Western Asia
+Vietnam,1978,48.8,64.86,5.42,52015279,NA,Asia,South-Eastern Asia
+Yemen,1978,156.1,49.08,8.67,7485921,NA,Asia,Western Asia
+Armenia,1979,63.5,72.63,2.42,3044564,NA,Asia,Western Asia
+Azerbaijan,1979,NA,65.6,3.41,6068531,NA,Asia,Western Asia
+Bahrain,1979,28.5,68.67,5.04,342829,NA,Asia,Western Asia
+Bangladesh,1979,136.5,52.44,6.48,79141947,20294806754,Asia,Southern Asia
+Bhutan,1979,138.8,51.18,6.6,400378,NA,Asia,Southern Asia
+Brunei,1979,NA,70.65,4.43,186786,6208913809,Asia,South-Eastern Asia
+Cambodia,1979,130,21.91,5.55,6795102,NA,Asia,South-Eastern Asia
+China,1979,50.2,62.95,2.8,964155176,169704193357,Asia,Eastern Asia
+Cyprus,1979,21,74.79,2.33,680013,3199353131,Asia,Western Asia
+Georgia,1979,50.5,69.37,2.34,5037237,8103444129,Asia,Western Asia
+"Hong Kong, China",1979,NA,74.64,2.1,4930298,54530789735,Asia,Eastern Asia
+India,1979,117.5,54.65,4.76,681358553,150857929902,Asia,Southern Asia
+Indonesia,1979,87.7,58.45,4.56,144053516,54100964303,Asia,South-Eastern Asia
+Iran,1979,83.7,56.95,6.42,37256771,66021057538,Asia,Southern Asia
+Iraq,1979,56.9,58.44,6.66,13257910,NA,Asia,Western Asia
+Israel,1979,16.1,73.19,3.35,3671264,46652707737,Asia,Western Asia
+Japan,1979,7.9,76.18,1.8,114993274,2614847450683,Asia,Eastern Asia
+Jordan,1979,45.3,67,7.33,2208562,3539983901,Asia,Western Asia
+Kazakhstan,1979,59.2,65.71,3,14761509,NA,Asia,Central Asia
+South Korea,1979,13.7,65.7,2.69,36889651,129963323122,Asia,Eastern Asia
+Kuwait,1979,31.8,73.14,5.7,1315428,NA,Asia,Western Asia
+Kyrgyz Republic,1979,80.9,62.57,4.04,3557793,NA,Asia,Central Asia
+Lao,1979,137.1,46.69,6.23,3202270,NA,Asia,South-Eastern Asia
+Lebanon,1979,41.5,67.08,4.09,2602573,NA,Asia,Western Asia
+"Macao, China",1979,NA,72.26,1.56,243073,NA,Asia,Eastern Asia
+Malaysia,1979,27,68.56,3.84,13504433,24584805735,Asia,South-Eastern Asia
+Maldives,1979,112.1,55.53,7,153285,NA,Asia,Southern Asia
+Mongolia,1979,117.4,58.46,6.4,1646291,NA,Asia,Eastern Asia
+Nepal,1979,144.3,49.63,5.8,14554356,2176687898,Asia,Southern Asia
+Oman,1979,86.1,62.65,8.23,1091855,5053126619,Asia,Western Asia
+Pakistan,1979,123.4,58.44,6.56,75575981,24788929769,Asia,Southern Asia
+Philippines,1979,53.7,63.81,5.29,46113992,49163545544,Asia,South-Eastern Asia
+Qatar,1979,31,71.83,5.95,205244,NA,Asia,Western Asia
+Saudi Arabia,1979,74.8,66.03,7.25,9323290,144315366316,Asia,Western Asia
+Singapore,1979,12.3,70.68,1.74,2375417,20745905987,Asia,South-Eastern Asia
+Sri Lanka,1979,41.6,68.52,3.49,14789300,6155209085,Asia,Southern Asia
+Syria,1979,49.1,65.44,7.2,8651904,8466888755,Asia,Western Asia
+Tajikistan,1979,100.6,64.04,5.76,3809991,NA,Asia,Central Asia
+Thailand,1979,48.9,64.1,3.59,46412310,35441410412,Asia,South-Eastern Asia
+Timor-Leste,1979,NA,41.01,4.61,586886,NA,Asia,South-Eastern Asia
+Turkey,1979,94,61.03,4.48,42912350,114854149223,Asia,Western Asia
+Turkmenistan,1979,99.6,61.58,5.14,2791575,NA,Asia,Central Asia
+United Arab Emirates,1979,31.7,66.43,5.52,927303,50349834439,Asia,Western Asia
+Uzbekistan,1979,97.7,65.94,5.3,15543520,NA,Asia,Central Asia
+West Bank and Gaza,1979,62.5,64.96,7.39,1469730,NA,Asia,Western Asia
+Vietnam,1979,47.8,65.84,5.23,53169674,NA,Asia,South-Eastern Asia
+Yemen,1979,147.7,50.11,8.84,7765087,NA,Asia,Western Asia
+Armenia,1980,61.3,72.72,2.39,3096298,NA,Asia,Western Asia
+Azerbaijan,1980,95,65.55,3.29,6163990,NA,Asia,Western Asia
+Bahrain,1980,26.8,69.09,4.92,359902,3983298875,Asia,Western Asia
+Bangladesh,1980,133.7,53.18,6.36,81364176,20461050013,Asia,Southern Asia
+Bhutan,1980,134.3,52.12,6.55,412561,NA,Asia,Southern Asia
+Brunei,1980,19,70.95,4.25,193057,5774494578,Asia,South-Eastern Asia
+Cambodia,1980,117.3,28.16,5.69,6718241,NA,Asia,South-Eastern Asia
+China,1980,48,63.92,2.32,977837433,182941120439,Asia,Eastern Asia
+Cyprus,1980,19.4,74.99,2.35,685406,3383419767,Asia,Western Asia
+Georgia,1980,49,69.4,2.32,5073241,8474279303,Asia,Western Asia
+"Hong Kong, China",1980,NA,74.93,1.97,5053684,60150325771,Asia,Eastern Asia
+India,1980,114.3,55.1,4.68,697229745,161019450821,Asia,Southern Asia
+Indonesia,1980,85.4,59.01,4.43,147490366,58821272859,Asia,South-Eastern Asia
+Iran,1980,78.3,56.24,6.48,38668222,57286706115,Asia,Southern Asia
+Iraq,1980,55,57.91,6.57,13653358,NA,Asia,Western Asia
+Israel,1980,15.3,73.47,3.28,3744667,49858351835,Asia,Western Asia
+Japan,1980,7.4,76.16,1.78,115912104,2688523162545,Asia,Eastern Asia
+Jordan,1980,43.5,67.51,7.26,2280670,4212997005,Asia,Western Asia
+Kazakhstan,1980,57.8,66.05,2.97,14918991,NA,Asia,Central Asia
+South Korea,1980,12.3,66.15,2.52,37451085,128029123166,Asia,Eastern Asia
+Kuwait,1980,29.6,73.58,5.52,1384342,NA,Asia,Western Asia
+Kyrgyz Republic,1980,78.8,62.89,4.04,3627499,NA,Asia,Central Asia
+Lao,1980,134.7,46.91,6.28,3252701,NA,Asia,South-Eastern Asia
+Lebanon,1980,40.3,67.21,4,2605294,NA,Asia,Western Asia
+"Macao, China",1980,NA,72.57,1.67,246236,NA,Asia,Eastern Asia
+Malaysia,1980,25.4,68.89,3.79,13833739,26414956134,Asia,South-Eastern Asia
+Maldives,1980,106.8,56.58,7.07,158282,NA,Asia,Southern Asia
+Mongolia,1980,113.3,58.56,6.21,1689622,NA,Asia,Eastern Asia
+Nepal,1980,140.3,50.32,5.76,14890080,2126201926,Asia,Southern Asia
+Oman,1980,79.4,63.7,8.3,1154375,5358105188,Asia,Western Asia
+Pakistan,1980,122.1,58.79,6.54,78071984,27321293469,Asia,Southern Asia
+Philippines,1980,53.2,64.06,5.18,47396966,51694932893,Asia,South-Eastern Asia
+Qatar,1980,29.7,72.14,5.81,223715,NA,Asia,Western Asia
+Saudi Arabia,1980,70.7,66.99,7.21,9912917,153723600651,Asia,Western Asia
+Singapore,1980,12,71.04,1.82,2414524,22830334872,Asia,South-Eastern Asia
+Sri Lanka,1980,39.4,68.97,3.41,15036562,6515044619,Asia,Southern Asia
+Syria,1980,46.9,66.01,7.09,8956156,9481493126,Asia,Western Asia
+Tajikistan,1980,100.4,64.28,5.66,3917642,NA,Asia,Central Asia
+Thailand,1980,47,64.62,3.39,47385325,37274986914,Asia,South-Eastern Asia
+Timor-Leste,1980,NA,42.45,4.77,577580,NA,Asia,South-Eastern Asia
+Turkey,1980,90.2,61.74,4.36,43905790,112043265797,Asia,Western Asia
+Turkmenistan,1980,96.5,61.9,5.01,2861000,NA,Asia,Central Asia
+United Arab Emirates,1980,28.9,66.91,5.42,1016789,62370744063,Asia,Western Asia
+Uzbekistan,1980,91.8,66.25,5.13,15951899,NA,Asia,Central Asia
+West Bank and Gaza,1980,59.2,65.74,7.31,1509484,NA,Asia,Western Asia
+Vietnam,1980,46.8,66.49,5.05,54372518,NA,Asia,South-Eastern Asia
+Yemen,1980,139.7,51.13,8.99,8059381,NA,Asia,Western Asia
+Armenia,1981,59.2,72.73,2.37,3145885,NA,Asia,Western Asia
+Azerbaijan,1981,NA,65.61,3.18,6261942,NA,Asia,Western Asia
+Bahrain,1981,25.3,69.47,4.8,374125,3771518972,Asia,Western Asia
+Bangladesh,1981,130.8,53.72,6.22,83599582,21238978734,Asia,Southern Asia
+Bhutan,1981,130,53.05,6.5,423887,115128647,Asia,Southern Asia
+Brunei,1981,NA,71.25,4.1,199136,4629601948,Asia,South-Eastern Asia
+Cambodia,1981,106.5,38,5.85,6774509,NA,Asia,South-Eastern Asia
+China,1981,46.1,64.2,2.71,991553829,192454058701,Asia,Eastern Asia
+Cyprus,1981,17.8,75.19,2.39,689173,3468580371,Asia,Western Asia
+Georgia,1981,47.6,69.42,2.3,5111792,8920655471,Asia,Western Asia
+"Hong Kong, China",1981,NA,75.22,1.85,5152057,65754664876,Asia,Eastern Asia
+India,1981,111.3,55.51,4.6,713561406,170690606911,Asia,Southern Asia
+Indonesia,1981,83.1,59.57,4.3,150978841,63614142518,Asia,South-Eastern Asia
+Iran,1981,73.2,55.62,6.52,40209077,54308583000,Asia,Southern Asia
+Iraq,1981,53.3,57.52,6.49,14046273,NA,Asia,Western Asia
+Israel,1981,14.6,73.74,3.22,3815270,52424989128,Asia,Western Asia
+Japan,1981,6.9,76.57,1.76,116821569,2800818579766,Asia,Eastern Asia
+Jordan,1981,41.8,68,7.18,2365665,4411324539,Asia,Western Asia
+Kazakhstan,1981,56.3,66.43,2.97,15082185,NA,Asia,Central Asia
+South Korea,1981,11.3,66.66,2.38,38046253,135919578695,Asia,Eastern Asia
+Kuwait,1981,27.4,74,5.32,1452383,NA,Asia,Western Asia
+Kyrgyz Republic,1981,76.4,63.23,4.05,3700312,NA,Asia,Central Asia
+Lao,1981,132.3,47.17,6.32,3317570,NA,Asia,South-Eastern Asia
+Lebanon,1981,39.1,67.36,3.9,2615753,NA,Asia,Western Asia
+"Macao, China",1981,NA,72.88,1.78,252258,NA,Asia,Eastern Asia
+Malaysia,1981,23.8,69.22,3.75,14180093,28248669795,Asia,South-Eastern Asia
+Maldives,1981,101.9,57.62,7.15,163834,NA,Asia,Southern Asia
+Mongolia,1981,109.3,58.73,6.03,1733479,739932438.1,Asia,Eastern Asia
+Nepal,1981,136.2,51.06,5.72,15237302,2303569140,Asia,Southern Asia
+Oman,1981,72.8,64.69,8.34,1220548,6271505604,Asia,Western Asia
+Pakistan,1981,120.7,59.13,6.51,80691701,29485348529,Asia,Southern Asia
+Philippines,1981,52.8,64.37,5.08,48715592,53464589598,Asia,South-Eastern Asia
+Qatar,1981,28.4,72.45,5.67,248053,NA,Asia,Western Asia
+Saudi Arabia,1981,66.8,67.89,7.14,10556936,160934662343,Asia,Western Asia
+Singapore,1981,11.4,71.39,1.78,2463245,25278942771,Asia,South-Eastern Asia
+Sri Lanka,1981,36.8,69.35,3.32,15274137,6886370991,Asia,Southern Asia
+Syria,1981,44.8,66.56,6.98,9277263,10382966156,Asia,Western Asia
+Tajikistan,1981,100.4,64.53,5.6,4030104,NA,Asia,Central Asia
+Thailand,1981,45.1,65.22,3.2,48336894,39476772126,Asia,South-Eastern Asia
+Timor-Leste,1981,NA,44.42,4.96,580556,NA,Asia,South-Eastern Asia
+Turkey,1981,86.4,62.45,4.24,44936836,117484813542,Asia,Western Asia
+Turkmenistan,1981,93.4,62.24,4.92,2931343,NA,Asia,Central Asia
+United Arab Emirates,1981,26.4,67.36,5.34,1093108,65276707224,Asia,Western Asia
+Uzbekistan,1981,86.2,66.59,4.97,16375135,NA,Asia,Central Asia
+West Bank and Gaza,1981,56.2,66.48,7.2,1553094,NA,Asia,Western Asia
+Vietnam,1981,45.8,66.86,4.87,55627743,NA,Asia,South-Eastern Asia
+Yemen,1981,131.9,52.13,9.11,8369708,NA,Asia,Western Asia
+Armenia,1982,57.1,72.64,2.38,3192877,NA,Asia,Western Asia
+Azerbaijan,1982,84.9,65.73,3.09,6362289,NA,Asia,Western Asia
+Bahrain,1982,24,69.83,4.69,385950,3486534795,Asia,Western Asia
+Bangladesh,1982,127.8,54.15,6.06,85868228,21743716016,Asia,Southern Asia
+Bhutan,1982,125.6,53.96,6.46,434385,124563583.7,Asia,Southern Asia
+Brunei,1982,12.5,71.54,3.99,205061,4812779345,Asia,South-Eastern Asia
+Cambodia,1982,98.1,44.24,6.01,6945053,NA,Asia,South-Eastern Asia
+China,1982,44.6,65.28,2.62,1005328574,209967378043,Asia,Eastern Asia
+Cyprus,1982,16.3,75.38,2.42,691711,3677448289,Asia,Western Asia
+Georgia,1982,46.3,69.46,2.28,5151850,9099205811,Asia,Western Asia
+"Hong Kong, China",1982,NA,75.5,1.75,5228813,67674978167,Asia,Eastern Asia
+India,1982,108.4,55.86,4.52,730303461,176623357074,Asia,Southern Asia
+Indonesia,1982,80.8,60.12,4.17,154506266,64316489536,Asia,South-Eastern Asia
+Iran,1982,68.5,55.32,6.52,41862373,61345233936,Asia,Southern Asia
+Iraq,1982,51.6,57.41,6.41,14437661,NA,Asia,Western Asia
+Israel,1982,14,73.99,3.17,3883547,53373271440,Asia,Western Asia
+Japan,1982,6.5,77.08,1.75,117708919,2895391252300,Asia,Eastern Asia
+Jordan,1982,40.2,68.45,7.07,2462968,4737101896,Asia,Western Asia
+Kazakhstan,1982,54.7,66.84,2.97,15248458,NA,Asia,Central Asia
+South Korea,1982,10.5,67.21,2.24,38665964,145875767888,Asia,Eastern Asia
+Kuwait,1982,25.2,74.41,5.08,1518855,NA,Asia,Western Asia
+Kyrgyz Republic,1982,73.7,63.62,4.07,3775764,NA,Asia,Central Asia
+Lao,1982,130,47.45,6.35,3395113,NA,Asia,South-Eastern Asia
+Lebanon,1982,37.8,67.52,3.8,2632281,NA,Asia,Western Asia
+"Macao, China",1982,NA,73.17,1.88,260921,2616534930,Asia,Eastern Asia
+Malaysia,1982,22.4,69.53,3.73,14543585,29926902602,Asia,South-Eastern Asia
+Maldives,1982,97.3,58.64,7.21,169861,NA,Asia,Southern Asia
+Mongolia,1982,105.6,59,5.86,1777727,801658609.2,Asia,Eastern Asia
+Nepal,1982,132.1,51.81,5.68,15596012,2390629648,Asia,Southern Asia
+Oman,1982,66.6,65.65,8.35,1290007,6997108650,Asia,Western Asia
+Pakistan,1982,119.4,59.45,6.48,83427522,31412949298,Asia,Southern Asia
+Philippines,1982,52.3,64.74,4.98,50068493,55399648248,Asia,South-Eastern Asia
+Qatar,1982,27.2,72.75,5.5,277242,NA,Asia,Western Asia
+Saudi Arabia,1982,63.1,68.74,7.05,11247085,143073869143,Asia,Western Asia
+Singapore,1982,10.7,71.74,1.74,2520494,27095545197,Asia,South-Eastern Asia
+Sri Lanka,1982,34.1,69.64,3.22,15503320,7171570536,Asia,Southern Asia
+Syria,1982,42.7,67.08,6.84,9613517,10603308414,Asia,Western Asia
+Tajikistan,1982,100,64.8,5.56,4146923,NA,Asia,Central Asia
+Thailand,1982,43.4,65.91,3.02,49265597,41589706661,Asia,South-Eastern Asia
+Timor-Leste,1982,NA,46.61,5.13,593937,NA,Asia,South-Eastern Asia
+Turkey,1982,82.6,63.15,4.11,45997940,121671065035,Asia,Western Asia
+Turkmenistan,1982,90.3,62.57,4.84,3002785,NA,Asia,Central Asia
+United Arab Emirates,1982,24.2,67.79,5.27,1158477,60890558870,Asia,Western Asia
+Uzbekistan,1982,81.2,66.93,4.83,16810937,NA,Asia,Central Asia
+West Bank and Gaza,1982,53.3,67.21,7.08,1599960,NA,Asia,Western Asia
+Vietnam,1982,44.8,67.1,4.69,56931822,NA,Asia,South-Eastern Asia
+Yemen,1982,124.4,53.09,9.19,8698304,NA,Asia,Western Asia
+Armenia,1983,55.2,72.43,2.41,3239212,NA,Asia,Western Asia
+Azerbaijan,1983,83.1,65.92,3.03,6464775,NA,Asia,Western Asia
+Bahrain,1983,22.8,70.16,4.58,396447,3708849409,Asia,Western Asia
+Bangladesh,1983,124.6,54.57,5.89,88181211,22616962795,Asia,Southern Asia
+Bhutan,1983,121.1,54.87,6.41,444789,133702372.5,Asia,Southern Asia
+Brunei,1983,12.1,71.84,3.91,210933,4836913747,Asia,South-Eastern Asia
+Cambodia,1983,92.3,49.43,6.13,7196139,NA,Asia,South-Eastern Asia
+China,1983,43.4,65.49,2.56,1019698475,232853822250,Asia,Eastern Asia
+Cyprus,1983,14.8,75.58,2.44,694074,3882730110,Asia,Western Asia
+Georgia,1983,45.1,69.52,2.28,5194091,9490643363,Asia,Western Asia
+"Hong Kong, China",1983,NA,75.77,1.66,5291210,71712441202,Asia,Eastern Asia
+India,1983,105.7,56.19,4.44,747374856,189497244409,Asia,Southern Asia
+Indonesia,1983,78.5,60.64,4.03,158044343,69751173550,Asia,South-Eastern Asia
+Iran,1983,64.4,55.49,6.47,43610506,69079769937,Asia,Southern Asia
+Iraq,1983,50.1,57.68,6.34,14824876,NA,Asia,Western Asia
+Israel,1983,13.5,74.49,3.13,3950241,55247111456,Asia,Western Asia
+Japan,1983,6.2,77.11,1.74,118552097,2984011593641,Asia,Eastern Asia
+Jordan,1983,38.6,68.9,6.94,2568582,4831388756,Asia,Western Asia
+Kazakhstan,1983,53,67.28,2.99,15419452,NA,Asia,Central Asia
+South Korea,1983,9.8,67.78,2.11,39295418,161593723429,Asia,Eastern Asia
+Kuwait,1983,23,74.81,4.79,1586205,NA,Asia,Western Asia
+Kyrgyz Republic,1983,70.7,64.04,4.09,3853514,NA,Asia,Central Asia
+Lao,1983,127.7,47.76,6.36,3483492,NA,Asia,South-Eastern Asia
+Lebanon,1983,36.4,67.68,3.69,2651295,NA,Asia,Western Asia
+"Macao, China",1983,NA,73.46,1.97,271674,2878188423,Asia,Eastern Asia
+Malaysia,1983,21,69.84,3.7,14926976,31797409276,Asia,South-Eastern Asia
+Maldives,1983,92.9,59.64,7.25,176258,NA,Asia,Southern Asia
+Mongolia,1983,101.9,59.34,5.7,1823215,848427676.7,Asia,Eastern Asia
+Nepal,1983,128,52.57,5.63,15963746,2319450901,Asia,Southern Asia
+Oman,1983,60.7,66.59,8.34,1360921,8163293643,Asia,Western Asia
+Pakistan,1983,117.9,59.77,6.46,86264621,33542237848,Asia,Southern Asia
+Philippines,1983,51.7,65.13,4.88,51455037,56438179178,Asia,South-Eastern Asia
+Qatar,1983,26,73.01,5.33,309276,NA,Asia,Western Asia
+Saudi Arabia,1983,59.4,69.54,6.94,11962244,131318117490,Asia,Western Asia
+Singapore,1983,10,72.11,1.61,2583241,29416997888,Asia,South-Eastern Asia
+Sri Lanka,1983,31.2,69.83,3.12,15727670,7516808382,Asia,Southern Asia
+Syria,1983,40.8,67.58,6.7,9960833,10754848136,Asia,Western Asia
+Tajikistan,1983,99,65.07,5.53,4269775,NA,Asia,Central Asia
+Thailand,1983,41.6,66.69,2.86,50183106,43912159722,Asia,South-Eastern Asia
+Timor-Leste,1983,170.2,48.76,5.26,614379,NA,Asia,South-Eastern Asia
+Turkey,1983,78.8,63.82,3.98,47072603,127719432121,Asia,Western Asia
+Turkmenistan,1983,87.3,62.89,4.77,3075867,NA,Asia,Central Asia
+United Arab Emirates,1983,22.3,68.2,5.21,1218223,58000802115,Asia,Western Asia
+Uzbekistan,1983,76.7,67.27,4.71,17257774,NA,Asia,Central Asia
+West Bank and Gaza,1983,50.6,67.92,6.95,1650014,NA,Asia,Western Asia
+Vietnam,1983,43.9,67.3,4.52,58277391,NA,Asia,South-Eastern Asia
+Yemen,1983,117.6,54.02,9.22,9043210,NA,Asia,Western Asia
+Armenia,1984,53.3,72.1,2.44,3287588,NA,Asia,Western Asia
+Azerbaijan,1984,81.5,66.15,2.98,6568857,NA,Asia,Western Asia
+Bahrain,1984,21.9,70.46,4.47,407223,3894427038,Asia,Western Asia
+Bangladesh,1984,121.3,55,5.71,90559540,23788673522,Asia,Southern Asia
+Bhutan,1984,117,55.78,6.36,456135,143885322.5,Asia,Southern Asia
+Brunei,1984,11.6,72.12,3.84,216893,4865929264,Asia,South-Eastern Asia
+Cambodia,1984,89,53.22,6.2,7475011,NA,Asia,South-Eastern Asia
+China,1984,42.6,65.68,2.6,1035328572,268247603232,Asia,Eastern Asia
+Cyprus,1984,13.5,75.76,2.45,697717,4222775483,Asia,Western Asia
+Georgia,1984,44.1,69.62,2.28,5239352,10005693277,Asia,Western Asia
+"Hong Kong, China",1984,NA,76.03,1.57,5350467,78828223757,Asia,Eastern Asia
+India,1984,103.1,56.51,4.36,764664278,196737437362,Asia,Southern Asia
+Indonesia,1984,76.2,61.16,3.89,161555584,74753833727,Asia,South-Eastern Asia
+Iran,1984,60.8,56.19,6.37,45429019,67992647699,Asia,Southern Asia
+Iraq,1984,48.7,58.34,6.28,15204746,NA,Asia,Western Asia
+Israel,1984,12.8,74.78,3.11,4016229,55746409835,Asia,Western Asia
+Japan,1984,5.8,77.5,1.73,119318921,3117214857804,Asia,Eastern Asia
+Jordan,1984,37.1,69.33,6.77,2676515,5248851957,Asia,Western Asia
+Kazakhstan,1984,51.4,67.7,3.01,15596920,NA,Asia,Central Asia
+South Korea,1984,9.2,68.37,1.98,39912900,174686535302,Asia,Eastern Asia
+Kuwait,1984,21.1,75.22,4.46,1657920,NA,Asia,Western Asia
+Kyrgyz Republic,1984,67.5,64.45,4.1,3933002,NA,Asia,Central Asia
+Lao,1984,125.3,48.12,6.37,3579370,733070262.5,Asia,South-Eastern Asia
+Lebanon,1984,35,67.87,3.59,2667229,NA,Asia,Western Asia
+"Macao, China",1984,NA,73.75,2.02,283672,3122834439,Asia,Eastern Asia
+Malaysia,1984,19.7,70.14,3.68,15333369,34265500441,Asia,South-Eastern Asia
+Maldives,1984,88.8,60.6,7.24,182864,NA,Asia,Southern Asia
+Mongolia,1984,98.3,59.76,5.53,1871087,898768449.5,Asia,Eastern Asia
+Nepal,1984,123.9,53.36,5.57,16337117,2543999958,Asia,Southern Asia
+Oman,1984,55.3,67.48,8.3,1430926,9527510186,Asia,Western Asia
+Pakistan,1984,116.4,60.09,6.44,89183159,35241221159,Asia,Southern Asia
+Philippines,1984,50.9,65.53,4.8,52873979,52304826078,Asia,South-Eastern Asia
+Qatar,1984,24.8,73.27,5.13,341286,NA,Asia,Western Asia
+Saudi Arabia,1984,55.9,70.3,6.81,12674089,127262586722,Asia,Western Asia
+Singapore,1984,9.4,72.49,1.62,2646981,32013064064,Asia,South-Eastern Asia
+Sri Lanka,1984,28.2,69.93,3.01,15952350,7900102158,Asia,Southern Asia
+Syria,1984,39.1,68.05,6.53,10313485,10316938481,Asia,Western Asia
+Tajikistan,1984,97.3,65.34,5.51,4400743,NA,Asia,Central Asia
+Thailand,1984,40,67.52,2.71,51105438,46438174779,Asia,South-Eastern Asia
+Timor-Leste,1984,163.5,50.76,5.32,636670,NA,Asia,South-Eastern Asia
+Turkey,1984,75.1,64.49,3.84,48138191,136291980543,Asia,Western Asia
+Turkmenistan,1984,84.4,63.18,4.72,3151262,NA,Asia,Central Asia
+United Arab Emirates,1984,20.7,68.6,5.14,1280278,60330666087,Asia,Western Asia
+Uzbekistan,1984,72.5,67.59,4.62,17712992,NA,Asia,Central Asia
+West Bank and Gaza,1984,48.1,68.59,6.82,1702974,NA,Asia,Western Asia
+Vietnam,1984,43,67.51,4.36,59653092,11453473962,Asia,South-Eastern Asia
+Yemen,1984,111.5,54.89,9.22,9402070,NA,Asia,Western Asia
+Armenia,1985,51.4,71.7,2.48,3339147,NA,Asia,Western Asia
+Azerbaijan,1985,79.9,66.37,2.95,6674107,NA,Asia,Western Asia
+Bahrain,1985,21.1,70.73,4.36,419425,3709119796,Asia,Western Asia
+Bangladesh,1985,117.9,55.47,5.52,93015182,24555449226,Asia,Southern Asia
+Bhutan,1985,112.9,56.69,6.31,469010,150142926.5,Asia,Southern Asia
+Brunei,1985,11.2,72.41,3.79,223049,4793390472,Asia,South-Eastern Asia
+Cambodia,1985,87.5,55.5,6.21,7743065,NA,Asia,South-Eastern Asia
+China,1985,42.2,65.87,2.65,1052622410,304461029668,Asia,Eastern Asia
+Cyprus,1985,12.2,75.95,2.46,703693,4428954211,Asia,Western Asia
+Georgia,1985,43.2,69.75,2.27,5287328,10500140176,Asia,Western Asia
+"Hong Kong, China",1985,NA,76.28,1.5,5414790,79357655926,Asia,Eastern Asia
+India,1985,100.6,56.81,4.28,782085127,207074611006,Asia,Southern Asia
+Indonesia,1985,74,61.66,3.75,165012195,77353427295,Asia,South-Eastern Asia
+Iran,1985,57.6,57.39,6.22,47290793,69396785741,Asia,Southern Asia
+Iraq,1985,47.4,59.36,6.22,15576396,NA,Asia,Western Asia
+Israel,1985,12.1,75.1,3.09,4082781,57668447133,Asia,Western Asia
+Japan,1985,5.5,77.8,1.72,119988663,3314639199737,Asia,Eastern Asia
+Jordan,1985,35.7,69.75,6.58,2782885,5430272880,Asia,Western Asia
+Kazakhstan,1985,49.9,68.07,3.02,15780002,NA,Asia,Central Asia
+South Korea,1985,8.5,68.98,1.86,40501917,186569642627,Asia,Eastern Asia
+Kuwait,1985,19.7,75.59,4.09,1735320,NA,Asia,Western Asia
+Kyrgyz Republic,1985,64.4,64.86,4.09,4013498,NA,Asia,Central Asia
+Lao,1985,123,48.54,6.36,3680145,770236660.5,Asia,South-Eastern Asia
+Lebanon,1985,33.6,68.07,3.48,2676593,NA,Asia,Western Asia
+"Macao, China",1985,NA,74.03,2.04,296222,3144694280,Asia,Eastern Asia
+Malaysia,1985,18.6,70.45,3.66,15764340,33880956357,Asia,South-Eastern Asia
+Maldives,1985,84.9,61.51,7.18,189551,NA,Asia,Southern Asia
+Mongolia,1985,94.6,60.22,5.35,1921885,950113943,Asia,Eastern Asia
+Nepal,1985,119.7,54.17,5.51,16714335,2700326346,Asia,Southern Asia
+Oman,1985,50.4,68.35,8.22,1498416,10862047279,Asia,Western Asia
+Pakistan,1985,114.8,60.43,6.41,92165065,37916775092,Asia,Southern Asia
+Philippines,1985,49.8,65.95,4.71,54323651,48483117034,Asia,South-Eastern Asia
+Qatar,1985,23.7,73.51,4.93,371071,NA,Asia,Western Asia
+Saudi Arabia,1985,52.3,71.01,6.66,13361284,121759538480,Asia,Western Asia
+Singapore,1985,8.8,72.87,1.61,2708634,31804986630,Asia,South-Eastern Asia
+Sri Lanka,1985,25.2,69.97,2.9,16180776,8295059639,Asia,Southern Asia
+Syria,1985,37.4,68.51,6.36,10667245,10947826495,Asia,Western Asia
+Tajikistan,1985,94.9,65.55,5.49,4540688,2087356037,Asia,Central Asia
+Thailand,1985,38.3,68.36,2.57,52041468,48596267188,Asia,South-Eastern Asia
+Timor-Leste,1985,157,52.51,5.34,657018,NA,Asia,South-Eastern Asia
+Turkey,1985,71.5,65.15,3.7,49178079,142072580798,Asia,Western Asia
+Turkmenistan,1985,81.7,63.44,4.67,3229499,NA,Asia,Central Asia
+United Arab Emirates,1985,19.3,68.98,5.07,1350433,58162094454,Asia,Western Asia
+Uzbekistan,1985,68.8,67.85,4.54,18174143,NA,Asia,Central Asia
+West Bank and Gaza,1985,45.6,69.23,6.7,1758788,NA,Asia,Western Asia
+Vietnam,1985,42,67.77,4.21,61049370,11889376650,Asia,South-Eastern Asia
+Yemen,1985,106.2,55.69,9.19,9774242,NA,Asia,Western Asia
+Armenia,1986,49.6,71.24,2.52,3396511,NA,Asia,Western Asia
+Azerbaijan,1986,78.5,66.48,2.95,6779970,NA,Asia,Western Asia
+Bahrain,1986,20.5,70.98,4.25,433487,3752998517,Asia,Western Asia
+Bangladesh,1986,114.4,55.96,5.33,95550798,25598704785,Asia,Southern Asia
+Bhutan,1986,108.9,57.61,6.23,484151,162085319.8,Asia,Southern Asia
+Brunei,1986,10.7,72.69,3.76,229418,4663227406,Asia,South-Eastern Asia
+Cambodia,1986,86.6,56.49,6.16,7990133,NA,Asia,South-Eastern Asia
+China,1986,42,66.05,2.68,1071834975,331253600279,Asia,Eastern Asia
+Cyprus,1986,11.3,76.12,2.46,712340,4593000516,Asia,Western Asia
+Georgia,1986,42.5,69.86,2.27,5340061,9641724714,Asia,Western Asia
+"Hong Kong, China",1986,NA,76.53,1.44,5486965,88164639927,Asia,Eastern Asia
+India,1986,98.1,57.11,4.2,799607235,216965662681,Asia,Southern Asia
+Indonesia,1986,71.6,62.15,3.61,168402027,81967185137,Asia,South-Eastern Asia
+Iran,1986,54.7,59.01,6.02,49205577,63032547032,Asia,Southern Asia
+Iraq,1986,46.1,60.65,6.16,15937864,NA,Asia,Western Asia
+Israel,1986,11.5,74.92,3.07,4148764,60431592244,Asia,Western Asia
+Japan,1986,5.2,78.22,1.7,120551455,3408479175849,Asia,Eastern Asia
+Jordan,1986,34.3,70.15,6.37,2884065,5811160747,Asia,Western Asia
+Kazakhstan,1986,48.5,68.34,3.03,15972360,NA,Asia,Central Asia
+South Korea,1986,7.9,69.58,1.75,41059473,206381181576,Asia,Eastern Asia
+Kuwait,1986,18.5,75.95,3.7,1823201,NA,Asia,Western Asia
+Kyrgyz Republic,1986,61.4,65.23,4.07,4095873,1618704665,Asia,Central Asia
+Lao,1986,120.6,49.02,6.34,3785230,807863747.8,Asia,South-Eastern Asia
+Lebanon,1986,32.2,68.29,3.38,2677290,NA,Asia,Western Asia
+"Macao, China",1986,NA,74.31,2.02,309226,3355388797,Asia,Eastern Asia
+Malaysia,1986,17.5,70.73,3.63,16221767,34271437387,Asia,South-Eastern Asia
+Maldives,1986,81.2,62.41,7.06,196283,NA,Asia,Southern Asia
+Mongolia,1986,91,60.71,5.14,1976311,1039187073,Asia,Eastern Asia
+Nepal,1986,115.4,54.98,5.44,17091959,2823613810,Asia,Southern Asia
+Oman,1986,45.8,69.17,8.1,1561493,11079522789,Asia,Western Asia
+Pakistan,1986,113.1,60.77,6.37,95207133,40002824738,Asia,Southern Asia
+Philippines,1986,48.4,66.35,4.63,55803915,50139679840,Asia,South-Eastern Asia
+Qatar,1986,22.5,73.74,4.72,398326,NA,Asia,Western Asia
+Saudi Arabia,1986,48.8,71.66,6.5,14016569,127957463789,Asia,Western Asia
+Singapore,1986,8.4,73.27,1.43,2766755,32214412480,Asia,South-Eastern Asia
+Sri Lanka,1986,22.6,70,2.8,16413729,8656355060,Asia,Southern Asia
+Syria,1986,35.8,68.94,6.17,11020718,10406379515,Asia,Western Asia
+Tajikistan,1986,91.9,65.69,5.45,4690913,2160413499,Asia,Central Asia
+Thailand,1986,36.7,69.15,2.45,53002775,51285501317,Asia,South-Eastern Asia
+Timor-Leste,1986,155.9,53.99,5.31,674128,NA,Asia,South-Eastern Asia
+Turkey,1986,68.1,65.76,3.56,50187091,152034754423,Asia,Western Asia
+Turkmenistan,1986,79.2,63.63,4.62,3310059,NA,Asia,Central Asia
+United Arab Emirates,1986,18,69.34,4.97,1430548,49462128951,Asia,Western Asia
+Uzbekistan,1986,65.6,68.02,4.47,18640558,NA,Asia,Central Asia
+West Bank and Gaza,1986,43.3,69.82,6.6,1817336,NA,Asia,Western Asia
+Vietnam,1986,41,68.07,4.06,62459557,12221006031,Asia,South-Eastern Asia
+Yemen,1986,101.7,56.4,9.12,10153613,NA,Asia,Western Asia
+Armenia,1987,47.8,70.82,2.55,3457054,NA,Asia,Western Asia
+Azerbaijan,1987,77.3,66.46,2.95,6886428,NA,Asia,Western Asia
+Bahrain,1987,20.1,71.2,4.13,448994,4143273092,Asia,Western Asia
+Bangladesh,1987,110.8,56.46,5.13,98149262,26554115959,Asia,Southern Asia
+Bhutan,1987,104.9,58.54,6.13,500952,194873231.6,Asia,Southern Asia
+Brunei,1987,10.3,72.98,3.72,235980,4756917696,Asia,South-Eastern Asia
+Cambodia,1987,86,56.82,6.07,8228268,NA,Asia,South-Eastern Asia
+China,1987,42,66.23,2.68,1092646739,369679017911,Asia,Eastern Asia
+Cyprus,1987,10.7,76.3,2.45,723380,4917507414,Asia,Western Asia
+Georgia,1987,41.9,69.94,2.26,5394998,9765335802,Asia,Western Asia
+"Hong Kong, China",1987,NA,76.78,1.39,5564596,99988432056,Asia,Eastern Asia
+India,1987,95.6,57.39,4.13,817232241,225569122810,Asia,Southern Asia
+Indonesia,1987,69.3,62.63,3.47,171728916,86311448524,Asia,South-Eastern Asia
+Iran,1987,51.9,60.83,5.76,51152122,62147762741,Asia,Southern Asia
+Iraq,1987,45.1,62.05,6.11,16293719,NA,Asia,Western Asia
+Israel,1987,11,75.29,3.06,4215756,64775226074,Asia,Western Asia
+Japan,1987,5,78.63,1.67,121021830,3548479971982,Asia,Eastern Asia
+Jordan,1987,33.1,70.52,6.16,2982349,5979428781,Asia,Western Asia
+Kazakhstan,1987,47.1,68.48,3.02,16167926,NA,Asia,Central Asia
+South Korea,1987,7.4,70.18,1.67,41588374,229298003709,Asia,Eastern Asia
+Kuwait,1987,17.6,76.29,3.31,1917950,NA,Asia,Western Asia
+Kyrgyz Republic,1987,58.7,65.54,4.04,4179484,1672121410,Asia,Central Asia
+Lao,1987,118.4,49.56,6.31,3895066,796345288,Asia,South-Eastern Asia
+Lebanon,1987,30.8,68.53,3.28,2672182,NA,Asia,Western Asia
+"Macao, China",1987,NA,74.58,1.97,322655,3835209395,Asia,Eastern Asia
+Malaysia,1987,16.6,71.01,3.6,16703500,36118203573,Asia,South-Eastern Asia
+Maldives,1987,77.7,63.3,6.89,203059,NA,Asia,Southern Asia
+Mongolia,1987,87.3,61.18,4.91,2033345,1075128901,Asia,Eastern Asia
+Nepal,1987,111.1,55.83,5.38,17472138,2871491521,Asia,Southern Asia
+Oman,1987,41.8,69.95,7.93,1620573,10698300397,Asia,Western Asia
+Pakistan,1987,111.4,61.11,6.31,98301647,42583944209,Asia,Southern Asia
+Philippines,1987,46.7,66.72,4.55,57312794,52301519734,Asia,South-Eastern Asia
+Qatar,1987,21.3,73.94,4.52,423327,NA,Asia,Western Asia
+Saudi Arabia,1987,45.2,72.28,6.33,14642354,122859910090,Asia,Western Asia
+Singapore,1987,7.9,73.68,1.62,2822828,35684612707,Asia,South-Eastern Asia
+Sri Lanka,1987,20.5,70.05,2.7,16648992,8805730046,Asia,Southern Asia
+Syria,1987,34.3,69.35,5.96,11374772,10604886044,Asia,Western Asia
+Tajikistan,1987,88.6,65.73,5.41,4849253,2134488537,Asia,Central Asia
+Thailand,1987,35.1,69.84,2.35,53979503,56167342577,Asia,South-Eastern Asia
+Timor-Leste,1987,149.6,55.26,5.27,689170,NA,Asia,South-Eastern Asia
+Turkey,1987,64.8,66.37,3.43,51168841,166456070031,Asia,Western Asia
+Turkmenistan,1987,76.9,63.77,4.57,3392823,3568056336,Asia,Central Asia
+United Arab Emirates,1987,16.9,69.68,4.86,1518991,51134929100,Asia,Western Asia
+Uzbekistan,1987,63,68.09,4.41,19111312,12285308446,Asia,Central Asia
+West Bank and Gaza,1987,41.1,70.38,6.54,1879218,NA,Asia,Western Asia
+Vietnam,1987,40,68.38,3.93,63881296,12658942071,Asia,South-Eastern Asia
+Yemen,1987,97.7,57.04,9.03,10542601,NA,Asia,Western Asia
+Armenia,1988,49.9,70.46,2.57,3510439,NA,Asia,Western Asia
+Azerbaijan,1988,76.3,66.28,2.96,6994139,NA,Asia,Western Asia
+Bahrain,1988,19.8,71.41,4,465235,4433301953,Asia,Western Asia
+Bangladesh,1988,107.1,56.94,4.93,100779551,27127473044,Asia,Southern Asia
+Bhutan,1988,101,59.48,5.99,517068,224258402.5,Asia,Southern Asia
+Brunei,1988,10,73.26,3.67,242750,4809118509,Asia,South-Eastern Asia
+Cambodia,1988,85.6,56.99,5.94,8467109,NA,Asia,South-Eastern Asia
+China,1988,42.2,66.39,2.63,1114162025,411452746935,Asia,Eastern Asia
+Cyprus,1988,10.3,76.47,2.44,736477,5342713390,Asia,Western Asia
+Georgia,1988,41.5,69.96,2.24,5441772,10307854705,Asia,Western Asia
+"Hong Kong, China",1988,NA,77.02,1.35,5644652,108432137014,Asia,Eastern Asia
+India,1988,93.1,57.65,4.04,834944397,247286428288,Asia,Southern Asia
+Indonesia,1988,67,63.1,3.35,175000919,91797126913,Asia,South-Eastern Asia
+Iran,1988,49.3,62.67,5.47,53035939,58232934198,Asia,Southern Asia
+Iraq,1988,44,63.41,6.04,16657708,NA,Asia,Western Asia
+Israel,1988,10.4,75.65,3.04,4290860,66086368112,Asia,Western Asia
+Japan,1988,4.8,78.54,1.64,121432942,3802078966845,Asia,Eastern Asia
+Jordan,1988,32,70.87,5.94,3086664,5868683685,Asia,Western Asia
+Kazakhstan,1988,46,68.47,2.98,16344308,NA,Asia,Central Asia
+South Korea,1988,6.9,70.75,1.63,42085050,253698105754,Asia,Eastern Asia
+Kuwait,1988,16.8,76.62,2.94,2002645,NA,Asia,Western Asia
+Kyrgyz Republic,1988,56.5,65.77,3.99,4260325,1892841940,Asia,Central Asia
+Lao,1988,116.1,50.16,6.27,4009121,780337146.7,Asia,South-Eastern Asia
+Lebanon,1988,29.4,68.78,3.18,2668593,12416994225,Asia,Western Asia
+"Macao, China",1988,NA,74.84,1.89,335952,4134355727,Asia,Eastern Asia
+Malaysia,1988,15.7,71.28,3.58,17202032,39707531041,Asia,South-Eastern Asia
+Maldives,1988,74.4,64.19,6.66,209832,NA,Asia,Southern Asia
+Mongolia,1988,83.7,61.61,4.64,2089716,1130046187,Asia,Eastern Asia
+Nepal,1988,106.7,56.68,5.31,17865238,3092504730,Asia,Southern Asia
+Oman,1988,38.2,70.7,7.72,1679089,11336349949,Asia,Western Asia
+Pakistan,1988,109.6,61.45,6.23,101420791,45831088671,Asia,Southern Asia
+Philippines,1988,44.8,67.05,4.48,58844392,55833203120,Asia,South-Eastern Asia
+Qatar,1988,20.1,74.14,4.33,445203,NA,Asia,Western Asia
+Saudi Arabia,1988,41.8,72.85,6.17,15239174,132963919014,Asia,Western Asia
+Singapore,1988,7.4,74.1,1.96,2880188,39636111642,Asia,South-Eastern Asia
+Sri Lanka,1988,19.2,70.16,2.62,16883250,9023468716,Asia,Southern Asia
+Syria,1988,33,69.75,5.75,11730217,12011760884,Asia,Western Asia
+Tajikistan,1988,86,65.67,5.35,5008827,2431182443,Asia,Central Asia
+Thailand,1988,33.5,70.38,2.26,54933561,63630922388,Asia,South-Eastern Asia
+Timor-Leste,1988,143.5,56.41,5.26,703696,NA,Asia,South-Eastern Asia
+Turkey,1988,61.6,66.96,3.3,52126497,170319077301,Asia,Western Asia
+Turkmenistan,1988,75,63.85,4.51,3479088,3961385381,Asia,Central Asia
+United Arab Emirates,1988,15.9,70,4.72,1613904,49795752494,Asia,Western Asia
+Uzbekistan,1988,61,68.06,4.35,19583186,13408011466,Asia,Central Asia
+West Bank and Gaza,1988,39.1,70.88,6.51,1945947,NA,Asia,Western Asia
+Vietnam,1988,38.9,68.68,3.81,65313709,13308980224,Asia,South-Eastern Asia
+Yemen,1988,94.3,57.6,8.93,10958983,NA,Asia,Western Asia
+Armenia,1989,44.3,70.22,2.57,3542720,NA,Asia,Western Asia
+Azerbaijan,1989,75.7,65.98,2.97,7104058,NA,Asia,Western Asia
+Bahrain,1989,19.7,71.61,3.87,481126,4449439409,Asia,Western Asia
+Bangladesh,1989,103.4,57.42,4.74,103400571,27836138078,Asia,Southern Asia
+Bhutan,1989,97.1,60.44,5.83,529284,238148537.9,Asia,Southern Asia
+Brunei,1989,9.7,73.54,3.61,249738,4757460042,Asia,South-Eastern Asia
+Cambodia,1989,85.5,57.22,5.79,8723550,NA,Asia,South-Eastern Asia
+China,1989,42.2,66.56,2.55,1135128009,428322309560,Asia,Eastern Asia
+Cyprus,1989,10,76.64,2.43,751047,5767321557,Asia,Western Asia
+Georgia,1989,41.1,69.95,2.22,5466610,9566183720,Asia,Western Asia
+"Hong Kong, China",1989,NA,77.27,1.32,5722161,110841646786,Asia,Eastern Asia
+India,1989,90.7,57.93,3.96,852736160,261993401183,Asia,Southern Asia
+Indonesia,1989,64.6,63.55,3.23,178233231,100136633662,Asia,South-Eastern Asia
+Iran,1989,46.9,64.43,5.15,54735239,61830541299,Asia,Southern Asia
+Iraq,1989,43.1,64.65,5.97,17048167,NA,Asia,Western Asia
+Israel,1989,10.1,76.24,3.02,4383341,66660749912,Asia,Western Asia
+Japan,1989,4.7,78.97,1.61,121831143,4006256406255,Asia,Eastern Asia
+Jordan,1989,30.9,71.2,5.73,3209466,5079221679,Asia,Western Asia
+Kazakhstan,1989,45.2,68.31,2.92,16471843,NA,Asia,Central Asia
+South Korea,1989,6.5,71.29,1.61,42546704,270808733195,Asia,Eastern Asia
+Kuwait,1989,16.1,76.92,2.62,2054443,NA,Asia,Western Asia
+Kyrgyz Republic,1989,54.9,65.93,3.93,4333114,1945647515,Asia,Central Asia
+Lao,1989,113.6,50.8,6.22,4126935,891071955.6,Asia,South-Eastern Asia
+Lebanon,1989,28.2,69.03,3.09,2676615,7145841328,Asia,Western Asia
+"Macao, China",1989,NA,75.1,1.8,348467,4341073514,Asia,Eastern Asia
+Malaysia,1989,15,71.54,3.55,17707064,43304430213,Asia,South-Eastern Asia
+Maldives,1989,71.2,65.08,6.4,216553,NA,Asia,Southern Asia
+Mongolia,1989,80.3,61.98,4.36,2141006,1177261729,Asia,Eastern Asia
+Nepal,1989,102.3,57.53,5.24,18285434,3226399299,Asia,Southern Asia
+Oman,1989,35,71.41,7.46,1741965,12669148915,Asia,Western Asia
+Pakistan,1989,107.8,61.78,6.14,104530689,48104204750,Asia,Southern Asia
+Philippines,1989,42.8,67.34,4.4,60391168,59297827079,Asia,South-Eastern Asia
+Qatar,1989,18.9,74.32,4.16,463062,NA,Asia,Western Asia
+Saudi Arabia,1989,38.5,73.39,6,15810980,133046978813,Asia,Western Asia
+Singapore,1989,6.7,74.51,1.75,2943633,43690170069,Asia,South-Eastern Asia
+Sri Lanka,1989,18.4,70.32,2.54,17111785,9230944961,Asia,Southern Asia
+Syria,1989,31.6,70.14,5.53,12088714,10935721637,Asia,Western Asia
+Tajikistan,1989,84.8,65.5,5.27,5160375,2273155584,Asia,Central Asia
+Thailand,1989,31.9,70.76,2.18,55812794,71387853266,Asia,South-Eastern Asia
+Timor-Leste,1989,137.6,57.47,5.27,720198,NA,Asia,South-Eastern Asia
+Turkey,1989,58.6,67.53,3.18,53066569,170813418317,Asia,Western Asia
+Turkmenistan,1989,73.5,63.89,4.44,3570558,3792815790,Asia,Central Asia
+United Arab Emirates,1989,15,70.31,4.57,1712117,55939498315,Asia,Western Asia
+Uzbekistan,1989,59.5,67.96,4.27,20052259,13822492517,Asia,Central Asia
+West Bank and Gaza,1989,37.2,71.36,6.51,2019486,NA,Asia,Western Asia
+Vietnam,1989,37.7,69,3.68,66757401,14289121788,Asia,South-Eastern Asia
+Yemen,1989,91.2,58.08,8.81,11426912,NA,Asia,Western Asia
+Armenia,1990,42.5,70.1,2.54,3544695,2819375629,Asia,Western Asia
+Azerbaijan,1990,75.5,65.6,2.97,7216503,8954048116,Asia,Western Asia
+Bahrain,1990,19.5,71.8,3.74,495944,4646905411,Asia,Western Asia
+Bangladesh,1990,99.7,57.9,4.55,105983136,29489968538,Asia,Southern Asia
+Bhutan,1990,93.3,61.4,5.64,535505,259814622.2,Asia,Southern Asia
+Brunei,1990,9.4,73.8,3.53,256939,4809288783,Asia,South-Eastern Asia
+Cambodia,1990,85.4,57.6,5.62,9008856,NA,Asia,South-Eastern Asia
+China,1990,42.1,66.7,2.43,1154605773,444598557323,Asia,Eastern Asia
+Cyprus,1990,9.9,76.8,2.41,766611,6194334045,Asia,Western Asia
+Georgia,1990,40.8,69.9,2.18,5460309,8151514860,Asia,Western Asia
+"Hong Kong, China",1990,NA,77.52,1.3,5794034,115162785888,Asia,Eastern Asia
+India,1990,88.3,58.2,3.88,870601776,276490686996,Asia,Southern Asia
+Indonesia,1990,62.2,64,3.12,181436821,109150506063,Asia,South-Eastern Asia
+Iran,1990,44.6,66,4.82,56169196,70293760715,Asia,Southern Asia
+Iraq,1990,42.3,65.7,5.88,17478455,NA,Asia,Western Asia
+Israel,1990,9.7,76.7,3,4499161,71217325346,Asia,Western Asia
+Japan,1990,4.6,79,1.57,122249285,4229500970111,Asia,Eastern Asia
+Jordan,1990,30,71.5,5.54,3358453,5128680653,Asia,Western Asia
+Kazakhstan,1990,44.7,68,2.84,16530027,26348276737,Asia,Central Asia
+South Korea,1990,6.1,71.8,1.61,42972254,295601777215,Asia,Eastern Asia
+Kuwait,1990,15.3,77.2,2.36,2058832,NA,Asia,Western Asia
+Kyrgyz Republic,1990,54.1,66,3.86,4394502,2056603836,Asia,Central Asia
+Lao,1990,111.1,51.5,6.15,4247839,950814576.1,Asia,South-Eastern Asia
+Lebanon,1990,26.9,69.3,3,2703019,9041858848,Asia,Western Asia
+"Macao, China",1990,NA,75.36,1.69,359735,4688359395,Asia,Eastern Asia
+Malaysia,1990,14.3,71.8,3.52,18211097,47206007492,Asia,South-Eastern Asia
+Maldives,1990,68.2,66,6.1,223179,NA,Asia,Southern Asia
+Mongolia,1990,76.9,62.3,4.05,2184145,1139772298,Asia,Eastern Asia
+Nepal,1990,97.7,58.4,5.17,18741688,3375944079,Asia,Southern Asia
+Oman,1990,32,72.1,7.16,1812159,12652625161,Asia,Western Asia
+Pakistan,1990,106.1,62.1,6.02,107607639,50248972481,Asia,Southern Asia
+Philippines,1990,40.8,67.6,4.32,61947340,61098682100,Asia,South-Eastern Asia
+Qatar,1990,17.8,74.5,4.02,476478,NA,Asia,Western Asia
+Saudi Arabia,1990,35.5,73.9,5.84,16361453,144127803750,Asia,Western Asia
+Singapore,1990,6.2,74.9,1.83,3016400,48105739109,Asia,South-Eastern Asia
+Sri Lanka,1990,18.1,70.5,2.48,17330817,9821725438,Asia,Southern Asia
+Syria,1990,30.4,70.5,5.31,12451539,11771295229,Asia,Western Asia
+Tajikistan,1990,85,65.3,5.18,5297286,2259516651,Asia,Central Asia
+Thailand,1990,30.3,71,2.11,56582824,79359850156,Asia,South-Eastern Asia
+Timor-Leste,1990,132,58.5,5.34,740231,NA,Asia,South-Eastern Asia
+Turkey,1990,55.8,68.1,3.08,53994605,186641240190,Asia,Western Asia
+Turkmenistan,1990,72.5,63.9,4.35,3668000,3820910722,Asia,Central Asia
+United Arab Emirates,1990,14.1,70.6,4.39,1811458,66192081450,Asia,Western Asia
+Uzbekistan,1990,58.8,67.8,4.18,20515248,14043652397,Asia,Central Asia
+West Bank and Gaza,1990,35.6,71.8,6.53,2101156,NA,Asia,Western Asia
+Vietnam,1990,36.6,69.3,3.56,68209604,15017998194,Asia,South-Eastern Asia
+Yemen,1990,88.7,58.5,8.67,11961099,5553970146,Asia,Western Asia
+Armenia,1991,40.6,69.7,2.48,3511912,2489508723,Asia,Western Asia
+Azerbaijan,1991,75.7,65.3,2.94,7332519,8891369779,Asia,Western Asia
+Bahrain,1991,19.3,72,3.6,509654,5168752875,Asia,Western Asia
+Bangladesh,1991,95.8,56.4,4.37,108509679,30474743435,Asia,Southern Asia
+Bhutan,1991,89.6,61.9,5.43,534678,272535249.1,Asia,Southern Asia
+Brunei,1991,9.2,73.8,3.44,264365,4960586183,Asia,South-Eastern Asia
+Cambodia,1991,85.5,57.9,5.44,9323607,NA,Asia,South-Eastern Asia
+China,1991,41.8,67,2.28,1172327831,485501624597,Asia,Eastern Asia
+Cyprus,1991,9.7,76.4,2.38,783138,6240141145,Asia,Western Asia
+Georgia,1991,40.4,69.9,2.13,5418449,6431545205,Asia,Western Asia
+"Hong Kong, China",1991,NA,77.77,1.26,5857335,121720768667,Asia,Eastern Asia
+India,1991,86.1,58.5,3.79,888513869,279412727485,Asia,Southern Asia
+Indonesia,1991,59.8,64.5,3.02,184614740,118895240736,Asia,South-Eastern Asia
+Iran,1991,42.6,67.8,4.48,57288039,79146807858,Asia,Southern Asia
+Iraq,1991,41.6,63.9,5.79,17952909,NA,Asia,Western Asia
+Israel,1991,9.2,76.5,2.97,4641600,76700617160,Asia,Western Asia
+Japan,1991,4.5,79.1,1.54,122702527,4370103995432,Asia,Eastern Asia
+Jordan,1991,29.1,71.9,5.35,3538663,5222222628,Asia,Western Asia
+Kazakhstan,1991,44.5,67.6,2.73,16514269,23449966296,Asia,Central Asia
+South Korea,1991,5.8,72.2,1.63,43358716,323368202011,Asia,Eastern Asia
+Kuwait,1991,15.3,64.4,2.2,2007110,NA,Asia,Western Asia
+Kyrgyz Republic,1991,53.8,65.9,3.77,4441780,1895138516,Asia,Central Asia
+Lao,1991,108.6,52,6.06,4371549,991666929.4,Asia,South-Eastern Asia
+Lebanon,1991,25.8,71.9,2.92,2752473,12495913043,Asia,Western Asia
+"Macao, China",1991,NA,75.61,1.59,369484,4861828692,Asia,Eastern Asia
+Malaysia,1991,13.6,72,3.49,18709835,51712040356,Asia,South-Eastern Asia
+Maldives,1991,65.3,66.7,5.78,229686,NA,Asia,Southern Asia
+Mongolia,1991,73.8,62.3,3.75,2217920,1040685684,Asia,Eastern Asia
+Nepal,1991,93.2,59.1,5.09,19237322,3590929275,Asia,Southern Asia
+Oman,1991,29.3,72.5,6.83,1892345,13421155507,Asia,Western Asia
+Pakistan,1991,104.3,62.2,5.9,110634399,52792358269,Asia,Southern Asia
+Philippines,1991,39,67.9,4.25,63509940,60745327250,Asia,South-Eastern Asia
+Qatar,1991,16.7,74.4,3.89,485114,NA,Asia,Western Asia
+Saudi Arabia,1991,32.8,74.3,5.69,16890555,157248891087,Asia,Western Asia
+Singapore,1991,5.5,75.6,1.73,3100091,51225740433,Asia,South-Eastern Asia
+Sri Lanka,1991,18.1,71.3,2.43,17540762,10273524808,Asia,Southern Asia
+Syria,1991,29.2,71,5.11,12817578,12701377130,Asia,Western Asia
+Tajikistan,1991,86.9,65.3,5.07,5417554,2099090969,Asia,Central Asia
+Thailand,1991,28.8,71,2.06,57225972,86151673510,Asia,South-Eastern Asia
+Timor-Leste,1991,126.8,59.2,5.47,764884,NA,Asia,South-Eastern Asia
+Turkey,1991,53.1,68.5,2.99,54909508,187985577937,Asia,Western Asia
+Turkmenistan,1991,72,63.5,4.22,3772350,3641327918,Asia,Central Asia
+United Arab Emirates,1991,13.4,70.8,4.19,1913190,66761387589,Asia,Western Asia
+Uzbekistan,1991,58.5,67.6,4.06,20970307,13974557627,Asia,Central Asia
+West Bank and Gaza,1991,34.1,72,6.55,2190716,NA,Asia,Western Asia
+Vietnam,1991,35.4,69.6,3.42,69670620,15913197628,Asia,South-Eastern Asia
+Yemen,1991,86.4,58.9,8.5,12571240,5903508918,Asia,Western Asia
+Armenia,1992,38.8,68.8,2.4,3449497,1448894008,Asia,Western Asia
+Azerbaijan,1992,76,63.7,2.88,7450920,6881920209,Asia,Western Asia
+Bahrain,1992,18.7,72.1,3.47,522748,5514542261,Asia,Western Asia
+Bangladesh,1992,92.1,59.7,4.2,110987459,32010406325,Asia,Southern Asia
+Bhutan,1992,85.9,62.4,5.22,528085,278212050.4,Asia,Southern Asia
+Brunei,1992,9,74,3.32,271989,5196639649,Asia,South-Eastern Asia
+Cambodia,1992,85.7,58.2,5.24,9659238,NA,Asia,South-Eastern Asia
+China,1992,41.2,67.2,2.11,1188450231,554442855290,Asia,Eastern Asia
+Cyprus,1992,9.3,76.7,2.34,800660,6826714413,Asia,Western Asia
+Georgia,1992,40,69.4,2.08,5345624,3543781426,Asia,Western Asia
+"Hong Kong, China",1992,NA,78.01,1.22,5914576,129137305745,Asia,Eastern Asia
+India,1992,83.9,58.8,3.71,906461358,294731239741,Asia,Southern Asia
+Indonesia,1992,57.4,64.9,2.93,187762097,127480073500,Asia,South-Eastern Asia
+Iran,1992,40.8,68.5,4.14,58130099,82511394661,Asia,Southern Asia
+Iraq,1992,40.8,65.4,5.7,18468521,NA,Asia,Western Asia
+Israel,1992,8.7,76.3,2.95,4806983,81017170729,Asia,Western Asia
+Japan,1992,4.4,79.3,1.5,123180357,4405896452016,Asia,Eastern Asia
+Jordan,1992,28.3,72.2,5.17,3743944,6196942169,Asia,Western Asia
+Kazakhstan,1992,44.7,67.1,2.61,16433379,22207118082,Asia,Central Asia
+South Korea,1992,5.5,72.7,1.65,43708170,342368324538,Asia,Eastern Asia
+Kuwait,1992,14,80,2.14,1909096,22530088649,Asia,Western Asia
+Kyrgyz Republic,1992,53.6,65.6,3.66,4477038,1631928246,Asia,Central Asia
+Lao,1992,105.9,52.4,5.93,4496971,1046802200,Asia,South-Eastern Asia
+Lebanon,1992,24.7,72.2,2.84,2821868,13058221252,Asia,Western Asia
+"Macao, China",1992,NA,75.86,1.49,377799,5508451908,Asia,Eastern Asia
+Malaysia,1992,13,72.2,3.45,19204700,56306715078,Asia,South-Eastern Asia
+Maldives,1992,62.5,67.3,5.46,236053,NA,Asia,Southern Asia
+Mongolia,1992,70.7,62.2,3.45,2243506,944354970.2,Asia,Eastern Asia
+Nepal,1992,88.9,60,5,19765570,3738387432,Asia,Southern Asia
+Oman,1992,26.8,72.9,6.47,1979914,14550395886,Asia,Western Asia
+Pakistan,1992,102.5,62.1,5.77,113616165,56860483455,Asia,Southern Asia
+Philippines,1992,37.3,68.2,4.18,65078901,60950405317,Asia,South-Eastern Asia
+Qatar,1992,15.6,74.5,3.8,489668,NA,Asia,Western Asia
+Saudi Arabia,1992,30.3,74.6,5.52,17398523,164527237655,Asia,Western Asia
+Singapore,1992,5,76,1.72,3193042,54827446525,Asia,South-Eastern Asia
+Sri Lanka,1992,18.2,72,2.39,17741793,10725559900,Asia,Southern Asia
+Syria,1992,28,71.8,4.93,13186187,14412295022,Asia,Western Asia
+Tajikistan,1992,90.1,62.6,4.95,5523207,1490354588,Asia,Central Asia
+Thailand,1992,27.3,70.9,2,57761574,93115648058,Asia,South-Eastern Asia
+Timor-Leste,1992,121.7,59.9,5.65,792846,NA,Asia,South-Eastern Asia
+Turkey,1992,50.5,69.2,2.91,55811134,197451845376,Asia,Western Asia
+Turkmenistan,1992,71.9,63.5,4.07,3881973,3448337538,Asia,Central Asia
+United Arab Emirates,1992,12.8,71.1,3.99,2019014,68994519208,Asia,Western Asia
+Uzbekistan,1992,58.4,67.3,3.93,21416399,12409407173,Asia,Central Asia
+West Bank and Gaza,1992,32.7,72.4,6.54,2287375,NA,Asia,Western Asia
+Vietnam,1992,34.3,69.8,3.26,71129537,17289060247,Asia,South-Eastern Asia
+Yemen,1992,84.4,59.3,8.31,13245003,6388045205,Asia,Western Asia
+Armenia,1993,37,68.3,2.3,3369673,1321391353,Asia,Western Asia
+Azerbaijan,1993,76.2,64,2.8,7567156,5292196641,Asia,Western Asia
+Bahrain,1993,17.9,72.5,3.34,535692,6224264259,Asia,Western Asia
+Bangladesh,1993,88.3,60.5,4.03,113442354,33474682526,Asia,Southern Asia
+Bhutan,1993,82.4,62.8,5,518847,287093618.7,Asia,Southern Asia
+Brunei,1993,8.8,74.2,3.2,279717,5212467261,Asia,South-Eastern Asia
+Cambodia,1993,86.2,58.1,5.03,10007092,2211084362,Asia,South-Eastern Asia
+China,1993,40.2,67.5,1.95,1202982955,632064855030,Asia,Eastern Asia
+Cyprus,1993,8.9,76.8,2.28,818814,6874501414,Asia,Western Asia
+Georgia,1993,39.5,69.2,2.01,5252850,2505453416,Asia,Western Asia
+"Hong Kong, China",1993,NA,78.25,1.17,5974379,136941292226,Asia,Eastern Asia
+India,1993,81.7,59.1,3.63,924475633,308733261390,Asia,Southern Asia
+Indonesia,1993,55.1,65.3,2.84,190873248,136727574167,Asia,South-Eastern Asia
+Iran,1993,39.2,69.1,3.81,58811858,81211188534,Asia,Southern Asia
+Iraq,1993,40.2,65.4,5.61,19021967,NA,Asia,Western Asia
+Israel,1993,8.2,76.9,2.94,4985652,85519191328,Asia,Western Asia
+Japan,1993,4.3,79.4,1.47,123658854,4413433298311,Asia,Eastern Asia
+Jordan,1993,27.5,72.2,5,3957221,6483917244,Asia,Western Asia
+Kazakhstan,1993,44.9,65.3,2.48,16297681,20164063219,Asia,Central Asia
+South Korea,1993,5.2,73.1,1.66,44031222,363368459962,Asia,Eastern Asia
+Kuwait,1993,13.5,78.7,2.18,1791511,30188171187,Asia,Western Asia
+Kyrgyz Republic,1993,53.3,65.3,3.55,4507565,1379643162,Asia,Central Asia
+Lao,1993,103.1,52.8,5.78,4621685,1108694972,Asia,South-Eastern Asia
+Lebanon,1993,23.7,72.5,2.77,2900862,13972031151,Asia,Western Asia
+"Macao, China",1993,NA,76.1,1.39,385041,5794891408,Asia,Eastern Asia
+Malaysia,1993,12.4,72.4,3.42,19700762,61878234603,Asia,South-Eastern Asia
+Maldives,1993,59.5,67.9,5.15,242252,NA,Asia,Southern Asia
+Mongolia,1993,67.8,62,3.18,2263204,914430329.7,Asia,Eastern Asia
+Nepal,1993,84.7,60.2,4.91,20312687,3882309741,Asia,Southern Asia
+Oman,1993,24.5,73.3,6.1,2066264,15429670541,Asia,Western Asia
+Pakistan,1993,100.7,62,5.63,116579605,57859947294,Asia,Southern Asia
+Philippines,1993,35.9,68.3,4.11,66654954,62240303121,Asia,South-Eastern Asia
+Qatar,1993,14.7,74.5,3.72,492120,NA,Asia,Western Asia
+Saudi Arabia,1993,28.2,74.9,5.35,17890529,164570123593,Asia,Western Asia
+Singapore,1993,4.6,76.2,1.74,3291280,61121397323,Asia,South-Eastern Asia
+Sri Lanka,1993,18,72.9,2.35,17929772,11465623533,Asia,Southern Asia
+Syria,1993,26.8,72,4.76,13559642,15158705922,Asia,Western Asia
+Tajikistan,1993,93,64.2,4.83,5616797,1245936435,Asia,Central Asia
+Thailand,1993,26,70.8,1.96,58237672,100798662359,Asia,South-Eastern Asia
+Timor-Leste,1993,116.7,60.6,5.87,820471,NA,Asia,South-Eastern Asia
+Turkey,1993,48,69.7,2.84,56707454,212559409689,Asia,Western Asia
+Turkmenistan,1993,71.9,63.5,3.9,3991917,3103503785,Asia,Central Asia
+United Arab Emirates,1993,12.2,71.3,3.78,2127863,69864671839,Asia,Western Asia
+Uzbekistan,1993,58.1,67,3.78,21852080,12123990808,Asia,Central Asia
+West Bank and Gaza,1993,31.5,72.8,6.49,2391070,NA,Asia,Western Asia
+Vietnam,1993,33.1,70.1,3.07,72558986,18684759514,Asia,South-Eastern Asia
+Yemen,1993,82.7,59.6,8.09,13948118,6643692625,Asia,Western Asia
+Armenia,1994,35.3,68.6,2.18,3289943,1392746523,Asia,Western Asia
+Azerbaijan,1994,76.1,63.5,2.69,7675128,4249633903,Asia,Western Asia
+Bahrain,1994,16.8,72.9,3.21,549151,6208703536,Asia,Western Asia
+Bangladesh,1994,84.6,61.2,3.88,115913710,34842024065,Asia,Southern Asia
+Bhutan,1994,78.8,63.1,4.8,511382,297172075,Asia,Southern Asia
+Brunei,1994,8.5,74.4,3.06,287423,5376420034,Asia,South-Eastern Asia
+Cambodia,1994,86.9,58,4.83,10355253,2412281198,Asia,South-Eastern Asia
+China,1994,39,67.9,1.81,1216067023,714865351039,Asia,Eastern Asia
+Cyprus,1994,8.4,76.4,2.21,837166,7280096997,Asia,Western Asia
+Georgia,1994,38.9,70.2,1.95,5156079,2244886381,Asia,Western Asia
+"Hong Kong, China",1994,NA,78.48,1.11,6048585,145176003184,Asia,Eastern Asia
+India,1994,79.6,59.5,3.55,942604211,329291574837,Asia,Southern Asia
+Indonesia,1994,52.9,65.7,2.76,193939912,147036924428,Asia,South-Eastern Asia
+Iran,1994,37.7,69.6,3.49,59501292,80926500190,Asia,Southern Asia
+Iraq,1994,39.5,65.4,5.51,19606895,NA,Asia,Western Asia
+Israel,1994,7.6,77.1,2.93,5163901,91447232751,Asia,Western Asia
+Japan,1994,4.3,79.8,1.44,124101546,4451546748078,Asia,Eastern Asia
+Jordan,1994,26.8,72.4,4.83,4154813,6807206799,Asia,Western Asia
+Kazakhstan,1994,45,64.6,2.36,16123445,17623391253,Asia,Central Asia
+South Korea,1994,5,73.6,1.65,44342530,394387463572,Asia,Eastern Asia
+Kuwait,1994,13.1,77.6,2.3,1691891,32734895321,Asia,Western Asia
+Kyrgyz Republic,1994,52.6,65,3.43,4543602,1102539641,Asia,Central Asia
+Lao,1994,100.2,53.2,5.6,4742685,1199153601,Asia,South-Eastern Asia
+Lebanon,1994,22.7,73,2.69,2974647,15090233489,Asia,Western Asia
+"Macao, China",1994,NA,76.33,1.31,391783,6044071738,Asia,Eastern Asia
+Malaysia,1994,11.9,72.4,3.39,20205992,67578484058,Asia,South-Eastern Asia
+Maldives,1994,56.5,68.6,4.85,248263,NA,Asia,Southern Asia
+Mongolia,1994,65,62,2.94,2280495,933947772.4,Asia,Eastern Asia
+Nepal,1994,80.7,61,4.82,20859421,4201280414,Asia,Southern Asia
+Oman,1994,22.5,73.6,5.72,2139539,16027689808,Asia,Western Asia
+Pakistan,1994,98.9,61.9,5.5,119564925,60022413964,Asia,Southern Asia
+Philippines,1994,34.6,68.6,4.06,68240134,64971173187,Asia,South-Eastern Asia
+Qatar,1994,13.9,74.4,3.65,495179,NA,Asia,Western Asia
+Saudi Arabia,1994,26.4,75.1,5.17,18373412,165665432008,Asia,Western Asia
+Singapore,1994,4.3,76.3,1.71,3389119,67585023753,Asia,South-Eastern Asia
+Sri Lanka,1994,17.7,72.8,2.32,18099591,12107698451,Asia,Southern Asia
+Syria,1994,25.7,72.3,4.62,13941025,16318792155,Asia,Western Asia
+Tajikistan,1994,94.1,64.1,4.71,5702611,980551974.6,Asia,Central Asia
+Thailand,1994,24.8,70.6,1.91,58722767,109857624323,Asia,South-Eastern Asia
+Timor-Leste,1994,112,61.3,6.13,842752,NA,Asia,South-Eastern Asia
+Turkey,1994,45.5,69.8,2.77,57608769,202636823219,Asia,Western Asia
+Turkmenistan,1994,71.9,63.4,3.71,4095512,2566597630,Asia,Central Asia
+United Arab Emirates,1994,11.7,71.6,3.58,2238281,74682643386,Asia,Western Asia
+Uzbekistan,1994,57.8,66.7,3.63,22276140,11493543286,Asia,Central Asia
+West Bank and Gaza,1994,30.4,73.3,6.4,2501613,2907788315,Asia,Western Asia
+Vietnam,1994,32,70.3,2.88,73923849,20336301848,Asia,South-Eastern Asia
+Yemen,1994,81.1,59.7,7.84,14633091,7090278264,Asia,Western Asia
+Armenia,1995,33.7,69.1,1.8,3223173,1488846011,Asia,Western Asia
+Azerbaijan,1995,75.2,64.6,2.56,7770806,3748177102,Asia,Western Asia
+Bahrain,1995,15.5,73,3.1,563730,6452705104,Asia,Western Asia
+Bangladesh,1995,81,61.6,3.73,118427768,36558011931,Asia,Southern Asia
+Bhutan,1995,75.3,63.8,4.6,508897,315112476.5,Asia,Southern Asia
+Brunei,1995,8.3,74.7,2.93,295010,5617214140,Asia,South-Eastern Asia
+Cambodia,1995,87.6,58.1,4.62,10694459,2567702131,Asia,South-Eastern Asia
+China,1995,37.7,68.4,1.68,1227841281,792785674302,Asia,Eastern Asia
+Cyprus,1995,7.8,76.7,2.12,855389,7724182914,Asia,Western Asia
+Georgia,1995,38.1,70.7,1.88,5067143,2303253365,Asia,Western Asia
+"Hong Kong, China",1995,NA,78.72,1.04,6144498,148505289182,Asia,Eastern Asia
+India,1995,77.5,59.9,3.47,960874982,354233738304,Asia,Southern Asia
+Indonesia,1995,50.8,66.1,2.69,196957845,159382671061,Asia,South-Eastern Asia
+Iran,1995,36.2,69.9,3.2,60318632,83073225989,Asia,Southern Asia
+Iraq,1995,38.9,65.3,5.42,20217759,NA,Asia,Western Asia
+Israel,1995,7.2,77.4,2.92,5331622,97416800093,Asia,Western Asia
+Japan,1995,4.1,79.7,1.41,124483305,4538011073532,Asia,Eastern Asia
+Jordan,1995,26.2,72.5,4.68,4320158,7228360644,Asia,Western Asia
+Kazakhstan,1995,44.8,63.6,2.24,15925913,16178273171,Asia,Central Asia
+South Korea,1995,4.7,74,1.63,44652994,430548633258,Asia,Eastern Asia
+Kuwait,1995,12.7,76.5,2.47,1637031,34325251801,Asia,Western Asia
+Kyrgyz Republic,1995,51.3,65.1,3.3,4592135,1042739855,Asia,Central Asia
+Lao,1995,97.4,53.6,5.4,4857774,1283469140,Asia,South-Eastern Asia
+Lebanon,1995,21.8,73.4,2.62,3033406,16076372043,Asia,Western Asia
+"Macao, China",1995,NA,76.56,1.24,398459,6243526106,Asia,Eastern Asia
+Malaysia,1995,11.5,72.4,3.34,20725374,74220828751,Asia,South-Eastern Asia
+Maldives,1995,53.4,69.3,4.56,254070,420314722.3,Asia,Southern Asia
+Mongolia,1995,62.2,61.7,2.74,2298038,993500269.2,Asia,Eastern Asia
+Nepal,1995,76.8,61.7,4.71,21390905,4346999805,Asia,Southern Asia
+Oman,1995,20.7,73.9,5.35,2191864,16828564523,Asia,Western Asia
+Pakistan,1995,97.1,61.8,5.36,122599749,63001091770,Asia,Southern Asia
+Philippines,1995,33.5,68.8,4.01,69835713,68010974412,Asia,South-Eastern Asia
+Qatar,1995,13.2,74.4,3.59,501019,NA,Asia,Western Asia
+Saudi Arabia,1995,24.8,75.5,4.99,18853670,165998276055,Asia,Western Asia
+Singapore,1995,4.1,76.4,1.67,3482635,72504108856,Asia,South-Eastern Asia
+Sri Lanka,1995,17.2,71.7,2.29,18248435,12773621865,Asia,Southern Asia
+Syria,1995,24.6,72.7,4.5,14331962,17257125197,Asia,Western Asia
+Tajikistan,1995,93,64.1,4.59,5784330,858963529.7,Asia,Central Asia
+Thailand,1995,23.7,70.6,1.87,59266089,120005700844,Asia,South-Eastern Asia
+Timor-Leste,1995,107.3,61.8,6.38,856439,NA,Asia,South-Eastern Asia
+Turkey,1995,43.1,70,2.72,58522320,218601092943,Asia,Western Asia
+Turkmenistan,1995,71.7,63.3,3.51,4188010,2381802600,Asia,Central Asia
+United Arab Emirates,1995,11.2,71.9,3.39,2350192,79677333794,Asia,Western Asia
+Uzbekistan,1995,57.3,66.6,3.46,22687456,11390101396,Asia,Central Asia
+West Bank and Gaza,1995,29.3,73.7,6.27,2618272,3082508702,Asia,Western Asia
+Vietnam,1995,30.9,70.6,2.68,75198975,22276482694,Asia,South-Eastern Asia
+Yemen,1995,79.7,60.3,7.58,15266147,7492252465,Asia,Western Asia
+Armenia,1996,32.1,69.4,1.8,3173425,1576172796,Asia,Western Asia
+Azerbaijan,1996,73.6,65,2.43,7852287,3796903404,Asia,Western Asia
+Bahrain,1996,14.2,73.4,3.01,579855,6717911631,Asia,Western Asia
+Bangladesh,1996,77.4,62.4,3.6,120987124,38247711533,Asia,Southern Asia
+Bhutan,1996,71.8,64.7,4.4,512377,334630530.8,Asia,Southern Asia
+Brunei,1996,8.1,74.9,2.8,302449,5778895442,Asia,South-Eastern Asia
+Cambodia,1996,88.2,58.3,4.42,11022162,2706674885,Asia,South-Eastern Asia
+China,1996,36.4,68.8,1.59,1238234851,872064241732,Asia,Eastern Asia
+Cyprus,1996,7.4,77.1,2.04,873246,7866990431,Asia,Western Asia
+Georgia,1996,37.1,71.2,1.81,4989723,2561217795,Asia,Western Asia
+"Hong Kong, China",1996,NA,78.99,0.98,6267295,154731978841,Asia,Eastern Asia
+India,1996,75.4,60.2,3.4,979290432,380976693190,Asia,Southern Asia
+Indonesia,1996,48.7,66.4,2.63,199926615,171563947985,Asia,South-Eastern Asia
+Iran,1996,34.7,69.8,2.95,61306632,88972035744,Asia,Southern Asia
+Iraq,1996,38.3,65.3,5.32,20855408,NA,Asia,Western Asia
+Israel,1996,6.7,77.7,2.92,5486219,102765023595,Asia,Western Asia
+Japan,1996,4,80.2,1.39,124794817,4656455641600,Asia,Eastern Asia
+Jordan,1996,25.5,72.6,4.53,4448113,7379252157,Asia,Western Asia
+Kazakhstan,1996,44,63.5,2.13,15704673,16259164536,Asia,Central Asia
+South Korea,1996,4.5,74.5,1.59,44967346,460681097830,Asia,Eastern Asia
+Kuwait,1996,12.3,76,2.64,1637906,34532963147,Asia,Western Asia
+Kyrgyz Republic,1996,49.5,65.2,3.17,4656894,1116612785,Asia,Central Asia
+Lao,1996,94.4,54,5.17,4966303,1372392037,Asia,South-Eastern Asia
+Lebanon,1996,20.8,74,2.54,3070974,16902135516,Asia,Western Asia
+"Macao, China",1996,NA,76.78,1.18,405231,6218552001,Asia,Eastern Asia
+Malaysia,1996,11.1,72.5,3.28,21260881,81644916395,Asia,South-Eastern Asia
+Maldives,1996,50.1,70,4.29,259668,458492055.1,Asia,Southern Asia
+Mongolia,1996,59.4,61.7,2.57,2316571,1015705933,Asia,Eastern Asia
+Nepal,1996,73.1,62.5,4.6,21902534,4578620308,Asia,Southern Asia
+Oman,1996,19.2,74.2,4.98,2219768,17341152466,Asia,Western Asia
+Pakistan,1996,95.2,61.9,5.21,125697651,66054490892,Asia,Southern Asia
+Philippines,1996,32.6,68.9,3.96,71437381,71986809923,Asia,South-Eastern Asia
+Qatar,1996,12.5,74.5,3.53,511864,NA,Asia,Western Asia
+Saudi Arabia,1996,23.4,75.8,4.8,19331311,171615358357,Asia,Western Asia
+Singapore,1996,3.9,76.7,1.66,3570080,78033678182,Asia,South-Eastern Asia
+Sri Lanka,1996,16.7,71.3,2.27,18373530,13259019496,Asia,Southern Asia
+Syria,1996,23.6,73.1,4.39,14736209,18016438706,Asia,Western Asia
+Tajikistan,1996,90.4,63.3,4.46,5862224,715516620.3,Asia,Central Asia
+Thailand,1996,22.7,70.6,1.82,59878955,127087651039,Asia,South-Eastern Asia
+Timor-Leste,1996,102.9,62.3,6.63,859496,NA,Asia,South-Eastern Asia
+Turkey,1996,40.8,70.6,2.66,59451488,234733120142,Asia,Western Asia
+Turkmenistan,1996,71.2,63.2,3.33,4267690,2222221826,Asia,Central Asia
+United Arab Emirates,1996,10.8,72.1,3.22,2467726,84297347541,Asia,Western Asia
+Uzbekistan,1996,56.8,66.7,3.3,23087174,11583733120,Asia,Central Asia
+West Bank and Gaza,1996,28.3,74,6.11,2742127,3171895902,Asia,Western Asia
+Vietnam,1996,29.9,70.9,2.48,76375677,24357110075,Asia,South-Eastern Asia
+Yemen,1996,78.2,60.7,7.31,15834747,7839515921,Asia,Western Asia
+Armenia,1997,30.6,70,1.7,3137652,1628518751,Asia,Western Asia
+Azerbaijan,1997,71.2,65.3,2.3,7921789,4017123802,Asia,Western Asia
+Bahrain,1997,13.1,73.8,2.93,597834,6925696587,Asia,Western Asia
+Bangladesh,1997,74,63.2,3.47,123574107,40308326777,Asia,Southern Asia
+Bhutan,1997,68.4,65.1,4.21,520917,352689439.7,Asia,Southern Asia
+Brunei,1997,7.9,75.2,2.68,309746,5693877966,Asia,South-Eastern Asia
+Cambodia,1997,88.2,58.7,4.24,11338733,2858784408,Asia,South-Eastern Asia
+China,1997,35,69.1,1.52,1247259143,953166216214,Asia,Eastern Asia
+Cyprus,1997,6.9,77.1,1.95,890733,8051748059,Asia,Western Asia
+Georgia,1997,35.9,71.3,1.75,4921287,2830633310,Asia,Western Asia
+"Hong Kong, China",1997,NA,79.29,0.92,6411273,162555648967,Asia,Eastern Asia
+India,1997,73.1,60.5,3.33,997817250,396405566741,Asia,Southern Asia
+Indonesia,1997,46.7,66.7,2.58,202853850,179627234868,Asia,South-Eastern Asia
+Iran,1997,33.2,70.3,2.72,62426086,91983567240,Asia,Southern Asia
+Iraq,1997,37.6,65.2,5.23,21519356,16060664606,Asia,Western Asia
+Israel,1997,6.4,77.9,2.93,5630066,106229768318,Asia,Western Asia
+Japan,1997,3.8,80.4,1.37,125048424,4730755379022,Asia,Eastern Asia
+Jordan,1997,24.9,72.8,4.4,4545248,7623330035,Asia,Western Asia
+Kazakhstan,1997,42.7,63.9,2.05,15465649,16535570333,Asia,Central Asia
+South Korea,1997,4.5,74.9,1.54,45283939,482107173876,Asia,Eastern Asia
+Kuwait,1997,11.9,76.2,2.79,1686256,35387075587,Asia,Western Asia
+Kyrgyz Republic,1997,47.5,65.3,3.04,4734761,1227326823,Asia,Central Asia
+Lao,1997,91.5,54.4,4.92,5068658,1466704070,Asia,South-Eastern Asia
+Lebanon,1997,19.9,74.4,2.47,3092684,16515619831,Asia,Western Asia
+"Macao, China",1997,NA,77,1.12,412031,6199896345,Asia,Eastern Asia
+Malaysia,1997,10.7,72.8,3.19,21808125,87623563754,Asia,South-Eastern Asia
+Maldives,1997,46.7,70.8,4.02,265067,506194042,Asia,Southern Asia
+Mongolia,1997,56.6,61.9,2.43,2335694,1055285084,Asia,Eastern Asia
+Nepal,1997,69.6,63.4,4.47,22395247,4809777106,Asia,Southern Asia
+Oman,1997,17.7,74.5,4.63,2227596,18387433053,Asia,Western Asia
+Pakistan,1997,93.3,61.8,5.04,128845692,66724545016,Asia,Southern Asia
+Philippines,1997,31.8,69,3.92,73042605,75719586808,Asia,South-Eastern Asia
+Qatar,1997,12,74.6,3.48,528213,NA,Asia,Western Asia
+Saudi Arabia,1997,22.1,76,4.59,19809633,176064764661,Asia,Western Asia
+Singapore,1997,3.8,77.2,1.61,3653151,84672375059,Asia,South-Eastern Asia
+Sri Lanka,1997,16,71.4,2.25,18478024,14108314847,Asia,Southern Asia
+Syria,1997,22.6,73.4,4.28,15151962,18340734602,Asia,Western Asia
+Tajikistan,1997,87,64.8,4.33,5936780,727680402.8,Asia,Central Asia
+Thailand,1997,21.7,70.5,1.78,60544937,125344804675,Asia,South-Eastern Asia
+Timor-Leste,1997,98.5,62.4,6.83,853867,NA,Asia,South-Eastern Asia
+Turkey,1997,38.5,71.2,2.61,60394104,252520406456,Asia,Western Asia
+Turkmenistan,1997,70.4,63.2,3.16,4335991,1971110760,Asia,Central Asia
+United Arab Emirates,1997,10.5,72.4,3.05,2595220,91201636370,Asia,Western Asia
+Uzbekistan,1997,56,66.9,3.14,23474760,12186087242,Asia,Central Asia
+West Bank and Gaza,1997,27.3,74.2,5.93,2871637,3573173158,Asia,Western Asia
+Vietnam,1997,28.9,71.1,2.31,77460429,26342722184,Asia,South-Eastern Asia
+Yemen,1997,76.5,61.1,7.05,16349809,8249609781,Asia,Western Asia
+Armenia,1998,29.2,70.5,1.5,3112958,1747400619,Asia,Western Asia
+Azerbaijan,1998,68.1,65.6,2.19,7984531,4418836182,Asia,Western Asia
+Bahrain,1998,12.1,74,2.86,618054,7257437617,Asia,Western Asia
+Bangladesh,1998,70.6,63.9,3.35,126169583,42415457211,Asia,Southern Asia
+Bhutan,1998,65.2,65.6,4.01,533506,372333012.9,Asia,Southern Asia
+Brunei,1998,7.8,75.6,2.57,316873,5662077180,Asia,South-Eastern Asia
+Cambodia,1998,87.1,59,4.06,11641509,3001981856,Asia,South-Eastern Asia
+China,1998,33.5,69.4,1.48,1255262566,1027513181078,Asia,Eastern Asia
+Cyprus,1998,6.4,77.1,1.86,908040,8457818690,Asia,Western Asia
+Georgia,1998,34.5,71.4,1.69,4859954,2918521769,Asia,Western Asia
+"Hong Kong, China",1998,NA,79.63,0.89,6559656,152759417050,Asia,Eastern Asia
+India,1998,70.9,60.8,3.27,1016402907,420920935324,Asia,Southern Asia
+Indonesia,1998,44.7,67,2.53,205753493,156048063636,Asia,South-Eastern Asia
+Iran,1998,31.7,70.8,2.51,63616065,94504455313,Asia,Southern Asia
+Iraq,1998,37,65.7,5.14,22200835,21649775889,Asia,Western Asia
+Israel,1998,6.1,78.1,2.93,5764197,110603683416,Asia,Western Asia
+Japan,1998,3.6,80.5,1.35,125266403,4635991355123,Asia,Eastern Asia
+Jordan,1998,24.3,73,4.27,4621329,7852971166,Asia,Western Asia
+Kazakhstan,1998,41.1,64.2,1.98,15238339,16221394497,Asia,Central Asia
+South Korea,1998,4.7,75.4,1.48,45599569,449061334446,Asia,Eastern Asia
+Kuwait,1998,11.5,76.3,2.88,1766247,36682969800,Asia,Western Asia
+Kyrgyz Republic,1998,45.5,65.6,2.9,4817608,1253368676,Asia,Central Asia
+Lao,1998,88.7,54.9,4.67,5165072,1524897140,Asia,South-Eastern Asia
+Lebanon,1998,19,74.9,2.39,3113960,17108967140,Asia,Western Asia
+"Macao, China",1998,NA,77.21,1.06,418810,5914701113,Asia,Eastern Asia
+Malaysia,1998,10.1,73,3.09,22358128,81174981725,Asia,South-Eastern Asia
+Maldives,1998,43.1,71.7,3.76,270292,555755697.9,Asia,Southern Asia
+Mongolia,1998,53.8,62.1,2.31,2355588,1090530936,Asia,Eastern Asia
+Nepal,1998,66.2,63.9,4.34,22866496,4954858717,Asia,Southern Asia
+Oman,1998,16.4,74.8,4.3,2224922,18873291187,Asia,Western Asia
+Pakistan,1998,91.4,62,4.86,132013680,68426177246,Asia,Southern Asia
+Philippines,1998,31.1,69,3.89,74656228,75282895149,Asia,South-Eastern Asia
+Qatar,1998,11.5,74.6,3.41,548618,NA,Asia,Western Asia
+Saudi Arabia,1998,21.1,76.3,4.39,20302193,181055435208,Asia,Western Asia
+Singapore,1998,3.6,77.6,1.48,3735531,82834715452,Asia,South-Eastern Asia
+Sri Lanka,1998,15.3,72,2.24,18572347,14771179512,Asia,Southern Asia
+Syria,1998,21.6,73.8,4.18,15568797,19503035378,Asia,Western Asia
+Tajikistan,1998,83,64.9,4.2,6012308,766247464.2,Asia,Central Asia
+Thailand,1998,20.8,70.4,1.75,61250974,112171099813,Asia,South-Eastern Asia
+Timor-Leste,1998,94.4,62.8,6.99,845106,NA,Asia,South-Eastern Asia
+Turkey,1998,36.3,72,2.56,61344874,258349119484,Asia,Western Asia
+Turkmenistan,1998,69.2,63.3,3.02,4395293,2103175181,Asia,Central Asia
+United Arab Emirates,1998,10.1,72.8,2.9,2733770,91467939985,Asia,Western Asia
+Uzbekistan,1998,55.1,67.1,2.99,23845788,12710088994,Asia,Central Asia
+West Bank and Gaza,1998,26.4,74.5,5.75,3000312,4003988813,Asia,Western Asia
+Vietnam,1998,27.9,71.5,2.17,78462888,27861236672,Asia,South-Eastern Asia
+Yemen,1998,74.4,61.5,6.8,16829935,8745138645,Asia,Western Asia
+Armenia,1999,27.9,70.8,1.4,3093820,1805064840,Asia,Western Asia
+Azerbaijan,1999,64.5,65.9,2.11,8047997,4745830059,Asia,Western Asia
+Bahrain,1999,11.4,74.2,2.81,640904,7569507493,Asia,Western Asia
+Bangladesh,1999,67.4,64.6,3.23,128746273,44480763467,Asia,Southern Asia
+Bhutan,1999,62,66.5,3.81,548387,397898220,Asia,Southern Asia
+Brunei,1999,7.6,75.8,2.48,323812,5834892612,Asia,South-Eastern Asia
+Cambodia,1999,84.5,59.5,3.9,11928306,3359510628,Asia,South-Eastern Asia
+China,1999,31.9,69.6,1.45,1262713651,1105604182840,Asia,Eastern Asia
+Cyprus,1999,5.9,77.5,1.78,925491,8867754207,Asia,Western Asia
+Georgia,1999,32.9,71.4,1.64,4801695,3002261650,Asia,Western Asia
+"Hong Kong, China",1999,NA,79.99,0.88,6689135,156663870746,Asia,Eastern Asia
+India,1999,68.6,61.2,3.21,1034976626,456543772248,Asia,Southern Asia
+Indonesia,1999,42.9,67.2,2.5,208644079,157282606425,Asia,South-Eastern Asia
+Iran,1999,30.1,71.3,2.34,64780362,96332003465,Asia,Southern Asia
+Iraq,1999,36.4,65.9,5.05,22888600,27018920309,Asia,Western Asia
+Israel,1999,5.9,78.5,2.92,5891263,114315400244,Asia,Western Asia
+Japan,1999,3.4,80.6,1.34,125481050,4626750094250,Asia,Eastern Asia
+Jordan,1999,23.8,73.2,4.16,4691402,8119265586,Asia,Western Asia
+Kazakhstan,1999,39.4,65,1.94,15059994,16659372149,Asia,Central Asia
+South Korea,1999,4.9,75.8,1.41,45908307,491660742720,Asia,Eastern Asia
+Kuwait,1999,11.1,77.3,2.9,1853152,36026708083,Asia,Western Asia
+Kyrgyz Republic,1999,43.5,65.8,2.78,4893658,1299189196,Asia,Central Asia
+Lao,1999,86,55.5,4.42,5256207,1636311860,Asia,South-Eastern Asia
+Lebanon,1999,18.1,75.6,2.31,3156661,17031450813,Asia,Western Asia
+"Macao, China",1999,NA,77.42,1,425448,5772748287,Asia,Eastern Asia
+Malaysia,1999,9.4,73.1,2.96,22898579,86157185425,Asia,South-Eastern Asia
+Maldives,1999,39.4,72.3,3.51,275385,595920613.4,Asia,Southern Asia
+Mongolia,1999,51,62.3,2.22,2376165,1124014260,Asia,Eastern Asia
+Nepal,1999,62.8,64.6,4.21,23315053,5173495488,Asia,Southern Asia
+Oman,1999,15.3,75.1,3.99,2225481,18849736049,Asia,Western Asia
+Pakistan,1999,89.5,62.1,4.67,135158132,70930666164,Asia,Southern Asia
+Philippines,1999,30.5,69.2,3.85,76285225,77603058843,Asia,South-Eastern Asia
+Qatar,1999,11.1,74.6,3.33,570643,NA,Asia,Western Asia
+Saudi Arabia,1999,20.2,76.6,4.19,20825955,179700216156,Asia,Western Asia
+Singapore,1999,3.4,78,1.47,3822619,87967794883,Asia,South-Eastern Asia
+Sri Lanka,1999,14.6,72.4,2.24,18670843,15406424815,Asia,Southern Asia
+Syria,1999,20.7,74.1,4.07,15972430,18809964413,Asia,Western Asia
+Tajikistan,1999,78.8,65.5,4.08,6094126,794598620.3,Asia,Central Asia
+Thailand,1999,19.9,70.5,1.71,61973957,117160062361,Asia,South-Eastern Asia
+Timor-Leste,1999,90.3,62.3,7.08,841063,278200000,Asia,South-Eastern Asia
+Turkey,1999,34.2,71.5,2.51,62295617,249654780792,Asia,Western Asia
+Turkmenistan,1999,67.8,63.5,2.91,4449427,2449271104,Asia,Central Asia
+United Arab Emirates,1999,9.8,73,2.77,2884188,94122535024,Asia,Western Asia
+Uzbekistan,1999,54,67.4,2.86,24194543,13256622820,Asia,Central Asia
+West Bank and Gaza,1999,25.6,74.7,5.57,3119607,4355166734,Asia,Western Asia
+Vietnam,1999,27,71.7,2.06,79399708,29191217010,Asia,South-Eastern Asia
+Yemen,1999,71.9,62,6.57,17304422,9075314021,Asia,Western Asia
+Armenia,2000,26.6,71.3,1.3,3076098,1911563665,Asia,Western Asia
+Azerbaijan,2000,60.6,66.5,2.05,8117742,5272617196,Asia,Western Asia
+Bahrain,2000,10.9,73.7,2.77,666855,7970690894,Asia,Western Asia
+Bangladesh,2000,64.4,64.9,3.12,131280739,47124925462,Asia,Southern Asia
+Bhutan,2000,59,65.9,3.61,564187,427808817.3,Asia,Southern Asia
+Brunei,2000,7.6,75.9,2.4,330554,6001153318,Asia,South-Eastern Asia
+Cambodia,2000,80.4,60,3.75,12197905,3654031716,Asia,South-Eastern Asia
+China,2000,30.2,69.8,1.45,1269974572,1198474934199,Asia,Eastern Asia
+Cyprus,2000,5.5,77.7,1.71,943287,9314937556,Asia,Western Asia
+Georgia,2000,31.2,71.4,1.61,4743591,3057453461,Asia,Western Asia
+"Hong Kong, China",2000,NA,80.36,0.88,6783502,169121013113,Asia,Eastern Asia
+India,2000,66.4,61.5,3.15,1053481072,474691627708,Asia,Southern Asia
+Indonesia,2000,41.1,67.5,2.48,211540428,165021012262,Asia,South-Eastern Asia
+Iran,2000,28.6,71.4,2.19,65850062,101286514977,Asia,Southern Asia
+Iraq,2000,35.8,65.8,4.97,23574751,25857106736,Asia,Western Asia
+Israel,2000,5.6,78.6,2.92,6013711,124895151203,Asia,Western Asia
+Japan,2000,3.3,81,1.32,125714674,4731198760271,Asia,Eastern Asia
+Jordan,2000,23.2,73.4,4.05,4767476,8463892909,Asia,Western Asia
+Kazakhstan,2000,37.5,64.9,1.92,14956769,18291990619,Asia,Central Asia
+South Korea,2000,5.2,76.3,1.35,46206271,533384027729,Asia,Eastern Asia
+Kuwait,2000,10.9,77.7,2.87,1929470,37718011469,Asia,Western Asia
+Kyrgyz Republic,2000,41.6,65.9,2.67,4954850,1369691955,Asia,Central Asia
+Lao,2000,83.2,56.1,4.19,5342879,1731198022,Asia,South-Eastern Asia
+Lebanon,2000,17.1,75.9,2.23,3235380,17260364842,Asia,Western Asia
+"Macao, China",2000,NA,77.63,0.94,431907,6101794939,Asia,Eastern Asia
+Malaysia,2000,8.7,73.3,2.83,23420751,93789736842,Asia,South-Eastern Asia
+Maldives,2000,35.6,73,3.27,280384,624337143.6,Asia,Southern Asia
+Mongolia,2000,48.2,62.5,2.14,2397438,1136896162,Asia,Eastern Asia
+Nepal,2000,59.6,65.2,4.07,23740145,5494252208,Asia,Southern Asia
+Oman,2000,14.3,75.2,3.72,2239403,19867880550,Asia,Western Asia
+Pakistan,2000,87.7,62.3,4.47,138250487,73952374970,Asia,Southern Asia
+Philippines,2000,29.9,69.1,3.81,77932247,81026294681,Asia,South-Eastern Asia
+Qatar,2000,10.6,74.7,3.24,593453,17759889598,Asia,Western Asia
+Saudi Arabia,2000,19.4,76.8,3.99,21392273,188441864875,Asia,Western Asia
+Singapore,2000,3.1,78.3,1.6,3918183,95922652586,Asia,South-Eastern Asia
+Sri Lanka,2000,14,72.4,2.24,18783745,16330810304,Asia,Southern Asia
+Syria,2000,19.8,74.4,3.96,16354050,19325894913,Asia,Western Asia
+Tajikistan,2000,74.3,65.8,3.95,6186152,860550294.3,Asia,Central Asia
+Thailand,2000,19.1,70.7,1.68,62693322,122725247706,Asia,South-Eastern Asia
+Timor-Leste,2000,86.3,60.7,7.11,847185,316200000,Asia,South-Eastern Asia
+Turkey,2000,32.1,73.8,2.45,63240157,266567531990,Asia,Western Asia
+Turkmenistan,2000,66.1,63.7,2.84,4501419,2904662605,Asia,Central Asia
+United Arab Emirates,2000,9.6,73.3,2.64,3050128,104337375343,Asia,Western Asia
+Uzbekistan,2000,52.7,67.6,2.74,24518222,13760374488,Asia,Central Asia
+West Bank and Gaza,2000,24.9,74.4,5.4,3223781,4113261233,Asia,Western Asia
+Vietnam,2000,26.1,72,1.98,80285563,31172517272,Asia,South-Eastern Asia
+Yemen,2000,69,62.4,6.36,17795219,9636342275,Asia,Western Asia
+Armenia,2001,25.3,71.4,1.2,3060036,2094244952,Asia,Western Asia
+Azerbaijan,2001,56.8,67.2,2.01,8195648,5794606298,Asia,Western Asia
+Bahrain,2001,10.5,74.3,2.72,694893,8337342675,Asia,Western Asia
+Bangladesh,2001,61.4,65.4,3.01,133776064,49610300682,Asia,Southern Asia
+Bhutan,2001,56.1,67.5,3.42,580784,457700055.2,Asia,Southern Asia
+Brunei,2001,7.5,76.1,2.34,337074,6165827450,Asia,South-Eastern Asia
+Cambodia,2001,74.7,60.8,3.62,12448881,3947765866,Asia,South-Eastern Asia
+China,2001,28.3,70,1.46,1277188787,1297948353737,Asia,Eastern Asia
+Cyprus,2001,5.1,78.5,1.66,961482,9689915174,Asia,Western Asia
+Georgia,2001,29.3,71.7,1.59,4685769,3204377911,Asia,Western Asia
+"Hong Kong, China",2001,NA,80.73,0.9,6836538,169962054757,Asia,Eastern Asia
+India,2001,64.2,61.9,3.08,1071888190,498161456345,Asia,Southern Asia
+Indonesia,2001,39.4,67.8,2.48,214448301,171033497474,Asia,South-Eastern Asia
+Iran,2001,27.1,71.3,2.08,66812736,105003397805,Asia,Southern Asia
+Iraq,2001,35.2,66.4,4.88,24258794,24150537691,Asia,Western Asia
+Israel,2001,5.4,78.8,2.92,6129980,124616185508,Asia,Western Asia
+Japan,2001,3.1,81.3,1.31,125974298,4748016360517,Asia,Eastern Asia
+Jordan,2001,22.6,73.6,3.97,4850227,8909880504,Asia,Western Asia
+Kazakhstan,2001,35.7,65.1,1.94,14942788,20761409353,Asia,Central Asia
+South Korea,2001,5.5,76.7,1.3,46492324,554577928769,Asia,Eastern Asia
+Kuwait,2001,10.7,77.6,2.8,1990022,37992985756,Asia,Western Asia
+Kyrgyz Republic,2001,39.8,66,2.59,4998286,1442581268,Asia,Central Asia
+Lao,2001,80.5,56.6,3.99,5424701,1830766369,Asia,South-Eastern Asia
+Lebanon,2001,16.1,76.3,2.14,3359875,17942756150,Asia,Western Asia
+"Macao, China",2001,NA,77.83,0.89,438088,6278746992,Asia,Eastern Asia
+Malaysia,2001,8.1,73.6,2.68,23920963,94275263158,Asia,South-Eastern Asia
+Maldives,2001,31.8,73.7,3.06,285298,645905368.7,Asia,Southern Asia
+Mongolia,2001,45.3,62.7,2.1,2419729,1170465415,Asia,Eastern Asia
+Nepal,2001,56.7,65.9,3.92,24140941,5757963273,Asia,Southern Asia
+Oman,2001,13.3,75.4,3.49,2272547,21354315272,Asia,Western Asia
+Pakistan,2001,86,62.5,4.29,141282077,75418468995,Asia,Southern Asia
+Philippines,2001,29.4,69,3.77,79604541,83371189500,Asia,South-Eastern Asia
+Qatar,2001,10.2,75,3.13,613720,18350889420,Asia,Western Asia
+Saudi Arabia,2001,18.7,77.1,3.8,22007937,189473468746,Asia,Western Asia
+Singapore,2001,2.9,78.6,1.41,4023237,94815323307,Asia,South-Eastern Asia
+Sri Lanka,2001,13.6,73.3,2.24,18914866,16078438393,Asia,Southern Asia
+Syria,2001,19,74.6,3.84,16694414,20331023655,Asia,Western Asia
+Tajikistan,2001,69.7,66.1,3.85,6290413,948326437,Asia,Central Asia
+Thailand,2001,18.3,71.2,1.64,63415174,125385028151,Asia,South-Eastern Asia
+Timor-Leste,2001,82.4,64.4,7.09,865848,276900000,Asia,South-Eastern Asia
+Turkey,2001,30.2,74.4,2.4,64182694,251379908801,Asia,Western Asia
+Turkmenistan,2001,64.4,64.1,2.78,4551762,3497984789,Asia,Central Asia
+United Arab Emirates,2001,9.3,73.6,2.53,3217865,105797143934,Asia,Western Asia
+Uzbekistan,2001,51.4,67.8,2.65,24814629,14338310216,Asia,Central Asia
+West Bank and Gaza,2001,24.2,74.7,5.25,3309978,3504929191,Asia,Western Asia
+Vietnam,2001,25.3,72.2,1.94,81123685,33321830052,Asia,South-Eastern Asia
+Yemen,2001,66.1,62.8,6.17,18306287,10002874611,Asia,Western Asia
+Armenia,2002,24.2,71.6,1.2,3047249,2370398385,Asia,Western Asia
+Azerbaijan,2002,53.1,67.6,2,8280599,6408834566,Asia,Western Asia
+Bahrain,2002,10.2,74.8,2.67,725365,8775886900,Asia,Western Asia
+Bangladesh,2002,58.6,65.8,2.91,136228456,51800799317,Asia,Southern Asia
+Bhutan,2002,53.3,68.1,3.24,598421,498509593.5,Asia,Southern Asia
+Brunei,2002,7.5,76.3,2.29,343383,6404574284,Asia,South-Eastern Asia
+Cambodia,2002,68.3,61.6,3.5,12681984,4211787743,Asia,South-Eastern Asia
+China,2002,26.2,70.2,1.47,1284349938,1416061653927,Asia,Eastern Asia
+Cyprus,2002,4.7,78.7,1.61,979883,9892554194,Asia,Western Asia
+Georgia,2002,27.4,71.6,1.59,4629853,3379780412,Asia,Western Asia
+"Hong Kong, China",2002,NA,81.08,0.92,6854755,173091030717,Asia,Eastern Asia
+India,2002,62,62.3,3.02,1090189358,517627284474,Asia,Southern Asia
+Indonesia,2002,37.8,68,2.47,217369087,178729107603,Asia,South-Eastern Asia
+Iran,2002,25.6,71.3,1.99,67696677,112895031237,Asia,Southern Asia
+Iraq,2002,34.6,66.1,4.8,24943793,22266795751,Asia,Western Asia
+Israel,2002,5.2,78.6,2.91,6240215,123898976676,Asia,Western Asia
+Japan,2002,3,81.6,1.3,126249509,4761764168337,Asia,Eastern Asia
+Jordan,2002,22.1,73.8,3.89,4938935,9425387992,Asia,Western Asia
+Kazakhstan,2002,33.9,65.4,2,15010919,22796027469,Asia,Central Asia
+South Korea,2002,5.6,77.1,1.25,46769579,594230347811,Asia,Eastern Asia
+Kuwait,2002,10.6,78.2,2.72,2042215,39132775329,Asia,Western Asia
+Kyrgyz Republic,2002,38.2,65.9,2.54,5027919,1442330936,Asia,Central Asia
+Lao,2002,77.8,57.6,3.83,5502340,1939124836,Asia,South-Eastern Asia
+Lebanon,2002,15.1,76.6,2.04,3522842,18548122592,Asia,Western Asia
+"Macao, China",2002,NA,78.04,0.86,444178,6837767239,Asia,Eastern Asia
+Malaysia,2002,7.6,73.8,2.54,24401977,99357631579,Asia,South-Eastern Asia
+Maldives,2002,28.3,74.4,2.87,290147,684924265.6,Asia,Southern Asia
+Mongolia,2002,42.5,62.9,2.09,2443503,1225863291,Asia,Eastern Asia
+Nepal,2002,53.8,65.9,3.78,24516969,5764888196,Asia,Southern Asia
+Oman,2002,12.5,75.4,3.3,2323203,21902763277,Asia,Western Asia
+Pakistan,2002,84.4,62.6,4.13,144271586,77850284715,Asia,Southern Asia
+Philippines,2002,28.9,69,3.71,81294378,86410818147,Asia,South-Eastern Asia
+Qatar,2002,9.8,75,3,634388,19659942528,Asia,Western Asia
+Saudi Arabia,2002,18.2,77.2,3.63,22668102,189716092331,Asia,Western Asia
+Singapore,2002,2.6,78.9,1.37,4136102,98799423166,Asia,South-Eastern Asia
+Sri Lanka,2002,13.2,73.7,2.25,19061066,16715893245,Asia,Southern Asia
+Syria,2002,18.2,74.9,3.72,16997521,21530554051,Asia,Western Asia
+Tajikistan,2002,65.3,66.5,3.76,6406518,1034624143,Asia,Central Asia
+Thailand,2002,17.5,71.7,1.62,64136669,132052469496,Asia,South-Eastern Asia
+Timor-Leste,2002,78.6,65.3,7.04,894837,283600000,Asia,South-Eastern Asia
+Turkey,2002,28.3,75.1,2.36,65125766,266874563574,Asia,Western Asia
+Turkmenistan,2002,62.7,64.4,2.74,4600172,4050666386,Asia,Central Asia
+United Arab Emirates,2002,9.1,73.8,2.43,3394060,108371671742,Asia,Western Asia
+Uzbekistan,2002,50,67.9,2.59,25088682,14911842625,Asia,Central Asia
+West Bank and Gaza,2002,23.6,74.4,5.1,3380907,3151496301,Asia,Western Asia
+Vietnam,2002,24.6,72.5,1.92,81917488,35681076633,Asia,South-Eastern Asia
+Yemen,2002,63,63.3,5.98,18832097,10396510882,Asia,Western Asia
+Armenia,2003,23,71.5,1.4,3036420,2703221164,Asia,Western Asia
+Azerbaijan,2003,49.7,67.6,1.99,8371536,7126624037,Asia,Western Asia
+Bahrain,2003,9.9,75.3,2.6,761595,9407750757,Asia,Western Asia
+Bangladesh,2003,55.9,66.3,2.8,138600174,54523446362,Asia,Southern Asia
+Bhutan,2003,50.6,68.5,3.07,616474,541274885.4,Asia,Southern Asia
+Brunei,2003,7.4,76.5,2.25,349557,6590560241,Asia,South-Eastern Asia
+Cambodia,2003,62.3,62.4,3.4,12901217,4570038145,Asia,South-Eastern Asia
+China,2003,24.2,70.9,1.49,1291485488,1557667819320,Asia,Eastern Asia
+Cyprus,2003,4.4,79,1.58,998150,10083883129,Asia,Western Asia
+Georgia,2003,25.5,71.7,1.61,4575993,3753519944,Asia,Western Asia
+"Hong Kong, China",2003,NA,81.4,0.95,6850361,178294170813,Asia,Eastern Asia
+India,2003,59.9,62.8,2.95,1108369577,558747568021,Asia,Southern Asia
+Indonesia,2003,36.3,68.2,2.48,220307809,187273018674,Asia,South-Eastern Asia
+Iran,2003,24.3,70.1,1.93,68522074,120927152819,Asia,Southern Asia
+Iraq,2003,34.1,66.1,4.71,25630426,13070609106,Asia,Western Asia
+Israel,2003,4.9,79.1,2.91,6350762,125772558157,Asia,Western Asia
+Japan,2003,2.9,81.7,1.3,126523884,4842005214501,Asia,Eastern Asia
+Jordan,2003,21.5,74,3.83,5042538,9819187755,Asia,Western Asia
+Kazakhstan,2003,32.1,65.3,2.08,15139324,24916058024,Asia,Central Asia
+South Korea,2003,5.4,77.7,1.22,47043251,610885292932,Asia,Eastern Asia
+Kuwait,2003,10.4,78.5,2.66,2095993,45910572015,Asia,Western Asia
+Kyrgyz Republic,2003,36.7,66,2.53,5050867,1543731071,Asia,Central Asia
+Lao,2003,75.2,58.4,3.71,5579003,2056771480,Asia,South-Eastern Asia
+Lebanon,2003,14.1,76.9,1.95,3701464,19148597728,Asia,Western Asia
+"Macao, China",2003,NA,78.25,0.84,450754,7698199299,Asia,Eastern Asia
+Malaysia,2003,7.3,73.9,2.42,24869423,105108947368,Asia,South-Eastern Asia
+Maldives,2003,24.9,75.3,2.72,294996,795445094.9,Asia,Southern Asia
+Mongolia,2003,39.8,63.1,2.1,2469045,1311730535,Asia,Eastern Asia
+Nepal,2003,51.2,66.8,3.63,24868900,5992315213,Asia,Southern Asia
+Oman,2003,11.9,75.6,3.14,2385075,21968471566,Asia,Western Asia
+Pakistan,2003,82.9,62.8,3.99,147251530,81623159361,Asia,Southern Asia
+Philippines,2003,28.4,69.1,3.64,82971734,90705750112,Asia,South-Eastern Asia
+Qatar,2003,9.5,75.2,2.85,668165,20346088723,Asia,Western Asia
+Saudi Arabia,2003,17.6,77.4,3.48,23357887,204246598743,Asia,Western Asia
+Singapore,2003,2.5,79.3,1.27,4254553,103324686776,Asia,South-Eastern Asia
+Sri Lanka,2003,13,74,2.26,19217032,17708862282,Asia,Southern Asia
+Syria,2003,17.5,75.1,3.61,17304339,21659737375,Asia,Western Asia
+Tajikistan,2003,61,66.9,3.7,6532871,1140155805,Asia,Central Asia
+Thailand,2003,16.7,72.1,1.59,64817254,141480983231,Asia,South-Eastern Asia
+Timor-Leste,2003,74.8,65.7,6.97,929431,283900000,Asia,South-Eastern Asia
+Turkey,2003,26.5,75.1,2.31,66060121,280926215534,Asia,Western Asia
+Turkmenistan,2003,61.1,64.8,2.7,4648036,4743330338,Asia,Central Asia
+United Arab Emirates,2003,8.9,74.1,2.33,3625798,117908964948,Asia,Western Asia
+Uzbekistan,2003,48.6,68.1,2.54,25353547,15538140015,Asia,Central Asia
+West Bank and Gaza,2003,23.1,74.4,4.96,3443333,3344165597,Asia,Western Asia
+Vietnam,2003,23.9,72.8,1.91,82683039,38300485720,Asia,South-Eastern Asia
+Yemen,2003,60.1,63.7,5.78,19374012,10786109544,Asia,Western Asia
+Armenia,2004,21.9,71.8,1.4,3025982,2986190081,Asia,Western Asia
+Azerbaijan,2004,46.7,67.8,1.99,8466304,7853539689,Asia,Western Asia
+Bahrain,2004,9.6,75.7,2.53,807989,9934584799,Asia,Western Asia
+Bangladesh,2004,53.4,66.8,2.7,140843786,57942340648,Asia,Southern Asia
+Bhutan,2004,47.9,68.9,2.92,634235,584394624.3,Asia,Southern Asia
+Brunei,2004,7.4,76.7,2.21,355700,6623797619,Asia,South-Eastern Asia
+Cambodia,2004,57.4,63.2,3.31,13112334,5042604253,Asia,South-Eastern Asia
+China,2004,22.2,71.4,1.5,1298573031,1714992269071,Asia,Eastern Asia
+Cyprus,2004,4.2,79.1,1.55,1015827,10509896324,Asia,Western Asia
+Georgia,2004,23.6,71.5,1.64,4524444,3973376002,Asia,Western Asia
+"Hong Kong, China",2004,NA,81.68,0.97,6841705,193389645331,Asia,Eastern Asia
+India,2004,57.8,63.2,2.88,1126419321,602602553782,Asia,Southern Asia
+Indonesia,2004,36,66.7,2.49,223268606,196694488177,Asia,South-Eastern Asia
+Iran,2004,23,71.5,1.9,69321953,127075151562,Asia,Southern Asia
+Iraq,2004,33.5,66.3,4.63,26320530,19148442340,Asia,Western Asia
+Israel,2004,4.7,79.5,2.91,6470045,131865380689,Asia,Western Asia
+Japan,2004,2.9,81.9,1.3,126773081,4956311889695,Asia,Eastern Asia
+Jordan,2004,20.9,74.1,3.78,5171633,10659607238,Asia,Western Asia
+Kazakhstan,2004,30.3,65.3,2.18,15294474,27307999594,Asia,Central Asia
+South Korea,2004,5.2,78.2,1.2,47320454,639102209101,Asia,Eastern Asia
+Kuwait,2004,10.3,78.1,2.63,2166344,50593450361,Asia,Western Asia
+Kyrgyz Republic,2004,35.3,66.2,2.54,5077515,1652206887,Asia,Central Asia
+Lao,2004,72.7,59.3,3.62,5658894,2187534747,Asia,South-Eastern Asia
+Lebanon,2004,13.1,77.1,1.85,3863271,20580683499,Asia,Western Asia
+"Macao, China",2004,NA,78.46,0.84,458579,9767827453,Asia,Eastern Asia
+Malaysia,2004,7.1,74,2.31,25332026,112238947368,Asia,South-Eastern Asia
+Maldives,2004,22.6,74.7,2.6,299917,877061583.7,Asia,Southern Asia
+Mongolia,2004,37.3,63.4,2.14,2496621,1451107229,Asia,Eastern Asia
+Nepal,2004,48.7,67,3.49,25198130,6272911560,Asia,Southern Asia
+Oman,2004,11.4,75.8,3.03,2448194,22715399600,Asia,Western Asia
+Pakistan,2004,81.4,63.1,3.87,150267989,87637620104,Asia,Southern Asia
+Philippines,2004,27.9,69.1,3.57,84596249,96780891472,Asia,South-Eastern Asia
+Qatar,2004,9.2,75.8,2.7,732096,24586857388,Asia,Western Asia
+Saudi Arabia,2004,17.2,77.5,3.35,24055573,215004097759,Asia,Western Asia
+Singapore,2004,2.3,79.8,1.26,4375230,112788294399,Asia,South-Eastern Asia
+Sri Lanka,2004,15.3,69.4,2.27,19374281,18673120685,Asia,Southern Asia
+Syria,2004,16.8,75.3,3.5,17671913,23154259254,Asia,Western Asia
+Tajikistan,2004,57.3,67.5,3.65,6666628,1261012321,Asia,Central Asia
+Thailand,2004,16,72.2,1.56,65404522,150456640790,Asia,South-Eastern Asia
+Timor-Leste,2004,71,66.5,6.88,962634,295700000,Asia,South-Eastern Asia
+Turkey,2004,24.8,75.8,2.27,66973561,307228800117,Asia,Western Asia
+Turkmenistan,2004,59.4,65.3,2.66,4696876,5559183156,Asia,Central Asia
+United Arab Emirates,2004,8.7,74.4,2.24,3975945,129188651376,Asia,Western Asia
+Uzbekistan,2004,47.3,68.3,2.51,25627007,16734576796,Asia,Central Asia
+West Bank and Gaza,2004,22.6,74.4,4.82,3507096,3552819407,Asia,Western Asia
+Vietnam,2004,23.2,73,1.9,83439812,41283942096,Asia,South-Eastern Asia
+Yemen,2004,57.2,64.2,5.59,19931617,11214608928,Asia,Western Asia
+Armenia,2005,20.8,71.8,1.4,3014917,3400246575,Asia,Western Asia
+Azerbaijan,2005,44,68.2,1.99,8563398,9926874167,Asia,Western Asia
+Bahrain,2005,9.3,76.1,2.45,867014,10709482414,Asia,Western Asia
+Bangladesh,2005,50.8,67.1,2.61,142929979,61393084272,Asia,Southern Asia
+Bhutan,2005,45.3,69.3,2.79,651163,635666173.1,Asia,Southern Asia
+Brunei,2005,7.3,76.7,2.18,361889,6649465293,Asia,South-Eastern Asia
+Cambodia,2005,53.3,64,3.23,13320058,5710753630,Asia,South-Eastern Asia
+China,2005,20.3,71.9,1.51,1305600630,1908786395477,Asia,Eastern Asia
+Cyprus,2005,3.9,79,1.53,1032586,10920829406,Asia,Western Asia
+Georgia,2005,21.9,71.8,1.68,4475273,4354805817,Asia,Western Asia
+"Hong Kong, China",2005,NA,81.92,0.99,6842465,207085699498,Asia,Eastern Asia
+India,2005,55.8,63.6,2.82,1144326293,658553437817,Asia,Southern Asia
+Indonesia,2005,33.4,68.7,2.49,226254703,207891462167,Asia,South-Eastern Asia
+Iran,2005,21.7,71.9,1.87,70122115,132950350985,Asia,Southern Asia
+Iraq,2005,33,65.7,4.56,27017712,19014403325,Asia,Western Asia
+Israel,2005,4.5,79.7,2.91,6603677,138380104308,Asia,Western Asia
+Japan,2005,2.7,82,1.31,126978754,5020879159600,Asia,Eastern Asia
+Jordan,2005,20.4,74.5,3.73,5332982,11525306728,Asia,Western Asia
+Kazakhstan,2005,28.6,65.3,2.28,15451752,29956875555,Asia,Central Asia
+South Korea,2005,4.8,78.7,1.2,47605863,664392465835,Asia,Eastern Asia
+Kuwait,2005,10.1,77.7,2.63,2263604,55956356099,Asia,Western Asia
+Kyrgyz Republic,2005,34.2,66.5,2.58,5115470,1649306468,Asia,Central Asia
+Lao,2005,70.2,60.1,3.56,5745012,2343015275,Asia,South-Eastern Asia
+Lebanon,2005,12.1,77.3,1.77,3986865,20786490334,Asia,Western Asia
+"Macao, China",2005,NA,78.67,0.85,468149,10602157500,Asia,Eastern Asia
+Malaysia,2005,7,74.3,2.22,25796124,118223684211,Asia,South-Eastern Asia
+Maldives,2005,19.4,76.9,2.51,304968,817106994.3,Asia,Southern Asia
+Mongolia,2005,34.9,63.6,2.19,2526447,1556365693,Asia,Eastern Asia
+Nepal,2005,46.3,67.4,3.34,25506847,6491157510,Asia,Southern Asia
+Oman,2005,10.9,76,2.95,2506891,23622652660,Asia,Western Asia
+Pakistan,2005,80,62.2,3.79,153356383,94357063094,Asia,Southern Asia
+Philippines,2005,27.4,69.1,3.49,86141373,101404756761,Asia,South-Eastern Asia
+Qatar,2005,8.9,76.3,2.56,836924,26455458550,Asia,Western Asia
+Saudi Arabia,2005,16.8,77.8,3.23,24745230,226944734103,Asia,Western Asia
+Singapore,2005,2.3,80,1.26,4495531,121101240197,Asia,South-Eastern Asia
+Sri Lanka,2005,12.1,73.9,2.29,19526406,19838649830,Asia,Southern Asia
+Syria,2005,16.1,75.5,3.4,18132842,24589823328,Asia,Western Asia
+Tajikistan,2005,54.1,68,3.64,6805655,1393235591,Asia,Central Asia
+Thailand,2005,15.3,73.1,1.54,65863973,157384716142,Asia,South-Eastern Asia
+Timor-Leste,2005,67.4,67.5,6.79,989497,314100000,Asia,South-Eastern Asia
+Turkey,2005,23.2,76.2,2.23,67860617,333040988667,Asia,Western Asia
+Turkmenistan,2005,57.8,65.8,2.62,4747839,6281876966,Asia,Central Asia
+United Arab Emirates,2005,8.4,75.2,2.15,4481976,135460942808,Asia,Western Asia
+Uzbekistan,2005,45.9,68.5,2.49,25922239,17905997172,Asia,Central Asia
+West Bank and Gaza,2005,22.1,74.6,4.7,3579462,3775940953,Asia,Western Asia
+Vietnam,2005,22.6,73.3,1.9,84203817,44769045610,Asia,South-Eastern Asia
+Yemen,2005,54.5,64.6,5.39,20504385,11841701606,Asia,Western Asia
+Armenia,2006,19.8,71.7,1.3,3002161,3849011238,Asia,Western Asia
+Azerbaijan,2006,41.5,68.7,1.99,8662137,13351645755,Asia,Western Asia
+Bahrain,2006,9,76.3,2.37,940808,11427017735,Asia,Western Asia
+Bangladesh,2006,48.4,67.5,2.52,144839238,65463038830,Asia,Southern Asia
+Bhutan,2006,42.8,69.8,2.68,666920,679205223.4,Asia,Southern Asia
+Brunei,2006,7.3,76.8,2.15,368150,6941890187,Asia,South-Eastern Asia
+Cambodia,2006,49.8,64.8,3.16,13525360,6325863882,Asia,South-Eastern Asia
+China,2006,18.7,72.6,1.52,1312600877,2151202267702,Asia,Eastern Asia
+Cyprus,2006,3.7,79.5,1.51,1048293,11371347785,Asia,Western Asia
+Georgia,2006,20.2,71.9,1.72,4429186,4763429293,Asia,Western Asia
+"Hong Kong, China",2006,NA,82.12,1.01,6855818,221622650577,Asia,Eastern Asia
+India,2006,53.9,63.9,2.75,1162088305,719561619358,Asia,Southern Asia
+Indonesia,2006,32.1,68.9,2.5,229263980,219327471266,Asia,South-Eastern Asia
+Iran,2006,20.5,72.4,1.87,70923164,140786359715,Asia,Southern Asia
+Iraq,2006,32.4,65.1,4.48,27716983,20193296331,Asia,Western Asia
+Israel,2006,4.3,79.6,2.91,6754836,146121402339,Asia,Western Asia
+Japan,2006,2.7,82.2,1.32,127136576,5105877836025,Asia,Eastern Asia
+Jordan,2006,19.9,75.5,3.69,5530218,12459768320,Asia,Western Asia
+Kazakhstan,2006,26.8,65.3,2.38,15603072,33162261239,Asia,Central Asia
+South Korea,2006,4.5,79.1,1.2,47901643,698799258266,Asia,Eastern Asia
+Kuwait,2006,10,77.7,2.65,2389498,58866086616,Asia,Western Asia
+Kyrgyz Republic,2006,33,66.7,2.65,5166644,1700482777,Asia,Central Asia
+Lao,2006,67.8,60.8,3.52,5838837,2544965999,Asia,South-Eastern Asia
+Lebanon,2006,11.2,77.4,1.69,4057041,20911331543,Asia,Western Asia
+"Macao, China",2006,NA,78.89,0.87,479728,12132224050,Asia,Eastern Asia
+Malaysia,2006,6.9,74.5,2.15,26263048,125138421053,Asia,South-Eastern Asia
+Maldives,2006,17.2,77.5,2.45,310168,977140736.4,Asia,Southern Asia
+Mongolia,2006,32.7,64,2.25,2558484,1689531996,Asia,Eastern Asia
+Nepal,2006,44.1,67.8,3.19,25794344,6709559955,Asia,Southern Asia
+Oman,2006,10.6,76,2.91,2553376,24921898556,Asia,Western Asia
+Pakistan,2006,78.7,63.7,3.71,156524189,100186010330,Asia,Southern Asia
+Philippines,2006,26.9,69.2,3.4,87592899,106721360539,Asia,South-Eastern Asia
+Qatar,2006,8.6,76.7,2.42,988448,31376173840,Asia,Western Asia
+Saudi Arabia,2006,16.4,77.9,3.14,25419994,234111140403,Asia,Western Asia
+Singapore,2006,2.3,80.2,1.28,4614637,131714117434,Asia,South-Eastern Asia
+Sri Lanka,2006,11.4,73.9,2.3,19672418,21359771931,Asia,Southern Asia
+Syria,2006,15.4,75.7,3.31,18728200,25819314494,Asia,Western Asia
+Tajikistan,2006,51.4,68.7,3.64,6949566,1175016606,Asia,Central Asia
+Thailand,2006,14.6,73.5,1.52,66174486,165400160325,Asia,South-Eastern Asia
+Timor-Leste,2006,63.9,68.5,6.7,1008389,304215734.3,Asia,South-Eastern Asia
+Turkey,2006,21.7,76.7,2.2,68704721,355999132580,Asia,Western Asia
+Turkmenistan,2006,56.2,66.3,2.57,4801594,6998010941,Asia,Central Asia
+United Arab Emirates,2006,8.2,75.7,2.07,5171255,148879963946,Asia,Western Asia
+Uzbekistan,2006,44.6,68.8,2.48,26242947,19213134965,Asia,Central Asia
+West Bank and Gaza,2006,21.7,74.4,4.58,3662561,NA,Asia,Western Asia
+Vietnam,2006,22,73.5,1.89,84979667,48453031029,Asia,South-Eastern Asia
+Yemen,2006,51.9,65,5.2,21093973,12217132024,Asia,Western Asia
+Armenia,2007,18.8,72.3,1.4,2988117,4378219566,Asia,Western Asia
+Azerbaijan,2007,39.3,69.1,1.99,8763359,16696099500,Asia,Western Asia
+Bahrain,2007,8.5,77,2.29,1026568,12380031014,Asia,Western Asia
+Bangladesh,2007,45.9,67.7,2.44,146592687,69670899876,Asia,Southern Asia
+Bhutan,2007,40.4,70.3,2.59,681471,800957405.1,Asia,Southern Asia
+Brunei,2007,7.3,76.8,2.12,374459,6952621062,Asia,South-Eastern Asia
+Cambodia,2007,46.5,65.4,3.1,13728700,6971897273,Asia,South-Eastern Asia
+China,2007,17.2,73.1,1.53,1319625197,2456672989716,Asia,Eastern Asia
+Cyprus,2007,3.5,79.8,1.5,1063040,11954759661,Asia,Western Asia
+Georgia,2007,18.6,72.1,1.76,4385885,5351427005,Asia,Western Asia
+"Hong Kong, China",2007,NA,82.31,1.02,6878566,235782862471,Asia,Eastern Asia
+India,2007,51.9,64.3,2.69,1179685631,790088337362,Asia,Southern Asia
+Indonesia,2007,30.9,69.2,2.49,232296830,233243848107,Asia,South-Eastern Asia
+Iran,2007,19.4,72.8,1.87,71720859,151802594344,Asia,Southern Asia
+Iraq,2007,31.8,65.3,4.41,28423538,20496195776,Asia,Western Asia
+Israel,2007,4.1,80.3,2.91,6920762,154153404721,Asia,Western Asia
+Japan,2007,2.6,82.4,1.33,127250015,5217808186995,Asia,Eastern Asia
+Jordan,2007,19.3,76.3,3.64,5759424,13478443882,Asia,Western Asia
+Kazakhstan,2007,24.8,65.8,2.46,15755242,36113702490,Asia,Central Asia
+South Korea,2007,4.1,79.4,1.21,48205062,734478718311,Asia,Eastern Asia
+Kuwait,2007,9.8,77.7,2.67,2538591,61440300584,Asia,Western Asia
+Kyrgyz Republic,2007,31.7,67,2.73,5228937,1845752891,Asia,Central Asia
+Lao,2007,65.5,61.7,3.48,5939634,2738302709,Asia,South-Eastern Asia
+Lebanon,2007,10.4,77.5,1.62,4085426,22479859654,Asia,Western Asia
+"Macao, China",2007,NA,79.1,0.91,493022,13876944294,Asia,Eastern Asia
+Malaysia,2007,6.9,74.5,2.09,26730607,133247631579,Asia,South-Eastern Asia
+Maldives,2007,15.3,78.1,2.41,315515,1080294819,Asia,Southern Asia
+Mongolia,2007,30.6,64.4,2.32,2592776,1862675512,Asia,Eastern Asia
+Nepal,2007,42,68.1,3.05,26063619,6938460637,Asia,Southern Asia
+Oman,2007,10.4,76,2.89,2593750,26616587658,Asia,Western Asia
+Pakistan,2007,77.4,63.8,3.65,159767672,105879697772,Asia,Southern Asia
+Philippines,2007,26.4,69.7,3.33,88965508,113782759189,Asia,South-Eastern Asia
+Qatar,2007,8.4,77.3,2.3,1178955,37023885131,Asia,Western Asia
+Saudi Arabia,2007,16,78.2,3.05,26083522,238833567253,Asia,Western Asia
+Singapore,2007,2.3,80.4,1.29,4732785,143379969740,Asia,South-Eastern Asia
+Sri Lanka,2007,10.7,74.4,2.31,19813816,22811733077,Asia,Southern Asia
+Syria,2007,14.8,75.9,3.24,19425597,27291015420,Asia,Western Asia
+Tajikistan,2007,49.2,69.2,3.67,7099021,1430152675,Asia,Central Asia
+Thailand,2007,14,73.8,1.5,66353572,173743467322,Asia,South-Eastern Asia
+Timor-Leste,2007,60.7,69.2,6.59,1021235,339579440.6,Asia,South-Eastern Asia
+Turkey,2007,20.2,77.4,2.17,69515492,372619233720,Asia,Western Asia
+Turkmenistan,2007,54.7,66.8,2.52,4858235,7823776232,Asia,Central Asia
+United Arab Emirates,2007,8,75.6,2,6010100,153663846360,Asia,Western Asia
+Uzbekistan,2007,43.3,69.2,2.47,26586701,21038382787,Asia,Central Asia
+West Bank and Gaza,2007,21.3,74.3,4.48,3754693,NA,Asia,Western Asia
+Vietnam,2007,21.4,73.8,1.88,85770717,52550385537,Asia,South-Eastern Asia
+Yemen,2007,49.4,65.2,5.01,21701105,12624992174,Asia,Western Asia
+Armenia,2008,17.9,72.3,1.4,2975029,4680316716,Asia,Western Asia
+Azerbaijan,2008,37.3,69.2,1.99,8868713,18499278246,Asia,Western Asia
+Bahrain,2008,8.1,77.6,2.23,1115777,13159972968,Asia,Western Asia
+Bangladesh,2008,43.6,68.3,2.38,148252473,73983829245,Asia,Southern Asia
+Bhutan,2008,38.2,70.7,2.51,694990,838356460,Asia,Southern Asia
+Brunei,2008,7.4,76.9,2.1,380786,6817818067,Asia,South-Eastern Asia
+Cambodia,2008,43.3,66.1,3.05,13933660,7438427180,Asia,South-Eastern Asia
+China,2008,15.8,73.4,1.53,1326690636,2692513596728,Asia,Eastern Asia
+Cyprus,2008,3.3,80,1.49,1077010,12388312912,Asia,Western Asia
+Georgia,2008,17.2,71.8,1.79,4343290,5475261546,Asia,Western Asia
+"Hong Kong, China",2008,NA,82.49,1.04,6910384,241220758986,Asia,Eastern Asia
+India,2008,50,64.7,2.64,1197070109,820830424070,Asia,Southern Asia
+Indonesia,2008,29.7,69.4,2.48,235360765,247270439238,Asia,South-Eastern Asia
+Iran,2008,18.3,73.1,1.88,72530693,155294054014,Asia,Southern Asia
+Iraq,2008,31.2,66.6,4.34,29163327,22443334374,Asia,Western Asia
+Israel,2008,3.9,80.6,2.92,7093808,160363153467,Asia,Western Asia
+Japan,2008,2.5,82.5,1.34,127317900,5163457616712,Asia,Eastern Asia
+Jordan,2008,18.8,76.9,3.59,6010035,14453260027,Asia,Western Asia
+Kazakhstan,2008,23,67.1,2.51,15915966,37305454672,Asia,Central Asia
+South Korea,2008,3.9,79.8,1.23,48509842,751359801125,Asia,Eastern Asia
+Kuwait,2008,9.7,77.3,2.68,2705290,64493883523,Asia,Western Asia
+Kyrgyz Republic,2008,30.1,67.3,2.82,5301038,2000825963,Asia,Central Asia
+Lao,2008,63.2,62.5,3.43,6045439,2952572233,Asia,South-Eastern Asia
+Lebanon,2008,9.7,77.8,1.57,4109389,24564306468,Asia,Western Asia
+"Macao, China",2008,NA,79.32,0.94,507274,14339082786,Asia,Eastern Asia
+Malaysia,2008,6.9,74.5,2.05,27197419,139653485881,Asia,South-Eastern Asia
+Maldives,2008,13.7,78.5,2.38,321026,1212071918,Asia,Southern Asia
+Mongolia,2008,28.6,64.8,2.37,2629666,2028460486,Asia,Eastern Asia
+Nepal,2008,40,68.4,2.9,26325183,7362028621,Asia,Southern Asia
+Oman,2008,10.2,76.2,2.89,2652281,30023510878,Asia,Western Asia
+Pakistan,2008,76.1,64.1,3.58,163096985,107569517452,Asia,Southern Asia
+Philippines,2008,25.9,69.8,3.26,90297115,118507880852,Asia,South-Eastern Asia
+Qatar,2008,8.1,77.9,2.2,1388962,43577112800,Asia,Western Asia
+Saudi Arabia,2008,15.5,78.3,2.97,26742842,248933106154,Asia,Western Asia
+Singapore,2008,2.2,80.6,1.28,4849641,145818948185,Asia,South-Eastern Asia
+Sri Lanka,2008,10.2,74,2.32,19949553,24169041086,Asia,Southern Asia
+Syria,2008,14.2,76.1,3.17,20097057,28519111114,Asia,Western Asia
+Tajikistan,2008,47.4,69.6,3.7,7254072,1733997805,Asia,Central Asia
+Thailand,2008,13.4,73.9,1.48,66453255,178059776977,Asia,South-Eastern Asia
+Timor-Leste,2008,57.8,69.9,6.48,1030915,389275332.2,Asia,South-Eastern Asia
+Turkey,2008,18.9,77.8,2.15,70344357,375074194705,Asia,Western Asia
+Turkmenistan,2008,53.2,67.2,2.48,4917541,8973871338,Asia,Central Asia
+United Arab Emirates,2008,7.8,75.6,1.95,6900142,158726511689,Asia,Western Asia
+Uzbekistan,2008,42,69.6,2.46,26952719,22931837238,Asia,Central Asia
+West Bank and Gaza,2008,20.9,74.1,4.38,3854667,NA,Asia,Western Asia
+Vietnam,2008,20.8,74.1,1.86,86589342,55866678639,Asia,South-Eastern Asia
+Yemen,2008,47,65.7,4.83,22322699,13085486427,Asia,Western Asia
+Armenia,2009,17,72.6,1.6,2966108,4018052433,Asia,Western Asia
+Azerbaijan,2009,35.5,69.7,1.98,8980488,20219711123,Asia,Western Asia
+Bahrain,2009,7.6,78.2,2.18,1196774,13567932130,Asia,Western Asia
+Bangladesh,2009,41.3,68.6,2.32,149905836,78231358239,Asia,Southern Asia
+Bhutan,2009,36.1,70.9,2.44,707830,894764298.2,Asia,Southern Asia
+Brunei,2009,7.5,77,2.07,387080,6697458250,Asia,South-Eastern Asia
+Cambodia,2009,40,66.6,3.01,14144337,7444876071,Asia,South-Eastern Asia
+China,2009,14.6,73.9,1.54,1333807063,2940224847627,Asia,Eastern Asia
+Cyprus,2009,3.1,80.3,1.49,1090486,12181903864,Asia,Western Asia
+Georgia,2009,16,72.1,1.81,4298591,5268528047,Asia,Western Asia
+"Hong Kong, China",2009,NA,82.66,1.06,6949275,234803022180,Asia,Eastern Asia
+India,2009,48.2,65,2.6,1214182182,888452309192,Asia,Southern Asia
+Indonesia,2009,28.5,69.6,2.46,238465165,258716276502,Asia,South-Eastern Asia
+Iran,2009,17.3,73.4,1.89,73370982,158089346986,Asia,Southern Asia
+Iraq,2009,30.6,67.1,4.28,29970634,23385954418,Asia,Western Asia
+Israel,2009,3.8,81,2.92,7262964,161705503246,Asia,Western Asia
+Japan,2009,2.4,82.7,1.36,127340884,4878074528234,Asia,Eastern Asia
+Jordan,2009,18.3,77.5,3.53,6266865,15245796641,Asia,Western Asia
+Kazakhstan,2009,21.1,68.2,2.54,16098356,37753120128,Asia,Central Asia
+South Korea,2009,3.7,80.1,1.25,48807036,753760392874,Asia,Eastern Asia
+Kuwait,2009,9.5,77.4,2.68,2881243,61172448522,Asia,Western Asia
+Kyrgyz Republic,2009,28.4,67.7,2.9,5380310,2058575694,Asia,Central Asia
+Lao,2009,61,63.3,3.37,6153153,3174067556,Asia,South-Eastern Asia
+Lebanon,2009,9.2,77.9,1.54,4181742,26652272518,Asia,Western Asia
+"Macao, China",2009,NA,79.54,0.97,521405,14586387569,Asia,Eastern Asia
+Malaysia,2009,6.9,74.3,2.02,27661017,137368729998,Asia,South-Eastern Asia
+Maldives,2009,12.4,78.9,2.36,326713,1154629612,Asia,Southern Asia
+Mongolia,2009,26.8,65,2.41,2669572,2002727457,Asia,Eastern Asia
+Nepal,2009,38.1,68.7,2.76,26592666,7695759086,Asia,Southern Asia
+Oman,2009,10.1,76.2,2.89,2762073,30353769498,Asia,Western Asia
+Pakistan,2009,74.8,64.3,3.51,166520983,111437023701,Asia,Southern Asia
+Philippines,2009,25.4,69.9,3.2,91641881,119868742885,Asia,South-Eastern Asia
+Qatar,2009,7.9,78.5,2.13,1591151,48806366336,Asia,Western Asia
+Saudi Arabia,2009,15.1,78.5,2.9,27409491,249173365798,Asia,Western Asia
+Singapore,2009,2.2,81,1.26,4965105,144390308367,Asia,South-Eastern Asia
+Sri Lanka,2009,9.7,74.1,2.34,20078873,25024372773,Asia,Southern Asia
+Syria,2009,13.7,76.3,3.12,20566871,30230257781,Asia,Western Asia
+Tajikistan,2009,46,70,3.74,7414960,1801623720,Asia,Central Asia
+Thailand,2009,12.9,74,1.46,66548197,173911253778,Asia,South-Eastern Asia
+Timor-Leste,2009,55.3,70.4,6.36,1041827,438971223.8,Asia,South-Eastern Asia
+Turkey,2009,17.6,78.5,2.12,71261307,356973581803,Asia,Western Asia
+Turkmenistan,2009,51.7,67.6,2.45,4978960,9521277489,Asia,Central Asia
+United Arab Emirates,2009,7.6,75.6,1.9,7705423,156171920101,Asia,Western Asia
+Uzbekistan,2009,40.8,69.9,2.44,27338109,24789316054,Asia,Central Asia
+West Bank and Gaza,2009,20.5,73.8,4.3,3959988,NA,Asia,Western Asia
+Vietnam,2009,20.3,74.3,1.84,87449021,58840794627,Asia,South-Eastern Asia
+Yemen,2009,44.7,66.2,4.66,22954226,13591425750,Asia,Western Asia
+Armenia,2010,16.1,73,1.55,2963496,4102285513,Asia,Western Asia
+Azerbaijan,2010,33.9,70.1,1.97,9099893,21230696679,Asia,Western Asia
+Bahrain,2010,7.1,78.7,2.14,1261319,14178489076,Asia,Western Asia
+Bangladesh,2010,39.2,68.8,2.28,151616777,82979485251,Asia,Southern Asia
+Bhutan,2010,34.1,71.4,2.38,720246,961365501.9,Asia,Southern Asia
+Brunei,2010,7.7,77.1,2.05,393302,6871522907,Asia,South-Eastern Asia
+Cambodia,2010,36.7,67,2.97,14363586,7888819881,Asia,South-Eastern Asia
+China,2010,13.5,74.3,1.54,1340968737,3246008231781,Asia,Eastern Asia
+Cyprus,2010,3,80.6,1.48,1103685,12320777568,Asia,Western Asia
+Georgia,2010,14.9,72.2,1.82,4250132,5597970558,Asia,Western Asia
+"Hong Kong, China",2010,NA,82.84,1.08,6993570,251168960224,Asia,Eastern Asia
+India,2010,46.3,65.4,2.56,1230984504,973324950212,Asia,Southern Asia
+Indonesia,2010,27.4,69.8,2.43,241613126,274744677420,Asia,South-Eastern Asia
+Iran,2010,16.4,73.7,1.9,74253373,NA,Asia,Southern Asia
+Iraq,2010,30,67.3,4.21,30868156,23583402031,Asia,Western Asia
+Israel,2010,3.7,81.6,2.92,7420368,169541631200,Asia,Western Asia
+Japan,2010,2.4,82.7,1.37,127319802,5094422657992,Asia,Eastern Asia
+Jordan,2010,17.8,77.9,3.46,6517912,15597525670,Asia,Western Asia
+Kazakhstan,2010,19.3,68.5,2.54,16310624,40509097897,Asia,Central Asia
+South Korea,2010,3.5,80.4,1.27,49090041,801399964526,Asia,Eastern Asia
+Kuwait,2010,9.2,78.5,2.67,3059473,63258429016,Asia,Western Asia
+Kyrgyz Republic,2010,26.5,67.9,2.97,5464567,2030624399,Asia,Central Asia
+Lao,2010,59,64.1,3.29,6260544,3444717298,Asia,South-Eastern Asia
+Lebanon,2010,8.7,78.1,1.51,4337156,28517931595,Asia,Western Asia
+"Macao, China",2010,NA,79.75,1,534626,18529951645,Asia,Eastern Asia
+Malaysia,2010,6.8,74.4,2,28119500,147250929612,Asia,South-Eastern Asia
+Maldives,2010,11.2,79.2,2.34,332575,1220714434,Asia,Southern Asia
+Mongolia,2010,25,65.2,2.44,2712657,2130204298,Asia,Eastern Asia
+Nepal,2010,36.3,69,2.62,26875910,8066414654,Asia,Southern Asia
+Oman,2010,10,76.1,2.9,2943747,31567920277,Asia,Western Asia
+Pakistan,2010,73.5,64.5,3.43,170043918,116055243076,Asia,Southern Asia
+Philippines,2010,24.9,70.1,3.15,93038902,129017441694,Asia,South-Eastern Asia
+Qatar,2010,7.7,79.2,2.09,1765513,56908223147,Asia,Western Asia
+Saudi Arabia,2010,14.7,78.7,2.83,28090647,260739768720,Asia,Western Asia
+Singapore,2010,2.2,81.3,1.26,5078961,165706962574,Asia,South-Eastern Asia
+Sri Lanka,2010,9.4,75,2.34,20201312,27030316336,Asia,Southern Asia
+Syria,2010,13.2,76.5,3.08,20720602,31197626030,Asia,Western Asia
+Tajikistan,2010,44.7,70.1,3.78,7581696,1918729261,Asia,Central Asia
+Thailand,2010,12.5,74.2,1.44,66692024,187494613811,Asia,South-Eastern Asia
+Timor-Leste,2010,53.1,70.8,6.24,1057122,480540052.4,Asia,South-Eastern Asia
+Turkey,2010,16.4,78.8,2.1,72310416,389661484658,Asia,Western Asia
+Turkmenistan,2010,50.4,68.1,2.41,5041995,10397235018,Asia,Central Asia
+United Arab Emirates,2010,7.3,75.6,1.87,8329453,158408504665,Asia,Western Asia
+Uzbekistan,2010,39.6,70.2,2.41,27739764,26896407919,Asia,Central Asia
+West Bank and Gaza,2010,20.2,74.3,4.22,4068780,NA,Asia,Western Asia
+Vietnam,2010,19.8,74.5,1.82,88357775,62832215474,Asia,South-Eastern Asia
+Yemen,2010,42.4,66.6,4.5,23591972,14638265257,Asia,Western Asia
+Armenia,2011,15.3,73.5,1.5,2967984,4290990647,Asia,Western Asia
+Azerbaijan,2011,32.5,70.8,1.96,9227512,21443003646,Asia,Western Asia
+Bahrain,2011,6.7,78.8,2.12,1306014,NA,Asia,Western Asia
+Bangladesh,2011,37.2,69.3,2.24,153405612,88507817581,Asia,Southern Asia
+Bhutan,2011,32.3,71.7,2.32,732246,1042216341,Asia,Southern Asia
+Brunei,2011,7.8,76.9,2.03,399443,NA,Asia,South-Eastern Asia
+Cambodia,2011,33.6,67.6,2.93,14593099,8435594576,Asia,South-Eastern Asia
+China,2011,12.5,74.9,1.54,1348174478,3547886997336,Asia,Eastern Asia
+Cyprus,2011,2.9,81.1,1.47,1116644,12379424470,Asia,Western Asia
+Georgia,2011,13.8,72.2,1.82,4196401,5987225425,Asia,Western Asia
+"Hong Kong, China",2011,NA,83.02,1.1,7044211,264136719511,Asia,Eastern Asia
+India,2011,44.4,65.7,2.53,1247446011,1040055442507,Asia,Southern Asia
+Indonesia,2011,26.3,70.1,2.4,244808254,292484884332,Asia,South-Eastern Asia
+Iran,2011,15.7,74.1,1.91,75184322,NA,Asia,Southern Asia
+Iraq,2011,29.3,67.7,4.15,31867758,25918884456,Asia,Western Asia
+Israel,2011,3.5,81.6,2.92,7563334,177521385057,Asia,Western Asia
+Japan,2011,2.3,82.6,1.39,127252900,5058761701478,Asia,Eastern Asia
+Jordan,2011,17.3,78.1,3.39,6760371,16001112166,Asia,Western Asia
+Kazakhstan,2011,17.5,69.1,2.52,16554305,43547280239,Asia,Central Asia
+South Korea,2011,3.4,80.6,1.29,49356692,830523427930,Asia,Eastern Asia
+Kuwait,2011,8.9,79,2.65,3239181,68439294353,Asia,Western Asia
+Kyrgyz Republic,2011,24.6,68.5,3.03,5553827,2172768107,Asia,Central Asia
+Lao,2011,57.1,65,3.2,6366909,3721626157,Asia,South-Eastern Asia
+Lebanon,2011,8.3,76.6,1.5,4591698,29373469542,Asia,Western Asia
+"Macao, China",2011,NA,79.97,1.03,546682,22373067976,Asia,Eastern Asia
+Malaysia,2011,6.7,74.6,1.99,28572970,154815013650,Asia,South-Eastern Asia
+Maldives,2011,10.1,79.6,2.31,338618,1311837036,Asia,Southern Asia
+Mongolia,2011,23.4,65.6,2.45,2759074,2497918714,Asia,Eastern Asia
+Nepal,2011,34.6,69.3,2.5,27179237,8379718550,Asia,Southern Asia
+Oman,2011,10,76.3,2.9,3210003,33304155893,Asia,Western Asia
+Pakistan,2011,72.1,64.9,3.35,173669648,118790417253,Asia,Southern Asia
+Philippines,2011,24.4,70.2,3.11,94501233,133814916391,Asia,South-Eastern Asia
+Qatar,2011,7.5,79.7,2.06,1905437,67606969099,Asia,Western Asia
+Saudi Arabia,2011,14.2,78.9,2.76,28788438,278403467184,Asia,Western Asia
+Singapore,2011,2.2,81.5,1.27,5190666,173808582448,Asia,South-Eastern Asia
+Sri Lanka,2011,9.1,76.4,2.35,20315673,29260877188,Asia,Southern Asia
+Syria,2011,12.8,75.1,3.04,20501167,NA,Asia,Western Asia
+Tajikistan,2011,43.3,70.1,3.81,7753925,2060715227,Asia,Central Asia
+Thailand,2011,12,74.3,1.43,66902958,187589623453,Asia,South-Eastern Asia
+Timor-Leste,2011,51.1,71.3,6.11,1077602,531477298,Asia,South-Eastern Asia
+Turkey,2011,15.3,78.8,2.08,73517002,422738755426,Asia,Western Asia
+Turkmenistan,2011,48.9,68.5,2.38,5106672,11426561285,Asia,Central Asia
+United Arab Emirates,2011,7,75.5,1.84,8734722,166170521394,Asia,Western Asia
+Uzbekistan,2011,38.4,70.6,2.38,28158395,29128809776,Asia,Central Asia
+West Bank and Gaza,2011,19.8,74.2,4.14,4181135,NA,Asia,Western Asia
+Vietnam,2011,19.3,74.7,1.79,89321903,66530108958,Asia,South-Eastern Asia
+Yemen,2011,40.3,66.6,4.35,24234940,13104223693,Asia,Western Asia
+Armenia,2012,14.6,73.9,1.47,2978339,NA,Asia,Western Asia
+Azerbaijan,2012,31.2,71.5,1.94,9361477,NA,Asia,Western Asia
+Bahrain,2012,6.3,79,2.09,1333577,NA,Asia,Western Asia
+Bangladesh,2012,35.3,69.4,2.21,155257387,NA,Asia,Southern Asia
+Bhutan,2012,30.8,71.9,2.28,743711,NA,Asia,Southern Asia
+Brunei,2012,8.1,76.9,2.01,405512,NA,Asia,South-Eastern Asia
+Cambodia,2012,30.7,68.2,2.89,14832255,NA,Asia,South-Eastern Asia
+China,2012,11.5,75.3,1.55,1355386952,NA,Asia,Eastern Asia
+Cyprus,2012,2.8,81.5,1.47,1129303,NA,Asia,Western Asia
+Georgia,2012,12.8,72.4,1.82,4138920,NA,Asia,Western Asia
+"Hong Kong, China",2012,NA,83.2,1.12,7101858,NA,Asia,Eastern Asia
+India,2012,42.6,66.1,2.51,1263589639,NA,Asia,Southern Asia
+Indonesia,2012,25.3,70.3,2.37,248037853,NA,Asia,South-Eastern Asia
+Iran,2012,15.1,74.3,1.92,76156975,NA,Asia,Southern Asia
+Iraq,2012,28.7,68.1,4.09,32957622,NA,Asia,Western Asia
+Israel,2012,3.4,82.1,2.91,7694507,NA,Asia,Western Asia
+Japan,2012,2.2,82.9,1.41,127139821,NA,Asia,Eastern Asia
+Jordan,2012,16.8,78.2,3.31,6994451,NA,Asia,Western Asia
+Kazakhstan,2012,16,69.7,2.49,16821455,NA,Asia,Central Asia
+South Korea,2012,3.3,80.7,1.3,49608451,NA,Asia,Eastern Asia
+Kuwait,2012,8.5,79.1,2.63,3419581,NA,Asia,Western Asia
+Kyrgyz Republic,2012,22.9,69,3.06,5648230,NA,Asia,Central Asia
+Lao,2012,55.4,65.6,3.11,6473050,NA,Asia,South-Eastern Asia
+Lebanon,2012,7.9,78.5,1.5,4924257,NA,Asia,Western Asia
+"Macao, China",2012,NA,80.19,1.06,557763,NA,Asia,Eastern Asia
+Malaysia,2012,6.6,74.7,1.98,29021940,NA,Asia,South-Eastern Asia
+Maldives,2012,9.2,79.8,2.29,344817,NA,Asia,Southern Asia
+Mongolia,2012,22.1,66,2.45,2808339,NA,Asia,Eastern Asia
+Nepal,2012,33.1,69.7,2.39,27500515,NA,Asia,Southern Asia
+Oman,2012,10,76.6,2.88,3545192,NA,Asia,Western Asia
+Pakistan,2012,70.6,65.1,3.26,177392252,NA,Asia,Southern Asia
+Philippines,2012,23.9,70.3,3.08,96017322,NA,Asia,South-Eastern Asia
+Qatar,2012,7.3,79.9,2.04,2015624,NA,Asia,Western Asia
+Saudi Arabia,2012,13.8,79.2,2.7,29496047,NA,Asia,Western Asia
+Singapore,2012,2.2,81.6,1.28,5299524,NA,Asia,South-Eastern Asia
+Sri Lanka,2012,8.9,76.8,2.35,20421862,NA,Asia,Southern Asia
+Syria,2012,12.6,68.1,3,19978756,NA,Asia,Western Asia
+Tajikistan,2012,42.1,70.8,3.82,7930929,NA,Asia,Central Asia
+Thailand,2012,11.6,74.4,1.41,67164130,NA,Asia,South-Eastern Asia
+Timor-Leste,2012,49.3,71.7,5.98,1102076,NA,Asia,South-Eastern Asia
+Turkey,2012,14.2,79.1,2.06,74849187,NA,Asia,Western Asia
+Turkmenistan,2012,47.6,68.9,2.35,5172941,NA,Asia,Central Asia
+United Arab Emirates,2012,6.7,75.5,1.82,8952542,NA,Asia,Western Asia
+Uzbekistan,2012,37.2,70.9,2.34,28592451,NA,Asia,Central Asia
+West Bank and Gaza,2012,19.4,74.2,4.08,4297826,NA,Asia,Western Asia
+Vietnam,2012,18.8,74.9,1.77,90335547,NA,Asia,South-Eastern Asia
+Yemen,2012,38.4,66.7,4.21,24882792,NA,Asia,Western Asia
+Armenia,2013,13.8,74.3,1.44,2992192,NA,Asia,Western Asia
+Azerbaijan,2013,30,72.1,1.92,9497496,NA,Asia,Western Asia
+Bahrain,2013,5.9,79.1,2.08,1349427,NA,Asia,Western Asia
+Bangladesh,2013,33.5,69.8,2.18,157157394,NA,Asia,Southern Asia
+Bhutan,2013,29.5,72.2,2.23,754637,NA,Asia,Southern Asia
+Brunei,2013,8.3,76.9,1.99,411499,NA,Asia,South-Eastern Asia
+Cambodia,2013,28.3,68.7,2.86,15078564,NA,Asia,South-Eastern Asia
+China,2013,10.6,75.7,1.56,1362514260,NA,Asia,Eastern Asia
+Cyprus,2013,2.7,81.7,1.46,1141652,NA,Asia,Western Asia
+Georgia,2013,12,72.5,1.82,4082727,NA,Asia,Western Asia
+"Hong Kong, China",2013,NA,83.38,1.14,7163930,NA,Asia,Eastern Asia
+India,2013,40.9,66.5,2.48,1279498874,NA,Asia,Southern Asia
+Indonesia,2013,24.4,70.6,2.34,251268276,NA,Asia,South-Eastern Asia
+Iran,2013,14.5,74.5,1.92,77152445,NA,Asia,Southern Asia
+Iraq,2013,27.9,68.3,4.03,34107366,NA,Asia,Western Asia
+Israel,2013,3.3,82,2.9,7817818,NA,Asia,Western Asia
+Japan,2013,2.1,83,1.42,126984964,NA,Asia,Eastern Asia
+Jordan,2013,16.3,78.3,3.24,7214832,NA,Asia,Western Asia
+Kazakhstan,2013,14.6,70,2.46,17099546,NA,Asia,Central Asia
+South Korea,2013,3.2,80.9,1.32,49846756,NA,Asia,Eastern Asia
+Kuwait,2013,8.1,79.7,2.6,3593689,NA,Asia,Western Asia
+Kyrgyz Republic,2013,21.4,69.4,3.08,5745698,NA,Asia,Central Asia
+Lao,2013,53.7,66.1,3.02,6579985,NA,Asia,South-Eastern Asia
+Lebanon,2013,7.6,78.6,1.5,5286990,NA,Asia,Western Asia
+"Macao, China",2013,NA,80.4,1.08,568056,NA,Asia,Eastern Asia
+Malaysia,2013,6.4,74.9,1.96,29465372,NA,Asia,South-Eastern Asia
+Maldives,2013,8.4,79.9,2.26,351111,NA,Asia,Southern Asia
+Mongolia,2013,20.9,66.4,2.44,2859174,NA,Asia,Eastern Asia
+Nepal,2013,31.7,69.9,2.3,27834981,NA,Asia,Southern Asia
+Oman,2013,10,76.8,2.85,3906912,NA,Asia,Western Asia
+Pakistan,2013,69.1,65.4,3.19,181192646,NA,Asia,Southern Asia
+Philippines,2013,23.3,70.3,3.04,97571676,NA,Asia,South-Eastern Asia
+Qatar,2013,7.2,79.9,2.02,2101288,NA,Asia,Western Asia
+Saudi Arabia,2013,13.3,79.3,2.64,30201051,NA,Asia,Western Asia
+Singapore,2013,2.2,81.7,1.28,5405009,NA,Asia,South-Eastern Asia
+Sri Lanka,2013,8.7,77.1,2.34,20521959,NA,Asia,Southern Asia
+Syria,2013,12.1,69,2.96,19322593,NA,Asia,Western Asia
+Tajikistan,2013,40.9,71.4,3.82,8111894,NA,Asia,Central Asia
+Thailand,2013,11.2,74.4,1.4,67451422,NA,Asia,South-Eastern Asia
+Timor-Leste,2013,47.6,72,5.86,1129315,NA,Asia,South-Eastern Asia
+Turkey,2013,13.2,78.8,2.04,76223639,NA,Asia,Western Asia
+Turkmenistan,2013,46.2,69.2,2.33,5240088,NA,Asia,Central Asia
+United Arab Emirates,2013,6.4,75.4,1.8,9039978,NA,Asia,Western Asia
+Uzbekistan,2013,36.1,71.2,2.31,29033361,NA,Asia,Central Asia
+West Bank and Gaza,2013,19,74.4,4.01,4418341,NA,Asia,Western Asia
+Vietnam,2013,18.3,75,1.74,91378752,NA,Asia,South-Eastern Asia
+Yemen,2013,36.7,67.1,4.08,25533217,NA,Asia,Western Asia
+Armenia,2014,13.2,74.5,1.42,3006154,NA,Asia,Western Asia
+Azerbaijan,2014,28.9,72.5,1.91,9629779,NA,Asia,Western Asia
+Bahrain,2014,5.6,79.1,2.05,1361930,NA,Asia,Western Asia
+Bangladesh,2014,32.1,70.1,2.15,159077513,NA,Asia,Southern Asia
+Bhutan,2014,28.3,72.4,2.19,765008,NA,Asia,Southern Asia
+Brunei,2014,8.5,77.1,1.98,417394,NA,Asia,South-Eastern Asia
+Cambodia,2014,26.3,69.1,2.83,15328136,NA,Asia,South-Eastern Asia
+China,2014,9.8,75.9,1.56,1369435670,NA,Asia,Eastern Asia
+Cyprus,2014,2.6,81.7,1.46,1153658,NA,Asia,Western Asia
+Georgia,2014,11.3,72.6,1.82,4034774,NA,Asia,Western Asia
+"Hong Kong, China",2014,NA,83.56,1.15,7226869,NA,Asia,Eastern Asia
+India,2014,39.3,66.9,2.45,1295291543,NA,Asia,Southern Asia
+Indonesia,2014,23.6,70.8,2.31,254454778,NA,Asia,South-Eastern Asia
+Iran,2014,13.9,74.6,1.92,78143644,NA,Asia,Southern Asia
+Iraq,2014,27.2,67.7,3.97,35273293,NA,Asia,Western Asia
+Israel,2014,3.3,81.3,2.88,7939483,NA,Asia,Western Asia
+Japan,2014,2.1,83.1,1.43,126794564,NA,Asia,Eastern Asia
+Jordan,2014,15.8,78.4,3.18,7416083,NA,Asia,Western Asia
+Kazakhstan,2014,13.5,70.2,2.43,17371621,NA,Asia,Central Asia
+South Korea,2014,3,80.9,1.34,50074401,NA,Asia,Eastern Asia
+Kuwait,2014,7.7,80.2,2.58,3753121,NA,Asia,Western Asia
+Kyrgyz Republic,2014,20.1,69.6,3.07,5843617,NA,Asia,Central Asia
+Lao,2014,52.3,66.6,2.94,6689300,NA,Asia,South-Eastern Asia
+Lebanon,2014,7.3,78.7,1.49,5612096,NA,Asia,Western Asia
+"Macao, China",2014,NA,80.61,1.11,577914,NA,Asia,Eastern Asia
+Malaysia,2014,6.2,75.1,1.95,29901997,NA,Asia,South-Eastern Asia
+Maldives,2014,7.8,80,2.22,357415,NA,Asia,Southern Asia
+Mongolia,2014,19.9,66.8,2.42,2909871,NA,Asia,Eastern Asia
+Nepal,2014,30.5,70.2,2.23,28174724,NA,Asia,Southern Asia
+Oman,2014,10,77,2.81,4236057,NA,Asia,Western Asia
+Pakistan,2014,67.4,65.6,3.11,185044286,NA,Asia,Southern Asia
+Philippines,2014,22.8,70.7,3.01,99138690,NA,Asia,South-Eastern Asia
+Qatar,2014,7,79.8,2,2172065,NA,Asia,Western Asia
+Saudi Arabia,2014,12.9,79.4,2.59,30886545,NA,Asia,Western Asia
+Singapore,2014,2.2,81.9,1.29,5506586,NA,Asia,South-Eastern Asia
+Sri Lanka,2014,8.6,77.4,2.33,20618991,NA,Asia,Southern Asia
+Syria,2014,11.7,67.2,2.92,18772481,NA,Asia,Western Asia
+Tajikistan,2014,39.7,71.9,3.79,8295840,NA,Asia,Central Asia
+Thailand,2014,10.9,74.6,1.39,67725979,NA,Asia,South-Eastern Asia
+Timor-Leste,2014,46.1,72.3,5.73,1157360,NA,Asia,South-Eastern Asia
+Turkey,2014,12.3,79.1,2.02,77523788,NA,Asia,Western Asia
+Turkmenistan,2014,45,69.6,2.3,5307188,NA,Asia,Central Asia
+United Arab Emirates,2014,6.1,75.4,1.78,9086139,NA,Asia,Western Asia
+Uzbekistan,2014,35,71.5,2.28,29469913,NA,Asia,Central Asia
+West Bank and Gaza,2014,18.5,74.5,3.95,4542059,NA,Asia,Western Asia
+Vietnam,2014,17.8,75.2,1.72,92423338,NA,Asia,South-Eastern Asia
+Yemen,2014,35.1,67.1,3.95,26183676,NA,Asia,Western Asia
+Armenia,2015,12.6,74.7,1.41,3017712,NA,Asia,Western Asia
+Azerbaijan,2015,27.9,72.9,1.89,9753968,NA,Asia,Western Asia
+Bahrain,2015,5.3,79.1,2.03,1377237,NA,Asia,Western Asia
+Bangladesh,2015,30.7,70.4,2.12,160995642,NA,Asia,Southern Asia
+Bhutan,2015,27.2,72.7,2.15,774830,NA,Asia,Southern Asia
+Brunei,2015,8.6,77.1,1.96,423188,NA,Asia,South-Eastern Asia
+Cambodia,2015,24.6,69.4,2.8,15577899,NA,Asia,South-Eastern Asia
+China,2015,9.2,76.2,1.57,1376048943,NA,Asia,Eastern Asia
+Cyprus,2015,2.5,81.8,1.46,1165300,NA,Asia,Western Asia
+Georgia,2015,10.6,72.9,1.81,3999812,NA,Asia,Western Asia
+"Hong Kong, China",2015,NA,83.73,1.17,7287983,NA,Asia,Eastern Asia
+India,2015,37.9,67.2,2.43,1311050527,NA,Asia,Southern Asia
+Indonesia,2015,22.8,71.1,2.28,257563815,NA,Asia,South-Eastern Asia
+Iran,2015,13.4,74.6,1.91,79109272,NA,Asia,Southern Asia
+Iraq,2015,26.5,67.4,3.91,36423395,NA,Asia,Western Asia
+Israel,2015,3.2,82.1,2.86,8064036,NA,Asia,Western Asia
+Japan,2015,2,83.2,1.45,126573481,NA,Asia,Eastern Asia
+Jordan,2015,15.4,78.5,3.12,7594547,NA,Asia,Western Asia
+Kazakhstan,2015,12.6,70.2,2.4,17625226,NA,Asia,Central Asia
+South Korea,2015,2.9,81,1.36,50293439,NA,Asia,Eastern Asia
+Kuwait,2015,7.3,80.3,2.55,3892115,NA,Asia,Western Asia
+Kyrgyz Republic,2015,19,69.8,3.04,5939962,NA,Asia,Central Asia
+Lao,2015,50.7,67.1,2.87,6802023,NA,Asia,South-Eastern Asia
+Lebanon,2015,7.1,78.9,1.49,5850743,NA,Asia,Western Asia
+"Macao, China",2015,NA,80.82,1.13,587606,NA,Asia,Eastern Asia
+Malaysia,2015,6,75.3,1.94,30331007,NA,Asia,South-Eastern Asia
+Maldives,2015,7.4,80,2.18,363657,NA,Asia,Southern Asia
+Mongolia,2015,19,67.1,2.4,2959134,NA,Asia,Eastern Asia
+Nepal,2015,29.4,69.7,2.18,28513700,NA,Asia,Southern Asia
+Oman,2015,9.9,77.2,2.75,4490541,NA,Asia,Western Asia
+Pakistan,2015,65.8,65.9,3.04,188924874,NA,Asia,Southern Asia
+Philippines,2015,22.2,71,2.98,100699395,NA,Asia,South-Eastern Asia
+Qatar,2015,6.8,79.7,1.98,2235355,NA,Asia,Western Asia
+Saudi Arabia,2015,12.5,79.5,2.54,31540372,NA,Asia,Western Asia
+Singapore,2015,2.1,82,1.3,5603740,NA,Asia,South-Eastern Asia
+Sri Lanka,2015,8.4,77.6,2.31,20715010,NA,Asia,Southern Asia
+Syria,2015,11.1,68.2,2.88,18502413,NA,Asia,Western Asia
+Tajikistan,2015,38.5,72.4,3.75,8481855,NA,Asia,Central Asia
+Thailand,2015,10.5,74.7,1.38,67959359,NA,Asia,South-Eastern Asia
+Timor-Leste,2015,44.7,72.4,5.6,1184765,NA,Asia,South-Eastern Asia
+Turkey,2015,11.6,79.2,2,78665830,NA,Asia,Western Asia
+Turkmenistan,2015,43.7,70,2.27,5373502,NA,Asia,Central Asia
+United Arab Emirates,2015,5.9,75.4,1.77,9156963,NA,Asia,Western Asia
+Uzbekistan,2015,33.9,71.8,2.25,29893488,NA,Asia,Central Asia
+West Bank and Gaza,2015,18,74.6,3.88,4668466,NA,Asia,Western Asia
+Vietnam,2015,17.3,75.4,1.7,93447601,NA,Asia,South-Eastern Asia
+Yemen,2015,33.8,66,3.83,26832215,NA,Asia,Western Asia
+Armenia,2016,NA,74.9,NA,NA,NA,Asia,Western Asia
+Azerbaijan,2016,NA,73.3,NA,NA,NA,Asia,Western Asia
+Bahrain,2016,NA,79.1,NA,NA,NA,Asia,Western Asia
+Bangladesh,2016,NA,70.7,NA,NA,NA,Asia,Southern Asia
+Bhutan,2016,NA,73,NA,NA,NA,Asia,Southern Asia
+Brunei,2016,NA,77.1,NA,NA,NA,Asia,South-Eastern Asia
+Cambodia,2016,NA,69.7,NA,NA,NA,Asia,South-Eastern Asia
+China,2016,NA,76.5,NA,NA,NA,Asia,Eastern Asia
+Cyprus,2016,NA,81.9,NA,NA,NA,Asia,Western Asia
+Georgia,2016,NA,73.2,NA,NA,NA,Asia,Western Asia
+"Hong Kong, China",2016,NA,83.9,NA,NA,NA,Asia,Eastern Asia
+India,2016,NA,67.5,NA,NA,NA,Asia,Southern Asia
+Indonesia,2016,NA,71.4,NA,NA,NA,Asia,South-Eastern Asia
+Iran,2016,NA,74.6,NA,NA,NA,Asia,Southern Asia
+Iraq,2016,NA,67.1,NA,NA,NA,Asia,Western Asia
+Israel,2016,NA,82.91,NA,NA,NA,Asia,Western Asia
+Japan,2016,NA,83.3,NA,NA,NA,Asia,Eastern Asia
+Jordan,2016,NA,78.6,NA,NA,NA,Asia,Western Asia
+Kazakhstan,2016,NA,70.2,NA,NA,NA,Asia,Central Asia
+South Korea,2016,NA,81.1,NA,NA,NA,Asia,Eastern Asia
+Kuwait,2016,NA,80.4,NA,NA,NA,Asia,Western Asia
+Kyrgyz Republic,2016,NA,70,NA,NA,NA,Asia,Central Asia
+Lao,2016,NA,67.6,NA,NA,NA,Asia,South-Eastern Asia
+Lebanon,2016,NA,79.1,NA,NA,NA,Asia,Western Asia
+"Macao, China",2016,NA,81.03,NA,NA,NA,Asia,Eastern Asia
+Malaysia,2016,NA,75.5,NA,NA,NA,Asia,South-Eastern Asia
+Maldives,2016,NA,80,NA,NA,NA,Asia,Southern Asia
+Mongolia,2016,NA,67.4,NA,NA,NA,Asia,Eastern Asia
+Nepal,2016,NA,69.2,NA,NA,NA,Asia,Southern Asia
+Oman,2016,NA,77.4,NA,NA,NA,Asia,Western Asia
+Pakistan,2016,NA,66.2,NA,NA,NA,Asia,Southern Asia
+Philippines,2016,NA,71.3,NA,NA,NA,Asia,South-Eastern Asia
+Qatar,2016,NA,79.6,NA,NA,NA,Asia,Western Asia
+Saudi Arabia,2016,NA,79.6,NA,NA,NA,Asia,Western Asia
+Singapore,2016,NA,82.1,NA,NA,NA,Asia,South-Eastern Asia
+Sri Lanka,2016,NA,77.8,NA,NA,NA,Asia,Southern Asia
+Syria,2016,NA,69.21,NA,NA,NA,Asia,Western Asia
+Tajikistan,2016,NA,72.9,NA,NA,NA,Asia,Central Asia
+Thailand,2016,NA,74.8,NA,NA,NA,Asia,South-Eastern Asia
+Timor-Leste,2016,NA,72.5,NA,NA,NA,Asia,South-Eastern Asia
+Turkey,2016,NA,79.3,NA,NA,NA,Asia,Western Asia
+Turkmenistan,2016,NA,70.4,NA,NA,NA,Asia,Central Asia
+United Arab Emirates,2016,NA,75.4,NA,NA,NA,Asia,Western Asia
+Uzbekistan,2016,NA,72.1,NA,NA,NA,Asia,Central Asia
+West Bank and Gaza,2016,NA,74.7,NA,NA,NA,Asia,Western Asia
+Vietnam,2016,NA,75.6,NA,NA,NA,Asia,South-Eastern Asia
+Yemen,2016,NA,64.92,NA,NA,NA,Asia,Western Asia

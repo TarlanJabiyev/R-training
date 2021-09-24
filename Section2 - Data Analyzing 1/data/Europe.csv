@@ -1,0 +1,2224 @@
+country,year,infant_mortality,life_expectancy,fertility,population,gdp,continent,region
+Albania,1960,115.4,62.87,6.19,1636054,NA,Europe,Southern Europe
+Austria,1960,37.3,68.75,2.7,7065525,52392699681,Europe,Western Europe
+Belarus,1960,NA,71.59,2.74,8190027,NA,Europe,Eastern Europe
+Belgium,1960,29.5,69.59,2.6,9140563,68236665814,Europe,Western Europe
+Bosnia and Herzegovina,1960,105,62.56,4.05,3214520,NA,Europe,Southern Europe
+Bulgaria,1960,49,69.22,2.25,7866472,NA,Europe,Eastern Europe
+Croatia,1960,70,64.85,2.33,4192634,NA,Europe,Southern Europe
+Czech Republic,1960,22,70.58,2.3,9578587,NA,Europe,Eastern Europe
+Denmark,1960,21.3,72.28,2.54,4580708,52164745342,Europe,Northern Europe
+Estonia,1960,40,69.42,1.95,1216831,NA,Europe,Northern Europe
+Finland,1960,21.9,69.03,2.71,4430228,32363088296,Europe,Northern Europe
+France,1960,23.7,70.49,2.77,45865699,349778187326,Europe,Western Europe
+Germany,1960,34,69.26,2.41,73179665,NA,Europe,Western Europe
+Greece,1960,48.3,68.41,2.22,8311386,28208389534,Europe,Southern Europe
+Hungary,1960,53.4,68.13,2.05,10001270,10486859064,Europe,Eastern Europe
+Iceland,1960,17.5,74.22,4.13,175520,1775037087,Europe,Northern Europe
+Ireland,1960,30.4,70.76,3.86,2819059,NA,Europe,Northern Europe
+Italy,1960,44.2,69.19,2.37,49714962,293540646267,Europe,Southern Europe
+Latvia,1960,35,70.37,1.9,2132368,NA,Europe,Northern Europe
+Lithuania,1960,52,70.33,2.55,2770737,NA,Europe,Northern Europe
+Luxembourg,1960,33,68.99,2.35,314586,4302303281,Europe,Western Europe
+"Macedonia, FYR",1960,120,60.85,3.72,1488664,NA,Europe,Southern Europe
+Malta,1960,36.4,68.32,3.53,312788,NA,Europe,Southern Europe
+Moldova,1960,NA,62.22,3.33,3003557,NA,Europe,Eastern Europe
+Montenegro,1960,NA,63.86,3.52,487416,NA,Europe,Southern Europe
+Netherlands,1960,16.4,73.35,3.12,11418652,98359287391,Europe,Western Europe
+Norway,1960,18.4,73.66,2.88,3582016,38302651835,Europe,Northern Europe
+Poland,1960,57.8,67.92,2.97,29716363,NA,Europe,Eastern Europe
+Portugal,1960,84.6,64.23,3.16,8875311,20981025078,Europe,Southern Europe
+Romania,1960,69,65.92,2.32,18613835,NA,Europe,Eastern Europe
+Russia,1960,NA,68.61,2.56,119860289,NA,Europe,Eastern Europe
+Serbia,1960,NA,63.33,2.63,7556730,NA,Europe,Southern Europe
+Slovak Republic,1960,33,70.42,3.09,4137224,NA,Europe,Eastern Europe
+Slovenia,1960,37,68.62,2.32,1586632,NA,Europe,Southern Europe
+Spain,1960,47.7,69.23,2.77,30450994,113021529146,Europe,Southern Europe
+Sweden,1960,16.3,73.01,2.2,7479602,85028727553,Europe,Northern Europe
+Switzerland,1960,21.6,71.46,2.52,5296120,NA,Europe,Western Europe
+Ukraine,1960,NA,70.88,2.42,42662150,NA,Europe,Eastern Europe
+United Kingdom,1960,22.9,71.02,2.69,52410496,525328308407,Europe,Northern Europe
+Albania,1961,110.8,63.92,6.08,1685901,NA,Europe,Southern Europe
+Austria,1961,35,69.72,2.79,7105654,55294196572,Europe,Western Europe
+Belarus,1961,NA,72.3,2.73,8274486,NA,Europe,Eastern Europe
+Belgium,1961,28.1,70.46,2.63,9200393,71634993490,Europe,Western Europe
+Bosnia and Herzegovina,1961,NA,63.34,3.95,3277096,NA,Europe,Southern Europe
+Bulgaria,1961,NA,70.26,2.23,7935058,NA,Europe,Eastern Europe
+Croatia,1961,NA,65.26,2.3,4222502,NA,Europe,Southern Europe
+Czech Republic,1961,NA,70.77,2.27,9626727,NA,Europe,Eastern Europe
+Denmark,1961,20.8,72.55,2.55,4613769,55492247059,Europe,Northern Europe
+Estonia,1961,NA,69.74,1.95,1230521,NA,Europe,Northern Europe
+Finland,1961,20.6,69.07,2.65,4463432,34824194518,Europe,Northern Europe
+France,1961,22.4,71.07,2.8,46471083,369037927246,Europe,Western Europe
+Germany,1961,NA,69.85,2.44,73686490,NA,Europe,Western Europe
+Greece,1961,47.3,68.8,2.22,8366020,31353494474,Europe,Southern Europe
+Hungary,1961,51,69.06,1.97,10031496,NA,Europe,Eastern Europe
+Iceland,1961,17.2,73.6,4.07,179106,1773534306,Europe,Northern Europe
+Ireland,1961,29.2,70.24,3.93,2816832,NA,Europe,Northern Europe
+Italy,1961,42.7,69.82,2.41,50067464,317632248963,Europe,Southern Europe
+Latvia,1961,NA,70.6,1.88,2158546,NA,Europe,Northern Europe
+Lithuania,1961,NA,70.52,2.5,2807763,NA,Europe,Northern Europe
+Luxembourg,1961,NA,69.49,2.38,317442,4469727302,Europe,Western Europe
+"Macedonia, FYR",1961,NA,61.49,3.67,1507653,NA,Europe,Southern Europe
+Malta,1961,34.9,68.67,3.38,311702,NA,Europe,Southern Europe
+Moldova,1961,NA,62.61,3.26,3075927,NA,Europe,Eastern Europe
+Montenegro,1961,NA,64.54,3.42,498128,NA,Europe,Southern Europe
+Netherlands,1961,16.1,73.54,3.22,11576024,98649984992,Europe,Western Europe
+Norway,1961,18,73.67,2.91,3610710,40705505694,Europe,Northern Europe
+Poland,1961,53,68.04,2.85,30138099,NA,Europe,Eastern Europe
+Portugal,1961,82.3,62.85,3.18,8899331,22142318529,Europe,Southern Europe
+Romania,1961,NA,66.7,2.16,18780105,NA,Europe,Eastern Europe
+Russia,1961,NA,68.85,2.46,121390327,NA,Europe,Eastern Europe
+Serbia,1961,NA,63.88,2.6,7613356,NA,Europe,Southern Europe
+Slovak Republic,1961,NA,70.86,3.01,4193035,NA,Europe,Eastern Europe
+Slovenia,1961,NA,68.82,2.33,1596554,NA,Europe,Southern Europe
+Spain,1961,44.4,69.62,2.79,30777097,126401779752,Europe,Southern Europe
+Sweden,1961,16,73.47,2.23,7527081,89859666462,Europe,Northern Europe
+Switzerland,1961,21.2,71.79,2.55,5393411,NA,Europe,Western Europe
+Ukraine,1961,NA,71.15,2.31,43203635,NA,Europe,Eastern Europe
+United Kingdom,1961,22.5,70.77,2.75,52765864,540685152092,Europe,Northern Europe
+Albania,1962,106.5,64.84,5.96,1737645,NA,Europe,Southern Europe
+Austria,1962,32.9,69.51,2.8,7151077,56758760195,Europe,Western Europe
+Belarus,1962,NA,71.01,2.7,8356956,NA,Europe,Eastern Europe
+Belgium,1962,27,70.19,2.63,9261828,75368611864,Europe,Western Europe
+Bosnia and Herzegovina,1962,NA,64.07,3.85,3341809,NA,Europe,Southern Europe
+Bulgaria,1962,NA,69.55,2.21,8004367,NA,Europe,Eastern Europe
+Croatia,1962,NA,65.66,2.27,4251421,NA,Europe,Southern Europe
+Czech Republic,1962,NA,70.04,2.23,9679416,NA,Europe,Eastern Europe
+Denmark,1962,20.2,72.43,2.54,4649179,58636894019,Europe,Northern Europe
+Estonia,1962,NA,69.93,1.94,1245098,NA,Europe,Northern Europe
+Finland,1962,19.5,68.78,2.66,4494623,35862633032,Europe,Northern Europe
+France,1962,21.3,70.61,2.81,47121575,393660782189,Europe,Western Europe
+Germany,1962,NA,70.01,2.47,74238494,NA,Europe,Western Europe
+Greece,1962,46.2,69.14,2.22,8412059,31834306240,Europe,Southern Europe
+Hungary,1962,49,68,1.92,10064667,NA,Europe,Eastern Europe
+Iceland,1962,16.9,73.82,3.98,182640,1920980854,Europe,Northern Europe
+Ireland,1962,28,70.57,3.98,2821742,NA,Europe,Northern Europe
+Italy,1962,41,69.21,2.44,50458277,337337043431,Europe,Southern Europe
+Latvia,1962,NA,69.97,1.86,2185016,NA,Europe,Northern Europe
+Lithuania,1962,NA,69.46,2.46,2847221,NA,Europe,Northern Europe
+Luxembourg,1962,NA,68.59,2.39,320704,4530456488,Europe,Western Europe
+"Macedonia, FYR",1962,NA,62.11,3.6,1527105,NA,Europe,Southern Europe
+Malta,1962,33.7,69.02,3.2,310325,NA,Europe,Southern Europe
+Moldova,1962,NA,62.99,3.18,3145546,NA,Europe,Eastern Europe
+Montenegro,1962,NA,65.21,3.31,509708,NA,Europe,Southern Europe
+Netherlands,1962,15.6,73.21,3.18,11735896,105401103938,Europe,Western Europe
+Norway,1962,17.5,73.55,2.89,3638791,41850936292,Europe,Northern Europe
+Poland,1962,49.6,67.71,2.72,30530513,NA,Europe,Eastern Europe
+Portugal,1962,78.7,64.37,3.19,8917020,23606910623,Europe,Southern Europe
+Romania,1962,NA,67.32,2.02,18924068,NA,Europe,Eastern Europe
+Russia,1962,NA,68.51,2.34,122842753,NA,Europe,Eastern Europe
+Serbia,1962,NA,64.44,2.57,7669610,NA,Europe,Southern Europe
+Slovak Republic,1962,NA,70.4,2.94,4245726,NA,Europe,Eastern Europe
+Slovenia,1962,NA,68.98,2.33,1605645,NA,Europe,Southern Europe
+Spain,1962,41.7,69.65,2.8,31122390,138983102660,Europe,Southern Europe
+Sweden,1962,15.6,73.34,2.26,7576192,93686585670,Europe,Northern Europe
+Switzerland,1962,20.7,71.35,2.58,5503000,NA,Europe,Western Europe
+Ukraine,1962,NA,70.56,2.21,43749469,NA,Europe,Eastern Europe
+United Kingdom,1962,22,70.84,2.79,53146634,547865414029,Europe,Northern Europe
+Albania,1963,101.8,65.6,5.83,1790533,NA,Europe,Southern Europe
+Austria,1963,31.2,69.64,2.82,7199962,59107589568,Europe,Western Europe
+Belarus,1963,NA,71.66,2.65,8438535,NA,Europe,Eastern Europe
+Belgium,1963,26,70,2.63,9323467,78648340531,Europe,Western Europe
+Bosnia and Herzegovina,1963,NA,64.78,3.74,3406466,NA,Europe,Southern Europe
+Bulgaria,1963,40.6,70.38,2.2,8073469,NA,Europe,Eastern Europe
+Croatia,1963,NA,66.05,2.24,4279058,NA,Europe,Southern Europe
+Czech Republic,1963,NA,70.56,2.18,9730996,NA,Europe,Eastern Europe
+Denmark,1963,19.5,72.52,2.64,4686155,59010423485,Europe,Northern Europe
+Estonia,1963,NA,69.99,1.95,1260239,NA,Europe,Northern Europe
+Finland,1963,18.4,69.19,2.66,4522727,37040756259,Europe,Northern Europe
+France,1963,20.3,70.46,2.81,47781535,414710508267,Europe,Western Europe
+Germany,1963,NA,70.1,2.49,74820389,NA,Europe,Western Europe
+Greece,1963,45,69.44,2.23,8452617,35061049112,Europe,Southern Europe
+Hungary,1963,47.3,69.02,1.89,10099999,NA,Europe,Eastern Europe
+Iceland,1963,16.4,73.13,3.86,186056,2118522670,Europe,Northern Europe
+Ireland,1963,27,70.85,4,2831911,NA,Europe,Northern Europe
+Italy,1963,39.2,69.32,2.47,50872976,356260733937,Europe,Southern Europe
+Latvia,1963,NA,70.36,1.84,2211297,NA,Europe,Northern Europe
+Lithuania,1963,NA,70.64,2.42,2887887,NA,Europe,Northern Europe
+Luxembourg,1963,NA,68.8,2.39,324127,4686263804,Europe,Western Europe
+"Macedonia, FYR",1963,NA,62.72,3.53,1547445,NA,Europe,Southern Europe
+Malta,1963,32.6,69.37,3.01,308815,NA,Europe,Southern Europe
+Moldova,1963,NA,63.38,3.09,3212094,NA,Europe,Eastern Europe
+Montenegro,1963,NA,65.86,3.2,520714,NA,Europe,Southern Europe
+Netherlands,1963,15.3,73.33,3.19,11896942,109221495044,Europe,Western Europe
+Norway,1963,17.1,73.2,2.91,3666690,43435012262,Europe,Northern Europe
+Poland,1963,46.8,68.64,2.6,30893775,NA,Europe,Eastern Europe
+Portugal,1963,74.4,65,3.19,8924221,24993510231,Europe,Southern Europe
+Romania,1963,NA,67.74,2,19059874,NA,Europe,Eastern Europe
+Russia,1963,NA,68.98,2.28,124193114,NA,Europe,Eastern Europe
+Serbia,1963,NA,64.99,2.54,7725501,NA,Europe,Southern Europe
+Slovak Republic,1963,NA,70.79,2.86,4294673,NA,Europe,Eastern Europe
+Slovenia,1963,NA,69.08,2.34,1614022,NA,Europe,Southern Europe
+Spain,1963,39.3,69.81,2.82,31479529,152320614543,Europe,Southern Europe
+Sweden,1963,15,73.53,2.33,7627722,98678111216,Europe,Northern Europe
+Switzerland,1963,20.1,71.34,2.58,5618160,NA,Europe,Western Europe
+Ukraine,1963,NA,71.18,2.13,44285897,NA,Europe,Eastern Europe
+United Kingdom,1963,21.4,70.74,2.8,53537821,569540291077,Europe,Northern Europe
+Albania,1964,97.9,66.18,5.71,1843596,NA,Europe,Southern Europe
+Austria,1964,29.7,70.13,2.8,7249855,62727547439,Europe,Western Europe
+Belarus,1964,NA,73.17,2.6,8521433,NA,Europe,Eastern Europe
+Belgium,1964,25,70.66,2.6,9383443,84119657630,Europe,Western Europe
+Bosnia and Herzegovina,1964,NA,65.46,3.62,3468083,NA,Europe,Southern Europe
+Bulgaria,1964,39.9,71.18,2.18,8141171,NA,Europe,Eastern Europe
+Croatia,1964,NA,66.43,2.21,4304984,NA,Europe,Southern Europe
+Czech Republic,1964,NA,70.73,2.12,9773266,NA,Europe,Eastern Europe
+Denmark,1964,18.7,72.61,2.6,4723496,64480653282,Europe,Northern Europe
+Estonia,1964,NA,70.74,1.95,1275471,NA,Europe,Northern Europe
+Finland,1964,17.4,69.4,2.58,4546343,38981205393,Europe,Northern Europe
+France,1964,19.4,71.43,2.8,48402900,441742742172,Europe,Western Europe
+Germany,1964,NA,70.66,2.49,75410766,NA,Europe,Western Europe
+Greece,1964,43.6,69.69,2.26,8492232,37956509843,Europe,Southern Europe
+Hungary,1964,45.8,69.52,1.88,10135688,NA,Europe,Eastern Europe
+Iceland,1964,16,73.72,3.74,189276,2328606903,Europe,Northern Europe
+Ireland,1964,26,71.12,3.99,2844373,NA,Europe,Northern Europe
+Italy,1964,37.3,70.37,2.5,51289904,366227848610,Europe,Southern Europe
+Latvia,1964,NA,71.62,1.82,2236844,NA,Europe,Northern Europe
+Lithuania,1964,NA,72,2.38,2928182,NA,Europe,Northern Europe
+Luxembourg,1964,25.4,68.98,2.37,327361,5054877293,Europe,Western Europe
+"Macedonia, FYR",1964,NA,63.32,3.45,1569143,NA,Europe,Southern Europe
+Malta,1964,31.6,69.7,2.8,307389,NA,Europe,Southern Europe
+Moldova,1964,NA,63.77,2.99,3275457,NA,Europe,Eastern Europe
+Montenegro,1964,NA,66.47,3.09,529176,NA,Europe,Southern Europe
+Netherlands,1964,14.9,73.71,3.17,12057475,118259468831,Europe,Western Europe
+Norway,1964,16.6,73.7,2.96,3694987,45610954782,Europe,Northern Europe
+Poland,1964,43.9,68.87,2.5,31229448,NA,Europe,Eastern Europe
+Portugal,1964,70.1,65.22,3.19,8915539,26570787524,Europe,Southern Europe
+Romania,1964,NA,67.96,1.95,19207098,NA,Europe,Eastern Europe
+Russia,1964,NA,69.77,2.16,125412397,NA,Europe,Eastern Europe
+Serbia,1964,NA,65.53,2.52,7780683,NA,Europe,Southern Europe
+Slovak Republic,1964,NA,71.17,2.78,4339082,NA,Europe,Eastern Europe
+Slovenia,1964,NA,69.12,2.34,1621883,NA,Europe,Southern Europe
+Spain,1964,37.3,70.54,2.83,31838485,160406569972,Europe,Southern Europe
+Sweden,1964,14.4,73.7,2.48,7682603,105409395859,Europe,Northern Europe
+Switzerland,1964,19.3,72.23,2.56,5729465,NA,Europe,Western Europe
+Ukraine,1964,NA,71.97,2.07,44794325,NA,Europe,Eastern Europe
+United Kingdom,1964,20.8,71.53,2.79,53920055,598235339602,Europe,Northern Europe
+Albania,1965,94.1,66.59,5.59,1896125,NA,Europe,Southern Europe
+Austria,1965,28.3,69.92,2.7,7298794,64910575812,Europe,Western Europe
+Belarus,1965,NA,72.7,2.54,8607031,NA,Europe,Eastern Europe
+Belgium,1965,24.1,70.51,2.56,9440279,87114872497,Europe,Western Europe
+Bosnia and Herzegovina,1965,NA,66.14,3.5,3524596,NA,Europe,Southern Europe
+Bulgaria,1965,39.4,71.35,2.17,8206564,NA,Europe,Eastern Europe
+Croatia,1965,NA,66.8,2.18,4328920,NA,Europe,Southern Europe
+Czech Republic,1965,NA,70.43,2.07,9800931,NA,Europe,Eastern Europe
+Denmark,1965,17.8,72.49,2.61,4760262,67417911345,Europe,Northern Europe
+Estonia,1965,NA,70.81,1.97,1290437,NA,Europe,Northern Europe
+Finland,1965,16.6,69.16,2.46,4564690,41048323285,Europe,Northern Europe
+France,1965,18.5,71.26,2.77,48952283,462849365785,Europe,Western Europe
+Germany,1965,NA,70.65,2.48,75990737,NA,Europe,Western Europe
+Greece,1965,42.3,69.91,2.29,8534252,41521636084,Europe,Southern Europe
+Hungary,1965,44.4,69.22,1.89,10170472,18359925549,Europe,Eastern Europe
+Iceland,1965,15.5,74,3.6,192251,2500265500,Europe,Northern Europe
+Ireland,1965,24.7,71.35,3.95,2857104,NA,Europe,Northern Europe
+Italy,1965,35.7,70.24,2.52,51693136,378196261570,Europe,Southern Europe
+Latvia,1965,NA,71.29,1.81,2261259,3530425110,Europe,Northern Europe
+Lithuania,1965,NA,71.76,2.35,2966947,NA,Europe,Northern Europe
+Luxembourg,1965,24.4,69.31,2.34,330164,5017727301,Europe,Western Europe
+"Macedonia, FYR",1965,NA,63.92,3.36,1592434,NA,Europe,Southern Europe
+Malta,1965,30.6,70.03,2.59,306212,NA,Europe,Southern Europe
+Moldova,1965,NA,64.14,2.89,3335625,NA,Europe,Eastern Europe
+Montenegro,1965,NA,67.05,2.99,533815,NA,Europe,Southern Europe
+Netherlands,1965,14.5,73.58,3.04,12216122,128480746992,Europe,Western Europe
+Norway,1965,16,73.83,2.93,3724065,48021771422,Europe,Northern Europe
+Poland,1965,40.8,69.58,2.41,31539695,NA,Europe,Eastern Europe
+Portugal,1965,66.4,66.17,3.18,8888635,28555356597,Europe,Southern Europe
+Romania,1965,NA,68.02,1.89,19379554,NA,Europe,Eastern Europe
+Russia,1965,NA,69.36,2.09,126483874,NA,Europe,Eastern Europe
+Serbia,1965,NA,66.06,2.49,7835084,NA,Europe,Southern Europe
+Slovak Republic,1965,NA,70.39,2.7,4378613,NA,Europe,Eastern Europe
+Slovenia,1965,NA,69.14,2.34,1629434,NA,Europe,Southern Europe
+Spain,1965,35.6,70.95,2.83,32192223,170437009179,Europe,Southern Europe
+Sweden,1965,13.7,73.85,2.41,7741167,109437566536,Europe,Northern Europe
+Switzerland,1965,18.4,72.36,2.53,5829958,NA,Europe,Western Europe
+Ukraine,1965,NA,71.4,2.03,45261939,NA,Europe,Eastern Europe
+United Kingdom,1965,20.1,71.52,2.76,54278349,614919984602,Europe,Northern Europe
+Albania,1966,90.2,66.88,5.48,1947786,NA,Europe,Southern Europe
+Austria,1966,27.3,70.22,2.66,7345865,68573389646,Europe,Western Europe
+Belarus,1966,NA,73.05,2.48,8695433,NA,Europe,Eastern Europe
+Belgium,1966,23.3,70.58,2.5,9493656,89864126386,Europe,Western Europe
+Bosnia and Herzegovina,1966,NA,66.81,3.37,3574972,NA,Europe,Southern Europe
+Bulgaria,1966,39,71.28,2.15,8269118,NA,Europe,Eastern Europe
+Croatia,1966,NA,67.16,2.14,4350815,NA,Europe,Southern Europe
+Czech Republic,1966,NA,70.65,2.03,9811540,NA,Europe,Eastern Europe
+Denmark,1966,17,72.57,2.62,4796157,69265775692,Europe,Northern Europe
+Estonia,1966,NA,70.78,1.99,1305025,NA,Europe,Northern Europe
+Finland,1966,15.8,69.68,2.41,4577033,42022327347,Europe,Northern Europe
+France,1966,17.7,71.67,2.73,49411342,486982368985,Europe,Western Europe
+Germany,1966,NA,70.77,2.44,76558016,NA,Europe,Western Europe
+Greece,1966,41.2,70.12,2.32,8580600,44053976946,Europe,Southern Europe
+Hungary,1966,43.2,69.98,1.92,10204575,19718560040,Europe,Eastern Europe
+Iceland,1966,15,73.4,3.46,194935,2718687031,Europe,Northern Europe
+Ireland,1966,23.3,70.89,3.9,2869311,NA,Europe,Northern Europe
+Italy,1966,34.3,70.99,2.52,52076758,400830529593,Europe,Southern Europe
+Latvia,1966,NA,71.26,1.81,2284214,3676879789,Europe,Northern Europe
+Lithuania,1966,NA,71.92,2.33,3003571,NA,Europe,Northern Europe
+Luxembourg,1966,23.4,69.21,2.29,332421,5073218554,Europe,Western Europe
+"Macedonia, FYR",1966,NA,64.51,3.27,1617797,NA,Europe,Southern Europe
+Malta,1966,29.5,70.36,2.4,305357,NA,Europe,Southern Europe
+Moldova,1966,NA,64.48,2.8,3392084,NA,Europe,Eastern Europe
+Montenegro,1966,NA,67.62,2.91,533909,NA,Europe,Southern Europe
+Netherlands,1966,14.2,73.52,2.9,12372136,132002538317,Europe,Western Europe
+Norway,1966,15.4,74.11,2.89,3754010,49840122162,Europe,Northern Europe
+Poland,1966,37.9,69.99,2.35,31824145,NA,Europe,Eastern Europe
+Portugal,1966,63.6,65.67,3.16,8839831,29719818177,Europe,Southern Europe
+Romania,1966,NA,67.98,1.89,19582342,NA,Europe,Eastern Europe
+Russia,1966,NA,69.43,2.1,127396324,NA,Europe,Eastern Europe
+Serbia,1966,NA,66.56,2.46,7888802,NA,Europe,Southern Europe
+Slovak Republic,1966,NA,70.53,2.64,4412907,NA,Europe,Eastern Europe
+Slovenia,1966,NA,69.14,2.34,1636660,NA,Europe,Southern Europe
+Spain,1966,33.9,71.2,2.84,32536637,182786977654,Europe,Southern Europe
+Sweden,1966,13,74.09,2.36,7804200,111725727098,Europe,Northern Europe
+Switzerland,1966,17.6,72.5,2.47,5916911,NA,Europe,Western Europe
+Ukraine,1966,NA,71.66,2.02,45682314,NA,Europe,Eastern Europe
+United Kingdom,1966,19.6,71.43,2.7,54606608,627521608579,Europe,Northern Europe
+Albania,1967,86.8,67.11,5.38,1998695,NA,Europe,Southern Europe
+Austria,1967,26.4,70.1,2.62,7390853,70636109983,Europe,Western Europe
+Belarus,1967,NA,72.78,2.43,8785138,NA,Europe,Eastern Europe
+Belgium,1967,22.5,70.86,2.43,9543533,93340202847,Europe,Western Europe
+Bosnia and Herzegovina,1967,NA,67.47,3.24,3619997,NA,Europe,Southern Europe
+Bulgaria,1967,38.4,70.47,2.14,8328838,NA,Europe,Eastern Europe
+Croatia,1967,NA,67.52,2.1,4370856,NA,Europe,Southern Europe
+Czech Republic,1967,NA,70.55,2,9808728,NA,Europe,Eastern Europe
+Denmark,1967,16.1,73.06,2.35,4831242,71635777000,Europe,Northern Europe
+Estonia,1967,NA,71.08,2.01,1319284,NA,Europe,Northern Europe
+Finland,1967,15.1,69.86,2.32,4584264,42933719720,Europe,Northern Europe
+France,1967,17.1,71.67,2.68,49791771,509812875872,Europe,Western Europe
+Germany,1967,NA,70.99,2.37,77106876,NA,Europe,Western Europe
+Greece,1967,39.9,70.34,2.35,8630672,46468768012,Europe,Southern Europe
+Hungary,1967,42,69.55,1.95,10238930,21197452043,Europe,Eastern Europe
+Iceland,1967,14.4,73.9,3.34,197356,2684234147,Europe,Northern Europe
+Ireland,1967,21.9,71.95,3.86,2882095,NA,Europe,Northern Europe
+Italy,1967,33.1,71.03,2.52,52444751,429604599956,Europe,Southern Europe
+Latvia,1967,NA,70.94,1.82,2305718,4107539685,Europe,Northern Europe
+Lithuania,1967,24.1,71.99,2.32,3038216,NA,Europe,Northern Europe
+Luxembourg,1967,22.4,69.59,2.22,334231,5084213782,Europe,Western Europe
+"Macedonia, FYR",1967,NA,65.08,3.19,1644944,NA,Europe,Southern Europe
+Malta,1967,28.3,70.67,2.24,304805,NA,Europe,Southern Europe
+Moldova,1967,NA,64.78,2.72,3444850,NA,Europe,Eastern Europe
+Montenegro,1967,NA,68.19,2.83,530234,NA,Europe,Southern Europe
+Netherlands,1967,13.8,73.79,2.81,12525253,138972291807,Europe,Western Europe
+Norway,1967,14.8,74.18,2.8,3784579,52958159581,Europe,Northern Europe
+Poland,1967,35.7,69.69,2.3,32085011,NA,Europe,Eastern Europe
+Portugal,1967,61.7,66.57,3.13,8774391,31962024667,Europe,Southern Europe
+Romania,1967,NA,67.95,3.65,19810623,NA,Europe,Eastern Europe
+Russia,1967,NA,69.21,2.01,128165823,NA,Europe,Eastern Europe
+Serbia,1967,NA,67.05,2.44,7942638,NA,Europe,Southern Europe
+Slovak Republic,1967,NA,71.07,2.58,4442799,NA,Europe,Eastern Europe
+Slovenia,1967,NA,69.14,2.33,1643697,NA,Europe,Southern Europe
+Spain,1967,32.1,71.39,2.85,32873962,190720551066,Europe,Southern Europe
+Sweden,1967,12.6,74.12,2.27,7870642,115485854142,Europe,Northern Europe
+Switzerland,1967,16.9,72.8,2.4,5991681,NA,Europe,Western Europe
+Ukraine,1967,NA,71.25,2.01,46060456,NA,Europe,Eastern Europe
+United Kingdom,1967,19.1,72.06,2.61,54904680,642023413952,Europe,Northern Europe
+Albania,1968,83.5,67.32,5.27,2049147,NA,Europe,Southern Europe
+Austria,1968,25.7,70.25,2.59,7433328,73795177759,Europe,Western Europe
+Belarus,1968,NA,72.88,2.38,8874070,NA,Europe,Eastern Europe
+Belgium,1968,21.9,70.55,2.36,9589107,97255011947,Europe,Western Europe
+Bosnia and Herzegovina,1968,NA,68.14,3.11,3661642,NA,Europe,Southern Europe
+Bulgaria,1968,37.3,71.3,2.13,8386016,NA,Europe,Eastern Europe
+Croatia,1968,NA,67.87,2.07,4389321,NA,Europe,Southern Europe
+Czech Republic,1968,NA,70.11,1.99,9800665,NA,Europe,Eastern Europe
+Denmark,1968,15.2,73.27,2.12,4865343,74483261672,Europe,Northern Europe
+Estonia,1968,NA,70.7,2.04,1333213,NA,Europe,Northern Europe
+Finland,1968,14.4,69.82,2.15,4589226,43922607785,Europe,Northern Europe
+France,1968,16.5,71.66,2.62,50126895,531525932127,Europe,Western Europe
+Germany,1968,23.5,70.64,2.28,77611000,NA,Europe,Western Europe
+Greece,1968,38.3,70.59,2.36,8682351,49565497480,Europe,Southern Europe
+Hungary,1968,41,69.38,1.98,10273730,22236127193,Europe,Eastern Europe
+Iceland,1968,13.9,74.12,3.22,199634,2537274841,Europe,Northern Europe
+Ireland,1968,20.7,71.67,3.83,2897541,NA,Europe,Northern Europe
+Italy,1968,32,70.85,2.52,52802703,457720307799,Europe,Southern Europe
+Latvia,1968,NA,70.56,1.85,2326128,4389852362,Europe,Northern Europe
+Lithuania,1968,23.3,71.68,2.31,3071465,NA,Europe,Northern Europe
+Luxembourg,1968,21.3,70.17,2.14,335831,5296930800,Europe,Western Europe
+"Macedonia, FYR",1968,NA,65.62,3.11,1672401,NA,Europe,Southern Europe
+Malta,1968,27.2,70.98,2.11,304514,NA,Europe,Southern Europe
+Moldova,1968,NA,65.03,2.66,3495134,NA,Europe,Eastern Europe
+Montenegro,1968,NA,68.78,2.77,524844,NA,Europe,Southern Europe
+Netherlands,1968,13.4,73.6,2.72,12675176,147888940327,Europe,Western Europe
+Norway,1968,14.2,74.07,2.75,3815399,54154948070,Europe,Northern Europe
+Poland,1968,34.4,70.33,2.26,32330582,NA,Europe,Eastern Europe
+Portugal,1968,60.2,66.88,3.09,8709805,34798817118,Europe,Southern Europe
+Romania,1968,64.1,68.01,3.61,20055983,NA,Europe,Eastern Europe
+Russia,1968,NA,69.17,1.97,128837792,NA,Europe,Eastern Europe
+Serbia,1968,NA,67.51,2.42,7998000,NA,Europe,Southern Europe
+Slovak Republic,1968,NA,70.6,2.54,4470632,NA,Europe,Eastern Europe
+Slovenia,1968,NA,69.17,2.31,1651094,NA,Europe,Southern Europe
+Spain,1968,30.1,71.68,2.86,33211168,203302424227,Europe,Southern Europe
+Sweden,1968,12.1,73.99,2.07,7936726,119687520926,Europe,Northern Europe
+Switzerland,1968,16.2,72.75,2.31,6056358,NA,Europe,Western Europe
+Ukraine,1968,NA,71.33,2.02,46409007,NA,Europe,Eastern Europe
+United Kingdom,1968,18.7,71.68,2.52,55171084,667606364863,Europe,Northern Europe
+Albania,1969,80.2,67.55,5.16,2099657,NA,Europe,Southern Europe
+Austria,1969,25.3,70.02,2.49,7473058,78426465090,Europe,Western Europe
+Belarus,1969,NA,72.47,2.34,8959483,NA,Europe,Eastern Europe
+Belgium,1969,21.3,70.63,2.28,9629528,103702824530,Europe,Western Europe
+Bosnia and Herzegovina,1969,NA,68.82,2.99,3702834,NA,Europe,Southern Europe
+Bulgaria,1969,35.8,70.48,2.13,8441214,NA,Europe,Eastern Europe
+Croatia,1969,NA,68.22,2.04,4406607,NA,Europe,Southern Europe
+Czech Republic,1969,NA,69.62,2.01,9798793,NA,Europe,Eastern Europe
+Denmark,1969,14.6,73.36,2,4898350,79192454725,Europe,Northern Europe
+Estonia,1969,NA,70.4,2.07,1346854,NA,Europe,Northern Europe
+Finland,1969,13.9,69.7,1.94,4595807,48136229953,Europe,Northern Europe
+France,1969,15.8,71.4,2.56,50466183,568682414708,Europe,Western Europe
+Germany,1969,22.7,70.48,2.17,78038271,NA,Europe,Western Europe
+Greece,1969,36.1,70.88,2.37,8732308,54472347989,Europe,Southern Europe
+Hungary,1969,39.9,69.45,2.01,10309211,23770419969,Europe,Eastern Europe
+Iceland,1969,13.4,73.9,3.12,201941,2597524666,Europe,Northern Europe
+Ireland,1969,19.7,71.62,3.82,2918626,NA,Europe,Northern Europe
+Italy,1969,30.9,70.87,2.5,53160056,485632366780,Europe,Southern Europe
+Latvia,1969,NA,70.29,1.88,2346012,4590422960,Europe,Northern Europe
+Lithuania,1969,22.1,71.3,2.31,3104292,NA,Europe,Northern Europe
+Luxembourg,1969,20.3,69.73,2.05,337565,5825186184,Europe,Western Europe
+"Macedonia, FYR",1969,NA,66.14,3.04,1698140,NA,Europe,Southern Europe
+Malta,1969,26,71.29,2.02,304401,NA,Europe,Southern Europe
+Moldova,1969,NA,65.23,2.61,3544635,NA,Europe,Eastern Europe
+Montenegro,1969,NA,69.36,2.73,520644,NA,Europe,Southern Europe
+Netherlands,1969,13.1,73.51,2.75,12821786,157397384437,Europe,Western Europe
+Norway,1969,13.7,73.78,2.69,3845932,56594418064,Europe,Northern Europe
+Poland,1969,33.4,69.83,2.24,32571673,NA,Europe,Eastern Europe
+Portugal,1969,58.1,66.49,3.05,8669641,35536809956,Europe,Southern Europe
+Romania,1969,60.9,68.16,3.19,20305391,NA,Europe,Eastern Europe
+Russia,1969,NA,68.65,1.98,129475269,NA,Europe,Eastern Europe
+Serbia,1969,NA,67.94,2.4,8056663,NA,Europe,Southern Europe
+Slovak Republic,1969,NA,69.91,2.51,4499554,NA,Europe,Eastern Europe
+Slovenia,1969,NA,69.23,2.29,1659553,NA,Europe,Southern Europe
+Spain,1969,27.8,71.21,2.87,33558627,221410602777,Europe,Southern Europe
+Sweden,1969,11.7,74.11,1.92,7997380,125683446286,Europe,Northern Europe
+Switzerland,1969,15.6,72.76,2.22,6114719,NA,Europe,Western Europe
+Ukraine,1969,NA,70.7,2.03,46746668,NA,Europe,Eastern Europe
+United Kingdom,1969,18.4,71.64,2.41,55406435,681308622665,Europe,Northern Europe
+Albania,1970,76.8,67.83,5.05,2150602,NA,Europe,Southern Europe
+Austria,1970,25,70.07,2.29,7509746,82875391403,Europe,Western Europe
+Belarus,1970,NA,71.94,2.3,9039436,NA,Europe,Eastern Europe
+Belgium,1970,20.6,70.89,2.21,9664320,109689339514,Europe,Western Europe
+Bosnia and Herzegovina,1970,60,69.49,2.88,3745637,NA,Europe,Southern Europe
+Bulgaria,1970,34.1,71.32,2.14,8494765,NA,Europe,Eastern Europe
+Croatia,1970,34,68.54,2.01,4423073,NA,Europe,Southern Europe
+Czech Republic,1970,21,69.72,2.05,9811291,NA,Europe,Eastern Europe
+Denmark,1970,13.9,73.49,1.95,4930118,80796964460,Europe,Northern Europe
+Estonia,1970,21,70.51,2.1,1360236,NA,Europe,Northern Europe
+Finland,1970,13.2,70.4,1.83,4606740,50703772073,Europe,Northern Europe
+France,1970,15.1,72.29,2.49,50843830,601287903229,Europe,Western Europe
+Germany,1970,22.1,70.72,2.04,78366605,929852280013,Europe,Western Europe
+Greece,1970,33.7,71.2,2.36,8778676,58805784184,Europe,Southern Europe
+Hungary,1970,39,69.29,2.03,10345553,24887629708,Europe,Eastern Europe
+Iceland,1970,12.8,74,3.03,204392,2791210652,Europe,Northern Europe
+Ireland,1970,19,71.68,3.81,2947339,NA,Europe,Northern Europe
+Italy,1970,29.7,71.62,2.47,53522670,511421885412,Europe,Southern Europe
+Latvia,1970,21,70.31,1.91,2365753,4958641112,Europe,Northern Europe
+Lithuania,1970,20.5,71.16,2.31,3137373,NA,Europe,Northern Europe
+Luxembourg,1970,19.3,69.47,1.96,339673,5924720196,Europe,Western Europe
+"Macedonia, FYR",1970,85,66.63,2.98,1720798,NA,Europe,Southern Europe
+Malta,1970,24.7,71.6,1.98,304414,627739540.1,Europe,Southern Europe
+Moldova,1970,50,65.39,2.58,3594516,NA,Europe,Eastern Europe
+Montenegro,1970,NA,69.94,2.69,519697,NA,Europe,Southern Europe
+Netherlands,1970,12.6,73.57,2.57,12964880,166360843660,Europe,Western Europe
+Norway,1970,13.1,74.19,2.5,3875719,57725534132,Europe,Northern Europe
+Poland,1970,32.2,69.96,2.23,32816751,NA,Europe,Eastern Europe
+Portugal,1970,55.4,67.14,2.99,8670352,40018991717,Europe,Southern Europe
+Romania,1970,57.2,68.41,2.87,20549016,NA,Europe,Eastern Europe
+Russia,1970,35.4,68.76,2,130126383,NA,Europe,Eastern Europe
+Serbia,1970,NA,68.34,2.38,8119861,NA,Europe,Southern Europe
+Slovak Republic,1970,25,69.84,2.5,4531874,NA,Europe,Eastern Europe
+Slovenia,1970,25,69.32,2.27,1669583,NA,Europe,Southern Europe
+Spain,1970,25.5,72.19,2.87,33923240,230977558793,Europe,Southern Europe
+Sweden,1970,11.3,74.66,1.92,8049049,133277251110,Europe,Northern Europe
+Switzerland,1970,15,73.18,2.12,6169357,NA,Europe,Western Europe
+Ukraine,1970,27.96180937,70.59,2.05,47086758,NA,Europe,Eastern Europe
+United Kingdom,1970,18,71.89,2.29,55611401,698034860534,Europe,Northern Europe
+Albania,1971,74.1,68.16,4.93,2202040,NA,Europe,Southern Europe
+Austria,1971,24.7,70.27,2.2,7543451,87114441714,Europe,Western Europe
+Belarus,1971,NA,72.56,2.28,9113278,NA,Europe,Eastern Europe
+Belgium,1971,19.7,71.01,2.13,9692900,114061367202,Europe,Western Europe
+Bosnia and Herzegovina,1971,NA,70.17,2.78,3790948,NA,Europe,Southern Europe
+Bulgaria,1971,32.6,70.93,2.14,8546810,NA,Europe,Eastern Europe
+Croatia,1971,NA,68.86,1.99,4438818,NA,Europe,Southern Europe
+Czech Republic,1971,NA,69.96,2.1,9840280,NA,Europe,Eastern Europe
+Denmark,1971,13.3,73.55,2.04,4960476,83222395087,Europe,Northern Europe
+Estonia,1971,NA,70.71,2.12,1373336,NA,Europe,Northern Europe
+Finland,1971,12.6,70.22,1.7,4623389,51898819538,Europe,Northern Europe
+France,1971,14.4,72.27,2.41,51273975,633340148632,Europe,Western Europe
+Germany,1971,21.4,70.94,1.92,78584779,958981760098,Europe,Western Europe
+Greece,1971,31.9,71.53,2.36,8819206,63416849797,Europe,Southern Europe
+Hungary,1971,38.5,69.19,2.05,10381705,26430662750,Europe,Eastern Europe
+Iceland,1971,12.3,73.75,2.95,207050,3155766144,Europe,Northern Europe
+Ireland,1971,18.5,72.5,3.81,2984044,NA,Europe,Northern Europe
+Italy,1971,28.2,71.87,2.43,53891946,520720087534,Europe,Southern Europe
+Latvia,1971,NA,70.66,1.94,2385561,5342374516,Europe,Northern Europe
+Lithuania,1971,18.9,72.1,2.3,3170887,NA,Europe,Northern Europe
+Luxembourg,1971,18.1,69.35,1.87,342224,6082746483,Europe,Western Europe
+"Macedonia, FYR",1971,NA,67.08,2.93,1739525,NA,Europe,Southern Europe
+Malta,1971,23.6,71.9,1.96,304546,643144191.2,Europe,Southern Europe
+Moldova,1971,49.7,65.48,2.56,3645515,NA,Europe,Eastern Europe
+Montenegro,1971,NA,70.48,2.66,522783,NA,Europe,Southern Europe
+Netherlands,1971,12.2,73.81,2.36,13104216,173565563198,Europe,Western Europe
+Norway,1971,12.7,74.3,2.49,3904750,60968411443,Europe,Northern Europe
+Poland,1971,30.6,69.76,2.23,33068997,NA,Europe,Eastern Europe
+Portugal,1971,51.8,66.91,2.94,8717871,42672912124,Europe,Southern Europe
+Romania,1971,53.4,68.73,2.65,20783864,NA,Europe,Eastern Europe
+Russia,1971,34.1,69.02,2.02,130808492,NA,Europe,Eastern Europe
+Serbia,1971,NA,68.7,2.37,8187994,NA,Europe,Southern Europe
+Slovak Republic,1971,NA,69.99,2.5,4568274,NA,Europe,Eastern Europe
+Slovenia,1971,NA,69.47,2.26,1681426,NA,Europe,Southern Europe
+Spain,1971,24,71.79,2.87,34305591,241716799132,Europe,Southern Europe
+Sweden,1971,10.9,74.58,1.96,8090044,134536249651,Europe,Northern Europe
+Switzerland,1971,14.3,73.3,2.02,6221634,NA,Europe,Western Europe
+Ukraine,1971,27.9,70.81,2.06,47433807,NA,Europe,Eastern Europe
+United Kingdom,1971,17.7,72.2,2.18,55785325,712164697966,Europe,Northern Europe
+Albania,1972,71,68.53,4.81,2253842,NA,Europe,Southern Europe
+Austria,1972,24.1,70.59,2.09,7573660,92522385131,Europe,Western Europe
+Belarus,1972,NA,72.26,2.25,9181643,NA,Europe,Eastern Europe
+Belgium,1972,18.7,71.35,2.05,9715673,120101605987,Europe,Western Europe
+Bosnia and Herzegovina,1972,NA,70.84,2.68,3838002,NA,Europe,Southern Europe
+Bulgaria,1972,31.6,70.96,2.16,8596962,NA,Europe,Eastern Europe
+Croatia,1972,NA,69.14,1.98,4453985,NA,Europe,Southern Europe
+Czech Republic,1972,NA,70.49,2.15,9882993,NA,Europe,Eastern Europe
+Denmark,1972,12.5,73.59,2.03,4989146,86696928071,Europe,Northern Europe
+Estonia,1972,NA,70.48,2.13,1386099,NA,Europe,Northern Europe
+Finland,1972,12,70.91,1.59,4644847,55913445265,Europe,Northern Europe
+France,1972,13.7,72.52,2.33,51741044,662077162387,Europe,Western Europe
+Germany,1972,20.6,71.16,1.8,78700104,1000221248758,Europe,Western Europe
+Greece,1972,30.8,71.85,2.35,8856097,69860097594,Europe,Southern Europe
+Hungary,1972,38.4,69.82,2.07,10417419,28042933178,Europe,Eastern Europe
+Iceland,1972,11.8,74.66,2.88,209868,3350708373,Europe,Northern Europe
+Ireland,1972,18.3,71.86,3.79,3027538,NA,Europe,Northern Europe
+Italy,1972,26.5,72.15,2.38,54262086,539937188170,Europe,Southern Europe
+Latvia,1972,NA,70.35,1.96,2405212,5616740168,Europe,Northern Europe
+Lithuania,1972,18.4,71.34,2.29,3204466,NA,Europe,Northern Europe
+Luxembourg,1972,17.1,70.59,1.78,345108,6484097816,Europe,Western Europe
+"Macedonia, FYR",1972,NA,67.48,2.88,1754954,NA,Europe,Southern Europe
+Malta,1972,22.3,72.2,1.98,304850,680693029.3,Europe,Southern Europe
+Moldova,1972,48.5,65.55,2.54,3697153,NA,Europe,Eastern Europe
+Montenegro,1972,NA,70.99,2.63,529209,NA,Europe,Southern Europe
+Netherlands,1972,11.7,73.72,2.15,13239283,177916034509,Europe,Western Europe
+Norway,1972,12.2,74.46,2.38,3932945,64180254603,Europe,Northern Europe
+Poland,1972,28.8,70.95,2.23,33328713,NA,Europe,Eastern Europe
+Portugal,1972,47.6,69.23,2.88,8806016,46093443125,Europe,Southern Europe
+Romania,1972,50.1,69.06,2.53,21011826,NA,Europe,Eastern Europe
+Russia,1972,32.9,68.92,2.03,131517584,NA,Europe,Eastern Europe
+Serbia,1972,NA,69.03,2.37,8260626,NA,Europe,Southern Europe
+Slovak Republic,1972,NA,70.46,2.5,4608266,NA,Europe,Eastern Europe
+Slovenia,1972,NA,69.66,2.24,1694979,NA,Europe,Southern Europe
+Spain,1972,22.6,73,2.86,34701025,261416103995,Europe,Southern Europe
+Sweden,1972,10.4,74.68,1.91,8121560,137615432995,Europe,Northern Europe
+Switzerland,1972,13.6,73.82,1.92,6270112,NA,Europe,Western Europe
+Ukraine,1972,27,70.57,2.06,47783013,NA,Europe,Eastern Europe
+United Kingdom,1972,17.2,71.98,2.07,55927492,737563854133,Europe,Northern Europe
+Albania,1973,68.3,68.93,4.68,2305999,NA,Europe,Southern Europe
+Austria,1973,23,71.16,1.94,7598925,97047132641,Europe,Western Europe
+Belarus,1973,NA,72.29,2.22,9245514,NA,Europe,Eastern Europe
+Belgium,1973,17.7,71.56,1.98,9734412,127766132692,Europe,Western Europe
+Bosnia and Herzegovina,1973,NA,71.49,2.58,3885229,NA,Europe,Southern Europe
+Bulgaria,1973,31.1,71.4,2.17,8644419,NA,Europe,Eastern Europe
+Croatia,1973,NA,69.4,1.97,4469035,NA,Europe,Southern Europe
+Czech Republic,1973,NA,70.33,2.21,9936604,NA,Europe,Eastern Europe
+Denmark,1973,11.6,73.83,1.92,5015766,89956073414,Europe,Northern Europe
+Estonia,1973,NA,70.83,2.13,1398497,NA,Europe,Northern Europe
+Finland,1973,11.3,71.42,1.5,4668813,59818344059,Europe,Northern Europe
+France,1973,13.1,72.69,2.24,52214014,705840360681,Europe,Western Europe
+Germany,1973,19.7,71.41,1.7,78732884,1048006687998,Europe,Western Europe
+Greece,1973,30.1,72.13,2.35,8897126,75513441226,Europe,Southern Europe
+Hungary,1973,38.6,69.69,2.09,10454502,29977895567,Europe,Eastern Europe
+Iceland,1973,11.3,74.52,2.8,212731,3578757910,Europe,Northern Europe
+Ireland,1973,18,72.11,3.74,3076273,NA,Europe,Northern Europe
+Italy,1973,24.5,72.09,2.32,54623207,578412368692,Europe,Southern Europe
+Latvia,1973,NA,70.29,1.96,2424149,5941816425,Europe,Northern Europe
+Lithuania,1973,18.9,71.7,2.27,3237597,NA,Europe,Northern Europe
+Luxembourg,1973,16.1,70.34,1.7,348173,7023099916,Europe,Western Europe
+"Macedonia, FYR",1973,NA,67.83,2.83,1768996,NA,Europe,Southern Europe
+Malta,1973,21.2,72.49,2,305398,708915620.4,Europe,Southern Europe
+Moldova,1973,47.3,65.58,2.52,3747925,NA,Europe,Eastern Europe
+Montenegro,1973,NA,71.41,2.59,537764,NA,Europe,Southern Europe
+Netherlands,1973,11.3,74.17,1.9,13369326,188207174820,Europe,Western Europe
+Norway,1973,11.6,74.56,2.23,3959705,67054745037,Europe,Northern Europe
+Poland,1973,26.9,70.95,2.24,33597810,NA,Europe,Eastern Europe
+Portugal,1973,43.3,68.63,2.83,8923928,51256218074,Europe,Southern Europe
+Romania,1973,47.3,69.34,2.42,21233593,NA,Europe,Eastern Europe
+Russia,1973,31.8,68.89,1.96,132254362,NA,Europe,Eastern Europe
+Serbia,1973,NA,69.32,2.36,8337076,NA,Europe,Southern Europe
+Slovak Republic,1973,NA,70.16,2.5,4651493,NA,Europe,Eastern Europe
+Slovenia,1973,NA,69.86,2.23,1709974,NA,Europe,Southern Europe
+Spain,1973,21.3,72.78,2.84,35104633,281776406455,Europe,Southern Europe
+Sweden,1973,9.8,74.83,1.87,8146472,143075987405,Europe,Northern Europe
+Switzerland,1973,12.8,74.12,1.83,6311468,NA,Europe,Western Europe
+Ukraine,1973,26.2,70.75,2.06,48127170,NA,Europe,Eastern Europe
+United Kingdom,1973,16.6,72.18,1.98,56039166,790136598711,Europe,Northern Europe
+Albania,1974,65.8,69.35,4.54,2358467,NA,Europe,Southern Europe
+Austria,1974,21.6,71.15,1.91,7617432,100872864670,Europe,Western Europe
+Belarus,1974,NA,72.57,2.19,9306472,NA,Europe,Eastern Europe
+Belgium,1974,16.7,71.91,1.91,9751592,133598986388,Europe,Western Europe
+Bosnia and Herzegovina,1974,NA,72.12,2.49,3930283,NA,Europe,Southern Europe
+Bulgaria,1974,30.5,71.26,2.18,8688112,NA,Europe,Eastern Europe
+Croatia,1974,NA,69.63,1.98,4484521,NA,Europe,Southern Europe
+Czech Republic,1974,NA,70.42,2.26,9996356,NA,Europe,Eastern Europe
+Denmark,1974,10.9,73.96,1.9,5039920,89222072908,Europe,Northern Europe
+Estonia,1974,NA,70.94,2.13,1410492,NA,Europe,Northern Europe
+Finland,1974,10.8,71.34,1.62,4691818,61754384904,Europe,Northern Europe
+France,1974,12.7,73.04,2.14,52647616,738949898008,Europe,Western Europe
+Germany,1974,18.8,71.71,1.62,78713928,1057334667576,Europe,Western Europe
+Greece,1974,29.4,72.39,2.35,8952862,70651704210,Europe,Southern Europe
+Hungary,1974,38.1,69.41,2.11,10495442,31746591405,Europe,Eastern Europe
+Iceland,1974,10.8,74.59,2.73,215465,3782972292,Europe,Northern Europe
+Ireland,1974,17.5,72.08,3.67,3128000,NA,Europe,Northern Europe
+Italy,1974,22.5,72.81,2.24,54961926,610225865303,Europe,Southern Europe
+Latvia,1974,NA,70.22,1.96,2441588,6230941184,Europe,Northern Europe
+Lithuania,1974,19.8,71.63,2.24,3269546,NA,Europe,Northern Europe
+Luxembourg,1974,15.1,70.42,1.63,351190,7318945711,Europe,Western Europe
+"Macedonia, FYR",1974,NA,68.14,2.79,1784395,NA,Europe,Southern Europe
+Malta,1974,20.1,72.78,2.03,306291,780065162.3,Europe,Southern Europe
+Moldova,1974,46.1,65.6,2.5,3795653,NA,Europe,Eastern Europe
+Montenegro,1974,NA,71.78,2.55,546569,NA,Europe,Southern Europe
+Netherlands,1974,10.9,74.56,1.77,13493460,196217127718,Europe,Western Europe
+Norway,1974,11,74.88,2.13,3984291,69615254143,Europe,Northern Europe
+Poland,1974,25.4,71.46,2.24,33877397,NA,Europe,Eastern Europe
+Portugal,1974,39.4,69.18,2.77,9054924,51842005085,Europe,Southern Europe
+Romania,1974,44.8,69.58,2.71,21451256,NA,Europe,Eastern Europe
+Russia,1974,30.8,68.88,2,133012558,NA,Europe,Eastern Europe
+Serbia,1974,NA,69.59,2.36,8416250,NA,Europe,Southern Europe
+Slovak Republic,1974,NA,70.33,2.5,4697153,NA,Europe,Eastern Europe
+Slovenia,1974,NA,70.09,2.22,1725967,NA,Europe,Southern Europe
+Spain,1974,20,73.16,2.8,35509391,297608819075,Europe,Southern Europe
+Sweden,1974,9.2,74.94,1.88,8169141,147651837382,Europe,Northern Europe
+Switzerland,1974,12,74.47,1.74,6341051,NA,Europe,Western Europe
+Ukraine,1974,25.5,70.63,2.05,48455120,NA,Europe,Eastern Europe
+United Kingdom,1974,16,72.38,1.89,56122405,779390904886,Europe,Northern Europe
+Albania,1975,63.1,69.77,4.39,2411229,NA,Europe,Southern Europe
+Austria,1975,19.8,71.28,1.83,7628138,100505954054,Europe,Western Europe
+Belarus,1975,NA,71.63,2.16,9365830,NA,Europe,Eastern Europe
+Belgium,1975,15.8,71.9,1.84,9769006,130972508362,Europe,Western Europe
+Bosnia and Herzegovina,1975,NA,72.71,2.41,3971608,NA,Europe,Southern Europe
+Bulgaria,1975,29.8,71.11,2.19,8727332,NA,Europe,Eastern Europe
+Croatia,1975,NA,69.83,1.99,4500868,NA,Europe,Southern Europe
+Czech Republic,1975,NA,70.77,2.29,10058165,NA,Europe,Eastern Europe
+Denmark,1975,10.3,74.24,1.92,5061289,88132268349,Europe,Northern Europe
+Estonia,1975,NA,70.26,2.11,1422070,NA,Europe,Northern Europe
+Finland,1975,10,71.89,1.69,4711459,62868988391,Europe,Northern Europe
+France,1975,12.4,73.13,2.06,53010727,730641519752,Europe,Western Europe
+Germany,1975,17.7,71.56,1.56,78667327,1048170336763,Europe,Western Europe
+Greece,1975,28.5,72.62,2.34,9030080,75149963026,Europe,Southern Europe
+Hungary,1975,35.8,69.46,2.12,10541344,33714880073,Europe,Eastern Europe
+Iceland,1975,10.3,75.57,2.65,217958,3807416159,Europe,Northern Europe
+Ireland,1975,17,72.68,3.57,3180805,NA,Europe,Northern Europe
+Italy,1975,20.5,72.72,2.17,55268549,597471150545,Europe,Southern Europe
+Latvia,1975,NA,69.37,1.94,2457027,6659330225,Europe,Northern Europe
+Lithuania,1975,20.2,71.24,2.21,3299819,NA,Europe,Northern Europe
+Luxembourg,1975,14.2,70.37,1.57,353984,6837990640,Europe,Western Europe
+"Macedonia, FYR",1975,NA,68.41,2.75,1803009,NA,Europe,Southern Europe
+Malta,1975,19,73.07,2.06,307597,932646642.9,Europe,Southern Europe
+Moldova,1975,44.9,65.6,2.48,3838911,NA,Europe,Eastern Europe
+Montenegro,1975,NA,72.07,2.5,554262,NA,Europe,Southern Europe
+Netherlands,1975,10.5,74.49,1.66,13611064,196458513462,Europe,Western Europe
+Norway,1975,10.5,74.93,1.98,4006221,73113684286,Europe,Northern Europe
+Poland,1975,24.5,70.88,2.25,34168112,NA,Europe,Eastern Europe
+Portugal,1975,36,68.9,2.71,9185876,49588105981,Europe,Southern Europe
+Romania,1975,42.8,69.75,2.62,21665780,NA,Europe,Eastern Europe
+Russia,1975,29.9,68.24,1.97,133788113,NA,Europe,Eastern Europe
+Serbia,1975,NA,69.82,2.36,8497168,NA,Europe,Southern Europe
+Slovak Republic,1975,NA,70.45,2.5,4744482,NA,Europe,Eastern Europe
+Slovenia,1975,NA,70.32,2.21,1742626,NA,Europe,Southern Europe
+Spain,1975,20.4,73.49,2.75,35909042,299222463974,Europe,Southern Europe
+Sweden,1975,8.7,74.95,1.77,8192693,151421186027,Europe,Northern Europe
+Switzerland,1975,11.2,74.86,1.67,6356178,NA,Europe,Western Europe
+Ukraine,1975,25,69.96,2.03,48758986,NA,Europe,Eastern Europe
+United Kingdom,1975,15.4,72.65,1.83,56179925,774506863836,Europe,Northern Europe
+Albania,1976,60.8,70.17,4.24,2464338,NA,Europe,Southern Europe
+Austria,1976,18.1,71.77,1.69,7630536,105107564262,Europe,Western Europe
+Belarus,1976,NA,71.46,2.13,9423421,NA,Europe,Eastern Europe
+Belgium,1976,14.9,72.05,1.78,9787576,138376051430,Europe,Western Europe
+Bosnia and Herzegovina,1976,NA,73.24,2.34,4008411,NA,Europe,Southern Europe
+Bulgaria,1976,29,71.44,2.19,8761231,NA,Europe,Eastern Europe
+Croatia,1976,NA,70,2,4518103,NA,Europe,Southern Europe
+Czech Republic,1976,NA,70.88,2.31,10122450,NA,Europe,Eastern Europe
+Denmark,1976,9.7,73.91,1.75,5079962,93502608471,Europe,Northern Europe
+Estonia,1976,NA,69.88,2.1,1433207,NA,Europe,Northern Europe
+Finland,1976,9.4,72.04,1.72,4726803,63085498434,Europe,Northern Europe
+France,1976,12,73.38,1.98,53293030,762687037773,Europe,Western Europe
+Germany,1976,16.5,72.02,1.53,78604473,1100046995116,Europe,Western Europe
+Greece,1976,27.3,72.85,2.34,9132531,80299161830,Europe,Southern Europe
+Hungary,1976,32.5,69.75,2.12,10593989,34928615755,Europe,Eastern Europe
+Iceland,1976,9.8,76.94,2.57,220162,4034314081,Europe,Northern Europe
+Ireland,1976,16.2,72.81,3.46,3234153,NA,Europe,Northern Europe
+Italy,1976,18.7,73.07,2.08,55539118,640043271230,Europe,Southern Europe
+Latvia,1976,NA,69.48,1.92,2470263,7033602861,Europe,Northern Europe
+Lithuania,1976,20.1,71.38,2.17,3328245,NA,Europe,Northern Europe
+Luxembourg,1976,13.4,70.31,1.53,356563,7011288020,Europe,Western Europe
+"Macedonia, FYR",1976,NA,68.61,2.7,1825554,NA,Europe,Southern Europe
+Malta,1976,17.9,73.36,2.08,309328,1091355894,Europe,Southern Europe
+Moldova,1976,43.8,65.57,2.47,3876947,NA,Europe,Eastern Europe
+Montenegro,1976,NA,72.33,2.45,560424,NA,Europe,Southern Europe
+Netherlands,1976,10.1,74.61,1.63,13722272,205864265605,Europe,Western Europe
+Norway,1976,9.9,75.17,1.86,4025297,77348888186,Europe,Northern Europe
+Poland,1976,23.9,70.88,2.26,34468877,NA,Europe,Eastern Europe
+Portugal,1976,32.7,69.12,2.65,9314301,53009799835,Europe,Southern Europe
+Romania,1976,41,69.87,2.57,21877548,NA,Europe,Eastern Europe
+Russia,1976,29.2,67.98,1.95,134583945,NA,Europe,Eastern Europe
+Serbia,1976,NA,70.03,2.37,8579631,NA,Europe,Southern Europe
+Slovak Republic,1976,NA,70.62,2.48,4793633,NA,Europe,Eastern Europe
+Slovenia,1976,NA,70.51,2.2,1759725,NA,Europe,Southern Europe
+Spain,1976,20.4,73.81,2.68,36302392,309108150346,Europe,Southern Europe
+Sweden,1976,8.3,74.96,1.68,8218630,153023380963,Europe,Northern Europe
+Switzerland,1976,10.4,74.98,1.61,6355245,NA,Europe,Western Europe
+Ukraine,1976,24.6,70.01,2.01,49036202,NA,Europe,Eastern Europe
+United Kingdom,1976,14.7,72.62,1.78,56212943,794985820712,Europe,Northern Europe
+Albania,1977,58.6,70.54,4.09,2517869,NA,Europe,Southern Europe
+Austria,1977,16.6,72.12,1.63,7625724,110372013894,Europe,Western Europe
+Belarus,1977,NA,71.39,2.11,9479262,NA,Europe,Eastern Europe
+Belgium,1977,14.1,72.7,1.73,9806885,139242499720,Europe,Western Europe
+Bosnia and Herzegovina,1977,NA,73.71,2.27,4041623,NA,Europe,Southern Europe
+Bulgaria,1977,28.1,70.88,2.18,8790072,NA,Europe,Eastern Europe
+Croatia,1977,NA,70.16,2.01,4536198,NA,Europe,Southern Europe
+Czech Republic,1977,NA,70.94,2.3,10188839,NA,Europe,Eastern Europe
+Denmark,1977,9.2,74.82,1.66,5095956,95352888525,Europe,Northern Europe
+Estonia,1977,NA,70.01,2.08,1443926,NA,Europe,Northern Europe
+Finland,1977,8.7,72.56,1.69,4738949,63236594804,Europe,Northern Europe
+France,1977,11.5,73.99,1.92,53509578,789935209765,Europe,Western Europe
+Germany,1977,15.5,72.63,1.5,78524727,1136867967134,Europe,Western Europe
+Greece,1977,25.9,73.1,2.32,9255749,82660761559,Europe,Southern Europe
+Hungary,1977,29.4,70.02,2.11,10650975,37583190553,Europe,Eastern Europe
+Iceland,1977,9.2,76.35,2.49,222142,4390232454,Europe,Northern Europe
+Ireland,1977,15.2,72.98,3.34,3287620,NA,Europe,Northern Europe
+Italy,1977,17.3,73.44,1.99,55775934,656431584296,Europe,Southern Europe
+Latvia,1977,NA,69.56,1.91,2481660,7258772134,Europe,Northern Europe
+Lithuania,1977,19.7,71.14,2.13,3355098,NA,Europe,Northern Europe
+Luxembourg,1977,12.8,71.61,1.5,358961,7121349575,Europe,Western Europe
+"Macedonia, FYR",1977,NA,68.76,2.67,1851068,NA,Europe,Southern Europe
+Malta,1977,17,73.63,2.09,311455,1224328510,Europe,Southern Europe
+Moldova,1977,42.6,65.52,2.46,3910636,NA,Europe,Eastern Europe
+Montenegro,1977,NA,72.55,2.4,565509,NA,Europe,Southern Europe
+Netherlands,1977,9.7,75.2,1.58,13827329,209819490793,Europe,Western Europe
+Norway,1977,9.3,75.51,1.75,4041789,80550482412,Europe,Northern Europe
+Poland,1977,23.3,70.78,2.27,34779313,NA,Europe,Eastern Europe
+Portugal,1977,29.5,70.37,2.57,9441167,55979725443,Europe,Southern Europe
+Romania,1977,39.3,69.95,2.58,22083933,NA,Europe,Eastern Europe
+Russia,1977,28.7,67.85,1.92,135406786,NA,Europe,Eastern Europe
+Serbia,1977,NA,70.21,2.37,8663327,NA,Europe,Southern Europe
+Slovak Republic,1977,NA,70.58,2.47,4844392,NA,Europe,Eastern Europe
+Slovenia,1977,NA,70.66,2.17,1777316,NA,Europe,Southern Europe
+Spain,1977,19.7,74.32,2.59,36687352,317882414865,Europe,Southern Europe
+Sweden,1977,8,75.39,1.65,8245975,150580732109,Europe,Northern Europe
+Switzerland,1977,9.8,75.43,1.57,6341216,NA,Europe,Western Europe
+Ukraine,1977,24.2,69.68,2,49290087,NA,Europe,Eastern Europe
+United Kingdom,1977,14.1,73.11,1.74,56224944,814021126299,Europe,Northern Europe
+Albania,1978,73,70.86,3.95,2571845,NA,Europe,Southern Europe
+Austria,1978,15.5,72.2,1.6,7616309,110210736056,Europe,Western Europe
+Belarus,1978,NA,71.23,2.09,9535069,NA,Europe,Eastern Europe
+Belgium,1978,13.5,72.64,1.69,9825779,143199627555,Europe,Western Europe
+Bosnia and Herzegovina,1978,NA,74.12,2.2,4073480,NA,Europe,Southern Europe
+Bulgaria,1978,26.8,71.24,2.17,8815565,NA,Europe,Eastern Europe
+Croatia,1978,NA,70.3,2.01,4555413,NA,Europe,Southern Europe
+Czech Republic,1978,NA,71.02,2.28,10251436,NA,Europe,Eastern Europe
+Denmark,1978,8.8,74.59,1.67,5108836,97521734448,Europe,Northern Europe
+Estonia,1978,NA,69.87,2.07,1454309,NA,Europe,Northern Europe
+Finland,1978,8.1,73.13,1.65,4749940,65082918740,Europe,Northern Europe
+France,1978,11,74.12,1.87,53685486,820703033189,Europe,Western Europe
+Germany,1978,14.4,72.6,1.49,78426715,1171070558919,Europe,Western Europe
+Greece,1978,24.3,73.38,2.28,9388188,88651073971,Europe,Southern Europe
+Hungary,1978,27.1,69.56,2.08,10704187,39236850937,Europe,Eastern Europe
+Iceland,1978,8.7,76.66,2.42,224019,4654380211,Europe,Northern Europe
+Ireland,1978,14.2,72.98,3.22,3339499,NA,Europe,Northern Europe
+Italy,1978,16.1,73.78,1.9,55983298,677700885301,Europe,Southern Europe
+Latvia,1978,NA,69.45,1.9,2491980,7497186771,Europe,Northern Europe
+Lithuania,1978,19.3,70.93,2.1,3380879,NA,Europe,Northern Europe
+Luxembourg,1978,12.2,71.57,1.48,361078,7411542534,Europe,Western Europe
+"Macedonia, FYR",1978,NA,68.88,2.63,1877687,NA,Europe,Southern Europe
+Malta,1978,16.2,73.92,2.1,313953,1360977788,Europe,Southern Europe
+Moldova,1978,41.6,65.47,2.45,3942141,NA,Europe,Eastern Europe
+Montenegro,1978,NA,72.75,2.35,570062,NA,Europe,Southern Europe
+Netherlands,1978,9.3,75.11,1.58,13925970,214709855410,Europe,Western Europe
+Norway,1978,8.8,75.54,1.77,4056280,83654855453,Europe,Northern Europe
+Poland,1978,22.5,70.71,2.28,35100942,NA,Europe,Eastern Europe
+Portugal,1978,26.8,70.83,2.49,9560753,57556095543,Europe,Southern Europe
+Romania,1978,37.8,70.01,2.51,22279485,NA,Europe,Eastern Europe
+Russia,1978,28.2,67.89,1.9,136259517,NA,Europe,Eastern Europe
+Serbia,1978,NA,70.37,2.36,8746982,NA,Europe,Southern Europe
+Slovak Republic,1978,NA,70.59,2.44,4895130,NA,Europe,Eastern Europe
+Slovenia,1978,NA,70.77,2.14,1795649,NA,Europe,Southern Europe
+Spain,1978,18.4,74.51,2.48,37055640,322533045314,Europe,Southern Europe
+Sweden,1978,7.6,75.48,1.6,8272499,153218225975,Europe,Northern Europe
+Switzerland,1978,9.2,75.39,1.54,6321583,NA,Europe,Western Europe
+Ukraine,1978,23.8,69.63,1.99,49525597,NA,Europe,Eastern Europe
+United Kingdom,1978,13.4,73.04,1.73,56223974,840405929358,Europe,Northern Europe
+Albania,1979,68.4,71.14,3.81,2626290,NA,Europe,Southern Europe
+Austria,1979,14.6,72.51,1.6,7605888,116223961464,Europe,Western Europe
+Belarus,1979,NA,70.82,2.08,9593007,NA,Europe,Eastern Europe
+Belgium,1979,12.8,73.13,1.66,9842453,146552035422,Europe,Western Europe
+Bosnia and Herzegovina,1979,NA,74.48,2.14,4107135,NA,Europe,Southern Europe
+Bulgaria,1979,25.7,71.34,2.14,8840131,NA,Europe,Eastern Europe
+Croatia,1979,NA,70.42,2.01,4576030,NA,Europe,Southern Europe
+Czech Republic,1979,NA,71.13,2.23,10302778,NA,Europe,Eastern Europe
+Denmark,1979,8.6,74.41,1.6,5118065,101373969024,Europe,Northern Europe
+Estonia,1979,NA,69.66,2.06,1464468,NA,Europe,Northern Europe
+Finland,1979,7.6,73.42,1.64,4762758,69718076285,Europe,Northern Europe
+France,1979,10.6,74.43,1.85,53857610,849011684286,Europe,Western Europe
+Germany,1979,13.5,72.96,1.48,78305017,1219674241982,Europe,Western Europe
+Greece,1979,22.8,73.68,2.24,9513594,91560673331,Europe,Southern Europe
+Hungary,1979,25.3,69.77,2.03,10742694,40296245912,Europe,Eastern Europe
+Iceland,1979,8.3,76.88,2.36,225972,4880610196,Europe,Northern Europe
+Ireland,1979,13,73.28,3.11,3387822,NA,Europe,Northern Europe
+Italy,1979,15.1,74.11,1.81,56168376,718086161610,Europe,Southern Europe
+Latvia,1979,19.4,68.93,1.91,2502294,7725383528,Europe,Northern Europe
+Lithuania,1979,18.8,70.8,2.07,3406311,NA,Europe,Northern Europe
+Luxembourg,1979,11.7,72.25,1.46,362791,7585388324,Europe,Western Europe
+"Macedonia, FYR",1979,NA,68.98,2.6,1902718,NA,Europe,Southern Europe
+Malta,1979,15.6,74.19,2.1,316781,1503754838,Europe,Southern Europe
+Moldova,1979,40.6,65.41,2.46,3974506,NA,Europe,Eastern Europe
+Montenegro,1979,NA,72.95,2.31,574953,NA,Europe,Southern Europe
+Netherlands,1979,9,75.59,1.56,14017909,219051113525,Europe,Western Europe
+Norway,1979,8.4,75.54,1.75,4069626,87300314681,Europe,Northern Europe
+Poland,1979,21.7,71.05,2.3,35435627,NA,Europe,Eastern Europe
+Portugal,1979,24.6,71.64,2.39,9667021,60801647711,Europe,Southern Europe
+Romania,1979,36.3,70.06,2.5,22457125,NA,Europe,Eastern Europe
+Russia,1979,27.8,67.61,1.87,137144808,NA,Europe,Eastern Europe
+Serbia,1979,NA,70.53,2.36,8829038,NA,Europe,Southern Europe
+Slovak Republic,1979,NA,70.92,2.41,4943732,NA,Europe,Eastern Europe
+Slovenia,1979,NA,70.85,2.09,1815101,NA,Europe,Southern Europe
+Spain,1979,16.8,75.05,2.36,37397232,322667046531,Europe,Southern Europe
+Sweden,1979,7.4,75.52,1.66,8294832,159101811236,Europe,Northern Europe
+Switzerland,1979,8.7,75.69,1.52,6306578,NA,Europe,Western Europe
+Ukraine,1979,23.4,69.36,1.98,49750150,NA,Europe,Eastern Europe
+United Kingdom,1979,12.7,73.14,1.72,56220089,862994117013,Europe,Northern Europe
+Albania,1980,64,71.39,3.68,2681245,2833406779,Europe,Southern Europe
+Austria,1980,13.9,72.64,1.65,7597269,118297013218,Europe,Western Europe
+Belarus,1980,19.4,70.57,2.08,9654455,NA,Europe,Eastern Europe
+Belgium,1980,12.2,73.18,1.63,9855747,153064887077,Europe,Western Europe
+Bosnia and Herzegovina,1980,30.7,74.82,2.09,4144726,NA,Europe,Southern Europe
+Bulgaria,1980,24.5,71.17,2.11,8865235,11464296023,Europe,Eastern Europe
+Croatia,1980,20,70.56,2,4598126,NA,Europe,Southern Europe
+Czech Republic,1980,17,70.67,2.18,10337827,NA,Europe,Eastern Europe
+Denmark,1980,8.3,74.3,1.55,5123435,100879727996,Europe,Northern Europe
+Estonia,1980,22.4,69.75,2.06,1474487,NA,Europe,Northern Europe
+Finland,1980,7.2,73.71,1.63,4779454,73475216510,Europe,Northern Europe
+France,1980,10.2,74.53,1.83,54053224,862905694751,Europe,Western Europe
+Germany,1980,12.6,73.14,1.47,78159527,1236857362256,Europe,Western Europe
+Greece,1980,21.3,74.01,2.17,9620274,92180659096,Europe,Southern Europe
+Hungary,1980,23.8,69.18,1.98,10759022,40376838404,Europe,Eastern Europe
+Iceland,1980,7.8,76.92,2.31,228127,5161143800,Europe,Northern Europe
+Ireland,1980,12,73.66,3,3431078,NA,Europe,Northern Europe
+Italy,1980,14.3,74.07,1.72,56336446,742716634590,Europe,Southern Europe
+Latvia,1980,19.4,69.23,1.94,2513397,8040771351,Europe,Northern Europe
+Lithuania,1980,18.1,70.78,2.06,3431933,NA,Europe,Northern Europe
+Luxembourg,1980,11.2,72.42,1.46,364044,7649172559,Europe,Western Europe
+"Macedonia, FYR",1980,52,69.08,2.57,1924194,NA,Europe,Southern Europe
+Malta,1980,15,74.47,2.09,319898,1609765263,Europe,Southern Europe
+Moldova,1980,39.7,65.4,2.48,4009843,2804577459,Europe,Eastern Europe
+Montenegro,1980,NA,73.16,2.27,580755,NA,Europe,Southern Europe
+Netherlands,1980,8.8,75.72,1.6,14103279,226172474359,Europe,Western Europe
+Norway,1980,8.2,75.8,1.72,4082525,91232456676,Europe,Northern Europe
+Poland,1980,21,70.4,2.31,35782855,NA,Europe,Eastern Europe
+Portugal,1980,22.8,71.71,2.29,9755635,63592042134,Europe,Southern Europe
+Romania,1980,34.9,70.1,2.44,22612149,40945223260,Europe,Eastern Europe
+Russia,1980,27.3,67.57,1.86,138063062,NA,Europe,Eastern Europe
+Serbia,1980,NA,70.68,2.35,8908293,NA,Europe,Southern Europe
+Slovak Republic,1980,20,70.58,2.37,4988654,NA,Europe,Eastern Europe
+Slovenia,1980,16,70.89,2.04,1835839,NA,Europe,Southern Europe
+Spain,1980,15.3,75.53,2.22,37704867,329793884331,Europe,Southern Europe
+Sweden,1980,7.2,75.74,1.68,8310915,161806496553,Europe,Northern Europe
+Switzerland,1980,8.4,75.69,1.51,6303608,180443573548,Europe,Western Europe
+Ukraine,1980,23,69.33,1.98,49968811,NA,Europe,Eastern Europe
+United Kingdom,1980,12,73.57,1.73,56221513,844981955754,Europe,Northern Europe
+Albania,1981,59.9,71.63,3.56,2735329,2996203998,Europe,Southern Europe
+Austria,1981,13.2,72.96,1.67,7591618,118126455202,Europe,Western Europe
+Belarus,1981,18.5,70.84,2.08,9719634,NA,Europe,Eastern Europe
+Belgium,1981,11.7,73.59,1.61,9865512,152637401921,Europe,Western Europe
+Bosnia and Herzegovina,1981,28.9,75.2,2.05,4185074,NA,Europe,Southern Europe
+Bulgaria,1981,23.4,71.56,2.08,8891245,12026065057,Europe,Eastern Europe
+Croatia,1981,19.2,70.71,1.99,4621418,NA,Europe,Southern Europe
+Czech Republic,1981,16.4,71.11,2.12,10353750,NA,Europe,Eastern Europe
+Denmark,1981,8,74.44,1.44,5124807,99985021834,Europe,Northern Europe
+Estonia,1981,21.6,69.62,2.08,1483938,NA,Europe,Northern Europe
+Finland,1981,6.7,74.03,1.65,4800899,74420490142,Europe,Northern Europe
+France,1981,9.8,74.69,1.84,54279038,871351830990,Europe,Western Europe
+Germany,1981,11.8,73.37,1.47,77990369,1243403312837,Europe,Western Europe
+Greece,1981,19.9,74.33,2.09,9704947,90748428632,Europe,Southern Europe
+Hungary,1981,22.6,69.24,1.93,10750270,41534339384,Europe,Eastern Europe
+Iceland,1981,7.4,76.61,2.27,230525,5381266949,Europe,Northern Europe
+Ireland,1981,11.2,74.04,2.9,3468884,NA,Europe,Northern Europe
+Italy,1981,13.4,74.46,1.64,56489623,748986853623,Europe,Southern Europe
+Latvia,1981,19.4,69.18,1.97,2524843,8381023297,Europe,Northern Europe
+Lithuania,1981,17.6,70.77,2.05,3457365,NA,Europe,Northern Europe
+Luxembourg,1981,10.9,72.22,1.45,364779,7607029404,Europe,Western Europe
+"Macedonia, FYR",1981,51.6,69.21,2.54,1941445,NA,Europe,Southern Europe
+Malta,1981,14.4,74.74,2.08,323298,1663076865,Europe,Southern Europe
+Moldova,1981,38.7,65.48,2.51,4048617,2784631720,Europe,Eastern Europe
+Montenegro,1981,NA,73.35,2.23,587689,NA,Europe,Southern Europe
+Netherlands,1981,8.6,75.93,1.56,14181967,224400160606,Europe,Western Europe
+Norway,1981,8,76,1.7,4095177,92644319022,Europe,Northern Europe
+Poland,1981,20.5,71.38,2.32,36145211,NA,Europe,Eastern Europe
+Portugal,1981,21.3,71.9,2.18,9824239,64621027189,Europe,Southern Europe
+Romania,1981,33.6,70.12,2.35,22739965,41258753229,Europe,Eastern Europe
+Russia,1981,26.9,67.79,1.88,139006739,NA,Europe,Eastern Europe
+Serbia,1981,NA,70.84,2.34,8984599,NA,Europe,Southern Europe
+Slovak Republic,1981,23.2,70.82,2.34,5029208,NA,Europe,Eastern Europe
+Slovenia,1981,15.5,70.94,1.98,1857854,NA,Europe,Southern Europe
+Spain,1981,14.1,75.67,2.09,37976189,329357010934,Europe,Southern Europe
+Sweden,1981,6.9,76.04,1.64,8319810,161479205873,Europe,Northern Europe
+Switzerland,1981,8.1,75.92,1.51,6315799,183333081216,Europe,Western Europe
+Ukraine,1981,22.4,69.36,1.99,50181709,NA,Europe,Eastern Europe
+United Kingdom,1981,11.4,73.9,1.74,56231020,834702785338,Europe,Northern Europe
+Albania,1982,56.1,71.88,3.46,2788315,3084549973,Europe,Southern Europe
+Austria,1982,12.6,73.12,1.66,7588957,120426376421,Europe,Western Europe
+Belarus,1982,17.7,70.95,2.09,9787558,NA,Europe,Eastern Europe
+Belgium,1982,11.2,73.81,1.59,9872709,153545574534,Europe,Western Europe
+Bosnia and Herzegovina,1982,27.2,75.65,2.02,4226663,NA,Europe,Southern Europe
+Bulgaria,1982,22.5,71.16,2.06,8916713,12306821433,Europe,Eastern Europe
+Croatia,1982,18.4,70.89,1.98,4645409,NA,Europe,Southern Europe
+Czech Republic,1982,16,71.22,2.07,10352607,NA,Europe,Eastern Europe
+Denmark,1982,8,74.78,1.43,5122810,103698448292,Europe,Northern Europe
+Estonia,1982,20.9,70.03,2.1,1492704,NA,Europe,Northern Europe
+Finland,1982,6.5,74.6,1.72,4826135,76689699650,Europe,Northern Europe
+France,1982,9.5,75.07,1.84,54528408,892413505746,Europe,Western Europe
+Germany,1982,11,73.69,1.46,77812348,1238493849902,Europe,Western Europe
+Greece,1982,18.7,74.64,2.01,9771250,89720568798,Europe,Southern Europe
+Hungary,1982,22,69.47,1.88,10719749,42714366741,Europe,Eastern Europe
+Iceland,1982,7,77.26,2.23,233121,5497209911,Europe,Northern Europe
+Ireland,1982,10.4,74.34,2.79,3501213,NA,Europe,Northern Europe
+Italy,1982,12.6,74.93,1.57,56626403,752084555861,Europe,Southern Europe
+Latvia,1982,19.1,69.75,2.02,2536340,8577998698,Europe,Northern Europe
+Lithuania,1982,17.1,71.17,2.05,3482390,NA,Europe,Northern Europe
+Luxembourg,1982,10.5,72.31,1.45,365098,7693087499,Europe,Western Europe
+"Macedonia, FYR",1982,50.2,69.4,2.51,1954990,NA,Europe,Southern Europe
+Malta,1982,13.9,75.01,2.06,326953,1701069041,Europe,Southern Europe
+Moldova,1982,37.4,65.68,2.55,4089860,3111294419,Europe,Eastern Europe
+Montenegro,1982,NA,73.52,2.19,595353,NA,Europe,Southern Europe
+Netherlands,1982,8.4,76.01,1.5,14255051,221615900425,Europe,Western Europe
+Norway,1982,8,76.13,1.71,4107655,92760122385,Europe,Northern Europe
+Poland,1982,20,71.45,2.32,36517072,NA,Europe,Eastern Europe
+Portugal,1982,19.9,72.73,2.07,9873144,66000928625,Europe,Southern Europe
+Romania,1982,32.5,70.11,2.16,22842426,42909325746,Europe,Eastern Europe
+Russia,1982,26.5,68.25,1.96,139969243,NA,Europe,Eastern Europe
+Serbia,1982,NA,71.01,2.33,9057974,NA,Europe,Southern Europe
+Slovak Republic,1982,22.2,70.94,2.3,5065658,NA,Europe,Eastern Europe
+Slovenia,1982,14.6,71.03,1.92,1880699,NA,Europe,Southern Europe
+Spain,1982,13.2,76.22,1.96,38212556,333462320000,Europe,Southern Europe
+Sweden,1982,6.8,76.36,1.63,8323466,163405836617,Europe,Northern Europe
+Switzerland,1982,7.8,76.26,1.52,6341369,180932485875,Europe,Western Europe
+Ukraine,1982,21.7,69.51,2.01,50385836,NA,Europe,Eastern Europe
+United Kingdom,1982,10.8,74.03,1.76,56250124,853087644937,Europe,Northern Europe
+Albania,1983,52.4,72.15,3.37,2842620,3118632347,Europe,Southern Europe
+Austria,1983,12,73.19,1.56,7589573,123982344406,Europe,Western Europe
+Belarus,1983,17,70.73,2.1,9856780,NA,Europe,Eastern Europe
+Belgium,1983,10.7,73.81,1.58,9878636,154024395245,Europe,Western Europe
+Bosnia and Herzegovina,1983,25.6,76.15,1.99,4270598,NA,Europe,Southern Europe
+Bulgaria,1983,21.7,71.33,2.03,8939007,12728983093,Europe,Eastern Europe
+Croatia,1983,17.5,71.08,1.96,4669614,NA,Europe,Southern Europe
+Czech Republic,1983,15.6,71,2.02,10340397,NA,Europe,Eastern Europe
+Denmark,1983,8,74.65,1.38,5118966,106448383104,Europe,Northern Europe
+Estonia,1983,20.2,69.95,2.13,1501490,NA,Europe,Northern Europe
+Finland,1983,6.3,74.51,1.74,4853196,79008660402,Europe,Northern Europe
+France,1983,9.1,75.06,1.85,54799049,903407336383,Europe,Western Europe
+Germany,1983,10.4,73.97,1.46,77657451,1257968052880,Europe,Western Europe
+Greece,1983,17.7,74.94,1.91,9822999,88752822669,Europe,Southern Europe
+Hungary,1983,22,69.03,1.85,10673963,43023177035,Europe,Eastern Europe
+Iceland,1983,6.7,76.91,2.2,235860,5378956036,Europe,Northern Europe
+Ireland,1983,9.8,74.4,2.68,3527472,NA,Europe,Northern Europe
+Italy,1983,11.9,74.75,1.51,56744400,760877954788,Europe,Southern Europe
+Latvia,1983,18.7,69.51,2.06,2548941,9025725371,Europe,Northern Europe
+Lithuania,1983,16.6,71.09,2.05,3507839,NA,Europe,Northern Europe
+Luxembourg,1983,10.1,73.19,1.45,365301,7923039792,Europe,Western Europe
+"Macedonia, FYR",1983,48.3,69.63,2.47,1965488,NA,Europe,Southern Europe
+Malta,1983,13.4,75.28,2.06,330761,1690651832,Europe,Southern Europe
+Moldova,1983,36,65.98,2.59,4132440,3246858773,Europe,Eastern Europe
+Montenegro,1983,NA,73.68,2.15,602964,NA,Europe,Southern Europe
+Netherlands,1983,8.2,76.21,1.47,14325363,226203256621,Europe,Western Europe
+Norway,1983,8.1,76.19,1.66,4120386,96347057333,Europe,Northern Europe
+Poland,1983,19.3,71.29,2.31,36879742,NA,Europe,Eastern Europe
+Portugal,1983,18.6,72.65,1.96,9904444,65886672394,Europe,Southern Europe
+Romania,1983,31.8,70.1,2,22928996,45526793810,Europe,Eastern Europe
+Russia,1983,26,68.01,2.09,140951400,NA,Europe,Eastern Europe
+Serbia,1983,NA,71.19,2.32,9127679,NA,Europe,Southern Europe
+Slovak Republic,1983,21.3,70.64,2.27,5098607,NA,Europe,Eastern Europe
+Slovenia,1983,13.8,70.74,1.85,1903548,NA,Europe,Southern Europe
+Spain,1983,12.6,76,1.84,38415495,339364989096,Europe,Southern Europe
+Sweden,1983,6.6,76.6,1.61,8326196,166363076144,Europe,Northern Europe
+Switzerland,1983,7.6,76.27,1.53,6376791,182088788225,Europe,Western Europe
+Ukraine,1983,20.9,69.48,2.03,50579135,NA,Europe,Eastern Europe
+United Kingdom,1983,10.4,74.28,1.78,56283959,884575705039,Europe,Northern Europe
+Albania,1984,49.1,72.42,3.3,2901590,3079599649,Europe,Southern Europe
+Austria,1984,11.3,73.73,1.52,7593397,124057574520,Europe,Western Europe
+Belarus,1984,16.5,70.09,2.1,9925227,NA,Europe,Eastern Europe
+Belgium,1984,10.2,74.31,1.57,9885088,157823226219,Europe,Western Europe
+Bosnia and Herzegovina,1984,26.2,76.63,1.97,4318301,NA,Europe,Southern Europe
+Bulgaria,1984,20.7,71.43,2.02,8954518,13161315818,Europe,Eastern Europe
+Croatia,1984,16.7,71.31,1.94,4693432,NA,Europe,Southern Europe
+Czech Republic,1984,15.4,71.26,1.99,10325923,NA,Europe,Eastern Europe
+Denmark,1984,8,74.81,1.4,5115308,110882572572,Europe,Northern Europe
+Estonia,1984,19.6,69.83,2.17,1511272,NA,Europe,Northern Europe
+Finland,1984,6.1,74.82,1.7,4879222,81463976414,Europe,Northern Europe
+France,1984,8.8,75.56,1.85,55084677,916909603122,Europe,Western Europe
+Germany,1984,9.8,74.44,1.46,77566776,1293479834781,Europe,Western Europe
+Greece,1984,16.7,75.21,1.82,9866725,90537269528,Europe,Southern Europe
+Hungary,1984,21.9,69.07,1.83,10622559,44166753595,Europe,Eastern Europe
+Iceland,1984,6.4,77.71,2.17,238647,5601059491,Europe,Northern Europe
+Ireland,1984,9.3,74.87,2.56,3547157,NA,Europe,Northern Europe
+Italy,1984,11.2,75.51,1.46,56839859,785422754391,Europe,Southern Europe
+Latvia,1984,17.8,69.56,2.1,2564006,9545052777,Europe,Northern Europe
+Lithuania,1984,16.1,70.6,2.06,3534804,NA,Europe,Northern Europe
+Luxembourg,1984,9.7,72.94,1.45,365795,8413233453,Europe,Western Europe
+"Macedonia, FYR",1984,46.2,69.92,2.44,1974069,NA,Europe,Southern Europe
+Malta,1984,12.8,75.54,2.05,334592,1706584035,Europe,Southern Europe
+Moldova,1984,34.5,66.38,2.62,4174621,3355864083,Europe,Eastern Europe
+Montenegro,1984,23.8,73.83,2.1,609433,NA,Europe,Southern Europe
+Netherlands,1984,8,76.28,1.49,14396606,233128874303,Europe,Western Europe
+Norway,1984,8.2,76.36,1.66,4133833,102025828220,Europe,Northern Europe
+Poland,1984,18.6,71.03,2.29,37208529,NA,Europe,Eastern Europe
+Portugal,1984,17.6,72.94,1.87,9921895,64648016404,Europe,Southern Europe
+Romania,1984,31.6,70.08,2.18,23013190,48212873920,Europe,Eastern Europe
+Russia,1984,25.6,67.53,2.05,141955200,NA,Europe,Eastern Europe
+Serbia,1984,34.5,71.38,2.31,9192917,NA,Europe,Southern Europe
+Slovak Republic,1984,20.3,70.88,2.25,5129108,25397205025,Europe,Eastern Europe
+Slovenia,1984,13.1,71.2,1.79,1925315,NA,Europe,Southern Europe
+Spain,1984,12,76.38,1.73,38588238,345421593730,Europe,Southern Europe
+Sweden,1984,6.5,76.86,1.66,8333904,173468954449,Europe,Northern Europe
+Switzerland,1984,7.4,76.87,1.54,6416275,187566850048,Europe,Western Europe
+Ukraine,1984,20.1,69.17,2.04,50758512,NA,Europe,Eastern Europe
+United Kingdom,1984,10,74.66,1.8,56337848,908384297622,Europe,Northern Europe
+Albania,1985,45.9,72.71,3.23,2966799,3134436354,Europe,Southern Europe
+Austria,1985,10.7,73.95,1.47,7600514,127104769470,Europe,Western Europe
+Belarus,1985,16,70.28,2.09,9990966,NA,Europe,Eastern Europe
+Belgium,1985,9.9,74.41,1.56,9893499,160430138974,Europe,Western Europe
+Bosnia and Herzegovina,1985,24.1,76.95,1.95,4369527,NA,Europe,Southern Europe
+Bulgaria,1985,19.7,71.15,2,8960387,13514491918,Europe,Eastern Europe
+Croatia,1985,15.7,71.54,1.92,4716117,NA,Europe,Southern Europe
+Czech Republic,1985,15.1,71.48,1.97,10315676,NA,Europe,Eastern Europe
+Denmark,1985,8,74.68,1.45,5113408,115344969038,Europe,Northern Europe
+Estonia,1985,19,69.97,2.19,1522477,NA,Europe,Northern Europe
+Finland,1985,6,74.49,1.64,4902219,84154228856,Europe,Northern Europe
+France,1985,8.5,75.67,1.84,55379923,931672923882,Europe,Western Europe
+Germany,1985,9.2,74.55,1.45,77570009,1323591207453,Europe,Western Europe
+Greece,1985,15.8,75.47,1.73,9907831,92809353506,Europe,Southern Europe
+Hungary,1985,21.4,69.01,1.83,10572975,44054981903,Europe,Eastern Europe
+Iceland,1985,6.1,77.85,2.15,241411,5785493496,Europe,Northern Europe
+Ireland,1985,8.9,74.84,2.45,3560225,NA,Europe,Northern Europe
+Italy,1985,10.5,75.62,1.41,56910888,807399556378,Europe,Southern Europe
+Latvia,1985,16.8,69.72,2.13,2582079,9509215112,Europe,Northern Europe
+Lithuania,1985,15.4,70.78,2.06,3563741,NA,Europe,Northern Europe
+Luxembourg,1985,9.4,73.51,1.45,366884,8648106211,Europe,Western Europe
+"Macedonia, FYR",1985,45,70.26,2.4,1981532,NA,Europe,Southern Europe
+Malta,1985,12.3,75.81,2.06,338348,1750703981,Europe,Southern Europe
+Moldova,1985,32.9,66.83,2.64,4214911,3178309459,Europe,Eastern Europe
+Montenegro,1985,21.8,73.96,2.06,614011,NA,Europe,Southern Europe
+Netherlands,1985,7.9,76.34,1.51,14471591,239144018447,Europe,Western Europe
+Norway,1985,8.3,76.07,1.68,4148355,107488317889,Europe,Northern Europe
+Poland,1985,17.8,70.78,2.27,37486105,NA,Europe,Eastern Europe
+Portugal,1985,16.5,73.22,1.78,9929014,66462970413,Europe,Southern Europe
+Romania,1985,31.8,70.05,2.27,23103637,48165021730,Europe,Eastern Europe
+Russia,1985,25,68.19,2.05,142975753,NA,Europe,Eastern Europe
+Serbia,1985,33.5,71.58,2.29,9253401,NA,Europe,Southern Europe
+Slovak Republic,1985,19.4,70.89,2.22,5157959,26285694970,Europe,Eastern Europe
+Slovenia,1985,12.3,71.63,1.74,1945136,NA,Europe,Southern Europe
+Spain,1985,11.4,76.34,1.63,38734330,353440334465,Europe,Southern Europe
+Sweden,1985,6.4,76.72,1.74,8350814,177267361611,Europe,Northern Europe
+Switzerland,1985,7.3,76.99,1.54,6455680,194457298196,Europe,Western Europe
+Ukraine,1985,19.3,69.47,2.05,50920778,NA,Europe,Eastern Europe
+United Kingdom,1985,9.7,74.51,1.81,56415196,941301820438,Europe,Northern Europe
+Albania,1986,43.2,72.96,3.18,3041003,3311132154,Europe,Southern Europe
+Austria,1986,10,74.43,1.45,7610435,130049304257,Europe,Western Europe
+Belarus,1986,15.4,71.66,2.08,10053975,NA,Europe,Eastern Europe
+Belgium,1986,9.5,74.61,1.56,9903895,163354398789,Europe,Western Europe
+Bosnia and Herzegovina,1986,22.1,76.89,1.93,4428460,NA,Europe,Southern Europe
+Bulgaria,1986,18.8,71.63,1.98,8956741,14083127965,Europe,Eastern Europe
+Croatia,1986,14.8,71.78,1.89,4737949,NA,Europe,Southern Europe
+Czech Republic,1986,14.7,71.42,1.95,10311350,NA,Europe,Eastern Europe
+Denmark,1986,8,74.86,1.48,5113767,121053669414,Europe,Northern Europe
+Estonia,1986,18.5,71.11,2.19,1536112,NA,Europe,Northern Europe
+Finland,1986,6,74.86,1.6,4921293,86377372397,Europe,Northern Europe
+France,1986,8.2,75.95,1.83,55686610,952690141655,Europe,Western Europe
+Germany,1986,8.7,74.75,1.44,77671877,1353866228890,Europe,Western Europe
+Greece,1986,14.9,75.73,1.65,9945576,93289790481,Europe,Southern Europe
+Hungary,1986,20.6,69.22,1.83,10526561,44731203330,Europe,Eastern Europe
+Iceland,1986,5.9,78.38,2.14,244145,6148275293,Europe,Northern Europe
+Ireland,1986,8.7,74.93,2.34,3566327,NA,Europe,Northern Europe
+Italy,1986,9.9,75.94,1.38,56956635,830490956712,Europe,Southern Europe
+Latvia,1986,15.7,71.09,2.14,2604484,9956941786,Europe,Northern Europe
+Lithuania,1986,14.5,72.45,2.06,3595362,NA,Europe,Northern Europe
+Luxembourg,1986,8.9,74.44,1.46,368662,9511527496,Europe,Western Europe
+"Macedonia, FYR",1986,44.3,70.6,2.37,1988401,NA,Europe,Southern Europe
+Malta,1986,11.7,76.08,2.06,341978,1818722232,Europe,Southern Europe
+Moldova,1986,31.4,67.29,2.65,4253162,3429668862,Europe,Eastern Europe
+Montenegro,1986,19.9,74.08,2.02,616357,NA,Europe,Southern Europe
+Netherlands,1986,7.7,76.31,1.55,14551065,245808904500,Europe,Western Europe
+Norway,1986,8.3,76.21,1.71,4164166,111828214159,Europe,Northern Europe
+Poland,1986,17.1,71.07,2.23,37703942,NA,Europe,Eastern Europe
+Portugal,1986,15.5,73.61,1.71,9925410,69215172550,Europe,Southern Europe
+Romania,1986,32.2,70.02,2.37,23205267,49321357908,Europe,Eastern Europe
+Russia,1986,24.3,69.8,2.18,144016095,NA,Europe,Eastern Europe
+Serbia,1986,32.5,71.78,2.27,9306283,NA,Europe,Southern Europe
+Slovak Republic,1986,18.6,71.07,2.2,5185157,27380932820,Europe,Eastern Europe
+Slovenia,1986,11.5,72.17,1.68,1962890,NA,Europe,Southern Europe
+Spain,1986,10.9,76.59,1.55,38854360,364938885630,Europe,Southern Europe
+Sweden,1986,6.3,76.98,1.8,8377863,182339143634,Europe,Northern Europe
+Switzerland,1986,7.2,77.17,1.54,6493442,198071545303,Europe,Western Europe
+Ukraine,1986,18.6,70.82,2.05,51063970,NA,Europe,Eastern Europe
+United Kingdom,1986,9.5,74.78,1.82,56519444,979088489571,Europe,Northern Europe
+Albania,1987,40.8,73.14,3.13,3121336,3285045643,Europe,Southern Europe
+Austria,1987,9.4,74.86,1.43,7623700,131800268995,Europe,Western Europe
+Belarus,1987,14.8,71.55,2.05,10113451,NA,Europe,Eastern Europe
+Belgium,1987,9.2,75.22,1.56,9916261,167122428431,Europe,Western Europe
+Bosnia and Herzegovina,1987,20.4,76.37,1.89,4491745,NA,Europe,Southern Europe
+Bulgaria,1987,18.2,71.42,1.94,8943721,14935792899,Europe,Eastern Europe
+Croatia,1987,13.8,72,1.84,4758152,NA,Europe,Southern Europe
+Czech Republic,1987,14.3,71.87,1.93,10311293,NA,Europe,Eastern Europe
+Denmark,1987,8,74.97,1.5,5116351,121404648587,Europe,Northern Europe
+Estonia,1987,18,71.13,2.17,1551288,NA,Europe,Northern Europe
+Finland,1987,5.9,74.89,1.59,4937259,89391929243,Europe,Northern Europe
+France,1987,8.1,76.55,1.81,56005443,975443949951,Europe,Western Europe
+Germany,1987,8.3,75.15,1.43,77864381,1372849485574,Europe,Western Europe
+Greece,1987,13.9,76.01,1.58,9979755,91182501476,Europe,Southern Europe
+Hungary,1987,19.4,69.69,1.84,10482364,46543367079,Europe,Eastern Europe
+Iceland,1987,5.6,77.53,2.13,246867,6673703195,Europe,Northern Europe
+Ireland,1987,8.4,75.76,2.23,3566416,NA,Europe,Northern Europe
+Italy,1987,9.4,76.36,1.35,56980621,856999900993,Europe,Southern Europe
+Latvia,1987,15,71.14,2.12,2629831,10189755820,Europe,Northern Europe
+Lithuania,1987,13.6,72.26,2.05,3628532,NA,Europe,Northern Europe
+Luxembourg,1987,8.5,73.97,1.47,371079,9887325850,Europe,Western Europe
+"Macedonia, FYR",1987,42.9,70.93,2.34,1994368,NA,Europe,Southern Europe
+Malta,1987,11.3,76.33,2.06,345490,1893481029,Europe,Southern Europe
+Moldova,1987,29.9,67.69,2.63,4289099,3470900663,Europe,Eastern Europe
+Montenegro,1987,18.2,74.21,1.98,616796,NA,Europe,Southern Europe
+Netherlands,1987,7.5,76.78,1.56,14634787,250556085329,Europe,Western Europe
+Norway,1987,8.2,76.07,1.75,4181326,113818805968,Europe,Northern Europe
+Poland,1987,16.6,71.12,2.19,37867481,NA,Europe,Eastern Europe
+Portugal,1987,14.5,74,1.65,9912208,73632065332,Europe,Southern Europe
+Romania,1987,32.6,70,2.41,23312045,49716312212,Europe,Eastern Europe
+Russia,1987,23.5,69.81,2.23,145056221,NA,Europe,Eastern Europe
+Serbia,1987,31.1,71.99,2.24,9351938,NA,Europe,Southern Europe
+Slovak Republic,1987,17.7,71.24,2.17,5210451,28054474188,Europe,Eastern Europe
+Slovenia,1987,10.8,72.1,1.63,1978541,NA,Europe,Southern Europe
+Spain,1987,10.4,76.82,1.49,38950965,385182493102,Europe,Southern Europe
+Sweden,1987,6.2,77.12,1.84,8413658,188642802914,Europe,Northern Europe
+Switzerland,1987,7.1,77.47,1.55,6531160,201211926408,Europe,Western Europe
+Ukraine,1987,17.9,70.61,2.03,51185554,72112790855,Europe,Eastern Europe
+United Kingdom,1987,9.2,75.12,1.83,56649375,1023755772169,Europe,Northern Europe
+Albania,1988,38.6,73.25,3.08,3197064,3238396691,Europe,Southern Europe
+Austria,1988,8.9,75.34,1.45,7642479,135933234154,Europe,Western Europe
+Belarus,1988,14.2,71.28,2.01,10165746,NA,Europe,Eastern Europe
+Belgium,1988,8.9,75.53,1.57,9931873,175015969845,Europe,Western Europe
+Bosnia and Herzegovina,1988,18.8,75.39,1.84,4542757,NA,Europe,Southern Europe
+Bulgaria,1988,17.8,71.49,1.9,8918660,16570469409,Europe,Eastern Europe
+Croatia,1988,12.9,72.22,1.79,4773683,NA,Europe,Southern Europe
+Czech Republic,1988,13.7,72.08,1.91,10314591,NA,Europe,Eastern Europe
+Denmark,1988,7.9,75.06,1.56,5121511,121231447726,Europe,Northern Europe
+Estonia,1988,17.6,71.17,2.12,1564278,NA,Europe,Northern Europe
+Finland,1988,5.8,74.85,1.7,4951886,94059332965,Europe,Northern Europe
+France,1988,7.9,76.78,1.79,56328053,1020973645763,Europe,Western Europe
+Germany,1988,7.8,75.33,1.41,78146938,1423744251340,Europe,Western Europe
+Greece,1988,12.9,76.32,1.51,10017036,95092281001,Europe,Southern Europe
+Hungary,1988,18.4,70.09,1.85,10442721,46512991415,Europe,Eastern Europe
+Iceland,1988,5.5,77.39,2.14,249563,6667715146,Europe,Northern Europe
+Ireland,1988,8.3,75.82,2.14,3563438,NA,Europe,Northern Europe
+Italy,1988,9.1,76.54,1.33,56990645,892945710034,Europe,Southern Europe
+Latvia,1988,14.8,71.05,2.08,2652684,10709082257,Europe,Northern Europe
+Lithuania,1988,12.8,72.1,2.03,3659613,NA,Europe,Northern Europe
+Luxembourg,1988,8.1,74.57,1.5,374117,10724118202,Europe,Western Europe
+"Macedonia, FYR",1988,39.7,71.23,2.31,1998471,NA,Europe,Southern Europe
+Malta,1988,10.9,76.59,2.07,348912,2052803058,Europe,Southern Europe
+Moldova,1988,28.7,67.98,2.58,4320927,3529644422,Europe,Eastern Europe
+Montenegro,1988,16.8,74.35,1.94,616055,NA,Europe,Southern Europe
+Netherlands,1988,7.2,76.98,1.55,14723266,259178268694,Europe,Western Europe
+Norway,1988,7.9,76.17,1.84,4199817,113622064770,Europe,Northern Europe
+Poland,1988,16.1,71.49,2.14,37990683,NA,Europe,Eastern Europe
+Portugal,1988,13.5,74.02,1.6,9896416,79146450269,Europe,Southern Europe
+Romania,1988,32.6,69.98,2.3,23408397,49468155772,Europe,Eastern Europe
+Russia,1988,22.8,69.66,2.14,146040116,NA,Europe,Eastern Europe
+Serbia,1988,29.1,72.17,2.2,9396975,NA,Europe,Southern Europe
+Slovak Republic,1988,17,71.32,2.13,5234119,28599163479,Europe,Eastern Europe
+Slovenia,1988,10.1,72.75,1.58,1991454,NA,Europe,Southern Europe
+Spain,1988,10.1,76.82,1.43,39032625,404804938151,Europe,Southern Europe
+Sweden,1988,6.2,77.01,1.97,8457108,193672781455,Europe,Northern Europe
+Switzerland,1988,7,77.49,1.55,6571461,207806840968,Europe,Western Europe
+Ukraine,1988,17.3,70.49,1.99,51280766,73963539144,Europe,Eastern Europe
+United Kingdom,1988,8.8,75.23,1.83,56797704,1075271265416,Europe,Northern Europe
+Albania,1989,36.7,73.3,3.02,3253659,3556943168,Europe,Southern Europe
+Austria,1989,8.4,75.43,1.45,7669601,141217060615,Europe,Western Europe
+Belarus,1989,13.8,71.05,1.95,10206300,NA,Europe,Eastern Europe
+Belgium,1989,8.6,75.59,1.57,9952253,181087565789,Europe,Western Europe
+Bosnia and Herzegovina,1989,17.4,74.07,1.78,4559256,NA,Europe,Southern Europe
+Bulgaria,1989,17.9,71.55,1.84,8878348,16025320520,Europe,Eastern Europe
+Croatia,1989,11.9,72.4,1.73,4780627,NA,Europe,Southern Europe
+Czech Republic,1989,13.3,72.13,1.87,10319255,NA,Europe,Eastern Europe
+Denmark,1989,7.7,75.1,1.62,5129472,121925983178,Europe,Northern Europe
+Estonia,1989,17.1,70.73,2.04,1570051,NA,Europe,Northern Europe
+Finland,1989,5.7,75.07,1.71,4967776,98835452368,Europe,Northern Europe
+France,1989,7.7,76.91,1.77,56643349,1063728514428,Europe,Western Europe
+Germany,1989,7.4,75.51,1.38,78514790,1479221182513,Europe,Western Europe
+Greece,1989,12,76.66,1.46,10065859,98705787677,Europe,Southern Europe
+Hungary,1989,17.6,69.53,1.84,10409854,46855524629,Europe,Eastern Europe
+Iceland,1989,5.2,78.46,2.15,252219,6684947179,Europe,Northern Europe
+Ireland,1989,8,75.87,2.06,3561331,NA,Europe,Northern Europe
+Italy,1989,8.7,76.94,1.31,56997093,923202135233,Europe,Southern Europe
+Latvia,1989,15.4,70.55,2.01,2665711,11317947634,Europe,Northern Europe
+Lithuania,1989,12.5,71.79,2,3683711,NA,Europe,Northern Europe
+Luxembourg,1989,7.7,74.49,1.53,377708,11774873894,Europe,Western Europe
+"Macedonia, FYR",1989,35.9,71.48,2.28,1999338,NA,Europe,Southern Europe
+Malta,1989,10.4,76.84,2.06,352304,2220703965,Europe,Southern Europe
+Moldova,1989,27.8,68.16,2.51,4346449,3707266121,Europe,Eastern Europe
+Montenegro,1989,15.7,74.47,1.9,615201,NA,Europe,Southern Europe
+Netherlands,1989,7,76.82,1.55,14816751,270634604237,Europe,Western Europe
+Norway,1989,7.5,76.52,1.89,4219532,114755481808,Europe,Northern Europe
+Poland,1989,15.7,71.25,2.09,38094812,NA,Europe,Eastern Europe
+Portugal,1989,12.5,74.58,1.56,9886997,84243987334,Europe,Southern Europe
+Romania,1989,32,69.99,2.18,23472562,46599150980,Europe,Eastern Europe
+Russia,1989,22.2,69.57,2.02,146895053,397827114199,Europe,Eastern Europe
+Serbia,1989,26.8,72.35,2.16,9450482,11908238671,Europe,Southern Europe
+Slovak Republic,1989,16.2,71.12,2.09,5256475,28944720186,Europe,Eastern Europe
+Slovenia,1989,9.4,73.19,1.52,2000910,NA,Europe,Southern Europe
+Spain,1989,9.7,76.89,1.38,39110106,424344995166,Europe,Southern Europe
+Sweden,1989,6.1,77.67,2.02,8506236,199055234725,Europe,Northern Europe
+Switzerland,1989,6.8,77.68,1.55,6618268,216806527278,Europe,Western Europe
+Ukraine,1989,16.9,70.43,1.94,51343974,76828223358,Europe,Eastern Europe
+United Kingdom,1989,8.4,75.36,1.82,56953861,1099802690060,Europe,Northern Europe
+Albania,1990,35.1,73.3,2.97,3281453,3216343088,Europe,Southern Europe
+Austria,1990,8,75.7,1.46,7706571,147353847860,Europe,Western Europe
+Belarus,1990,13.5,70.5,1.89,10231983,14364231695,Europe,Eastern Europe
+Belgium,1990,8.3,76,1.58,9978241,186769011525,Europe,Western Europe
+Bosnia and Herzegovina,1990,16.2,72.7,1.71,4526996,NA,Europe,Southern Europe
+Bulgaria,1990,18.4,71.4,1.77,8821111,14564231602,Europe,Eastern Europe
+Croatia,1990,11.2,72.6,1.67,4776374,25147844849,Europe,Southern Europe
+Czech Republic,1990,12.7,71.8,1.82,10323701,56341410900,Europe,Eastern Europe
+Denmark,1990,7.3,75.1,1.67,5140332,123885874634,Europe,Northern Europe
+Estonia,1990,16.5,70.1,1.94,1565320,NA,Europe,Northern Europe
+Finland,1990,5.5,75.1,1.79,4986705,99334807444,Europe,Northern Europe
+France,1990,7.4,77.2,1.75,56943299,1091598599817,Europe,Western Europe
+Germany,1990,7,75.4,1.36,78958237,1556954345661,Europe,Western Europe
+Greece,1990,11.3,77,1.42,10131737,98705787677,Europe,Southern Europe
+Hungary,1990,16.9,69.5,1.83,10385061,45217146353,Europe,Eastern Europe
+Iceland,1990,5.1,78.3,2.16,254830,6763118968,Europe,Northern Europe
+Ireland,1990,7.7,76.3,2,3563106,NA,Europe,Northern Europe
+Italy,1990,8.3,77,1.3,57007577,942151611270,Europe,Southern Europe
+Latvia,1990,16.6,69.6,1.92,2663985,10418900247,Europe,Northern Europe
+Lithuania,1990,13.4,71.5,1.96,3697393,15866609805,Europe,Northern Europe
+Luxembourg,1990,7.3,75.2,1.56,381787,12401289199,Europe,Western Europe
+"Macedonia, FYR",1990,33,71.7,2.24,1996227,3932157068,Europe,Southern Europe
+Malta,1990,10,77.1,2.05,355707,2360417128,Europe,Southern Europe
+Moldova,1990,27.3,68.2,2.41,4364114,3618291734,Europe,Eastern Europe
+Montenegro,1990,14.9,74.6,1.87,614999,NA,Europe,Southern Europe
+Netherlands,1990,6.8,77,1.62,14915139,281955594047,Europe,Western Europe
+Norway,1990,7,76.6,1.93,4240375,116966569351,Europe,Northern Europe
+Poland,1990,15.1,70.9,2.04,38195258,118170362822,Europe,Eastern Europe
+Portugal,1990,11.5,74.2,1.54,9890319,87572065710,Europe,Southern Europe
+Romania,1990,31,70,1.81,23489361,43989597124,Europe,Eastern Europe
+Russia,1990,21.9,69.2,1.89,147568552,385892318110,Europe,Eastern Europe
+Serbia,1990,24.5,72.5,2.11,9517670,10955579577,Europe,Southern Europe
+Slovak Republic,1990,15.6,71,2.04,5277709,28171611567,Europe,Eastern Europe
+Slovenia,1990,8.8,73.7,1.47,2006520,16709399038,Europe,Southern Europe
+Spain,1990,9.3,76.9,1.34,39192055,440391149059,Europe,Southern Europe
+Sweden,1990,5.8,77.6,2.14,8559107,201066288111,Europe,Northern Europe
+Switzerland,1990,6.7,77.5,1.55,6673920,224773355504,Europe,Western Europe
+Ukraine,1990,16.7,70,1.87,51370009,71953291930,Europe,Eastern Europe
+United Kingdom,1990,7.9,75.7,1.81,57110117,1108373235034,Europe,Northern Europe
+Albania,1991,33.7,73.4,2.92,3275438,2264659407,Europe,Southern Europe
+Austria,1991,7.6,75.8,1.51,7755143,152425218284,Europe,Western Europe
+Belarus,1991,13.5,70.1,1.81,10241137,14191860914,Europe,Eastern Europe
+Belgium,1991,8,76.2,1.59,10011217,190192626271,Europe,Western Europe
+Bosnia and Herzegovina,1991,15.1,72.7,1.65,4437898,NA,Europe,Southern Europe
+Bulgaria,1991,18.8,71.3,1.69,8745408,13334230508,Europe,Eastern Europe
+Croatia,1991,10.5,71.9,1.62,4760003,19844498690,Europe,Southern Europe
+Czech Republic,1991,12.2,72,1.76,10328440,49797388500,Europe,Eastern Europe
+Denmark,1991,6.9,75.4,1.68,5154309,125496920044,Europe,Northern Europe
+Estonia,1991,15.9,69.6,1.83,1548287,NA,Europe,Northern Europe
+Finland,1991,5.3,75.4,1.8,5009381,93374792703,Europe,Northern Europe
+France,1991,7.1,77.3,1.74,57226524,1102943385636,Europe,Western Europe
+Germany,1991,6.5,75.6,1.34,79483739,1636487645219,Europe,Western Europe
+Greece,1991,10.7,77.1,1.39,10217782,101765667097,Europe,Southern Europe
+Hungary,1991,16.2,69.2,1.8,10370223,39839904832,Europe,Eastern Europe
+Iceland,1991,4.9,78.4,2.17,257387,6748001672,Europe,Northern Europe
+Ireland,1991,7.2,76.7,1.95,3570140,NA,Europe,Northern Europe
+Italy,1991,8,77,1.29,57029614,956601713821,Europe,Southern Europe
+Latvia,1991,18,69.1,1.82,2645056,9106616653,Europe,Northern Europe
+Lithuania,1991,14.9,70.5,1.91,3699352,14966074504,Europe,Northern Europe
+Luxembourg,1991,6.8,75.5,1.6,386355,13473280265,Europe,Western Europe
+"Macedonia, FYR",1991,31.5,71.7,2.21,1988458,3689516998,Europe,Southern Europe
+Malta,1991,9.7,77.3,2.04,359113,2508096392,Europe,Southern Europe
+Moldova,1991,27.5,67.4,2.31,4373582,3039365057,Europe,Eastern Europe
+Montenegro,1991,14.3,74.4,1.84,615743,NA,Europe,Southern Europe
+Netherlands,1991,6.5,77.2,1.61,15019184,288832598822,Europe,Western Europe
+Norway,1991,6.4,77,1.92,4262367,120598906113,Europe,Northern Europe
+Poland,1991,14.7,70.7,1.98,38297549,109880027888,Europe,Eastern Europe
+Portugal,1991,10.6,74.2,1.52,9909574,91397394349,Europe,Southern Europe
+Romania,1991,30.1,70.5,1.56,23454143,38314937347,Europe,Eastern Europe
+Russia,1991,21.9,69.1,1.73,148040354,366416566465,Europe,Eastern Europe
+Serbia,1991,22.3,71.4,2.05,9603621,9883838097,Europe,Southern Europe
+Slovak Republic,1991,15,71.1,1.97,5298080,24065936365,Europe,Eastern Europe
+Slovenia,1991,8.2,73.6,1.43,2007918,15222244613,Europe,Southern Europe
+Spain,1991,8.8,77,1.31,39287043,451603510207,Europe,Southern Europe
+Sweden,1991,5.5,77.7,2.11,8616535,198811754929,Europe,Northern Europe
+Switzerland,1991,6.4,77.6,1.54,6739995,222646556202,Europe,Western Europe
+Ukraine,1991,16.7,69.4,1.79,51360720,65901556790,Europe,Eastern Europe
+United Kingdom,1991,7.4,76,1.8,57264600,1092939524264,Europe,Northern Europe
+Albania,1992,32.5,73.6,2.87,3240613,2101603929,Europe,Southern Europe
+Austria,1992,7.1,76,1.51,7813393,155616277926,Europe,Western Europe
+Belarus,1992,13.6,69.6,1.72,10234863,12829442266,Europe,Eastern Europe
+Belgium,1992,7.6,76.3,1.6,10050405,193103818853,Europe,Western Europe
+Bosnia and Herzegovina,1992,14.7,68,1.59,4301169,NA,Europe,Southern Europe
+Bulgaria,1992,19.1,71.2,1.6,8653527,12364513548,Europe,Eastern Europe
+Croatia,1992,9.9,72.3,1.57,4732864,17520054878,Europe,Southern Europe
+Czech Republic,1992,11.5,72.3,1.68,10333930,49545143638,Europe,Eastern Europe
+Denmark,1992,6.5,75.4,1.76,5171304,127976062128,Europe,Northern Europe
+Estonia,1992,15.2,69.3,1.71,1520879,NA,Europe,Northern Europe
+Finland,1992,5,75.7,1.85,5034898,90120692832,Europe,Northern Europe
+France,1992,6.7,77.6,1.72,57495252,1119243188168,Europe,Western Europe
+Germany,1992,6.2,76,1.32,80075940,1667775438935,Europe,Western Europe
+Greece,1992,10.3,77.1,1.37,10321044,102478026766,Europe,Southern Europe
+Hungary,1992,15.4,69.1,1.75,10364661,38619138295,Europe,Eastern Europe
+Iceland,1992,4.7,78.6,2.17,259895,6520331239,Europe,Northern Europe
+Ireland,1992,6.8,76.8,1.92,3582342,NA,Europe,Northern Europe
+Italy,1992,7.7,77.3,1.28,57062760,963995710673,Europe,Southern Europe
+Latvia,1992,19.1,68.4,1.7,2611306,6181701566,Europe,Northern Europe
+Lithuania,1992,16.1,70.3,1.85,3690788,11784441130,Europe,Northern Europe
+Luxembourg,1992,6.3,75.8,1.64,391400,13718447181,Europe,Western Europe
+"Macedonia, FYR",1992,30.1,71.6,2.16,1977033,3447300381,Europe,Southern Europe
+Malta,1992,9.3,77.5,2.02,362492,2625749584,Europe,Southern Europe
+Moldova,1992,28.2,67.6,2.19,4375312,2154909825,Europe,Eastern Europe
+Montenegro,1992,14,74.2,1.83,617174,NA,Europe,Southern Europe
+Netherlands,1992,6.3,77.3,1.59,15128288,293760304700,Europe,Western Europe
+Norway,1992,5.8,77.1,1.88,4285504,124847807184,Europe,Northern Europe
+Poland,1992,14.3,71.1,1.91,38396826,112643487102,Europe,Eastern Europe
+Portugal,1992,9.7,74.6,1.5,9943197,92393147458,Europe,Southern Europe
+Romania,1992,29.1,70,1.49,23373155,34927739544,Europe,Eastern Europe
+Russia,1992,22,68,1.55,148322473,313172304875,Europe,Eastern Europe
+Serbia,1992,20.9,72.4,2,9702958,7199338861,Europe,Southern Europe
+Slovak Republic,1992,14.3,71.4,1.9,5317480,22448347451,Europe,Eastern Europe
+Slovenia,1992,7.7,73.8,1.38,2005535,14390547008,Europe,Southern Europe
+Spain,1992,8.5,77.4,1.28,39397403,455799879733,Europe,Southern Europe
+Sweden,1992,5.1,78.1,2.08,8677787,196419066335,Europe,Northern Europe
+Switzerland,1992,6.1,77.9,1.54,6814186,222868802728,Europe,Western Europe
+Ukraine,1992,16.8,68.8,1.69,51314080,59509765723,Europe,Eastern Europe
+United Kingdom,1992,7,76.2,1.79,57419469,1094542217421,Europe,Northern Europe
+Albania,1993,31.4,73.6,2.82,3189623,2303357907,Europe,Southern Europe
+Austria,1993,6.7,76.2,1.5,7874675,156436079199,Europe,Western Europe
+Belarus,1993,13.8,68.9,1.64,10216281,11854404654,Europe,Eastern Europe
+Belgium,1993,7.2,76.5,1.6,10091889,191246405183,Europe,Western Europe
+Bosnia and Herzegovina,1993,14.2,68.3,1.56,4141167,NA,Europe,Southern Europe
+Bulgaria,1993,19.2,71.1,1.51,8552429,12181492190,Europe,Eastern Europe
+Croatia,1993,9.5,72.9,1.54,4697536,16113968509,Europe,Southern Europe
+Czech Republic,1993,10.7,72.7,1.59,10338381,49575814188,Europe,Eastern Europe
+Denmark,1993,6.1,75.4,1.75,5190631,127861389126,Europe,Northern Europe
+Estonia,1993,14.5,68.2,1.6,1488120,NA,Europe,Northern Europe
+Finland,1993,4.8,76,1.81,5061465,89390086604,Europe,Northern Europe
+France,1993,6.3,77.7,1.72,57749881,1111773755003,Europe,Western Europe
+Germany,1993,5.9,76.1,1.31,80675999,1651062704403,Europe,Western Europe
+Greece,1993,9.8,77.5,1.35,10433351,100838378338,Europe,Southern Europe
+Hungary,1993,14.2,69.2,1.69,10363797,38396650153,Europe,Eastern Europe
+Iceland,1993,4.5,78.8,2.17,262383,6605972495,Europe,Northern Europe
+Ireland,1993,6.4,76.9,1.9,3599451,NA,Europe,Northern Europe
+Italy,1993,7.3,77.6,1.26,57097411,955774699781,Europe,Southern Europe
+Latvia,1993,19.6,66.7,1.58,2568603,5873668623,Europe,Northern Europe
+Lithuania,1993,16,69.1,1.78,3673906,9872196086,Europe,Northern Europe
+Luxembourg,1993,6,76.2,1.67,396807,14294710857,Europe,Western Europe
+"Macedonia, FYR",1993,27.9,71.5,2.11,1964924,3189802353,Europe,Southern Europe
+Malta,1993,9,77.9,2,365838,2743402774,Europe,Southern Europe
+Moldova,1993,29.2,67.4,2.08,4369649,2129050907,Europe,Eastern Europe
+Montenegro,1993,13.8,73.9,1.82,618851,NA,Europe,Southern Europe
+Netherlands,1993,6.1,77.2,1.57,15239262,297454682600,Europe,Western Europe
+Norway,1993,5.3,77.5,1.86,4309606,128326793090,Europe,Northern Europe
+Poland,1993,13.9,71.7,1.84,38485892,116854450200,Europe,Eastern Europe
+Portugal,1993,8.8,74.7,1.49,9986828,90505299488,Europe,Southern Europe
+Romania,1993,28.5,69.8,1.43,23255683,35455614743,Europe,Eastern Europe
+Russia,1993,22.1,65.2,1.37,148435811,286024837287,Europe,Eastern Europe
+Serbia,1993,19.9,72.3,1.94,9797838,5002930395,Europe,Southern Europe
+Slovak Republic,1993,13.7,71.9,1.81,5335292,21617758596,Europe,Eastern Europe
+Slovenia,1993,7.1,73.9,1.34,2000783,14799730411,Europe,Southern Europe
+Spain,1993,8,77.6,1.25,39518427,451098341465,Europe,Southern Europe
+Sweden,1993,4.8,78.3,1.98,8737500,192377179377,Europe,Northern Europe
+Switzerland,1993,5.8,78.3,1.53,6890300,222455843363,Europe,Western Europe
+Ukraine,1993,17,68.3,1.6,51216988,51043842844,Europe,Eastern Europe
+United Kingdom,1993,6.6,76.3,1.78,57575969,1118865516282,Europe,Northern Europe
+Albania,1994,30.3,73.6,2.77,3140634,2494536613,Europe,Southern Europe
+Austria,1994,6.2,76.5,1.47,7929911,160193859615,Europe,Western Europe
+Belarus,1994,14.1,68.6,1.55,10190064,10467439310,Europe,Eastern Europe
+Belgium,1994,6.8,76.6,1.61,10130251,197417872113,Europe,Western Europe
+Bosnia and Herzegovina,1994,12.9,71.1,1.54,3992256,1342817884,Europe,Southern Europe
+Bulgaria,1994,19.3,70.9,1.42,8451626,12402953053,Europe,Eastern Europe
+Croatia,1994,9,73.4,1.52,4657799,17059934941,Europe,Southern Europe
+Czech Republic,1994,9.7,73,1.49,10339439,50676144450,Europe,Eastern Europe
+Denmark,1994,5.7,75.4,1.81,5211321,134926238386,Europe,Northern Europe
+Estonia,1994,13.6,66.3,1.51,1457145,NA,Europe,Northern Europe
+Finland,1994,4.5,76.4,1.85,5086499,92656163626,Europe,Northern Europe
+France,1994,5.8,78,1.72,57991973,1136759530932,Europe,Western Europe
+Germany,1994,5.5,76.4,1.31,81206786,1691872870119,Europe,Western Europe
+Greece,1994,9.4,77.7,1.34,10542970,102855145906,Europe,Southern Europe
+Hungary,1994,13,69.5,1.63,10361134,39528258777,Europe,Eastern Europe
+Iceland,1994,4.3,79.1,2.15,264893,6844372657,Europe,Northern Europe
+Ireland,1994,6.2,77.3,1.9,3620616,NA,Europe,Northern Europe
+Italy,1994,6.9,77.8,1.25,57119163,976333639592,Europe,Southern Europe
+Latvia,1994,19.9,65.7,1.46,2525444,6002296785,Europe,Northern Europe
+Lithuania,1994,14.9,68.7,1.71,3652120,8908072279,Europe,Northern Europe
+Luxembourg,1994,5.6,76.5,1.69,402431,14840900499,Europe,Western Europe
+"Macedonia, FYR",1994,24.9,71.7,2.05,1956165,3133724417,Europe,Southern Europe
+Malta,1994,8.7,78.2,1.97,369142,2898435363,Europe,Southern Europe
+Moldova,1994,30.2,65.8,1.98,4357283,1471174177,Europe,Eastern Europe
+Montenegro,1994,13.7,73.7,1.81,620088,NA,Europe,Southern Europe
+Netherlands,1994,5.8,77.5,1.57,15347792,306262566438,Europe,Western Europe
+Norway,1994,4.9,77.7,1.87,4334434,134809195259,Europe,Northern Europe
+Poland,1994,13.5,71.7,1.76,38553355,123039324941,Europe,Eastern Europe
+Portugal,1994,8.1,75.5,1.49,10033600,91378529219,Europe,Southern Europe
+Romania,1994,27.9,69.5,1.42,23115921,36863281940,Europe,Eastern Europe
+Russia,1994,22.2,63.8,1.4,148416292,250072213201,Europe,Eastern Europe
+Serbia,1994,18.8,72.1,1.89,9863781,5128003655,Europe,Southern Europe
+Slovak Republic,1994,13.1,72.3,1.72,5350643,22959255152,Europe,Eastern Europe
+Slovenia,1994,6.6,74.2,1.31,1995615,15588184208,Europe,Southern Europe
+Spain,1994,7.5,77.8,1.23,39641740,461848895996,Europe,Southern Europe
+Sweden,1994,4.4,78.5,1.88,8788696,200096549277,Europe,Northern Europe
+Switzerland,1994,5.5,78.4,1.53,6959860,225104895208,Europe,Western Europe
+Ukraine,1994,17.3,67.5,1.5,51052752,39337424683,Europe,Eastern Europe
+United Kingdom,1994,6.3,76.6,1.77,57736667,1166755632863,Europe,Northern Europe
+Albania,1995,29.1,73.7,2.72,3106727,2826309982,Europe,Southern Europe
+Austria,1995,5.7,76.8,1.42,7972833,164467805621,Europe,Western Europe
+Belarus,1995,14.4,68.2,1.47,10159731,9378825621,Europe,Eastern Europe
+Belgium,1995,6.3,76.9,1.61,10161914,202125809075,Europe,Western Europe
+Bosnia and Herzegovina,1995,12.3,67,1.53,3879278,1622124020,Europe,Southern Europe
+Bulgaria,1995,19.4,71,1.34,8358116,12757701010,Europe,Eastern Europe
+Croatia,1995,8.7,73,1.52,4616762,18211797513,Europe,Southern Europe
+Czech Republic,1995,8.8,73.4,1.39,10335556,53685084745,Europe,Eastern Europe
+Denmark,1995,5.4,75.6,1.81,5232582,139061964293,Europe,Northern Europe
+Estonia,1995,12.8,67.7,1.43,1433076,4104911009,Europe,Northern Europe
+Finland,1995,4.3,76.7,1.81,5108176,96327621153,Europe,Northern Europe
+France,1995,5.3,78.2,1.72,58224051,1160031311021,Europe,Western Europe
+Germany,1995,5.3,76.6,1.31,81612900,1720245651998,Europe,Western Europe
+Greece,1995,9.1,77.8,1.32,10641169,105014815743,Europe,Southern Europe
+Hungary,1995,12.1,70.1,1.56,10351994,40117042262,Europe,Eastern Europe
+Iceland,1995,4.1,78.9,2.13,267454,6852352080,Europe,Northern Europe
+Ireland,1995,6.1,77.1,1.9,3645333,NA,Europe,Northern Europe
+Italy,1995,6.4,78.1,1.24,57120136,1004518797770,Europe,Southern Europe
+Latvia,1995,19.7,66.5,1.36,2487988,5945589448,Europe,Northern Europe
+Lithuania,1995,13.5,69,1.64,3628079,9201155000,Europe,Northern Europe
+Luxembourg,1995,5.2,76.9,1.71,408148,15053451912,Europe,Western Europe
+"Macedonia, FYR",1995,22,71.8,1.99,1953544,3098797308,Europe,Southern Europe
+Malta,1995,8.4,78.4,1.93,372391,3082268472,Europe,Southern Europe
+Moldova,1995,31,65.4,1.88,4339082,1450577738,Europe,Eastern Europe
+Montenegro,1995,13.6,73.5,1.82,620415,NA,Europe,Southern Europe
+Netherlands,1995,5.7,77.6,1.53,15450803,315805641889,Europe,Western Europe
+Norway,1995,4.6,77.9,1.87,4359788,140452717481,Europe,Northern Europe
+Poland,1995,12.6,71.9,1.68,38591860,131592842399,Europe,Eastern Europe
+Portugal,1995,7.4,75.5,1.48,10078431,95292070961,Europe,Southern Europe
+Romania,1995,27.3,69.4,1.35,22965125,39502657934,Europe,Eastern Europe
+Russia,1995,22.2,64.4,1.34,148293265,239710400010,Europe,Eastern Europe
+Serbia,1995,17,72,1.85,9884146,5440811878,Europe,Southern Europe
+Slovak Republic,1995,12.6,72.4,1.63,5362950,24300878165,Europe,Eastern Europe
+Slovenia,1995,6.2,74.6,1.29,1991487,16155992417,Europe,Southern Europe
+Spain,1995,6.9,77.9,1.21,39764267,474584351741,Europe,Southern Europe
+Sweden,1995,4,78.9,1.73,8826720,207977423364,Europe,Northern Europe
+Switzerland,1995,5.2,78.5,1.52,7017042,225893296078,Europe,Western Europe
+Ukraine,1995,17.5,66.5,1.41,50811673,34538258871,Europe,Eastern Europe
+United Kingdom,1995,6.1,76.7,1.76,57903790,1202368820763,Europe,Northern Europe
+Albania,1996,27.9,73.8,2.67,3092034,3083504202,Europe,Southern Europe
+Austria,1996,5.3,77.1,1.45,8000453,168524640772,Europe,Western Europe
+Belarus,1996,14.4,68.1,1.4,10126941,9641432739,Europe,Eastern Europe
+Belgium,1996,5.9,77.2,1.61,10185077,205004919349,Europe,Western Europe
+Bosnia and Herzegovina,1996,11,73.8,1.52,3810649,3065127656,Europe,Southern Europe
+Bulgaria,1996,19.5,70.9,1.28,8274662,11605673635,Europe,Eastern Europe
+Croatia,1996,8.3,73.4,1.51,4574853,19289988823,Europe,Southern Europe
+Czech Republic,1996,7.9,73.8,1.31,10326682,56122215304,Europe,Eastern Europe
+Denmark,1996,5.1,75.9,1.75,5254383,143003738460,Europe,Northern Europe
+Estonia,1996,12,69.8,1.38,1417786,4346685997,Europe,Northern Europe
+Finland,1996,4,76.8,1.76,5126021,99765984890,Europe,Northern Europe
+France,1996,5,78.4,1.74,58443318,1172414702760,Europe,Western Europe
+Germany,1996,5,76.9,1.32,81870772,1733849040570,Europe,Western Europe
+Greece,1996,8.7,77.9,1.31,10725634,107491487302,Europe,Southern Europe
+Hungary,1996,11.5,70.5,1.49,10334876,40181583041,Europe,Eastern Europe
+Iceland,1996,3.9,79.4,2.1,270089,7180241405,Europe,Northern Europe
+Ireland,1996,6.1,77.5,1.91,3673553,NA,Europe,Northern Europe
+Italy,1996,6,78.3,1.23,57091906,1015916918932,Europe,Southern Europe
+Latvia,1996,19.1,68.6,1.28,2458305,6170981039,Europe,Northern Europe
+Lithuania,1996,12,70.2,1.57,3602164,9678020500,Europe,Northern Europe
+Luxembourg,1996,4.9,77.1,1.72,414000,15281888981,Europe,Western Europe
+"Macedonia, FYR",1996,19.5,72.1,1.92,1958303,3135512239,Europe,Southern Europe
+Malta,1996,8,78.5,1.88,375610,3198696108,Europe,Southern Europe
+Moldova,1996,31.3,66.1,1.8,4314693,1375147696,Europe,Eastern Europe
+Montenegro,1996,13.6,73.4,1.82,619696,NA,Europe,Southern Europe
+Netherlands,1996,5.5,77.6,1.53,15546647,326563625485,Europe,Western Europe
+Norway,1996,4.4,78.2,1.89,4385951,147615476382,Europe,Northern Europe
+Poland,1996,11.6,72.4,1.6,38599825,139802810346,Europe,Eastern Europe
+Portugal,1996,7,75.5,1.48,10119985,98806759496,Europe,Southern Europe
+Romania,1996,26.7,69.1,1.32,22804526,41086280751,Europe,Eastern Europe
+Russia,1996,22,65.7,1.27,148078355,231080825610,Europe,Eastern Europe
+Serbia,1996,15.1,71.9,1.8,9851958,5865195204,Europe,Southern Europe
+Slovak Republic,1996,12,72.8,1.54,5372115,25987692368,Europe,Eastern Europe
+Slovenia,1996,5.8,75,1.27,1989042,16745318458,Europe,Southern Europe
+Spain,1996,6.4,78.1,1.2,39878881,486055114049,Europe,Southern Europe
+Sweden,1996,3.8,79.1,1.6,8849420,211330470498,Europe,Northern Europe
+Switzerland,1996,5,79.1,1.5,7059633,227312869349,Europe,Western Europe
+Ukraine,1996,17.5,66.7,1.33,50489566,31084432984,Europe,Eastern Europe
+United Kingdom,1996,5.9,76.9,1.74,58079322,1237061020916,Europe,Northern Europe
+Albania,1997,26.8,74.1,2.61,3092471,2768986763,Europe,Southern Europe
+Austria,1997,5,77.6,1.39,8015256,172415724530,Europe,Western Europe
+Belarus,1997,14.2,68,1.34,10091181,10740556071,Europe,Eastern Europe
+Belgium,1997,5.5,77.4,1.61,10201758,212661589175,Europe,Western Europe
+Bosnia and Herzegovina,1997,10.1,74.4,1.5,3779354,4119212034,Europe,Southern Europe
+Bulgaria,1997,19.4,70.6,1.23,8199923,11414698748,Europe,Eastern Europe
+Croatia,1997,8,73.4,1.51,4532298,20552256735,Europe,Southern Europe
+Czech Republic,1997,7.2,74.2,1.23,10313836,55643759659,Europe,Eastern Europe
+Denmark,1997,5,76.2,1.75,5276683,147577647548,Europe,Northern Europe
+Estonia,1997,11.1,70,1.34,1409718,4856828570,Europe,Northern Europe
+Finland,1997,3.9,77.1,1.75,5140755,105957250783,Europe,Northern Europe
+France,1997,4.8,78.7,1.75,58652709,1198016965930,Europe,Western Europe
+Germany,1997,4.8,77.3,1.33,81993831,1763970829551,Europe,Western Europe
+Greece,1997,8.3,78.1,1.29,10798190,111401606432,Europe,Southern Europe
+Hungary,1997,11.1,70.9,1.43,10311227,41438134545,Europe,Eastern Europe
+Iceland,1997,3.7,79.6,2.07,272798,7533020281,Europe,Northern Europe
+Ireland,1997,6.1,77.4,1.92,3706032,NA,Europe,Northern Europe
+Italy,1997,5.6,78.7,1.22,57044614,1034874048284,Europe,Southern Europe
+Latvia,1997,18.1,69.3,1.22,2434628,6682110470,Europe,Northern Europe
+Lithuania,1997,11,71.1,1.5,3574014,10400885250,Europe,Northern Europe
+Luxembourg,1997,4.6,77.4,1.72,419974,16189489178,Europe,Western Europe
+"Macedonia, FYR",1997,17.5,72.3,1.85,1969345,3180668432,Europe,Southern Europe
+Malta,1997,7.6,78.8,1.82,378789,3366850884,Europe,Southern Europe
+Moldova,1997,30.8,67.9,1.73,4284931,1397150059,Europe,Eastern Europe
+Montenegro,1997,13.5,73.3,1.82,618192,1004514318,Europe,Southern Europe
+Netherlands,1997,5.3,77.9,1.56,15636131,340535469587,Europe,Western Europe
+Norway,1997,4.2,78.3,1.86,4412958,155575832146,Europe,Northern Europe
+Poland,1997,10.4,72.7,1.52,38583109,149709629670,Europe,Eastern Europe
+Portugal,1997,6.6,75.8,1.48,10159662,103161131029,Europe,Southern Europe
+Romania,1997,26,69.1,1.3,22633398,38578877726,Europe,Eastern Europe
+Russia,1997,21.6,67,1.22,147772805,234315957168,Europe,Eastern Europe
+Serbia,1997,13.3,72.1,1.76,9775008,6457579920,Europe,Southern Europe
+Slovak Republic,1997,11.6,72.8,1.46,5378490,27141951769,Europe,Eastern Europe
+Slovenia,1997,5.4,75.2,1.25,1988077,17575439822,Europe,Southern Europe
+Spain,1997,6.1,78.6,1.2,39996221,504859099130,Europe,Southern Europe
+Sweden,1997,3.6,79.4,1.53,8859106,217054182928,Europe,Northern Europe
+Switzerland,1997,4.9,79.2,1.49,7090176,232031125326,Europe,Western Europe
+Ukraine,1997,17.4,67.3,1.26,50096497,30151899995,Europe,Eastern Europe
+United Kingdom,1997,5.8,77.1,1.73,58263858,1313849464801,Europe,Northern Europe
+Albania,1998,25.5,74.2,2.54,3102898,3120648082,Europe,Southern Europe
+Austria,1998,4.8,77.8,1.37,8023166,178942595487,Europe,Western Europe
+Belarus,1998,13.6,67.9,1.29,10051298,11642762781,Europe,Eastern Europe
+Belgium,1998,5.2,77.5,1.61,10216867,216763650417,Europe,Western Europe
+Bosnia and Herzegovina,1998,9.3,74.8,1.47,3775898,4761808953,Europe,Southern Europe
+Bulgaria,1998,19.2,71,1.2,8131743,11969608572,Europe,Eastern Europe
+Croatia,1998,7.7,73.5,1.49,4491742,20958526744,Europe,Southern Europe
+Czech Republic,1998,6.5,74.5,1.18,10297977,55512454162,Europe,Eastern Europe
+Denmark,1998,4.8,76.7,1.72,5298680,150765998042,Europe,Northern Europe
+Estonia,1998,10.3,69.5,1.32,1406388,5187563539,Europe,Northern Europe
+Finland,1998,3.8,77.3,1.71,5153229,111288004422,Europe,Northern Europe
+France,1998,4.6,78.7,1.77,58867465,1238488425751,Europe,Western Europe
+Germany,1998,4.6,77.6,1.34,82010184,1796813296247,Europe,Western Europe
+Greece,1998,7.8,78.2,1.28,10859311,115148803931,Europe,Southern Europe
+Hungary,1998,10.7,71.1,1.37,10282937,43126100243,Europe,Eastern Europe
+Iceland,1998,3.5,79.9,2.05,275568,8008865740,Europe,Northern Europe
+Ireland,1998,6.1,77.6,1.93,3743948,NA,Europe,Northern Europe
+Italy,1998,5.3,78.9,1.22,57010940,1049860733915,Europe,Southern Europe
+Latvia,1998,16.9,69,1.18,2414650,6997691674,Europe,Northern Europe
+Lithuania,1998,10.4,71.3,1.44,3544668,11194349750,Europe,Northern Europe
+Luxembourg,1998,4.4,77.7,1.72,425830,17240171942,Europe,Western Europe
+"Macedonia, FYR",1998,16.1,72.4,1.79,1984242,3288135722,Europe,Southern Europe
+Malta,1998,7.4,78.9,1.75,381844,3539422300,Europe,Southern Europe
+Moldova,1998,29.8,68.5,1.67,4253280,1306335305,Europe,Eastern Europe
+Montenegro,1998,13.2,73.1,1.83,616308,1053735519,Europe,Southern Europe
+Netherlands,1998,5.3,78.1,1.63,15721627,353896255736,Europe,Western Europe
+Norway,1998,4.1,78.3,1.81,4440109,159749542448,Europe,Northern Europe
+Poland,1998,9.4,73,1.45,38550777,157167615405,Europe,Eastern Europe
+Portugal,1998,6.3,76.1,1.47,10198310,108461880496,Europe,Southern Europe
+Romania,1998,25,69.8,1.29,22458737,36731311750,Europe,Eastern Europe
+Russia,1998,21.1,67.2,1.23,147385440,221897211438,Europe,Eastern Europe
+Serbia,1998,12,71.5,1.72,9669648,6502782979,Europe,Southern Europe
+Slovak Republic,1998,11,72.8,1.38,5382521,28325599406,Europe,Eastern Europe
+Slovenia,1998,5.2,75.4,1.23,1988166,18193202385,Europe,Southern Europe
+Spain,1998,5.8,78.8,1.2,40151723,527417014907,Europe,Southern Europe
+Sweden,1998,3.5,79.5,1.52,8861204,226181208632,Europe,Northern Europe
+Switzerland,1998,4.8,79.5,1.47,7113505,238153464128,Europe,Western Europe
+Ukraine,1998,17,68.1,1.2,49655175,29579013895,Europe,Eastern Europe
+United Kingdom,1998,5.8,77.3,1.71,58456989,1364288187529,Europe,Northern Europe
+Albania,1999,24.4,74.2,2.47,3114851,3435833539,Europe,Southern Europe
+Austria,1999,4.7,78,1.34,8032953,185275602636,Europe,Western Europe
+Belarus,1999,12.6,67.7,1.25,10005259,12038616716,Europe,Eastern Europe
+Belgium,1999,4.9,77.7,1.62,10237402,224436421792,Europe,Western Europe
+Bosnia and Herzegovina,1999,8.6,75.3,1.43,3784389,5218942612,Europe,Southern Europe
+Bulgaria,1999,18.6,71.4,1.18,8066219,12204708618,Europe,Eastern Europe
+Croatia,1999,7.4,73.8,1.47,4456298,20739955885,Europe,Southern Europe
+Czech Republic,1999,6,74.7,1.14,10280525,56444667843,Europe,Eastern Europe
+Denmark,1999,4.7,76.3,1.74,5319410,154626288221,Europe,Northern Europe
+Estonia,1999,9.6,70.2,1.31,1403821,5173492088,Europe,Northern Europe
+Finland,1999,3.6,77.5,1.73,5164780,115637552976,Europe,Northern Europe
+France,1999,4.5,78.8,1.8,59107738,1279258855128,Europe,Western Europe
+Germany,1999,4.5,77.8,1.35,81965830,1830433099432,Europe,Western Europe
+Greece,1999,7.4,78.3,1.27,10910741,119086192482,Europe,Southern Europe
+Hungary,1999,10.2,71.3,1.33,10253110,44505141590,Europe,Eastern Europe
+Iceland,1999,3.3,80.2,2.02,278376,8336761572,Europe,Northern Europe
+Ireland,1999,6.1,77.7,1.94,3788816,NA,Europe,Northern Europe
+Italy,1999,5,79.3,1.21,57035249,1065095186670,Europe,Southern Europe
+Latvia,1999,15.7,70,1.17,2394521,7326519373,Europe,Northern Europe
+Lithuania,1999,10,71.8,1.38,3515218,11074208250,Europe,Northern Europe
+Luxembourg,1999,4.1,78.1,1.71,431264,18691358146,Europe,Western Europe
+"Macedonia, FYR",1999,15,72.6,1.73,1999362,3430814903,Europe,Southern Europe
+Malta,1999,7.1,79,1.67,384663,3706482064,Europe,Southern Europe
+Moldova,1999,28.1,68.4,1.61,4224270,1261919905,Europe,Eastern Europe
+Montenegro,1999,13,73,1.82,614623,954684380.6,Europe,Southern Europe
+Netherlands,1999,5.2,78,1.65,15806771,370474105840,Europe,Western Europe
+Norway,1999,4,78.5,1.85,4466468,162985714850,Europe,Northern Europe
+Poland,1999,8.6,73.1,1.39,38515359,164278190494,Europe,Eastern Europe
+Portugal,1999,5.9,76.4,1.47,10237593,112879698513,Europe,Southern Europe
+Romania,1999,24.2,70.6,1.28,22288573,36290534542,Europe,Eastern Europe
+Russia,1999,20.5,65.9,1.16,146924174,236098632970,Europe,Eastern Europe
+Serbia,1999,11.4,71,1.68,9559819,5774471285,Europe,Southern Europe
+Slovak Republic,1999,10.6,73,1.32,5384857,28336290314,Europe,Eastern Europe
+Slovenia,1999,4.8,75.7,1.22,1988527,19162102396,Europe,Southern Europe
+Spain,1999,5.6,78.8,1.21,40392585,552447896215,Europe,Southern Europe
+Sweden,1999,3.4,79.5,1.51,8863595,236720886164,Europe,Northern Europe
+Switzerland,1999,4.7,79.8,1.45,7136813,241275975776,Europe,Western Europe
+Ukraine,1999,16.5,67.7,1.16,49196895,29519855867,Europe,Eastern Europe
+United Kingdom,1999,5.7,77.5,1.69,58657794,1414162353493,Europe,Northern Europe
+Albania,2000,23.2,74.7,2.38,3121965,3686649387,Europe,Southern Europe
+Austria,2000,4.6,78.2,1.37,8050884,192070749954,Europe,Western Europe
+Belarus,2000,11.4,68.1,1.23,9952055,12736856485,Europe,Eastern Europe
+Belgium,2000,4.8,77.8,1.63,10268380,232672747374,Europe,Western Europe
+Bosnia and Herzegovina,2000,7.9,75.7,1.38,3792878,5505984456,Europe,Southern Europe
+Bulgaria,2000,17.9,71.6,1.18,8000510,12903546576,Europe,Eastern Europe
+Croatia,2000,7.1,74.2,1.44,4428069,21517784659,Europe,Southern Europe
+Czech Republic,2000,5.6,75,1.13,10263010,58807244368,Europe,Eastern Europe
+Denmark,2000,4.6,77.1,1.77,5338283,160082517846,Europe,Northern Europe
+Estonia,2000,8.8,70.4,1.32,1399145,5675174662,Europe,Northern Europe
+Finland,2000,3.5,77.8,1.73,5176482,121793808734,Europe,Northern Europe
+France,2000,4.4,79.1,1.82,59387183,1326334899576,Europe,Western Europe
+Germany,2000,4.4,78.1,1.35,81895925,1886401326700,Europe,Western Europe
+Greece,2000,6.9,78.6,1.27,10954032,124418164455,Europe,Southern Europe
+Hungary,2000,9.7,71.8,1.31,10224113,46385589534,Europe,Eastern Europe
+Iceland,2000,3.1,80.5,2.01,281214,8697298234,Europe,Northern Europe
+Ireland,2000,5.9,77.8,1.95,3841574,97524453299,Europe,Northern Europe
+Italy,2000,4.7,79.6,1.22,57147081,1104009462562,Europe,Southern Europe
+Latvia,2000,14.5,70.5,1.18,2371481,7833068425,Europe,Northern Europe
+Lithuania,2000,9.6,72.1,1.34,3486373,11434200000,Europe,Northern Europe
+Luxembourg,2000,3.9,78.5,1.7,436107,20269578036,Europe,Western Europe
+"Macedonia, FYR",2000,14.2,72.9,1.68,2012051,3586883989,Europe,Southern Europe
+Malta,2000,6.8,79.2,1.59,387180,3957418083,Europe,Southern Europe
+Moldova,2000,26,68.6,1.57,4201088,1288420223,Europe,Eastern Europe
+Montenegro,2000,12.5,73.3,1.82,613557,984279596.4,Europe,Southern Europe
+Netherlands,2000,5.1,78.1,1.72,15894016,385074626866,Europe,Western Europe
+Norway,2000,4,78.6,1.85,4491572,168288531891,Europe,Northern Europe
+Poland,2000,8.1,73.8,1.34,38486305,171276118424,Europe,Eastern Europe
+Portugal,2000,5.5,76.8,1.47,10278542,117299520914,Europe,Southern Europe
+Romania,2000,23.2,71.1,1.27,22128139,37052636395,Europe,Eastern Europe
+Russia,2000,19.7,65.1,1.2,146400951,259708496267,Europe,Eastern Europe
+Serbia,2000,10.9,72.1,1.64,9463306,6082791506,Europe,Southern Europe
+Slovak Republic,2000,10.2,73.3,1.27,5386065,28724041828,Europe,Eastern Europe
+Slovenia,2000,4.5,76.1,1.21,1988652,19979467790,Europe,Southern Europe
+Spain,2000,5.4,79.2,1.22,40749800,580345494748,Europe,Southern Europe
+Sweden,2000,3.4,79.7,1.56,8872284,247260155858,Europe,Northern Europe
+Switzerland,2000,4.6,79.8,1.44,7165581,249918732455,Europe,Western Europe
+Ukraine,2000,15.8,67.3,1.14,48746269,31261527363,Europe,Eastern Europe
+United Kingdom,2000,5.6,77.8,1.68,58867004,1477200786806,Europe,Northern Europe
+Albania,2001,22.1,75.1,2.29,3124093,3944714844,Europe,Southern Europe
+Austria,2001,4.5,78.6,1.33,8078877,193717569560,Europe,Western Europe
+Belarus,2001,10.3,68,1.22,9891535,13338711930,Europe,Eastern Europe
+Belgium,2001,4.6,78,1.65,10311331,234552028142,Europe,Western Europe
+Bosnia and Herzegovina,2001,7.5,76.2,1.33,3799747,5748247772,Europe,Southern Europe
+Bulgaria,2001,17.1,71.8,1.2,7934389,13439228305,Europe,Eastern Europe
+Croatia,2001,6.9,74.6,1.42,4408458,22304474424,Europe,Southern Europe
+Czech Republic,2001,5.3,75.3,1.14,10244261,60628710342,Europe,Eastern Europe
+Denmark,2001,4.5,77.2,1.75,5354704,161210834024,Europe,Northern Europe
+Estonia,2001,8.2,70,1.34,1391754,6031668953,Europe,Northern Europe
+Finland,2001,3.4,78.1,1.73,5188446,124575271789,Europe,Northern Europe
+France,2001,4.4,79.2,1.84,59711914,1350682881887,Europe,Western Europe
+Germany,2001,4.3,78.4,1.35,81809438,1914968442701,Europe,Western Europe
+Greece,2001,6.5,78.9,1.27,10987715,129640052497,Europe,Southern Europe
+Hungary,2001,9.1,72.3,1.29,10195978,48107516796,Europe,Eastern Europe
+Iceland,2001,3,80.8,2,284037,9038371651,Europe,Northern Europe
+Ireland,2001,5.8,78.4,1.96,3901688,102198450879,Europe,Northern Europe
+Italy,2001,4.4,79.8,1.23,57359179,1124573045861,Europe,Southern Europe
+Latvia,2001,13.6,70,1.21,2345145,8463121187,Europe,Northern Europe
+Lithuania,2001,9.2,71.6,1.31,3458923,12204375000,Europe,Northern Europe
+Luxembourg,2001,3.7,78.7,1.68,440198,20779788756,Europe,Western Europe
+"Macedonia, FYR",2001,13.5,73,1.64,2021585,3424565368,Europe,Southern Europe
+Malta,2001,6.6,79.4,1.52,389323,3896082512,Europe,Southern Europe
+Moldova,2001,23.7,69.2,1.54,4185513,1367013857,Europe,Eastern Europe
+Montenegro,2001,12,73.5,1.8,613239,995106672,Europe,Southern Europe
+Netherlands,2001,5,78.3,1.71,15984365,392490611985,Europe,Western Europe
+Norway,2001,3.8,78.9,1.78,4514907,171637634124,Europe,Northern Europe
+Poland,2001,7.6,74.2,1.3,38466543,173340512233,Europe,Eastern Europe
+Portugal,2001,5.2,76.8,1.46,10320463,119616127053,Europe,Southern Europe
+Romania,2001,22.4,71.1,1.27,21983221,39164637562,Europe,Eastern Europe
+Russia,2001,18.8,65.1,1.22,145818121,272932811945,Europe,Eastern Europe
+Serbia,2001,10.6,72.4,1.6,9384816,6405179456,Europe,Southern Europe
+Slovak Republic,2001,9.8,73.6,1.24,5386224,29724210072,Europe,Eastern Europe
+Slovenia,2001,4.3,76.3,1.22,1988287,20566790943,Europe,Southern Europe
+Spain,2001,5.3,79.5,1.25,41230518,601640869725,Europe,Southern Europe
+Sweden,2001,3.4,79.8,1.58,8888675,250381346604,Europe,Northern Europe
+Switzerland,2001,4.7,80.2,1.43,7200945,252797994166,Europe,Western Europe
+Ukraine,2001,15.1,67.5,1.14,48310816,34137587881,Europe,Eastern Europe
+United Kingdom,2001,5.4,78,1.67,59080221,1523742447714,Europe,Northern Europe
+Albania,2002,21,75.5,2.2,3123112,4059111575,Europe,Southern Europe
+Austria,2002,4.4,78.8,1.39,8114698,196998621885,Europe,Western Europe
+Belarus,2002,9.3,67.9,1.23,9825802,14011685603,Europe,Eastern Europe
+Belgium,2002,4.4,78.2,1.68,10364613,237741668285,Europe,Western Europe
+Bosnia and Herzegovina,2002,7.2,76.4,1.28,3808347,6052904904,Europe,Southern Europe
+Bulgaria,2002,16.3,72.1,1.22,7869124,14064179291,Europe,Eastern Europe
+Croatia,2002,6.6,74.9,1.39,4396765,23392545951,Europe,Southern Europe
+Czech Republic,2002,5.1,75.4,1.17,10225198,61931803247,Europe,Eastern Europe
+Denmark,2002,4.5,77.2,1.72,5369058,161961831922,Europe,Northern Europe
+Estonia,2002,7.5,70.9,1.38,1382735,6427372284,Europe,Northern Europe
+Finland,2002,3.4,78.3,1.72,5200632,126860143726,Europe,Northern Europe
+France,2002,4.2,79.4,1.87,60075783,1363229017959,Europe,Western Europe
+Germany,2002,4.2,78.6,1.35,81699829,1915162776824,Europe,Western Europe
+Greece,2002,6,79.1,1.28,11011490,134098566245,Europe,Southern Europe
+Hungary,2002,8.6,72.6,1.29,10168101,50275293599,Europe,Eastern Europe
+Iceland,2002,2.8,81,2,286865,9050931398,Europe,Northern Europe
+Ireland,2002,5.4,78.8,1.97,3968213,108200659649,Europe,Northern Europe
+Italy,2002,4.3,80.1,1.25,57655677,1129649776280,Europe,Southern Europe
+Latvia,2002,12.8,70.4,1.25,2316731,9010898599,Europe,Northern Europe
+Lithuania,2002,8.9,72.1,1.29,3432663,13042025000,Europe,Northern Europe
+Luxembourg,2002,3.4,79,1.67,443729,21632774847,Europe,Western Europe
+"Macedonia, FYR",2002,12.8,73.3,1.6,2028706,3453793697,Europe,Southern Europe
+Malta,2002,6.4,79.8,1.46,391148,4005624314,Europe,Southern Europe
+Moldova,2002,21.5,69.6,1.51,4176647,1473640937,Europe,Eastern Europe
+Montenegro,2002,11.5,74,1.79,613543,1014013699,Europe,Southern Europe
+Netherlands,2002,4.9,78.5,1.73,16076427,392790134494,Europe,Western Europe
+Norway,2002,3.6,79.1,1.75,4537240,174215767564,Europe,Northern Europe
+Poland,2002,7.3,74.6,1.28,38454823,175842681117,Europe,Eastern Europe
+Portugal,2002,4.7,77.3,1.45,10362028,120530280650,Europe,Southern Europe
+Romania,2002,21.6,71.2,1.27,21851988,41162034208,Europe,Eastern Europe
+Russia,2002,17.7,64.9,1.29,145195521,285879843583,Europe,Eastern Europe
+Serbia,2002,10.1,72.5,1.57,9320350,6669246165,Europe,Southern Europe
+Slovak Republic,2002,9.5,73.8,1.23,5385480,31086438645,Europe,Eastern Europe
+Slovenia,2002,4.1,76.6,1.23,1987855,21353851323,Europe,Southern Europe
+Spain,2002,5.2,79.6,1.27,41815486,617946434914,Europe,Southern Europe
+Sweden,2002,3.3,80,1.67,8911899,256599359725,Europe,Northern Europe
+Switzerland,2002,4.6,80.4,1.42,7242034,253918245870,Europe,Western Europe
+Ukraine,2002,14.3,67.5,1.15,47890647,35912742450,Europe,Eastern Europe
+United Kingdom,2002,5.3,78.2,1.67,59301235,1564235998290,Europe,Northern Europe
+Albania,2003,20,75.7,2.1,3117045,4290480934,Europe,Southern Europe
+Austria,2003,4.3,79,1.38,8155466,198704472152,Europe,Western Europe
+Belarus,2003,8.6,68.2,1.25,9758817,14998555617,Europe,Eastern Europe
+Belgium,2003,4.2,78.5,1.7,10426169,239659286074,Europe,Western Europe
+Bosnia and Herzegovina,2003,7,76.7,1.24,3817313,6295021100,Europe,Southern Europe
+Bulgaria,2003,15.5,72.3,1.25,7805041,14838464302,Europe,Eastern Europe
+Croatia,2003,6.3,75.1,1.38,4390291,24648975414,Europe,Southern Europe
+Czech Republic,2003,4.8,75.6,1.2,10211846,64264262986,Europe,Eastern Europe
+Denmark,2003,4.4,77.6,1.76,5382953,162583491905,Europe,Northern Europe
+Estonia,2003,6.9,71.5,1.42,1372890,6926482597,Europe,Northern Europe
+Finland,2003,3.3,78.5,1.76,5213800,129413119587,Europe,Northern Europe
+France,2003,4,79.6,1.89,60464857,1375491323088,Europe,Western Europe
+Germany,2003,4.1,78.8,1.35,81569481,1907972414293,Europe,Western Europe
+Greece,2003,5.5,79.3,1.3,11029587,142068547965,Europe,Southern Europe
+Hungary,2003,8,72.7,1.29,10141471,52211105383,Europe,Eastern Europe
+Iceland,2003,2.7,81.3,2.02,289824,9271268441,Europe,Northern Europe
+Ireland,2003,5.1,79.1,1.97,4040986,112701245355,Europe,Northern Europe
+Italy,2003,4,80.1,1.27,58002003,1129123604612,Europe,Southern Europe
+Latvia,2003,12.2,70.8,1.29,2286946,9659317395,Europe,Northern Europe
+Lithuania,2003,8.7,72.1,1.29,3406030,14378400000,Europe,Northern Europe
+Luxembourg,2003,3.3,79.1,1.65,447321,21967645545,Europe,Western Europe
+"Macedonia, FYR",2003,12.6,73.4,1.57,2033974,3551069283,Europe,Southern Europe
+Malta,2003,6.2,80.1,1.42,392870,4010915242,Europe,Southern Europe
+Moldova,2003,19.5,69.9,1.5,4171686,1570901239,Europe,Eastern Europe
+Montenegro,2003,10.9,74.5,1.78,614322,1039364041,Europe,Southern Europe
+Netherlands,2003,4.7,78.7,1.75,16167421,394108353879,Europe,Western Europe
+Norway,2003,3.5,79.5,1.8,4560947,175929063478,Europe,Northern Europe
+Poland,2003,7,74.9,1.27,38451227,182642797860,Europe,Eastern Europe
+Portugal,2003,4.3,77.6,1.44,10402836,119432109121,Europe,Southern Europe
+Romania,2003,20.6,71.6,1.28,21722664,43302459253,Europe,Eastern Europe
+Russia,2003,16.6,64.7,1.33,144583147,306737220532,Europe,Eastern Europe
+Serbia,2003,9.2,72.7,1.53,9268451,6847617227,Europe,Southern Europe
+Slovak Republic,2003,9.1,73.9,1.22,5384533,32570824494,Europe,Eastern Europe
+Slovenia,2003,3.9,76.8,1.25,1988304,21979529731,Europe,Southern Europe
+Spain,2003,5.1,79.6,1.3,42475265,637037529120,Europe,Southern Europe
+Sweden,2003,3.2,80.2,1.73,8942926,262592755597,Europe,Northern Europe
+Switzerland,2003,4.4,80.6,1.42,7289901,253416009483,Europe,Western Europe
+Ukraine,2003,13.6,67.7,1.18,47493771,39288540241,Europe,Eastern Europe
+United Kingdom,2003,5.3,78.4,1.69,59548421,1619369390630,Europe,Northern Europe
+Albania,2004,19.1,75.9,2,3103758,4543619309,Europe,Southern Europe
+Austria,2004,4.1,79.4,1.42,8196624,203850083132,Europe,Western Europe
+Belarus,2004,7.9,68.5,1.28,9695791,16715851678,Europe,Eastern Europe
+Belgium,2004,4.2,79,1.73,10492643,247490005974,Europe,Western Europe
+Bosnia and Herzegovina,2004,7,76.9,1.21,3825872,6679017387,Europe,Southern Europe
+Bulgaria,2004,14.6,72.5,1.29,7742740,15839807530,Europe,Eastern Europe
+Croatia,2004,6.1,75.3,1.37,4385045,25666592894,Europe,Southern Europe
+Czech Republic,2004,4.6,75.9,1.25,10212088,67312054039,Europe,Eastern Europe
+Denmark,2004,4.2,77.8,1.78,5398645,166317200732,Europe,Northern Europe
+Estonia,2004,6.3,72,1.47,1363549,7365818095,Europe,Northern Europe
+Finland,2004,3.2,78.8,1.8,5228842,134751243781,Europe,Northern Europe
+France,2004,3.9,80.2,1.92,60858654,1410493938384,Europe,Western Europe
+Germany,2004,4,79.2,1.35,81417791,1930126504253,Europe,Western Europe
+Greece,2004,5.2,79.4,1.33,11047739,148273579289,Europe,Southern Europe
+Hungary,2004,7.5,72.9,1.29,10117213,54715769280,Europe,Eastern Europe
+Iceland,2004,2.6,81.5,2.04,293084,9997746575,Europe,Northern Europe
+Ireland,2004,4.7,79.3,1.98,4119773,117781524286,Europe,Northern Europe
+Italy,2004,3.8,80.9,1.29,58348332,1148664954779,Europe,Southern Europe
+Latvia,2004,11.4,71.2,1.34,2256935,10497533388,Europe,Northern Europe
+Lithuania,2004,8.4,72.2,1.3,3376761,15435325000,Europe,Northern Europe
+Luxembourg,2004,3,79.5,1.64,451826,22933852107,Europe,Western Europe
+"Macedonia, FYR",2004,12.4,73.6,1.54,2038444,3715387792,Europe,Southern Europe
+Malta,2004,6.1,80.3,1.39,394786,3990731332,Europe,Southern Europe
+Moldova,2004,18,70.2,1.49,4166371,1687306011,Europe,Eastern Europe
+Montenegro,2004,10.1,74.8,1.77,615332,1085096059,Europe,Southern Europe
+Netherlands,2004,4.6,79.1,1.73,16253397,402922644615,Europe,Western Europe
+Norway,2004,3.4,79.8,1.83,4589241,182897667361,Europe,Northern Europe
+Poland,2004,6.7,75,1.27,38454520,192404689711,Europe,Eastern Europe
+Portugal,2004,4,78.2,1.43,10442446,121295724322,Europe,Southern Europe
+Romania,2004,19.5,72,1.29,21578318,46939862239,Europe,Eastern Europe
+Russia,2004,15.4,65.1,1.34,144043914,328748527632,Europe,Eastern Europe
+Serbia,2004,8.3,72.9,1.5,9225001,7484445629,Europe,Southern Europe
+Slovak Republic,2004,8.8,74.2,1.23,5384237,34218193031,Europe,Eastern Europe
+Slovenia,2004,3.7,77.2,1.29,1990924,22947026192,Europe,Southern Europe
+Spain,2004,5,80,1.33,43167276,657800500119,Europe,Southern Europe
+Sweden,2004,3.1,80.2,1.77,8982282,273713195657,Europe,Northern Europe
+Switzerland,2004,4.4,81,1.42,7345299,259834269511,Europe,Western Europe
+Ukraine,2004,13,67.5,1.21,47127110,44042453610,Europe,Eastern Europe
+United Kingdom,2004,5.2,78.7,1.72,59846226,1667227104395,Europe,Northern Europe
+Albania,2005,18.3,76.2,1.92,3082172,4793518372,Europe,Southern Europe
+Austria,2005,4,79.5,1.41,8234858,208743854863,Europe,Western Europe
+Belarus,2005,7.4,68.7,1.32,9640616,18293979126,Europe,Eastern Europe
+Belgium,2005,4.1,79.1,1.75,10561436,251845091555,Europe,Western Europe
+Bosnia and Herzegovina,2005,7.1,77,1.2,3833377,7012968257,Europe,Southern Europe
+Bulgaria,2005,13.6,72.6,1.33,7682614,16846951092,Europe,Eastern Europe
+Croatia,2005,5.8,75.7,1.38,4378056,26765073226,Europe,Southern Europe
+Czech Republic,2005,4.4,76.2,1.3,10230877,71857267365,Europe,Eastern Europe
+Denmark,2005,4.1,78.3,1.8,5417692,170383902313,Europe,Northern Europe
+Estonia,2005,5.8,72.5,1.52,1355662,8017950552,Europe,Northern Europe
+Finland,2005,3.1,79,1.8,5246368,138680670720,Europe,Northern Europe
+France,2005,3.8,80.4,1.94,61241700,1436256423650,Europe,Western Europe
+Germany,2005,3.9,79.4,1.35,81246801,1943341224580,Europe,Western Europe
+Greece,2005,4.8,79.6,1.36,11069662,151654726496,Europe,Southern Europe
+Hungary,2005,7.2,73.1,1.3,10095964,56884939841,Europe,Eastern Europe
+Iceland,2005,2.4,81.7,2.06,296745,10720581749,Europe,Northern Europe
+Ireland,2005,4.4,79.7,1.99,4203700,124070602723,Europe,Northern Europe
+Italy,2005,3.7,81.1,1.32,58657355,1159362094007,Europe,Southern Europe
+Latvia,2005,10.7,71.1,1.39,2227559,11610367683,Europe,Northern Europe
+Lithuania,2005,8.1,71.7,1.33,3343268,16639625000,Europe,Northern Europe
+Luxembourg,2005,2.8,80,1.63,457847,24179117583,Europe,Western Europe
+"Macedonia, FYR",2005,12.1,73.8,1.52,2042894,3877087656,Europe,Southern Europe
+Malta,2005,6,80.7,1.38,397094,4137015690,Europe,Southern Europe
+Moldova,2005,16.9,69.5,1.49,4157707,1813877409,Europe,Eastern Europe
+Montenegro,2005,9.5,75,1.76,616389,1130670093,Europe,Southern Europe
+Netherlands,2005,4.5,79.6,1.71,16331646,411168323101,Europe,Western Europe
+Norway,2005,3.2,80.2,1.84,4624388,187632770146,Europe,Northern Europe
+Poland,2005,6.6,75.1,1.28,38463514,199364063181,Europe,Eastern Europe
+Portugal,2005,3.7,78.4,1.41,10480085,122235857829,Europe,Southern Europe
+Romania,2005,18.2,72.4,1.3,21407619,48898332853,Europe,Eastern Europe
+Russia,2005,14.4,65.1,1.29,143622566,349710148603,Europe,Eastern Europe
+Serbia,2005,7.7,73.2,1.47,9186685,7888605693,Europe,Southern Europe
+Slovak Republic,2005,8.4,74.3,1.24,5385192,36495488121,Europe,Eastern Europe
+Slovenia,2005,3.5,77.6,1.32,1996522,23866572258,Europe,Southern Europe
+Spain,2005,4.8,80.3,1.35,43854761,681373742384,Europe,Southern Europe
+Sweden,2005,3,80.6,1.79,9030163,282364681257,Europe,Northern Europe
+Switzerland,2005,4.3,81.3,1.43,7408608,266695570076,Europe,Western Europe
+Ukraine,2005,12.5,67.1,1.26,46795313,45231599857,Europe,Eastern Europe
+United Kingdom,2005,5.1,79,1.76,60210012,1702001557851,Europe,Northern Europe
+Albania,2006,17.4,76.4,1.85,3050741,5033194290,Europe,Southern Europe
+Austria,2006,4,80,1.41,8269372,216404316585,Europe,Western Europe
+Belarus,2006,6.8,69.1,1.35,9594233,20123008725,Europe,Eastern Europe
+Belgium,2006,4,79.5,1.78,10632032,258690550017,Europe,Western Europe
+Bosnia and Herzegovina,2006,7.2,77.1,1.2,3838504,7447772288,Europe,Southern Europe
+Bulgaria,2006,12.9,72.7,1.37,7624611,17952499282,Europe,Eastern Europe
+Croatia,2006,5.6,75.9,1.4,4368518,28085993743,Europe,Southern Europe
+Czech Republic,2006,4.2,76.5,1.35,10271476,76901921232,Europe,Eastern Europe
+Denmark,2006,3.9,78.3,1.85,5440696,176167942355,Europe,Northern Europe
+Estonia,2006,5.3,72.9,1.57,1349369,8827550545,Europe,Northern Europe
+Finland,2006,2.9,79.2,1.84,5266600,144797309748,Europe,Northern Europe
+France,2006,3.7,80.7,1.95,61609991,1471687515757,Europe,Western Europe
+Germany,2006,3.8,79.7,1.36,81055904,2015244849889,Europe,Western Europe
+Greece,2006,4.6,80,1.4,11098212,160060884679,Europe,Southern Europe
+Hungary,2006,6.8,73.3,1.31,10078461,59101837692,Europe,Eastern Europe
+Iceland,2006,2.3,81.8,2.09,300887,11225410811,Europe,Northern Europe
+Ireland,2006,4.1,79.8,1.99,4293942,130660880329,Europe,Northern Europe
+Italy,2006,3.7,81.2,1.34,58918471,1184855583062,Europe,Southern Europe
+Latvia,2006,10.1,70.8,1.43,2199105,13030690849,Europe,Northern Europe
+Lithuania,2006,7.7,71.5,1.35,3305529,17944975000,Europe,Northern Europe
+Luxembourg,2006,2.6,80.3,1.62,465546,25381346505,Europe,Western Europe
+"Macedonia, FYR",2006,11.6,74.1,1.5,2047330,4072129927,Europe,Southern Europe
+Malta,2006,5.9,81,1.37,399892,4229019047,Europe,Southern Europe
+Moldova,2006,16,69.8,1.49,4144651,1900665178,Europe,Eastern Europe
+Montenegro,2006,8.8,75.2,1.75,617462,1227907722,Europe,Southern Europe
+Netherlands,2006,4.3,79.9,1.72,16401105,425124149957,Europe,Western Europe
+Norway,2006,3.1,80.4,1.9,4667105,192233391607,Europe,Northern Europe
+Poland,2006,6.3,75.2,1.29,38478763,211779433442,Europe,Eastern Europe
+Portugal,2006,3.5,79,1.39,10516559,124006192051,Europe,Southern Europe
+Romania,2006,16.7,72.8,1.31,21205977,52761301149,Europe,Eastern Europe
+Russia,2006,13.3,66.7,1.3,143338407,378223527671,Europe,Eastern Europe
+Serbia,2006,7.3,73.6,1.45,9154760,8172595498,Europe,Southern Europe
+Slovak Republic,2006,8.2,74.5,1.26,5387734,39541185362,Europe,Eastern Europe
+Slovenia,2006,3.3,77.9,1.36,2005566,25262671897,Europe,Southern Europe
+Spain,2006,4.6,80.7,1.38,44537926,709148044936,Europe,Southern Europe
+Sweden,2006,2.8,80.8,1.87,9087251,294498396948,Europe,Northern Europe
+Switzerland,2006,4.2,81.5,1.44,7480317,276377653102,Europe,Western Europe
+Ukraine,2006,12,67.9,1.3,46502718,48533506647,Europe,Eastern Europe
+United Kingdom,2006,5,79.2,1.8,60648850,1746374722576,Europe,Northern Europe
+Albania,2007,16.7,76.6,1.8,3010849,5330152753,Europe,Southern Europe
+Austria,2007,3.8,80.1,1.38,8301290,224424149682,Europe,Western Europe
+Belarus,2007,6.2,69.7,1.39,9556061,21863108809,Europe,Eastern Europe
+Belgium,2007,3.9,79.5,1.8,10704830,266243709886,Europe,Western Europe
+Bosnia and Herzegovina,2007,7.1,77.3,1.21,3840418,7957050958,Europe,Southern Europe
+Bulgaria,2007,12.3,72.9,1.4,7568378,19101459236,Europe,Eastern Europe
+Croatia,2007,5.3,76,1.41,4357114,29507125184,Europe,Southern Europe
+Czech Republic,2007,3.9,76.8,1.39,10330487,81312346952,Europe,Eastern Europe
+Denmark,2007,3.7,78.4,1.85,5466988,178957142594,Europe,Northern Europe
+Estonia,2007,4.8,73,1.6,1344233,9488928631,Europe,Northern Europe
+Finland,2007,2.9,79.4,1.83,5289333,152522572324,Europe,Northern Europe
+France,2007,3.6,81,1.96,61966193,1505321677069,Europe,Western Europe
+Germany,2007,3.7,79.9,1.36,80854515,2081124117403,Europe,Western Europe
+Greece,2007,4.4,79.8,1.43,11131302,164856617856,Europe,Southern Europe
+Hungary,2007,6.5,73.6,1.32,10064138,59169627001,Europe,Eastern Europe
+Iceland,2007,2.2,82.1,2.11,305415,11897251672,Europe,Northern Europe
+Ireland,2007,3.9,80.1,2,4388612,137432137279,Europe,Northern Europe
+Italy,2007,3.6,81.3,1.37,59138599,1204797445901,Europe,Southern Europe
+Latvia,2007,9.6,71.3,1.47,2171378,14330842539,Europe,Northern Europe
+Lithuania,2007,7.2,71.4,1.39,3264304,19710725000,Europe,Northern Europe
+Luxembourg,2007,2.4,80.6,1.62,474705,27066319405,Europe,Western Europe
+"Macedonia, FYR",2007,11,74.3,1.49,2051427,4322519752,Europe,Southern Europe
+Malta,2007,5.9,80.9,1.38,403076,4409988376,Europe,Southern Europe
+Moldova,2007,15.5,70,1.49,4128459,1958976512,Europe,Eastern Europe
+Montenegro,2007,8.2,75.6,1.73,618592,1359293848,Europe,Southern Europe
+Netherlands,2007,4.2,80.2,1.72,16463031,441791696641,Europe,Western Europe
+Norway,2007,3,80.6,1.9,4716584,197333337247,Europe,Northern Europe
+Poland,2007,6,75.2,1.31,38500356,226149246712,Europe,Eastern Europe
+Portugal,2007,3.3,79.2,1.37,10550695,126939300662,Europe,Southern Europe
+Romania,2007,15.3,73.3,1.33,20979708,55926979218,Europe,Eastern Europe
+Russia,2007,12.4,67.7,1.41,143180249,410505209128,Europe,Eastern Europe
+Serbia,2007,7.1,74,1.42,9130353,8613915655,Europe,Southern Europe
+Slovak Republic,2007,7.8,74.6,1.29,5391728,43690611893,Europe,Eastern Europe
+Slovenia,2007,3.2,78.2,1.4,2017452,26998265242,Europe,Southern Europe
+Spain,2007,4.4,80.8,1.4,45209538,733820614902,Europe,Southern Europe
+Sweden,2007,2.7,80.9,1.89,9153316,304258796391,Europe,Northern Europe
+Switzerland,2007,4.1,81.7,1.46,7560141,286450319616,Europe,Western Europe
+Ukraine,2007,11.6,67.6,1.35,46249196,52367654045,Europe,Eastern Europe
+United Kingdom,2007,4.9,79.5,1.84,61151820,1806906922656,Europe,Northern Europe
+Albania,2008,16,76.8,1.76,2968026,5740574515,Europe,Southern Europe
+Austria,2008,3.8,80.4,1.41,8331465,227557455520,Europe,Western Europe
+Belarus,2008,5.6,70,1.42,9526453,24103693966,Europe,Eastern Europe
+Belgium,2008,3.8,79.6,1.82,10779155,268825324878,Europe,Western Europe
+Bosnia and Herzegovina,2008,7,77.5,1.22,3839749,8388323119,Europe,Southern Europe
+Bulgaria,2008,11.8,73.2,1.43,7513646,20285749709,Europe,Eastern Europe
+Croatia,2008,5,76.2,1.43,4344151,30147225799,Europe,Southern Europe
+Czech Republic,2008,3.8,77.1,1.43,10397984,83832217961,Europe,Eastern Europe
+Denmark,2008,3.6,78.9,1.89,5495302,177554383049,Europe,Northern Europe
+Estonia,2008,4.4,74.2,1.62,1339941,9140619358,Europe,Northern Europe
+Finland,2008,2.7,79.6,1.85,5314170,152970333518,Europe,Northern Europe
+France,2008,3.5,81.1,1.97,62309529,1504107370104,Europe,Western Europe
+Germany,2008,3.6,80,1.37,80665906,2103666875608,Europe,Western Europe
+Greece,2008,4.3,80.2,1.46,11161755,164598016076,Europe,Southern Europe
+Hungary,2008,6.2,73.9,1.33,10050699,59698693168,Europe,Eastern Europe
+Iceland,2008,2.1,82.4,2.12,310033,12048292689,Europe,Northern Europe
+Ireland,2008,3.8,80.1,2,4480145,133347535203,Europe,Northern Europe
+Italy,2008,3.5,81.5,1.39,59319234,1190867198487,Europe,Southern Europe
+Latvia,2008,9.1,72.4,1.5,2144215,13722705688,Europe,Northern Europe
+Lithuania,2008,6.7,72.1,1.42,3219802,20287746250,Europe,Northern Europe
+Luxembourg,2008,2.2,81,1.63,485079,27270323848,Europe,Western Europe
+"Macedonia, FYR",2008,10.4,74.5,1.47,2055266,4536485007,Europe,Southern Europe
+Malta,2008,5.8,80.7,1.38,406392,4602421382,Europe,Southern Europe
+Moldova,2008,15.2,70.4,1.49,4111168,2111088030,Europe,Eastern Europe
+Montenegro,2008,7.4,76,1.72,619740,1453085123,Europe,Southern Europe
+Netherlands,2008,4,80.3,1.77,16519862,449761878488,Europe,Western Europe
+Norway,2008,2.9,80.8,1.96,4771633,197402589382,Europe,Northern Europe
+Poland,2008,5.8,75.4,1.33,38525752,237742898868,Europe,Eastern Europe
+Portugal,2008,3.3,79.4,1.36,10577458,126928507821,Europe,Southern Europe
+Romania,2008,14,73.2,1.34,20741669,61198545647,Europe,Eastern Europe
+Russia,2008,11.6,67.9,1.49,143123163,432048331750,Europe,Eastern Europe
+Serbia,2008,7,74.3,1.41,9109535,8941244450,Europe,Southern Europe
+Slovak Republic,2008,7.6,74.9,1.31,5396710,46203030728,Europe,Eastern Europe
+Slovenia,2008,3,78.7,1.43,2030599,27967310657,Europe,Southern Europe
+Spain,2008,4.2,81.1,1.42,45817016,740341770865,Europe,Southern Europe
+Sweden,2008,2.6,81.1,1.92,9226333,302392423838,Europe,Northern Europe
+Switzerland,2008,4,82,1.47,7646542,292452808698,Europe,Western Europe
+Ukraine,2008,11.1,67.8,1.38,46028476,53572110088,Europe,Eastern Europe
+United Kingdom,2008,4.7,79.7,1.87,61689620,1786979190485,Europe,Northern Europe
+Albania,2009,15.4,77,1.74,2929886,5930013474,Europe,Southern Europe
+Austria,2009,3.7,80.3,1.39,8361362,218887605293,Europe,Western Europe
+Belarus,2009,5.1,70.1,1.44,9505319,24143111980,Europe,Eastern Europe
+Belgium,2009,3.7,79.8,1.83,10854388,261295933962,Europe,Western Europe
+Bosnia and Herzegovina,2009,6.7,77.7,1.23,3837732,8144222917,Europe,Southern Europe
+Bulgaria,2009,11.5,73.5,1.46,7460057,19170033475,Europe,Eastern Europe
+Croatia,2009,4.8,76.4,1.45,4330399,28341089554,Europe,Southern Europe
+Czech Republic,2009,3.6,77.3,1.47,10460022,79896120088,Europe,Eastern Europe
+Denmark,2009,3.5,79.1,1.84,5523755,167196323657,Europe,Northern Europe
+Estonia,2009,4,74.9,1.63,1336013,7837361481,Europe,Northern Europe
+Finland,2009,2.6,79.8,1.86,5340485,140190713101,Europe,Northern Europe
+France,2009,3.5,81.2,1.98,62640901,1456772338299,Europe,Western Europe
+Germany,2009,3.6,80.1,1.38,80519685,1995811437644,Europe,Western Europe
+Greece,2009,4.2,80.2,1.48,11179425,159247577305,Europe,Southern Europe
+Hungary,2009,5.9,74.3,1.35,10034951,55640003180,Europe,Eastern Europe
+Iceland,2009,1.9,82.5,2.12,314336,11228149348,Europe,Northern Europe
+Ireland,2009,3.6,80.3,2,4558603,124020518837,Europe,Northern Europe
+Italy,2009,3.5,81.6,1.42,59467196,1125436104018,Europe,Southern Europe
+Latvia,2009,8.6,73.3,1.53,2117307,11258794724,Europe,Northern Europe
+Lithuania,2009,6.1,73.6,1.45,3172436,17296985000,Europe,Northern Europe
+Luxembourg,2009,2,81.2,1.63,496257,25825285723,Europe,Western Europe
+"Macedonia, FYR",2009,9.6,74.7,1.46,2058920,4494737198,Europe,Southern Europe
+Malta,2009,5.7,81.2,1.38,409475,4480338120,Europe,Southern Europe
+Moldova,2009,14.9,70.6,1.48,4095813,1984642726,Europe,Eastern Europe
+Montenegro,2009,6.8,76.3,1.71,620870,1370259271,Europe,Southern Europe
+Netherlands,2009,3.8,80.6,1.79,16575173,433855151011,Europe,Western Europe
+Norway,2009,2.7,80.8,1.98,4830371,194111628292,Europe,Northern Europe
+Poland,2009,5.3,75.7,1.35,38551489,241612593969,Europe,Eastern Europe
+Portugal,2009,3.2,79.6,1.34,10590260,123236970884,Europe,Southern Europe
+Romania,2009,13,73.3,1.36,20510263,55996669267,Europe,Eastern Europe
+Russia,2009,10.9,68.8,1.54,143126660,398209755704,Europe,Eastern Europe
+Serbia,2009,6.8,74.6,1.39,9087019,8628300894,Europe,Southern Europe
+Slovak Republic,2009,7.3,75.2,1.33,5401951,43924489377,Europe,Eastern Europe
+Slovenia,2009,2.8,79.1,1.46,2042804,25727727934,Europe,Southern Europe
+Spain,2009,4.1,81.5,1.44,46295191,712647416141,Europe,Southern Europe
+Sweden,2009,2.5,81.2,1.94,9303432,287188905096,Europe,Northern Europe
+Switzerland,2009,3.9,82,1.49,7737316,286960456156,Europe,Western Europe
+Ukraine,2009,10.6,69.6,1.41,45830711,45643437795,Europe,Eastern Europe
+United Kingdom,2009,4.6,80,1.89,62221164,1708828582044,Europe,Northern Europe
+Albania,2010,14.8,77.2,1.74,2901883,6137563946,Europe,Southern Europe
+Austria,2010,3.6,80.5,1.44,8391986,223954137424,Europe,Western Europe
+Belarus,2010,4.7,70.2,1.46,9492122,26002131603,Europe,Eastern Europe
+Belgium,2010,3.6,80.1,1.84,10929978,267143096398,Europe,Western Europe
+Bosnia and Herzegovina,2010,6.4,77.9,1.24,3835258,8209376700,Europe,Southern Europe
+Bulgaria,2010,11.2,73.7,1.49,7407297,19246713609,Europe,Eastern Europe
+Croatia,2010,4.6,76.7,1.47,4316425,28003469442,Europe,Southern Europe
+Czech Republic,2010,3.4,77.5,1.5,10506617,82084475849,Europe,Eastern Europe
+Denmark,2010,3.3,79.4,1.88,5550959,169362540761,Europe,Northern Europe
+Estonia,2010,3.6,76.4,1.63,1332089,8014762097,Europe,Northern Europe
+Finland,2010,2.5,80,1.87,5367693,145421964253,Europe,Northern Europe
+France,2010,3.5,81.4,1.98,62961136,1480999829195,Europe,Western Europe
+Germany,2010,3.5,80.3,1.39,80435307,2069464070055,Europe,Western Europe
+Greece,2010,4.1,80.4,1.5,11177509,153647288780,Europe,Southern Europe
+Hungary,2010,5.7,74.6,1.36,10014633,56340039480,Europe,Eastern Europe
+Iceland,2010,1.9,82.8,2.12,318042,10776345915,Europe,Northern Europe
+Ireland,2010,3.5,81,2,4617334,123488033779,Europe,Northern Europe
+Italy,2010,3.4,81.9,1.44,59588007,1145744066760,Europe,Southern Europe
+Latvia,2010,8.2,73.9,1.55,2090519,11220120363,Europe,Northern Europe
+Lithuania,2010,5.6,73.9,1.47,3122835,17527068250,Europe,Northern Europe
+Luxembourg,2010,1.9,81.3,1.64,507889,26516904700,Europe,Western Europe
+"Macedonia, FYR",2010,8.7,75.2,1.45,2062443,4574540278,Europe,Southern Europe
+Malta,2010,5.6,81.3,1.37,412064,4601833501,Europe,Southern Europe
+Moldova,2010,14.7,70.5,1.48,4084483,2125552360,Europe,Eastern Europe
+Montenegro,2010,6.3,76.5,1.7,621952,1404515753,Europe,Southern Europe
+Netherlands,2010,3.7,80.8,1.8,16631571,441185443862,Europe,Western Europe
+Norway,2010,2.6,81.1,1.95,4891251,195424832685,Europe,Northern Europe
+Poland,2010,5,76.2,1.37,38574682,251030838904,Europe,Eastern Europe
+Portugal,2010,3.1,79.9,1.33,10584837,124963902469,Europe,Southern Europe
+Romania,2010,12.1,73.7,1.37,20298838,56527456853,Europe,Eastern Europe
+Russia,2010,10.3,68.9,1.57,143158099,415332775199,Europe,Eastern Europe
+Serbia,2010,6.6,74.8,1.38,9059046,8710614885,Europe,Southern Europe
+Slovak Republic,2010,7,75.7,1.35,5406896,45761806914,Europe,Eastern Europe
+Slovenia,2010,2.7,79.5,1.48,2052480,26082652065,Europe,Southern Europe
+Spain,2010,3.9,81.8,1.46,46601492,712152291146,Europe,Southern Europe
+Sweden,2010,2.5,81.6,1.99,9382297,304858727345,Europe,Northern Europe
+Switzerland,2010,3.9,82.3,1.5,7830534,294748691280,Europe,Western Europe
+Ukraine,2010,10.1,70.5,1.44,45647497,47514818744,Europe,Eastern Europe
+United Kingdom,2010,4.4,80.2,1.9,62716684,1744580105045,Europe,Northern Europe
+Albania,2011,14.3,77.4,1.75,2886010,6321690864,Europe,Southern Europe
+Austria,2011,3.4,80.7,1.44,8423559,230913313559,Europe,Western Europe
+Belarus,2011,4.3,70.3,1.47,9487674,27380244578,Europe,Eastern Europe
+Belgium,2011,3.5,80.2,1.85,11005175,272271056321,Europe,Western Europe
+Bosnia and Herzegovina,2011,6.2,78.2,1.26,3832310,8349796021,Europe,Southern Europe
+Bulgaria,2011,10.9,74.2,1.51,7355231,19573907740,Europe,Eastern Europe
+Croatia,2011,4.3,77.1,1.48,4302073,27992416493,Europe,Southern Europe
+Czech Republic,2011,3.2,77.8,1.53,10533985,83442890476,Europe,Eastern Europe
+Denmark,2011,3.2,79.9,1.76,5576577,171051872547,Europe,Northern Europe
+Estonia,2011,3.2,76.3,1.62,1328068,8626739894,Europe,Northern Europe
+Finland,2011,2.4,80.3,1.83,5395816,149573429151,Europe,Northern Europe
+France,2011,3.5,81.6,1.98,63268405,1506143156817,Europe,Western Europe
+Germany,2011,3.4,80.5,1.4,80424665,2131456655119,Europe,Western Europe
+Greece,2011,4,80.5,1.51,11153047,143034499787,Europe,Southern Europe
+Hungary,2011,5.5,75,1.38,9988846,57293181826,Europe,Eastern Europe
+Iceland,2011,1.8,82.9,2.11,321030,11105155830,Europe,Northern Europe
+Ireland,2011,3.4,80.6,2,4652714,122623617543,Europe,Northern Europe
+Italy,2011,3.3,82,1.45,59678993,1150683143965,Europe,Southern Europe
+Latvia,2011,7.8,74.6,1.57,2063661,11833860947,Europe,Northern Europe
+Lithuania,2011,5,74.3,1.49,3070593,18555907156,Europe,Northern Europe
+Luxembourg,2011,1.8,81.5,1.65,519981,26928586464,Europe,Western Europe
+"Macedonia, FYR",2011,7.5,75.6,1.44,2065888,4713514754,Europe,Southern Europe
+Malta,2011,5.6,81.3,1.37,414075,4698472004,Europe,Southern Europe
+Moldova,2011,14.5,72.3,1.47,4077811,2261587711,Europe,Eastern Europe
+Montenegro,2011,5.7,76.7,1.69,622957,1440190453,Europe,Southern Europe
+Netherlands,2011,3.6,80.9,1.76,16689863,446362217923,Europe,Western Europe
+Norway,2011,2.5,81.1,1.88,4953945,198252580322,Europe,Northern Europe
+Poland,2011,4.7,76.5,1.39,38594217,261950140322,Europe,Eastern Europe
+Portugal,2011,3.1,80.2,1.33,10558909,122952502443,Europe,Southern Europe
+Romania,2011,11.5,74.5,1.39,20111664,56320357839,Europe,Eastern Europe
+Russia,2011,9.8,69.8,1.58,143211476,433192084533,Europe,Eastern Europe
+Serbia,2011,6.4,75.1,1.37,9023881,8865794489,Europe,Southern Europe
+Slovak Republic,2011,6.8,76.1,1.37,5411377,47294463920,Europe,Eastern Europe
+Slovenia,2011,2.6,79.9,1.49,2059023,26037113239,Europe,Southern Europe
+Spain,2011,3.8,82,1.47,46708366,717193989759,Europe,Southern Europe
+Sweden,2011,2.4,81.7,1.9,9462352,316798617621,Europe,Northern Europe
+Switzerland,2011,3.8,82.6,1.51,7925813,300938413797,Europe,Western Europe
+Ukraine,2011,9.6,71.1,1.45,45477690,49985589319,Europe,Eastern Europe
+United Kingdom,2011,4.2,80.5,1.9,63164949,1756002097875,Europe,Northern Europe
+Albania,2012,13.8,77.5,1.76,2880667,NA,Europe,Southern Europe
+Austria,2012,3.3,80.9,1.46,8455477,NA,Europe,Western Europe
+Belarus,2012,4,70.4,1.48,9490962,NA,Europe,Eastern Europe
+Belgium,2012,3.5,80.3,1.85,11079521,NA,Europe,Western Europe
+Bosnia and Herzegovina,2012,5.9,78.4,1.27,3828419,NA,Europe,Southern Europe
+Bulgaria,2012,10.5,74.5,1.52,7303741,NA,Europe,Eastern Europe
+Croatia,2012,4.1,77.4,1.49,4287015,NA,Europe,Southern Europe
+Czech Republic,2012,3.2,78.1,1.55,10545161,NA,Europe,Eastern Europe
+Denmark,2012,3.2,80.3,1.73,5600972,NA,Europe,Northern Europe
+Estonia,2012,2.9,76.7,1.61,1324040,NA,Europe,Northern Europe
+Finland,2012,2.2,80.5,1.8,5424644,NA,Europe,Northern Europe
+France,2012,3.5,81.6,1.98,63561798,NA,Europe,Western Europe
+Germany,2012,3.3,80.6,1.41,80477952,NA,Europe,Western Europe
+Greece,2012,3.9,80.6,1.52,11109662,NA,Europe,Southern Europe
+Hungary,2012,5.4,75.5,1.4,9958334,NA,Europe,Eastern Europe
+Iceland,2012,1.7,83.1,2.1,323407,NA,Europe,Northern Europe
+Ireland,2012,3.4,81.1,2,4667868,NA,Europe,Northern Europe
+Italy,2012,3.2,82,1.47,59737717,NA,Europe,Southern Europe
+Latvia,2012,7.6,75.1,1.59,2037090,NA,Europe,Northern Europe
+Lithuania,2012,4.5,74.7,1.5,3016496,NA,Europe,Northern Europe
+Luxembourg,2012,1.6,81.7,1.66,532479,NA,Europe,Western Europe
+"Macedonia, FYR",2012,6.5,75.8,1.44,2069270,NA,Europe,Southern Europe
+Malta,2012,5.5,81.6,1.36,415596,NA,Europe,Southern Europe
+Moldova,2012,14.3,72.4,1.46,4074754,NA,Europe,Eastern Europe
+Montenegro,2012,5.3,76.8,1.68,623864,NA,Europe,Southern Europe
+Netherlands,2012,3.5,81,1.76,16749318,NA,Europe,Western Europe
+Norway,2012,2.3,81.6,1.85,5018367,NA,Europe,Northern Europe
+Poland,2012,4.6,76.7,1.4,38609486,NA,Europe,Eastern Europe
+Portugal,2012,3.1,80.4,1.32,10515016,NA,Europe,Southern Europe
+Romania,2012,10.9,74.7,1.4,19944954,NA,Europe,Eastern Europe
+Russia,2012,9.3,70.4,1.59,143287536,NA,Europe,Eastern Europe
+Serbia,2012,6.2,75.4,1.37,8982578,NA,Europe,Southern Europe
+Slovak Republic,2012,6.5,76.5,1.38,5415496,NA,Europe,Eastern Europe
+Slovenia,2012,2.4,80.1,1.5,2062881,NA,Europe,Southern Europe
+Spain,2012,3.7,82.2,1.49,46637082,NA,Europe,Southern Europe
+Sweden,2012,2.4,81.8,1.91,9543457,NA,Europe,Northern Europe
+Switzerland,2012,3.7,82.7,1.52,8022628,NA,Europe,Western Europe
+Ukraine,2012,9.1,71.2,1.46,45319949,NA,Europe,Eastern Europe
+United Kingdom,2012,4.1,80.7,1.9,63573766,NA,Europe,Northern Europe
+Albania,2013,13.3,77.7,1.77,2883281,NA,Europe,Southern Europe
+Austria,2013,3.2,81.1,1.47,8486962,NA,Europe,Western Europe
+Belarus,2013,3.8,70.6,1.49,9497294,NA,Europe,Eastern Europe
+Belgium,2013,3.4,80.4,1.85,11153122,NA,Europe,Western Europe
+Bosnia and Herzegovina,2013,5.6,78.6,1.28,3823533,NA,Europe,Southern Europe
+Bulgaria,2013,10.1,74.6,1.54,7252539,NA,Europe,Eastern Europe
+Croatia,2013,4,77.6,1.5,4271497,NA,Europe,Southern Europe
+Czech Republic,2013,3,78.3,1.57,10545314,NA,Europe,Eastern Europe
+Denmark,2013,3.1,80.3,1.88,5624293,NA,Europe,Northern Europe
+Estonia,2013,2.7,77.5,1.6,1320050,NA,Europe,Northern Europe
+Finland,2013,2.1,80.8,1.85,5453061,NA,Europe,Northern Europe
+France,2013,3.6,81.7,1.98,63844529,NA,Europe,Western Europe
+Germany,2013,3.3,80.7,1.42,80565861,NA,Europe,Western Europe
+Greece,2013,3.8,81,1.53,11055164,NA,Europe,Southern Europe
+Hungary,2013,5.4,76.1,1.41,9924507,NA,Europe,Eastern Europe
+Iceland,2013,1.6,83.2,2.08,325392,NA,Europe,Northern Europe
+Ireland,2013,3.2,81.5,2,4671263,NA,Europe,Northern Europe
+Italy,2013,3.1,82.1,1.49,59771094,NA,Europe,Southern Europe
+Latvia,2013,7.4,75,1.61,2011857,NA,Europe,Northern Europe
+Lithuania,2013,4,74.9,1.52,2963810,NA,Europe,Northern Europe
+Luxembourg,2013,1.6,81.9,1.67,544885,NA,Europe,Western Europe
+"Macedonia, FYR",2013,5.8,76,1.43,2072543,NA,Europe,Southern Europe
+Malta,2013,5.3,81.7,1.36,416747,NA,Europe,Southern Europe
+Moldova,2013,14.1,73.3,1.46,4073714,NA,Europe,Eastern Europe
+Montenegro,2013,4.9,76.9,1.67,624648,NA,Europe,Southern Europe
+Netherlands,2013,3.3,81.2,1.77,16809157,NA,Europe,Western Europe
+Norway,2013,2.3,81.6,1.93,5083450,NA,Europe,Northern Europe
+Poland,2013,4.5,77.3,1.42,38618698,NA,Europe,Eastern Europe
+Portugal,2013,3.1,80.7,1.32,10459716,NA,Europe,Southern Europe
+Romania,2013,10.5,74.9,1.42,19794163,NA,Europe,Eastern Europe
+Russia,2013,8.9,70.8,1.6,143367341,NA,Europe,Eastern Europe
+Serbia,2013,6,75.7,1.37,8937605,NA,Europe,Southern Europe
+Slovak Republic,2013,6.3,77,1.4,5419288,NA,Europe,Eastern Europe
+Slovenia,2013,2.3,80.3,1.51,2064819,NA,Europe,Southern Europe
+Spain,2013,3.7,82.5,1.51,46455163,NA,Europe,Southern Europe
+Sweden,2013,2.4,81.9,1.93,9624247,NA,Europe,Northern Europe
+Switzerland,2013,3.6,82.8,1.53,8118719,NA,Europe,Western Europe
+Ukraine,2013,8.6,71.3,1.47,45165211,NA,Europe,Eastern Europe
+United Kingdom,2013,3.9,80.8,1.89,63955654,NA,Europe,Northern Europe
+Albania,2014,12.9,77.9,1.78,2889676,NA,Europe,Southern Europe
+Austria,2014,3,81.2,1.48,8516916,NA,Europe,Western Europe
+Belarus,2014,3.5,70.7,1.5,9500422,NA,Europe,Eastern Europe
+Belgium,2014,3.4,80.5,1.86,11226322,NA,Europe,Western Europe
+Bosnia and Herzegovina,2014,5.4,78.7,1.3,3817554,NA,Europe,Southern Europe
+Bulgaria,2014,9.7,74.7,1.56,7201308,NA,Europe,Eastern Europe
+Croatia,2014,3.8,77.8,1.51,4255853,NA,Europe,Southern Europe
+Czech Republic,2014,2.9,78.6,1.58,10542666,NA,Europe,Eastern Europe
+Denmark,2014,3,80.3,1.88,5646899,NA,Europe,Northern Europe
+Estonia,2014,2.5,77.6,1.61,1316203,NA,Europe,Northern Europe
+Finland,2014,2,80.9,1.85,5479660,NA,Europe,Northern Europe
+France,2014,3.6,81.7,1.98,64121249,NA,Europe,Western Europe
+Germany,2014,3.2,80.7,1.43,80646262,NA,Europe,Western Europe
+Greece,2014,3.7,81,1.54,11000777,NA,Europe,Southern Europe
+Hungary,2014,5.3,76.5,1.43,9889540,NA,Europe,Eastern Europe
+Iceland,2014,1.6,83.3,2.07,327318,NA,Europe,Northern Europe
+Ireland,2014,3.1,81.6,2,4675164,NA,Europe,Northern Europe
+Italy,2014,3,82.1,1.5,59788667,NA,Europe,Southern Europe
+Latvia,2014,7.2,75.2,1.62,1989354,NA,Europe,Northern Europe
+Lithuania,2014,3.6,75,1.53,2916798,NA,Europe,Northern Europe
+Luxembourg,2014,1.6,82.1,1.68,556573,NA,Europe,Western Europe
+"Macedonia, FYR",2014,5.2,76.2,1.43,2075625,NA,Europe,Southern Europe
+Malta,2014,5.2,82,1.35,417723,NA,Europe,Southern Europe
+Moldova,2014,13.9,73.6,1.45,4072340,NA,Europe,Eastern Europe
+Montenegro,2014,4.6,77.1,1.66,625292,NA,Europe,Southern Europe
+Netherlands,2014,3.3,81.3,1.78,16868020,NA,Europe,Western Europe
+Norway,2014,2.2,82,1.93,5147970,NA,Europe,Northern Europe
+Poland,2014,4.5,77.4,1.43,38619974,NA,Europe,Eastern Europe
+Portugal,2014,3,80.7,1.31,10402343,NA,Europe,Southern Europe
+Romania,2014,10.1,75.1,1.43,19651554,NA,Europe,Eastern Europe
+Russia,2014,8.5,70.9,1.6,143429435,NA,Europe,Eastern Europe
+Serbia,2014,6,75.9,1.36,8892815,NA,Europe,Southern Europe
+Slovak Republic,2014,6.1,77.4,1.41,5422861,NA,Europe,Eastern Europe
+Slovenia,2014,2.2,80.8,1.52,2066068,NA,Europe,Southern Europe
+Spain,2014,3.6,82.5,1.52,46259716,NA,Europe,Southern Europe
+Sweden,2014,2.4,82.1,1.93,9703247,NA,Europe,Northern Europe
+Switzerland,2014,3.5,82.9,1.54,8211383,NA,Europe,Western Europe
+Ukraine,2014,8.1,71.3,1.48,45002497,NA,Europe,Eastern Europe
+United Kingdom,2014,3.7,80.9,1.89,64331348,NA,Europe,Northern Europe
+Albania,2015,12.5,78,1.78,2896679,NA,Europe,Southern Europe
+Austria,2015,2.9,81.3,1.5,8544586,NA,Europe,Western Europe
+Belarus,2015,3.4,71,1.51,9495826,NA,Europe,Eastern Europe
+Belgium,2015,3.3,80.5,1.86,11299192,NA,Europe,Western Europe
+Bosnia and Herzegovina,2015,5.1,78.9,1.32,3810416,NA,Europe,Southern Europe
+Bulgaria,2015,9.3,74.8,1.57,7149787,NA,Europe,Eastern Europe
+Croatia,2015,3.6,77.8,1.52,4240317,NA,Europe,Southern Europe
+Czech Republic,2015,2.8,78.8,1.6,10543186,NA,Europe,Eastern Europe
+Denmark,2015,2.9,80.4,1.89,5669081,NA,Europe,Northern Europe
+Estonia,2015,2.3,77.8,1.62,1312558,NA,Europe,Northern Europe
+Finland,2015,1.9,80.9,1.86,5503457,NA,Europe,Northern Europe
+France,2015,3.5,81.8,1.98,64395345,NA,Europe,Western Europe
+Germany,2015,3.1,80.8,1.44,80688545,NA,Europe,Western Europe
+Greece,2015,3.6,81,1.55,10954617,NA,Europe,Southern Europe
+Hungary,2015,5.3,76.7,1.44,9855023,NA,Europe,Eastern Europe
+Iceland,2015,1.6,83.3,2.06,329425,NA,Europe,Northern Europe
+Ireland,2015,3,81.7,1.99,4688465,NA,Europe,Northern Europe
+Italy,2015,2.9,82.2,1.52,59797685,NA,Europe,Southern Europe
+Latvia,2015,6.9,75.4,1.64,1970503,NA,Europe,Northern Europe
+Lithuania,2015,3.3,75.2,1.55,2878405,NA,Europe,Northern Europe
+Luxembourg,2015,1.5,82.2,1.69,567110,NA,Europe,Western Europe
+"Macedonia, FYR",2015,4.8,76.5,1.43,2078453,NA,Europe,Southern Europe
+Malta,2015,5.1,82.1,1.35,418670,NA,Europe,Southern Europe
+Moldova,2015,13.6,73.9,1.45,4068897,NA,Europe,Eastern Europe
+Montenegro,2015,4.3,77.2,1.65,625781,NA,Europe,Southern Europe
+Netherlands,2015,3.2,81.3,1.78,16924929,NA,Europe,Western Europe
+Norway,2015,2,82,1.93,5210967,NA,Europe,Northern Europe
+Poland,2015,4.5,77.6,1.44,38611794,NA,Europe,Eastern Europe
+Portugal,2015,3,80.8,1.31,10349803,NA,Europe,Southern Europe
+Romania,2015,9.7,75.2,1.45,19511324,NA,Europe,Eastern Europe
+Russia,2015,8.2,71,1.61,143456918,NA,Europe,Eastern Europe
+Serbia,2015,5.9,76.2,1.37,8850975,NA,Europe,Southern Europe
+Slovak Republic,2015,5.8,77.6,1.43,5426258,NA,Europe,Eastern Europe
+Slovenia,2015,2.1,80.9,1.53,2067526,NA,Europe,Southern Europe
+Spain,2015,3.5,82.6,1.53,46121699,NA,Europe,Southern Europe
+Sweden,2015,2.4,82.1,1.93,9779426,NA,Europe,Northern Europe
+Switzerland,2015,3.4,83,1.55,8298663,NA,Europe,Western Europe
+Ukraine,2015,7.7,71.5,1.49,44823765,NA,Europe,Eastern Europe
+United Kingdom,2015,3.5,81,1.89,64715810,NA,Europe,Northern Europe
+Albania,2016,NA,78.1,NA,NA,NA,Europe,Southern Europe
+Austria,2016,NA,81.4,NA,NA,NA,Europe,Western Europe
+Belarus,2016,NA,71.3,NA,NA,NA,Europe,Eastern Europe
+Belgium,2016,NA,80.5,NA,NA,NA,Europe,Western Europe
+Bosnia and Herzegovina,2016,NA,79.1,NA,NA,NA,Europe,Southern Europe
+Bulgaria,2016,NA,74.9,NA,NA,NA,Europe,Eastern Europe
+Croatia,2016,NA,77.8,NA,NA,NA,Europe,Southern Europe
+Czech Republic,2016,NA,79,NA,NA,NA,Europe,Eastern Europe
+Denmark,2016,NA,80.5,NA,NA,NA,Europe,Northern Europe
+Estonia,2016,NA,78,NA,NA,NA,Europe,Northern Europe
+Finland,2016,NA,80.9,NA,NA,NA,Europe,Northern Europe
+France,2016,NA,81.9,NA,NA,NA,Europe,Western Europe
+Germany,2016,NA,80.9,NA,NA,NA,Europe,Western Europe
+Greece,2016,NA,81,NA,NA,NA,Europe,Southern Europe
+Hungary,2016,NA,76.9,NA,NA,NA,Europe,Eastern Europe
+Iceland,2016,NA,83.3,NA,NA,NA,Europe,Northern Europe
+Ireland,2016,NA,81.8,NA,NA,NA,Europe,Northern Europe
+Italy,2016,NA,82.3,NA,NA,NA,Europe,Southern Europe
+Latvia,2016,NA,75.6,NA,NA,NA,Europe,Northern Europe
+Lithuania,2016,NA,75.4,NA,NA,NA,Europe,Northern Europe
+Luxembourg,2016,NA,82.3,NA,NA,NA,Europe,Western Europe
+"Macedonia, FYR",2016,NA,76.8,NA,NA,NA,Europe,Southern Europe
+Malta,2016,NA,82.2,NA,NA,NA,Europe,Southern Europe
+Moldova,2016,NA,74.2,NA,NA,NA,Europe,Eastern Europe
+Montenegro,2016,NA,77.3,NA,NA,NA,Europe,Southern Europe
+Netherlands,2016,NA,81.3,NA,NA,NA,Europe,Western Europe
+Norway,2016,NA,82,NA,NA,NA,Europe,Northern Europe
+Poland,2016,NA,77.8,NA,NA,NA,Europe,Eastern Europe
+Portugal,2016,NA,80.9,NA,NA,NA,Europe,Southern Europe
+Romania,2016,NA,75.3,NA,NA,NA,Europe,Eastern Europe
+Russia,2016,NA,71.1,NA,NA,NA,Europe,Eastern Europe
+Serbia,2016,NA,76.5,NA,NA,NA,Europe,Southern Europe
+Slovak Republic,2016,NA,77.8,NA,NA,NA,Europe,Eastern Europe
+Slovenia,2016,NA,81,NA,NA,NA,Europe,Southern Europe
+Spain,2016,NA,82.7,NA,NA,NA,Europe,Southern Europe
+Sweden,2016,NA,82.1,NA,NA,NA,Europe,Northern Europe
+Switzerland,2016,NA,83.1,NA,NA,NA,Europe,Western Europe
+Ukraine,2016,NA,71.7,NA,NA,NA,Europe,Eastern Europe
+United Kingdom,2016,NA,81.1,NA,NA,NA,Europe,Northern Europe

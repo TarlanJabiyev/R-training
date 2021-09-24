@@ -1,0 +1,685 @@
+country,year,infant_mortality,life_expectancy,fertility,population,gdp,continent,region
+Australia,1960,20.3,70.87,3.45,10292328,96677859364,Oceania,Australia and New Zealand
+Fiji,1960,54,55.7,6.46,393383,437079701,Oceania,Melanesia
+French Polynesia,1960,NA,56.28,5.66,78083,NA,Oceania,Polynesia
+Kiribati,1960,NA,45.84,6.95,41234,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1960,NA,56.82,6.93,44539,NA,Oceania,Micronesia
+New Caledonia,1960,NA,56.38,5.22,78058,NA,Oceania,Melanesia
+New Zealand,1960,22.6,71.28,3.54,2371999,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1960,134.6,38.6,6.28,1966957,837055577,Oceania,Melanesia
+Samoa,1960,92,51.45,7.65,108645,NA,Oceania,Polynesia
+Solomon Islands,1960,131.8,50.55,6.39,117869,NA,Oceania,Melanesia
+Tonga,1960,NA,61.2,7.36,61600,NA,Oceania,Polynesia
+Vanuatu,1960,106.7,45.97,7.2,63701,NA,Oceania,Melanesia
+Australia,1961,20,71.14,3.55,10494911,98950410413,Oceania,Australia and New Zealand
+Fiji,1961,52.1,56.12,6.28,407152,452454345,Oceania,Melanesia
+French Polynesia,1961,NA,56.71,5.58,80706,NA,Oceania,Polynesia
+Kiribati,1961,NA,46.24,7.01,42261,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1961,NA,57.18,6.92,45956,NA,Oceania,Micronesia
+New Caledonia,1961,NA,57.06,5.22,80585,NA,Oceania,Melanesia
+New Zealand,1961,21.7,71,3.61,2423769,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1961,130.7,39.2,6.28,2001048,888794937,Oceania,Melanesia
+Samoa,1961,NA,52.04,7.65,112121,NA,Oceania,Polynesia
+Solomon Islands,1961,125.4,51.12,6.39,121403,NA,Oceania,Melanesia
+Tonga,1961,NA,61.56,7.35,63740,NA,Oceania,Polynesia
+Vanuatu,1961,104.1,46.55,7.12,65708,NA,Oceania,Melanesia
+Australia,1962,19.5,70.91,3.43,10691220,100302794832,Oceania,Australia and New Zealand
+Fiji,1962,50.3,56.54,6.09,421576,468770309.7,Oceania,Melanesia
+French Polynesia,1962,NA,57.09,5.5,83654,NA,Oceania,Polynesia
+Kiribati,1962,NA,46.64,7.08,43312,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1962,NA,57.54,6.91,47387,NA,Oceania,Micronesia
+New Caledonia,1962,NA,57.72,5.22,83221,NA,Oceania,Melanesia
+New Zealand,1962,20.9,71.26,3.51,2477328,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1962,126.9,39.87,6.28,2037165,945447625.3,Oceania,Melanesia
+Samoa,1962,NA,52.62,7.63,115786,NA,Oceania,Polynesia
+Solomon Islands,1962,119.3,51.69,6.38,125068,NA,Oceania,Melanesia
+Tonga,1962,NA,61.91,7.3,66255,NA,Oceania,Polynesia
+Vanuatu,1962,101.6,47.14,7.03,67806,NA,Oceania,Melanesia
+Australia,1963,19.2,70.97,3.34,10892700,106581315165,Oceania,Australia and New Zealand
+Fiji,1963,48.8,56.94,5.88,436208,498578347.6,Oceania,Melanesia
+French Polynesia,1963,NA,57.47,5.43,86839,NA,Oceania,Polynesia
+Kiribati,1963,122.2,47.03,7.14,44372,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1963,NA,57.9,6.9,48875,NA,Oceania,Micronesia
+New Caledonia,1963,NA,58.36,5.22,85908,NA,Oceania,Melanesia
+New Zealand,1963,20,71.33,3.41,2530791,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1963,123.2,40.6,6.28,2075630,983951146.7,Oceania,Melanesia
+Samoa,1963,NA,53.21,7.6,119564,NA,Oceania,Polynesia
+Solomon Islands,1963,113.7,52.27,6.39,128863,NA,Oceania,Melanesia
+Tonga,1963,60.4,62.26,7.23,69000,NA,Oceania,Polynesia
+Vanuatu,1963,98.8,47.71,6.94,69962,NA,Oceania,Melanesia
+Australia,1964,18.8,70.63,3.15,11114995,114018332823,Oceania,Australia and New Zealand
+Fiji,1964,47.5,57.35,5.68,450452,522895396.2,Oceania,Melanesia
+French Polynesia,1964,NA,57.85,5.37,90132,NA,Oceania,Polynesia
+Kiribati,1964,117.8,47.44,7.2,45424,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1964,NA,58.26,6.89,50483,NA,Oceania,Micronesia
+New Caledonia,1964,NA,58.99,5.22,88578,NA,Oceania,Melanesia
+New Zealand,1964,19.3,71.37,3.22,2581578,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1964,119.6,41.39,6.27,2116832,1068278574,Oceania,Melanesia
+Samoa,1964,NA,53.8,7.57,123354,NA,Oceania,Polynesia
+Solomon Islands,1964,108.4,52.84,6.39,132787,NA,Oceania,Melanesia
+Tonga,1964,57,62.6,7.12,71757,NA,Oceania,Polynesia
+Vanuatu,1964,95.9,48.29,6.84,72131,NA,Oceania,Melanesia
+Australia,1965,18.6,70.96,2.97,11368011,120858336146,Oceania,Australia and New Zealand
+Fiji,1965,46.3,57.75,5.48,463884,508775824.3,Oceania,Melanesia
+French Polynesia,1965,NA,58.24,5.31,93440,805624423.6,Oceania,Polynesia
+Kiribati,1965,113.9,47.84,7.22,46455,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1965,NA,58.63,6.89,52238,NA,Oceania,Micronesia
+New Caledonia,1965,NA,59.6,5.22,91197,694967526.1,Oceania,Melanesia
+New Zealand,1965,18.7,71.3,3.05,2628003,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1965,116.1,42.22,6.26,2161103,1177974929,Oceania,Melanesia
+Samoa,1965,NA,54.39,7.52,127068,NA,Oceania,Polynesia
+Solomon Islands,1965,103.3,53.42,6.42,136847,NA,Oceania,Melanesia
+Tonga,1965,53.8,62.94,6.97,74363,NA,Oceania,Polynesia
+Vanuatu,1965,92.8,48.87,6.73,74287,NA,Oceania,Melanesia
+Australia,1966,18.3,70.79,2.89,11657281,123723654026,Oceania,Australia and New Zealand
+Fiji,1966,45.3,58.14,5.28,476329,508775824.3,Oceania,Melanesia
+French Polynesia,1966,NA,58.65,5.27,96730,882775676.8,Oceania,Polynesia
+Kiribati,1966,110.1,48.23,7.17,47461,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1966,NA,58.99,6.9,54201,NA,Oceania,Micronesia
+New Caledonia,1966,NA,60.19,5.23,93682,668221160.9,Oceania,Melanesia
+New Zealand,1966,18.3,71.16,3.13,2668590,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1966,112.7,43.07,6.24,2208422,1246459544,Oceania,Melanesia
+Samoa,1966,NA,54.98,7.46,130687,NA,Oceania,Polynesia
+Solomon Islands,1966,98.2,54,6.47,141027,NA,Oceania,Melanesia
+Tonga,1966,50.7,63.27,6.8,76787,NA,Oceania,Polynesia
+Vanuatu,1966,89.8,49.44,6.63,76410,NA,Oceania,Melanesia
+Australia,1967,18.3,71.07,2.85,11975795,131482647086,Oceania,Australia and New Zealand
+Fiji,1967,44.5,58.52,5.08,487911,576706713.3,Oceania,Melanesia
+French Polynesia,1967,NA,59.06,5.22,100031,840939466.6,Oceania,Polynesia
+Kiribati,1967,106.5,48.63,7.01,48440,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1967,NA,59.36,6.91,56324,NA,Oceania,Micronesia
+New Caledonia,1967,NA,60.77,5.26,96068,704310392.2,Oceania,Melanesia
+New Zealand,1967,17.9,71.54,3,2704205,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1967,109.5,43.92,6.23,2258877,1297196227,Oceania,Melanesia
+Samoa,1967,NA,55.57,7.4,134194,NA,Oceania,Polynesia
+Solomon Islands,1967,92.8,54.58,6.55,145354,NA,Oceania,Melanesia
+Tonga,1967,47.8,63.61,6.59,79048,NA,Oceania,Polynesia
+Vanuatu,1967,86.6,50.01,6.53,78518,NA,Oceania,Melanesia
+Australia,1968,18.2,70.7,2.89,12305530,138244569180,Oceania,Australia and New Zealand
+Fiji,1968,43.9,58.89,4.89,498887,622360093,Oceania,Melanesia
+French Polynesia,1968,NA,59.45,5.17,103385,966498474.5,Oceania,Polynesia
+Kiribati,1968,103.2,49.02,6.76,49389,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1968,NA,59.73,6.92,58404,NA,Oceania,Micronesia
+New Caledonia,1968,NA,61.33,5.28,98572,804763047,Oceania,Melanesia
+New Zealand,1968,17.5,71.2,3.02,2738283,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1968,106.3,44.74,6.21,2313017,1353748650,Oceania,Melanesia
+Samoa,1968,NA,56.15,7.33,137503,NA,Oceania,Polynesia
+Solomon Islands,1968,87.3,55.16,6.66,149926,NA,Oceania,Melanesia
+Tonga,1968,44.9,63.93,6.37,81096,NA,Oceania,Polynesia
+Vanuatu,1968,83.4,50.56,6.43,80669,NA,Oceania,Melanesia
+Australia,1969,18.1,71.11,2.89,12621240,147986737705,Oceania,Australia and New Zealand
+Fiji,1969,43.5,59.26,4.71,509659,638519147.9,Oceania,Melanesia
+French Polynesia,1969,NA,59.83,5.12,106858,940538895.6,Oceania,Polynesia
+Kiribati,1969,100,49.42,6.43,50303,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1969,NA,60.1,6.94,60167,NA,Oceania,Micronesia
+New Caledonia,1969,NA,61.89,5.3,101494,931242129.5,Oceania,Melanesia
+New Zealand,1969,17.2,71.57,3.01,2775684,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1969,103.1,45.53,6.19,2371515,1465750490,Oceania,Melanesia
+Samoa,1969,NA,56.75,7.27,140520,NA,Oceania,Polynesia
+Solomon Islands,1969,81.9,55.74,6.78,154876,NA,Oceania,Melanesia
+Tonga,1969,42.1,64.26,6.15,82879,NA,Oceania,Polynesia
+Vanuatu,1969,80.4,51.12,6.35,82941,NA,Oceania,Melanesia
+Australia,1970,17.8,70.78,2.86,12904760,158580342543,Oceania,Australia and New Zealand
+Fiji,1970,43.1,59.61,4.54,520529,719628345.3,Oceania,Melanesia
+French Polynesia,1970,NA,60.18,5.06,110496,955838748.5,Oceania,Polynesia
+Kiribati,1970,97.3,49.82,6.05,51181,59543629.28,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1970,NA,60.48,6.94,61433,NA,Oceania,Micronesia
+New Caledonia,1970,NA,62.42,5.3,105025,1219920575,Oceania,Melanesia
+New Zealand,1970,16.9,71.35,2.95,2819548,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1970,100.1,46.27,6.16,2434755,1624678937,Oceania,Melanesia
+Samoa,1970,73,57.33,7.19,143175,NA,Oceania,Polynesia
+Solomon Islands,1970,76.5,56.31,6.91,160292,NA,Oceania,Melanesia
+Tonga,1970,39.6,64.58,5.94,84370,NA,Oceania,Polynesia
+Vanuatu,1970,77.5,51.67,6.27,85388,NA,Oceania,Melanesia
+Australia,1971,17.4,71.38,2.95,13150591,164954051790,Oceania,Australia and New Zealand
+Fiji,1971,42.9,59.96,4.4,531601,769203456.9,Oceania,Melanesia
+French Polynesia,1971,NA,60.52,4.98,114311,1070562421,Oceania,Polynesia
+Kiribati,1971,94.8,50.21,5.67,52020,58180025.67,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1971,NA,60.89,6.93,62107,NA,Oceania,Micronesia
+New Caledonia,1971,NA,62.95,5.26,109269,1305305448,Oceania,Melanesia
+New Zealand,1971,16.5,71.8,3.02,2871810,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1971,97.1,46.97,6.14,2503074,1726955621,Oceania,Melanesia
+Samoa,1971,NA,57.92,7.12,145437,NA,Oceania,Polynesia
+Solomon Islands,1971,71.4,56.91,7.04,166214,NA,Oceania,Melanesia
+Tonga,1971,37.4,64.88,5.76,85520,NA,Oceania,Polynesia
+Vanuatu,1971,74.6,52.21,6.2,88023,NA,Oceania,Melanesia
+Australia,1972,16.8,71.9,2.74,13364238,171438741659,Oceania,Australia and New Zealand
+Fiji,1972,42.7,60.29,4.28,542811,826780467.1,Oceania,Melanesia
+French Polynesia,1972,NA,60.84,4.89,118279,1020298673,Oceania,Polynesia
+Kiribati,1972,92.6,50.61,5.35,52823,65207737.75,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1972,NA,61.3,6.89,62298,NA,Oceania,Micronesia
+New Caledonia,1972,NA,63.46,5.17,114093,1349666247,Oceania,Melanesia
+New Zealand,1972,16.2,71.92,2.9,2930469,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1972,94.4,47.63,6.11,2576093,1824417280,Oceania,Melanesia
+Samoa,1972,NA,58.5,7.04,147323,NA,Oceania,Polynesia
+Solomon Islands,1972,66.8,57.52,7.15,172599,NA,Oceania,Melanesia
+Tonga,1972,35.3,65.17,5.62,86349,NA,Oceania,Polynesia
+Vanuatu,1972,71.9,52.77,6.13,90824,NA,Oceania,Melanesia
+Australia,1973,16.2,72.11,2.49,13552190,175937185452,Oceania,Australia and New Zealand
+Fiji,1973,42.4,60.6,4.18,554109,922793396.9,Oceania,Melanesia
+French Polynesia,1973,NA,61.15,4.79,122355,1099908100,Oceania,Polynesia
+Kiribati,1973,90.8,51.02,5.1,53605,78842589.11,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1973,NA,61.71,6.84,62289,NA,Oceania,Micronesia
+New Caledonia,1973,NA,63.95,5.03,119154,1198512959,Oceania,Melanesia
+New Zealand,1973,15.8,71.78,2.73,2989985,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1973,91.7,48.27,6.08,2652586,1943538341,Oceania,Melanesia
+Samoa,1973,NA,59.09,6.95,148889,NA,Oceania,Polynesia
+Solomon Islands,1973,62.6,58.13,7.22,179354,NA,Oceania,Melanesia
+Tonga,1973,33.5,65.44,5.51,86985,NA,Oceania,Polynesia
+Vanuatu,1973,69.3,53.33,6.07,93761,NA,Oceania,Melanesia
+Australia,1974,15.3,71.86,2.32,13725400,183090391005,Oceania,Australia and New Zealand
+Fiji,1974,42,60.91,4.11,565386,946796652.3,Oceania,Melanesia
+French Polynesia,1974,NA,61.47,4.67,126483,1297903095,Oceania,Polynesia
+Kiribati,1974,89.5,51.41,4.96,54382,114560473.7,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1974,NA,62.12,6.77,62477,NA,Oceania,Micronesia
+New Caledonia,1974,NA,64.44,4.83,123976,1350737470,Oceania,Melanesia
+New Zealand,1974,15.4,72.03,2.61,3042573,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1974,89.2,48.9,6.04,2730859,1994275024,Oceania,Melanesia
+Samoa,1974,NA,59.67,6.86,150219,NA,Oceania,Polynesia
+Solomon Islands,1974,58.7,58.74,7.25,186338,NA,Oceania,Melanesia
+Tonga,1974,31.9,65.69,5.45,87609,NA,Oceania,Polynesia
+Vanuatu,1974,66.9,53.89,6,96793,NA,Oceania,Melanesia
+Australia,1975,14.4,72.81,2.15,13892674,185369661015,Oceania,Australia and New Zealand
+Fiji,1975,41.4,61.21,4.05,576592,951816653.4,Oceania,Melanesia
+French Polynesia,1975,NA,61.82,4.55,130619,1234270769,Oceania,Polynesia
+Kiribati,1975,88.5,51.81,4.9,55169,120683065.7,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1975,NA,62.5,6.68,63146,NA,Oceania,Micronesia
+New Caledonia,1975,NA,64.91,4.6,128216,1438528271,Oceania,Melanesia
+New Zealand,1975,14.9,72.3,2.46,3082883,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1975,86.9,49.54,6,2809692,1976727698,Oceania,Melanesia
+Samoa,1975,NA,60.26,6.76,151383,NA,Oceania,Polynesia
+Solomon Islands,1975,55.1,59.33,7.24,193447,NA,Oceania,Melanesia
+Tonga,1975,30.4,65.93,5.43,88347,NA,Oceania,Polynesia
+Vanuatu,1975,64.6,54.46,5.93,99879,NA,Oceania,Melanesia
+Australia,1976,13.5,72.84,2.06,14054956,190251053754,Oceania,Australia and New Zealand
+Fiji,1976,40.6,61.5,4.02,587523,977859900.1,Oceania,Melanesia
+French Polynesia,1976,NA,62.23,4.42,134743,1335525607,Oceania,Polynesia
+Kiribati,1976,87.7,52.2,4.93,55980,88378336.66,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1976,NA,62.85,6.59,64386,NA,Oceania,Micronesia
+New Caledonia,1976,NA,65.37,4.35,131758,1471614396,Oceania,Melanesia
+New Zealand,1976,14.4,72.5,2.37,3108745,NA,Oceania,Australia and New Zealand
+Papua New Guinea,1976,84.6,50.21,5.95,2888509,1909747297,Oceania,Melanesia
+Samoa,1976,NA,60.84,6.66,152390,NA,Oceania,Polynesia
+Solomon Islands,1976,51.9,59.9,7.18,200642,NA,Oceania,Melanesia
+Tonga,1976,29,66.16,5.44,89258,NA,Oceania,Polynesia
+Vanuatu,1976,62.3,55.05,5.86,103024,NA,Oceania,Melanesia
+Australia,1977,12.7,73.45,2.01,14211657,196878746322,Oceania,Australia and New Zealand
+Fiji,1977,39.5,61.8,3.99,598258,1035592859,Oceania,Melanesia
+French Polynesia,1977,NA,62.72,4.3,138867,1363291087,Oceania,Polynesia
+Kiribati,1977,87.2,52.58,4.98,56815,84301742.39,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1977,NA,63.14,6.49,66110,NA,Oceania,Micronesia
+New Caledonia,1977,NA,65.81,4.1,134710,1499572484,Oceania,Melanesia
+New Zealand,1977,13.9,72.25,2.32,3122551,31541493669,Oceania,Australia and New Zealand
+Papua New Guinea,1977,82.5,50.91,5.9,2967620,1925690171,Oceania,Melanesia
+Samoa,1977,NA,61.44,6.55,153244,NA,Oceania,Polynesia
+Solomon Islands,1977,48.9,60.43,7.1,207942,NA,Oceania,Melanesia
+Tonga,1977,27.7,66.39,5.47,90296,NA,Oceania,Polynesia
+Vanuatu,1977,59.9,55.64,5.79,106223,NA,Oceania,Melanesia
+Australia,1978,12,73.84,1.95,14368543,198667157375,Oceania,Australia and New Zealand
+Fiji,1978,38.2,62.09,3.97,609348,1054890128,Oceania,Melanesia
+French Polynesia,1978,NA,63.28,4.19,143033,1498155466,Oceania,Polynesia
+Kiribati,1978,86.8,52.97,5.03,57664,85195015.3,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1978,NA,63.37,6.4,68221,NA,Oceania,Micronesia
+New Caledonia,1978,NA,66.25,3.88,137223,1646530695,Oceania,Melanesia
+New Zealand,1978,13.5,73.14,2.19,3129098,31613826996,Oceania,Australia and New Zealand
+Papua New Guinea,1978,80.6,51.65,5.84,3047769,2090333990,Oceania,Melanesia
+Samoa,1978,NA,62.02,6.43,154010,NA,Oceania,Polynesia
+Solomon Islands,1978,46.3,60.89,6.99,215353,NA,Oceania,Melanesia
+Tonga,1978,26.6,66.61,5.51,91360,NA,Oceania,Polynesia
+Vanuatu,1978,57.4,56.24,5.72,109429,NA,Oceania,Melanesia
+Australia,1979,11.3,74.4,1.91,14532401,206839366822,Oceania,Australia and New Zealand
+Fiji,1979,36.8,62.37,3.94,621541,1183848553,Oceania,Melanesia
+French Polynesia,1979,NA,63.9,4.08,147299,1556971914,Oceania,Polynesia
+Kiribati,1979,86.5,53.36,5.06,58509,75325178.94,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1979,NA,63.53,6.31,70550,NA,Oceania,Micronesia
+New Caledonia,1979,NA,66.68,3.7,139545,1422602437,Oceania,Melanesia
+New Zealand,1979,13.1,73.18,2.24,3135453,32227359317,Oceania,Australia and New Zealand
+Papua New Guinea,1979,78.8,52.4,5.77,3130125,2128637163,Oceania,Melanesia
+Samoa,1979,NA,62.62,6.32,154763,NA,Oceania,Polynesia
+Solomon Islands,1979,43.9,61.27,6.87,222905,NA,Oceania,Melanesia
+Tonga,1979,25.5,66.84,5.54,92299,NA,Oceania,Polynesia
+Vanuatu,1979,54.8,56.83,5.65,112579,139843102.1,Oceania,Melanesia
+Australia,1980,10.8,74.56,1.89,14708323,213135433499,Oceania,Australia and New Zealand
+Fiji,1980,35.3,62.65,3.91,635256,1164866035,Oceania,Melanesia
+French Polynesia,1980,NA,64.56,3.99,151702,1564521691,Oceania,Polynesia
+Kiribati,1980,86.1,53.75,5.07,59340,41847584.9,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1980,50,63.64,6.22,72967,NA,Oceania,Micronesia
+New Caledonia,1980,NA,67.09,3.55,141866,1416912105,Oceania,Melanesia
+New Zealand,1980,12.7,72.98,2.15,3146771,32457368889,Oceania,Australia and New Zealand
+Papua New Guinea,1980,77.1,53.11,5.69,3215483,2079605041,Oceania,Melanesia
+Samoa,1980,55.6,63.2,6.2,155554,NA,Oceania,Polynesia
+Solomon Islands,1980,41.9,61.53,6.75,230614,NA,Oceania,Melanesia
+Tonga,1980,24.6,67.08,5.55,93007,NA,Oceania,Polynesia
+Vanuatu,1980,52,57.41,5.58,115634,123901258.8,Oceania,Melanesia
+Australia,1981,10.4,74.92,1.94,14898019,220398742356,Oceania,Australia and New Zealand
+Fiji,1981,33.8,62.92,3.86,650957,1238601962,Oceania,Melanesia
+French Polynesia,1981,NA,65.22,3.92,156240,1697580026,Oceania,Polynesia
+Kiribati,1981,85.7,54.17,5.05,60137,40395127.89,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1981,44.4,63.71,6.13,75462,NA,Oceania,Micronesia
+New Caledonia,1981,NA,67.5,3.44,144227,1317728266,Oceania,Melanesia
+New Zealand,1981,12.4,73.77,2.16,3164965,33922769242,Oceania,Australia and New Zealand
+Papua New Guinea,1981,75.5,53.74,5.61,3304188,2073889669,Oceania,Melanesia
+Samoa,1981,54,63.79,6.09,156435,NA,Oceania,Polynesia
+Solomon Islands,1981,40.2,61.59,6.63,238488,NA,Oceania,Melanesia
+Tonga,1981,23.7,67.32,5.53,93452,120953144,Oceania,Polynesia
+Vanuatu,1981,49.2,57.97,5.5,118578,129104682,Oceania,Melanesia
+Australia,1982,10.1,74.7,1.93,15101227,227512907295,Oceania,Australia and New Zealand
+Fiji,1982,32.4,63.2,3.81,668196,1164552296,Oceania,Melanesia
+French Polynesia,1982,NA,65.84,3.86,160883,1866856569,Oceania,Polynesia
+Kiribati,1982,85.1,54.62,5.02,60918,43136551.65,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1982,45,63.77,6.02,78057,NA,Oceania,Micronesia
+New Caledonia,1982,NA,67.89,3.35,146592,1349353646,Oceania,Melanesia
+New Zealand,1982,12.1,73.87,2.1,3188664,34122076179,Oceania,Australia and New Zealand
+Papua New Guinea,1982,74,54.26,5.52,3395798,2081209365,Oceania,Melanesia
+Samoa,1982,52.4,64.36,5.97,157401,175593116,Oceania,Polynesia
+Solomon Islands,1982,38.8,61.46,6.53,246502,NA,Oceania,Melanesia
+Tonga,1982,23,67.56,5.48,93683,126687844.5,Oceania,Polynesia
+Vanuatu,1982,46.3,58.5,5.43,121433,142919034.1,Oceania,Melanesia
+Australia,1983,9.8,75.51,1.92,15318254,222234528537,Oceania,Australia and New Zealand
+Fiji,1983,31.2,63.46,3.76,685389,1118434637,Oceania,Melanesia
+French Polynesia,1983,NA,66.39,3.81,165611,1967784808,Oceania,Polynesia
+Kiribati,1983,84.2,55.08,4.97,61760,47011744.87,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1983,45.4,63.81,5.89,80678,NA,Oceania,Micronesia
+New Caledonia,1983,NA,68.28,3.27,148988,1322366606,Oceania,Melanesia
+New Zealand,1983,11.9,73.97,2.1,3215826,35085826695,Oceania,Australia and New Zealand
+Papua New Guinea,1983,72.6,54.65,5.42,3489402,2148290132,Oceania,Melanesia
+Samoa,1983,50.8,64.94,5.85,158383,176349983,Oceania,Polynesia
+Solomon Islands,1983,37.6,61.16,6.43,254602,NA,Oceania,Melanesia
+Tonga,1983,22.4,67.8,5.39,93775,129199320.6,Oceania,Polynesia
+Vanuatu,1983,43.4,58.98,5.36,124248,162689159.4,Oceania,Melanesia
+Australia,1984,9.6,75.98,1.84,15548591,232453957602,Oceania,Australia and New Zealand
+Fiji,1984,30.1,63.71,3.69,700366,1212305127,Oceania,Melanesia
+French Polynesia,1984,NA,66.87,3.77,170397,2074157078,Oceania,Polynesia
+Kiribati,1984,83,55.56,4.91,62768,46437159.51,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1984,45.7,63.86,5.75,83242,NA,Oceania,Micronesia
+New Caledonia,1984,NA,68.65,3.21,151427,1346169194,Oceania,Melanesia
+New Zealand,1984,11.6,74.53,2.12,3243078,36847845727,Oceania,Australia and New Zealand
+Papua New Guinea,1984,71.3,54.92,5.31,3583707,2140669593,Oceania,Melanesia
+Samoa,1984,31.7,65.51,5.73,159281,178620583.8,Oceania,Polynesia
+Solomon Islands,1984,36.5,60.74,6.35,262719,NA,Oceania,Melanesia
+Tonga,1984,21.9,68.04,5.27,93838,131445316.4,Oceania,Polynesia
+Vanuatu,1984,40.6,59.44,5.28,127094,178284602,Oceania,Melanesia
+Australia,1985,9.3,75.41,1.92,15791043,244380207223,Oceania,Australia and New Zealand
+Fiji,1985,29.1,63.96,3.63,711663,1156375707,Oceania,Melanesia
+French Polynesia,1985,NA,67.27,3.74,175208,2186297273,Oceania,Polynesia
+Kiribati,1985,81.4,56.04,4.86,64006,44295200.06,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1985,45.6,63.92,5.6,85689,NA,Oceania,Micronesia
+New Caledonia,1985,NA,69.02,3.14,153929,1406746815,Oceania,Melanesia
+New Zealand,1985,11.3,74.03,2.14,3268192,37135617884,Oceania,Australia and New Zealand
+Papua New Guinea,1985,70.2,55.08,5.21,3677854,2226300453,Oceania,Melanesia
+Samoa,1985,30.5,66.1,5.62,160030,185621605.9,Oceania,Polynesia
+Solomon Islands,1985,35.6,60.26,6.28,270809,NA,Oceania,Melanesia
+Tonga,1985,21.4,68.27,5.13,93953,140066096.5,Oceania,Polynesia
+Vanuatu,1985,38,59.87,5.21,130028,180038903.5,Oceania,Melanesia
+Australia,1986,9.1,76.08,1.87,16047026,255503272974,Oceania,Australia and New Zealand
+Fiji,1986,28.2,64.2,3.57,718548,1245993741,Oceania,Melanesia
+French Polynesia,1986,NA,67.59,3.7,180069,2369946312,Oceania,Polynesia
+Kiribati,1986,79.5,56.5,4.8,65519,44984702.5,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1986,45.4,63.99,5.45,87948,163395772.3,Oceania,Micronesia
+New Caledonia,1986,NA,69.37,3.09,156502,1392679297,Oceania,Melanesia
+New Zealand,1986,11,74.28,2.16,3290132,37974476325,Oceania,Australia and New Zealand
+Papua New Guinea,1986,69.1,55.19,5.11,3771578,2330781992,Oceania,Melanesia
+Samoa,1986,29.4,66.67,5.51,160591,195839303.4,Oceania,Polynesia
+Solomon Islands,1986,34.8,59.84,6.21,278846,NA,Oceania,Melanesia
+Tonga,1986,20.9,68.48,4.99,94147,143033612.4,Oceania,Polynesia
+Vanuatu,1986,35.7,60.27,5.14,133040,179801032.1,Oceania,Melanesia
+Australia,1987,8.7,76.27,1.85,16314778,262027442116,Oceania,Australia and New Zealand
+Fiji,1987,27.3,64.43,3.51,721725,1163571019,Oceania,Melanesia
+French Polynesia,1987,NA,67.88,3.65,184958,2538212604,Oceania,Polynesia
+Kiribati,1987,77.2,56.93,4.75,67262,43606882.34,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1987,45,64.07,5.3,90024,165356129.5,Oceania,Micronesia
+New Caledonia,1987,NA,69.72,3.05,159180,1472062056,Oceania,Melanesia
+New Zealand,1987,10.6,74.36,2.24,3310408,38551087263,Oceania,Australia and New Zealand
+Papua New Guinea,1987,68.1,55.3,5.02,3865402,2395356163,Oceania,Melanesia
+Samoa,1987,28.4,67.27,5.4,161014,196785390.1,Oceania,Polynesia
+Solomon Islands,1987,34.1,59.58,6.14,286868,NA,Oceania,Melanesia
+Tonga,1987,20.5,68.67,4.86,94399,147304099,Oceania,Polynesia
+Vanuatu,1987,33.6,60.67,5.08,136129,174597595.6,Oceania,Melanesia
+Australia,1988,8.4,76.3,1.83,16585905,277414269318,Oceania,Australia and New Zealand
+Fiji,1988,26.4,64.66,3.47,722918,1174691917,Oceania,Melanesia
+French Polynesia,1988,NA,68.15,3.58,189742,2599129674,Oceania,Polynesia
+Kiribati,1988,74.7,57.33,4.7,69104,51562223.98,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1988,44.4,64.15,5.17,92020,169570897.4,Oceania,Micronesia
+New Caledonia,1988,NA,70.05,3.02,162030,1981395536,Oceania,Melanesia
+New Zealand,1988,10.2,74.64,2.32,3332297,38493205666,Oceania,Australia and New Zealand
+Papua New Guinea,1988,67.1,55.47,4.93,3960243,2465042866,Oceania,Melanesia
+Samoa,1988,27.5,67.87,5.3,161424,193947142.2,Oceania,Polynesia
+Solomon Islands,1988,33.5,59.52,6.06,294962,NA,Oceania,Melanesia
+Tonga,1988,19.9,68.83,4.76,94680,144532028.7,Oceania,Polynesia
+Vanuatu,1988,32,61.07,5.02,139369,171609336.3,Oceania,Melanesia
+Australia,1989,8,76.4,1.84,16849253,288343886633,Oceania,Australia and New Zealand
+Fiji,1989,25.6,64.88,3.43,724624,1262072929,Oceania,Melanesia
+French Polynesia,1989,NA,68.42,3.5,194249,2677103616,Oceania,Polynesia
+Kiribati,1989,72,57.68,4.67,70863,47149171.47,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1989,43.9,64.23,5.05,94091,175549986.9,Oceania,Micronesia
+New Caledonia,1989,NA,70.38,3,165131,2199349035,Oceania,Melanesia
+New Zealand,1989,9.7,75.05,2.33,3360350,38702098238,Oceania,Australia and New Zealand
+Papua New Guinea,1989,66.2,55.7,4.86,4057406,2430049607,Oceania,Melanesia
+Samoa,1989,26.6,68.49,5.21,162001,201137372,Oceania,Polynesia
+Solomon Islands,1989,32.8,59.7,5.96,303258,NA,Oceania,Melanesia
+Tonga,1989,19.3,68.98,4.69,94943,145095563.6,Oceania,Polynesia
+Vanuatu,1989,30.5,61.48,4.97,142852,174240788.5,Oceania,Melanesia
+Australia,1990,7.6,77,1.9,17096869,298651486073,Oceania,Australia and New Zealand
+Fiji,1990,24.8,65.1,3.4,728626,1335273159,Oceania,Melanesia
+French Polynesia,1990,NA,68.7,3.4,198370,2735999899,Oceania,Polynesia
+Kiribati,1990,69.4,58,4.63,72411,48154992.03,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1990,43.4,64.3,4.96,96331,182117183.5,Oceania,Micronesia
+New Caledonia,1990,NA,70.7,2.98,168537,2278525628,Oceania,Melanesia
+New Zealand,1990,9.2,75.6,2.4,3397534,38715939299,Oceania,Australia and New Zealand
+Papua New Guinea,1990,65.3,56,4.8,4157903,2356852386,Oceania,Melanesia
+Samoa,1990,25.8,69.1,5.12,162865,192244188.6,Oceania,Polynesia
+Solomon Islands,1990,32.2,60.1,5.85,311849,340865987.8,Oceania,Melanesia
+Tonga,1990,18.7,69.1,4.64,95152,142129676.4,Oceania,Polynesia
+Vanuatu,1990,29.2,61.9,4.93,146633,194638259.6,Oceania,Melanesia
+Australia,1991,7.1,77.4,1.85,17325818,297936911238,Oceania,Australia and New Zealand
+Fiji,1991,24.1,65.1,3.37,735469,1299220783,Oceania,Melanesia
+French Polynesia,1991,NA,69.01,3.29,202020,2870063790,Oceania,Polynesia
+Kiribati,1991,67,58.2,4.6,73698,46075822.32,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1991,43.1,64.5,4.88,98800,195643648.1,Oceania,Micronesia
+New Caledonia,1991,NA,71.01,2.96,172274,2390174025,Oceania,Melanesia
+New Zealand,1991,8.7,75.9,2.36,3445596,38214854047,Oceania,Australia and New Zealand
+Papua New Guinea,1991,64.4,56,4.76,4261933,2581858705,Oceania,Melanesia
+Samoa,1991,25,69.1,5.03,164073,187822577.6,Oceania,Polynesia
+Solomon Islands,1991,31.6,60,5.73,320764,361332195.7,Oceania,Melanesia
+Tonga,1991,18,69.3,4.61,95304,151247214.2,Oceania,Polynesia
+Vanuatu,1991,28.1,62,4.89,150779,200748580.8,Oceania,Melanesia
+Australia,1992,6.7,77.6,1.89,17538387,299289734315,Oceania,Australia and New Zealand
+Fiji,1992,23.5,65,3.35,744534,1378473251,Oceania,Melanesia
+French Polynesia,1992,NA,69.33,3.18,205269,2895894295,Oceania,Polynesia
+Kiribati,1992,65,58.4,4.57,74773,47542408.77,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1992,43,64.7,4.82,101412,203485076.9,Oceania,Micronesia
+New Caledonia,1992,NA,71.31,2.93,176310,2402602807,Oceania,Melanesia
+New Zealand,1992,8.2,76.2,2.31,3502765,38643270231,Oceania,Australia and New Zealand
+Papua New Guinea,1992,63.4,56.2,4.72,4369407,2939422490,Oceania,Melanesia
+Samoa,1992,24.2,69.5,4.96,165568,187446928.5,Oceania,Polynesia
+Solomon Islands,1992,30.9,60.4,5.6,329984,407186864.1,Oceania,Melanesia
+Tonga,1992,17.4,69.4,4.58,95421,151628333.1,Oceania,Polynesia
+Vanuatu,1992,27.2,62.1,4.85,155242,205952017.3,Oceania,Melanesia
+Australia,1993,6.3,77.9,1.86,17738428,311518658361,Oceania,Australia and New Zealand
+Fiji,1993,22.9,64.8,3.33,755024,1407835172,Oceania,Melanesia
+French Polynesia,1993,NA,69.68,3.06,208349,2898790282,Oceania,Polynesia
+Kiribati,1993,63.2,58.4,4.53,75722,48789248.93,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1993,43,64.9,4.77,103937,220050095.2,Oceania,Micronesia
+New Caledonia,1993,NA,71.6,2.89,180554,2415331668,Oceania,Melanesia
+New Zealand,1993,7.8,76.5,2.22,3564227,41106184618,Oceania,Australia and New Zealand
+Papua New Guinea,1993,62.6,56.4,4.7,4480689,3474464559,Oceania,Melanesia
+Samoa,1993,23.4,69.7,4.88,167206,195132251.7,Oceania,Polynesia
+Solomon Islands,1993,30.3,60.6,5.46,339490,423378484.2,Oceania,Melanesia
+Tonga,1993,16.9,69.5,4.55,95532,157296255.8,Oceania,Polynesia
+Vanuatu,1993,26.4,62.2,4.81,159814,207498181.3,Oceania,Melanesia
+Australia,1994,6,78.1,1.84,17932214,323873916078,Oceania,Australia and New Zealand
+Fiji,1994,22.4,64.7,3.31,765666,1479634766,Oceania,Melanesia
+French Polynesia,1994,NA,70.05,2.95,211584,2921980671,Oceania,Polynesia
+Kiribati,1994,61.6,58.7,4.48,76674,51197762.36,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1994,43.1,65.1,4.72,106057,218873880.9,Oceania,Micronesia
+New Caledonia,1994,NA,71.89,2.84,184883,2477893272,Oceania,Melanesia
+New Zealand,1994,7.5,76.7,2.13,3623181,43279635659,Oceania,Australia and New Zealand
+Papua New Guinea,1994,61.9,56.7,4.69,4596131,3680921041,Oceania,Melanesia
+Samoa,1994,22.6,69.8,4.82,168786,190171788.4,Oceania,Polynesia
+Solomon Islands,1994,29.7,60.9,5.33,349250,462303139.1,Oceania,Melanesia
+Tonga,1994,16.5,69.5,4.5,95678,165086392.1,Oceania,Polynesia
+Vanuatu,1994,25.8,62.2,4.78,164209,226290020.6,Oceania,Melanesia
+Australia,1995,5.7,78.3,1.82,18124770,336634494329,Oceania,Australia and New Zealand
+Fiji,1995,22.1,64.5,3.28,775498,1516625635,Oceania,Melanesia
+French Polynesia,1995,NA,70.43,2.84,215200,2936590396,Oceania,Polynesia
+Kiribati,1995,60.3,58.9,4.41,77727,50565832.04,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1995,43.3,65.4,4.66,107556,235010116.9,Oceania,Micronesia
+New Caledonia,1995,NA,72.16,2.77,189198,2625080904,Oceania,Melanesia
+New Zealand,1995,7.1,77,2.11,3674886,45152836111,Oceania,Australia and New Zealand
+Papua New Guinea,1995,61.2,56.9,4.67,4715929,3558992414,Oceania,Melanesia
+Samoa,1995,21.8,70,4.75,170158,202640783.9,Oceania,Polynesia
+Solomon Islands,1995,29.1,61.1,5.2,359236,500321063.3,Oceania,Melanesia
+Tonga,1995,16.2,69.6,4.45,95889,171214197.7,Oceania,Polynesia
+Vanuatu,1995,25.3,62.3,4.73,168236,228579532.7,Oceania,Melanesia
+Australia,1996,5.6,78.5,1.8,18318340,350710609678,Oceania,Australia and New Zealand
+Fiji,1996,21.8,64.3,3.24,784479,1589423666,Oceania,Melanesia
+French Polynesia,1996,NA,70.82,2.75,219282,2945400177,Oceania,Polynesia
+Kiribati,1996,58.9,59.2,4.33,78907,53614894.72,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1996,43.5,65.7,4.61,108342,227728371.7,Oceania,Micronesia
+New Caledonia,1996,NA,72.43,2.7,193471,2636890594,Oceania,Melanesia
+New Zealand,1996,6.9,77.3,2.07,3717239,46778305308,Oceania,Australia and New Zealand
+Papua New Guinea,1996,60.5,57,4.65,4840311,3834234097,Oceania,Melanesia
+Samoa,1996,21.1,70.2,4.69,171276,217381536.9,Oceania,Polynesia
+Solomon Islands,1996,28.7,61.4,5.08,369438,508352106.9,Oceania,Melanesia
+Tonga,1996,15.9,69.7,4.39,96174,171231690,Oceania,Polynesia
+Vanuatu,1996,24.9,62.4,4.68,171802,233901904.9,Oceania,Melanesia
+Australia,1997,5.4,78.8,1.78,18512971,364642406351,Oceania,Australia and New Zealand
+Fiji,1997,21.5,64.1,3.21,792859,1554456345,Oceania,Melanesia
+French Polynesia,1997,NA,71.21,2.66,223734,3001362902,Oceania,Polynesia
+Kiribati,1997,57.5,59.4,4.24,80190,56550586.77,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1997,43.6,65.9,4.54,108506,214180760.2,Oceania,Micronesia
+New Caledonia,1997,NA,72.7,2.62,197706,2689817004,Oceania,Melanesia
+New Zealand,1997,6.6,77.6,2.05,3752102,47605110083,Oceania,Australia and New Zealand
+Papua New Guinea,1997,59.9,57.2,4.63,4969116,3684530642,Oceania,Melanesia
+Samoa,1997,20.4,70.4,4.64,172191,219128135.9,Oceania,Polynesia
+Solomon Islands,1997,28.3,61.5,4.97,379859,501033494.6,Oceania,Melanesia
+Tonga,1997,15.7,69.7,4.34,96526,171006374.9,Oceania,Polynesia
+Vanuatu,1997,25.5,61.2,4.61,175004,245394066.1,Oceania,Melanesia
+Australia,1998,5.3,79.2,1.76,18709175,381363194312,Oceania,Australia and New Zealand
+Fiji,1998,21.2,64.2,3.17,800314,1574664278,Oceania,Melanesia
+French Polynesia,1998,NA,71.59,2.59,228380,3187447275,Oceania,Polynesia
+Kiribati,1998,56.1,59.5,4.13,81556,62756555.23,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1998,43.3,66.1,4.47,108236,220012604,Oceania,Micronesia
+New Caledonia,1998,NA,72.95,2.54,201883,2603735450,Oceania,Melanesia
+New Zealand,1998,6.4,78,1.96,3783516,47808215119,Oceania,Australia and New Zealand
+Papua New Guinea,1998,59.3,56.5,4.6,5101633,3545656503,Oceania,Melanesia
+Samoa,1998,19.7,70.6,4.59,172979,224375383.7,Oceania,Polynesia
+Solomon Islands,1998,27.9,61.6,4.87,390489,509971268.9,Oceania,Melanesia
+Tonga,1998,15.5,69.7,4.3,96937,175655710.9,Oceania,Polynesia
+Vanuatu,1998,24.3,62.5,4.54,178074,255949608.7,Oceania,Melanesia
+Australia,1999,5.3,79.4,1.76,18906936,401040979796,Oceania,Australia and New Zealand
+Fiji,1999,21,64.1,3.13,806494,1713234734,Oceania,Melanesia
+French Polynesia,1999,NA,71.96,2.52,232956,3314945314,Oceania,Polynesia
+Kiribati,1999,54.6,59.6,4.01,82969,63631538.13,Oceania,Micronesia
+"Micronesia, Fed. Sts.",1999,42.9,66.3,4.39,107808,223593594.1,Oceania,Micronesia
+New Caledonia,1999,NA,73.21,2.46,205983,2627173560,Oceania,Melanesia
+New Zealand,1999,6.2,78.2,2,3817489,50282008368,Oceania,Australia and New Zealand
+Papua New Guinea,1999,58.8,57.4,4.56,5236863,3611448068,Oceania,Melanesia
+Samoa,1999,19.1,70.7,4.54,173758,229494645.9,Oceania,Polynesia
+Solomon Islands,1999,27.6,61.7,4.79,401319,507510142.6,Oceania,Melanesia
+Tonga,1999,15.3,69.6,4.27,97398,182474154.8,Oceania,Polynesia
+Vanuatu,1999,24.1,62,4.46,181346,256806497.9,Oceania,Melanesia
+Australia,2000,5.1,79.8,1.76,19107251,416887521196,Oceania,Australia and New Zealand
+Fiji,2000,20.8,64.2,3.09,811223,1684109743,Oceania,Melanesia
+French Polynesia,2000,NA,72.31,2.46,237267,3447543138,Oceania,Polynesia
+Kiribati,2000,53.2,59.8,3.88,84406,68239320.7,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2000,42.2,66.6,4.3,107430,233611434.4,Oceania,Micronesia
+New Caledonia,2000,NA,73.46,2.39,209997,2682347064,Oceania,Melanesia
+New Zealand,2000,6.1,78.4,1.98,3858234,51599748518,Oceania,Australia and New Zealand
+Papua New Guinea,2000,58.3,57.5,4.51,5374051,3521348155,Oceania,Melanesia
+Samoa,2000,18.5,70.8,4.5,174614,245617503,Oceania,Polynesia
+Solomon Islands,2000,27.4,61.7,4.72,412336,435101217.2,Oceania,Melanesia
+Tonga,2000,15.1,69.6,4.25,97898,188623258.5,Oceania,Polynesia
+Vanuatu,2000,23.8,62.5,4.37,185058,272014693.1,Oceania,Melanesia
+Australia,2001,5,80.1,1.73,19308681,425523831426,Oceania,Australia and New Zealand
+Fiji,2001,20.5,64.4,3.05,814215,1717791938,Oceania,Melanesia
+French Polynesia,2001,NA,72.67,2.41,241276,NA,Oceania,Polynesia
+Kiribati,2001,51.9,60.1,3.75,85858,66141846.03,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2001,41.5,66.8,4.2,107170,237472671.4,Oceania,Micronesia
+New Caledonia,2001,NA,73.7,2.34,213904,NA,Oceania,Melanesia
+New Zealand,2001,5.9,78.6,1.96,3906911,53451262721,Oceania,Australia and New Zealand
+Papua New Guinea,2001,57.8,57.6,4.45,5512835,3517077155,Oceania,Melanesia
+Samoa,2001,17.9,71,4.48,175567,263035595.6,Oceania,Polynesia
+Solomon Islands,2001,27.2,61.7,4.67,423535,400386383.6,Oceania,Melanesia
+Tonga,2001,14.8,69.6,4.24,98434,195417047.1,Oceania,Polynesia
+Vanuatu,2001,23.6,62.5,4.27,189288,262525439.4,Oceania,Melanesia
+Australia,2002,5,80.3,1.76,19514385,442135393399,Oceania,Australia and New Zealand
+Fiji,2002,20.3,64.5,3,815691,1772761280,Oceania,Melanesia
+French Polynesia,2002,NA,73.03,2.37,245032,NA,Oceania,Polynesia
+Kiribati,2002,50.9,60.2,3.63,87343,70236686.92,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2002,40.6,66,4.11,106983,238667142.8,Oceania,Micronesia
+New Caledonia,2002,NA,73.94,2.29,217701,NA,Oceania,Melanesia
+New Zealand,2002,5.8,78.9,1.95,3961695,56077241190,Oceania,Australia and New Zealand
+Papua New Guinea,2002,57.3,57.6,4.39,5653284,3511488507,Oceania,Melanesia
+Samoa,2002,17.5,71.2,4.46,176592,274630824.9,Oceania,Polynesia
+Solomon Islands,2002,27.2,61.7,4.62,434893,389175564.8,Oceania,Melanesia
+Tonga,2002,14.6,69.7,4.22,99005,202718153.1,Oceania,Polynesia
+Vanuatu,2002,23.4,62.5,4.16,193957,250979651.8,Oceania,Melanesia
+Australia,2003,4.9,80.6,1.75,19735255,456603230864,Oceania,Australia and New Zealand
+Fiji,2003,20.1,64.6,2.95,816626,1790488893,Oceania,Melanesia
+French Polynesia,2003,NA,73.4,2.33,248536,NA,Oceania,Polynesia
+Kiribati,2003,50.1,60.4,3.52,88892,73398500.29,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2003,39.6,67.3,4.01,106816,242853327.6,Oceania,Micronesia
+New Caledonia,2003,NA,74.17,2.26,221408,NA,Oceania,Melanesia
+New Zealand,2003,5.7,79.1,1.98,4020195,58513885619,Oceania,Australia and New Zealand
+Papua New Guinea,2003,56.7,57.7,4.34,5795571,3587480705,Oceania,Melanesia
+Samoa,2003,17.1,71.4,4.45,177677,287713853.5,Oceania,Polynesia
+Solomon Islands,2003,27.2,61.7,4.58,446352,414471976.6,Oceania,Melanesia
+Tonga,2003,14.4,69.6,4.2,99606,207980248.8,Oceania,Polynesia
+Vanuatu,2003,23.4,62.5,4.06,198963,260354653.6,Oceania,Melanesia
+Australia,2004,4.9,80.9,1.76,19985475,475578723953,Oceania,Australia and New Zealand
+Fiji,2004,20.1,64.7,2.91,818355,1885384805,Oceania,Melanesia
+French Polynesia,2004,NA,73.77,2.29,251811,NA,Oceania,Polynesia
+Kiribati,2004,49.7,60.6,3.41,90545,74066588.16,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2004,38.6,67.4,3.91,106575,234979963.1,Oceania,Micronesia
+New Caledonia,2004,NA,74.4,2.25,225060,NA,Oceania,Melanesia
+New Zealand,2004,5.5,79.4,2.02,4078779,60712724763,Oceania,Australia and New Zealand
+Papua New Guinea,2004,56.2,57.7,4.28,5940048,3685102349,Oceania,Melanesia
+Samoa,2004,16.8,71.6,4.46,178794,301501274.7,Oceania,Polynesia
+Solomon Islands,2004,27.3,61.7,4.54,457841,434774351.4,Oceania,Melanesia
+Tonga,2004,14.3,69.8,4.18,100226,210125331.1,Oceania,Polynesia
+Vanuatu,2004,23.4,62.6,3.95,204144,272033735,Oceania,Melanesia
+Australia,2005,4.8,81.2,1.79,20274282,489651768692,Oceania,Australia and New Zealand
+Fiji,2005,20.1,64.8,2.86,821820,1898582498,Oceania,Melanesia
+French Polynesia,2005,NA,74.13,2.25,254884,NA,Oceania,Polynesia
+Kiribati,2005,49.5,60.8,3.32,92329,74288814.53,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2005,37.7,67.6,3.82,106198,239902743,Oceania,Micronesia
+New Caledonia,2005,NA,74.62,2.24,228683,NA,Oceania,Melanesia
+New Zealand,2005,5.4,79.8,2.05,4134699,62717853637,Oceania,Australia and New Zealand
+Papua New Guinea,2005,55.6,57.9,4.23,6086905,3817622470,Oceania,Melanesia
+Samoa,2005,16.5,71.8,4.46,179928,314000699,Oceania,Polynesia
+Solomon Islands,2005,27.5,61.8,4.5,469306,458344309.2,Oceania,Melanesia
+Tonga,2005,14.3,70,4.14,100858,208129393.6,Oceania,Polynesia
+Vanuatu,2005,23.4,62.7,3.85,209375,286308873.2,Oceania,Melanesia
+Australia,2006,4.7,81.4,1.82,20606228,504739869397,Oceania,Australia and New Zealand
+Fiji,2006,20.2,64.8,2.82,827390,1933591137,Oceania,Melanesia
+French Polynesia,2006,NA,74.48,2.22,257731,NA,Oceania,Polynesia
+Kiribati,2006,49.5,61,3.25,94257,75699705.57,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2006,36.6,67.7,3.74,105680,240271104.7,Oceania,Micronesia
+New Caledonia,2006,NA,74.84,2.23,232283,NA,Oceania,Melanesia
+New Zealand,2006,5.3,79.9,2.09,4187584,63200977861,Oceania,Australia and New Zealand
+Papua New Guinea,2006,54.7,58,4.17,6236158,3916288942,Oceania,Melanesia
+Samoa,2006,16.4,72,4.46,181072,320241629.4,Oceania,Polynesia
+Solomon Islands,2006,27.6,61.9,4.46,480716,490183884.1,Oceania,Melanesia
+Tonga,2006,14.4,70.1,4.1,101507,208373017.4,Oceania,Polynesia
+Vanuatu,2006,23.5,62.9,3.76,214635,307381998.4,Oceania,Melanesia
+Australia,2007,4.5,81.5,1.92,20975949,522729696645,Oceania,Australia and New Zealand
+Fiji,2007,20.3,64.9,2.77,834729,1917139709,Oceania,Melanesia
+French Polynesia,2007,NA,74.81,2.18,260361,NA,Oceania,Polynesia
+Kiribati,2007,49.5,61.2,3.19,96310,76008011.33,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2007,35.7,67.9,3.66,105080,235138826.9,Oceania,Micronesia
+New Caledonia,2007,NA,75.05,2.23,235854,NA,Oceania,Melanesia
+New Zealand,2007,5.3,80.1,2.11,4238021,65084119224,Oceania,Australia and New Zealand
+Papua New Guinea,2007,53.8,58.2,4.12,6387470,4198261746,Oceania,Melanesia
+Samoa,2007,16.2,72.1,4.45,182238,341011349.5,Oceania,Polynesia
+Solomon Islands,2007,27.6,61.9,4.41,492075,542633559.7,Oceania,Melanesia
+Tonga,2007,14.5,70.2,4.06,102169,206383106.8,Oceania,Polynesia
+Vanuatu,2007,23.6,63.2,3.68,219956,327382425.3,Oceania,Melanesia
+Australia,2008,4.4,81.6,1.96,21370348,542761040949,Oceania,Australia and New Zealand
+Fiji,2008,20.3,64.9,2.74,843206,1936934580,Oceania,Melanesia
+French Polynesia,2008,NA,75.11,2.16,262877,NA,Oceania,Polynesia
+Kiribati,2008,49.3,61.5,3.13,98437,75173029.04,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2008,34.7,68,3.59,104472,229491005.2,Oceania,Micronesia
+New Caledonia,2008,NA,75.26,2.22,239392,NA,Oceania,Melanesia
+New Zealand,2008,5.3,80.3,2.12,4285380,64081242758,Oceania,Australia and New Zealand
+Papua New Guinea,2008,52.7,58.6,4.07,6540267,4479545283,Oceania,Melanesia
+Samoa,2008,16.1,72.3,4.43,183440,328406851.8,Oceania,Polynesia
+Solomon Islands,2008,27.3,62.3,4.36,503410,582245809.6,Oceania,Melanesia
+Tonga,2008,14.6,70.3,4.01,102816,211928828.5,Oceania,Polynesia
+Vanuatu,2008,23.7,63.4,3.61,225335,347592314.1,Oceania,Melanesia
+Australia,2009,4.2,81.8,1.9,21770690,550622241459,Oceania,Australia and New Zealand
+Fiji,2009,20.3,64.9,2.7,851854,1912289652,Oceania,Melanesia
+French Polynesia,2009,NA,75.38,2.13,265412,NA,Oceania,Polynesia
+Kiribati,2009,48.9,61.7,3.09,100566,74681961.2,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2009,33.8,68.1,3.52,103961,231026154.3,Oceania,Micronesia
+New Caledonia,2009,NA,75.47,2.21,242891,NA,Oceania,Melanesia
+New Zealand,2009,5.2,80.5,2.13,4329124,63779599884,Oceania,Australia and New Zealand
+Papua New Guinea,2009,51.6,58.8,4.01,6693799,4725920274,Oceania,Melanesia
+Samoa,2009,17,70.4,4.39,184700,322746752.5,Oceania,Polynesia
+Solomon Islands,2009,27,62.4,4.3,514767,575258859.8,Oceania,Melanesia
+Tonga,2009,14.8,68.6,3.96,103416,211643620.3,Oceania,Polynesia
+Vanuatu,2009,23.8,63.6,3.55,230782,359588761.9,Oceania,Melanesia
+Australia,2010,4.1,82,1.89,22162863,563049439185,Oceania,Australia and New Zealand
+Fiji,2010,20.3,65.2,2.67,859952,1908465073,Oceania,Melanesia
+French Polynesia,2010,NA,75.62,2.11,268065,NA,Oceania,Polynesia
+Kiribati,2010,48.3,61.9,3.05,102648,76026236.5,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2010,32.9,68.3,3.46,103619,238245803.8,Oceania,Micronesia
+New Caledonia,2010,NA,75.67,2.19,246345,NA,Oceania,Melanesia
+New Zealand,2010,5.1,80.8,2.12,4369027,64991412282,Oceania,Australia and New Zealand
+Papua New Guinea,2010,50.3,59.1,3.95,6847517,5103993896,Oceania,Melanesia
+Samoa,2010,16,72.6,4.34,186029,328269116.2,Oceania,Polynesia
+Solomon Islands,2010,26.6,62.7,4.24,526177,615526980,Oceania,Melanesia
+Tonga,2010,15,70.7,3.91,103947,210629397.2,Oceania,Polynesia
+Vanuatu,2010,23.9,63.9,3.5,236299,370549549.6,Oceania,Melanesia
+Australia,2011,3.8,82.2,1.88,22542371,573453982173,Oceania,Australia and New Zealand
+Fiji,2011,20.1,65.3,2.64,867327,1946634374,Oceania,Melanesia
+French Polynesia,2011,NA,75.84,2.09,270862,NA,Oceania,Polynesia
+Kiribati,2011,47.5,62.1,3.01,104662,77394708.76,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2011,32,68.4,3.4,103476,241581245.1,Oceania,Micronesia
+New Caledonia,2011,NA,75.88,2.17,249755,NA,Oceania,Melanesia
+New Zealand,2011,5,80.8,2.1,4404483,NA,Oceania,Australia and New Zealand
+Papua New Guinea,2011,49.2,59.4,3.9,7001172,5563353346,Oceania,Melanesia
+Samoa,2011,16,72.7,4.28,187434,335162767.7,Oceania,Polynesia
+Solomon Islands,2011,26.1,63,4.17,537648,670924408.2,Oceania,Melanesia
+Tonga,2011,15,70.8,3.86,104392,213070903.3,Oceania,Polynesia
+Vanuatu,2011,24,64.1,3.46,241876,386483180.2,Oceania,Melanesia
+Australia,2012,3.6,82.4,1.89,22911375,NA,Oceania,Australia and New Zealand
+Fiji,2012,20,65.4,2.62,874158,NA,Oceania,Melanesia
+French Polynesia,2012,NA,76.05,2.08,273775,NA,Oceania,Polynesia
+Kiribati,2012,46.6,62.3,2.98,106620,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2012,31.1,68.6,3.35,103516,NA,Oceania,Micronesia
+New Caledonia,2012,NA,76.09,2.15,253129,NA,Oceania,Melanesia
+New Zealand,2012,4.9,81.1,2.07,4435883,NA,Oceania,Australia and New Zealand
+Papua New Guinea,2012,48,59.7,3.84,7154870,NA,Oceania,Melanesia
+Samoa,2012,15.8,72.7,4.21,188901,NA,Oceania,Polynesia
+Solomon Islands,2012,25.5,63.3,4.1,549162,NA,Oceania,Melanesia
+Tonga,2012,15,71,3.82,104769,NA,Oceania,Polynesia
+Vanuatu,2012,24,64.4,3.42,247498,NA,Oceania,Melanesia
+Australia,2013,3.4,82.4,1.88,23270465,NA,Oceania,Australia and New Zealand
+Fiji,2013,19.7,65.6,2.59,880487,NA,Oceania,Melanesia
+French Polynesia,2013,NA,76.26,2.06,276766,NA,Oceania,Polynesia
+Kiribati,2013,45.6,62.6,2.95,108544,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2013,30.2,68.7,3.29,103718,NA,Oceania,Micronesia
+New Caledonia,2013,NA,76.31,2.13,256473,NA,Oceania,Melanesia
+New Zealand,2013,4.9,81.4,2.05,4465276,NA,Oceania,Australia and New Zealand
+Papua New Guinea,2013,47,60.2,3.78,7308864,NA,Oceania,Melanesia
+Samoa,2013,15.6,73,4.15,190390,NA,Oceania,Polynesia
+Solomon Islands,2013,24.9,63.5,4.03,560685,NA,Oceania,Melanesia
+Tonga,2013,14.9,71.2,3.77,105139,NA,Oceania,Polynesia
+Vanuatu,2013,23.8,64.6,3.38,253165,NA,Oceania,Melanesia
+Australia,2014,3.2,82.3,1.88,23622353,NA,Oceania,Australia and New Zealand
+Fiji,2014,19.4,65.7,2.56,886450,NA,Oceania,Melanesia
+French Polynesia,2014,NA,76.47,2.04,279781,NA,Oceania,Polynesia
+Kiribati,2014,44.6,62.8,2.92,110470,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2014,29.4,68.8,3.24,104044,NA,Oceania,Micronesia
+New Caledonia,2014,NA,76.52,2.11,259800,NA,Oceania,Melanesia
+New Zealand,2014,4.8,81.4,2.03,4495482,NA,Oceania,Australia and New Zealand
+Papua New Guinea,2014,45.7,60.5,3.73,7463577,NA,Oceania,Melanesia
+Samoa,2014,15.4,73.1,4.09,191845,NA,Oceania,Polynesia
+Solomon Islands,2014,24.2,63.6,3.97,572171,NA,Oceania,Melanesia
+Tonga,2014,14.7,71.3,3.72,105586,NA,Oceania,Polynesia
+Vanuatu,2014,23.5,64.7,3.35,258883,NA,Oceania,Melanesia
+Australia,2015,3,82.3,1.88,23968973,NA,Oceania,Australia and New Zealand
+Fiji,2015,19.1,65.8,2.54,892145,NA,Oceania,Melanesia
+French Polynesia,2015,NA,76.69,2.03,282764,NA,Oceania,Polynesia
+Kiribati,2015,43.6,63,2.89,112423,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2015,28.6,68.9,3.19,104460,NA,Oceania,Micronesia
+New Caledonia,2015,NA,76.74,2.09,263118,NA,Oceania,Melanesia
+New Zealand,2015,4.7,81.4,2.02,4528526,NA,Oceania,Australia and New Zealand
+Papua New Guinea,2015,44.5,60.9,3.67,7619321,NA,Oceania,Melanesia
+Samoa,2015,15,73.2,4.03,193228,NA,Oceania,Polynesia
+Solomon Islands,2015,23.6,64,3.91,583591,NA,Oceania,Melanesia
+Tonga,2015,14.4,71.5,3.68,106170,NA,Oceania,Polynesia
+Vanuatu,2015,23.1,64.9,3.31,264652,NA,Oceania,Melanesia
+Australia,2016,NA,82.3,NA,NA,NA,Oceania,Australia and New Zealand
+Fiji,2016,NA,65.9,NA,NA,NA,Oceania,Melanesia
+French Polynesia,2016,NA,76.91,NA,NA,NA,Oceania,Polynesia
+Kiribati,2016,NA,63.2,NA,NA,NA,Oceania,Micronesia
+"Micronesia, Fed. Sts.",2016,NA,69,NA,NA,NA,Oceania,Micronesia
+New Caledonia,2016,NA,76.96,NA,NA,NA,Oceania,Melanesia
+New Zealand,2016,NA,81.4,NA,NA,NA,Oceania,Australia and New Zealand
+Papua New Guinea,2016,NA,61.3,NA,NA,NA,Oceania,Melanesia
+Samoa,2016,NA,73.3,NA,NA,NA,Oceania,Polynesia
+Solomon Islands,2016,NA,64.4,NA,NA,NA,Oceania,Melanesia
+Tonga,2016,NA,71.7,NA,NA,NA,Oceania,Polynesia
+Vanuatu,2016,NA,65.1,NA,NA,NA,Oceania,Melanesia
