@@ -1,4 +1,5 @@
 library(shiny)
+library(tidyverse)
 
 # -------------------------- 3.1)The server function --------------------------
 
@@ -57,7 +58,31 @@ server <- function(input, output, session) {
 
 shinyApp(ui, server)
 
-# -------------------------- 3.3)Reactive expressions --------------------------
+# ------------------------------ 3.3)Import file ------------------------------
+
+ui <- fluidPage(
+  sidebarLayout(
+    sidebarPanel(
+      fileInput("file1", "Choose CSV File", accept = ".csv")),
+    mainPanel(
+      tableOutput("df")
+    )
+  )
+)
+
+server <- function(input, output) {
+  output$df <- renderTable({
+    file <- input$file1
+    
+    df = read_csv(file$datapath)
+    
+    df %>% head(40)
+  })
+}
+
+shinyApp(ui, server)
+
+# -------------------------- 3.4)Reactive expressions --------------------------
 
 # 3.3.1)The motivation ----
 
