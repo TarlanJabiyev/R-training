@@ -2,6 +2,7 @@
 library(tidyverse)
 library(hrbrthemes) 
 library(plotly) 
+library(tidyquant)
 
 data <- mpg
 
@@ -170,12 +171,10 @@ data %>%
   geom_smooth(aes(color = NULL), se=TRUE) +
   geom_xsidedensity(aes(y = after_stat(density), 
                         fill = class),
-                    alpha = 0.5, size = 1,
-                    position = "stack") +
+                    alpha = 0.5, size = 1) +
   geom_ysidedensity(aes(x = after_stat(density),
                         fill = class),
-                    alpha = 0.5, size = 1,
-                    position = "stack") +
+                    alpha = 0.5, size = 1) +
   labs(title = "Fuel Economy by Vehicle Type" ,
        x = "Highway MPG", 
        y = "City MPG") +
