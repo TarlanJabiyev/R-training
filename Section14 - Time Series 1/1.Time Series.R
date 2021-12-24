@@ -3,14 +3,17 @@ library(tidyverse)
 library(data.table)
 library(lubridate)
 library(timetk)
+library(skimr)
 library(highcharter)
 library(h2o)
 library(tidymodels)
 library(modeltime)
 
-raw <- fread('monthly-milk-production-pounds-p.csv') 
+raw <- fread('/Users/tarlanjabiyev/Desktop/GitHub/Section14 - Time Series 1/monthly-milk-production-pounds-p.csv') 
 
 colnames(raw) <- c('Date','Count')
+
+raw$Date <- raw$Date %>% as.Date("%Y-%m-%d")
 
 raw %>% glimpse()
 
