@@ -2,8 +2,6 @@
 
 library(tidyverse)
 
-# https://tidydatatutor.com/
-
 data <- nycflights13::flights
 # "::" - to use a file or function without activating the package
 
@@ -146,3 +144,6 @@ data %>%
   map_df(~ sum(is.na(.))) %>%
   gather(key = "variables", value = "missing_count") %>%
   arrange(desc(missing_count))
+
+
+# https://tidydatatutor.com/
