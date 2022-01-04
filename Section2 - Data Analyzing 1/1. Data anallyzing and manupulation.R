@@ -120,6 +120,17 @@ data %>%
 
 
 data %>% 
+  group_by(carrier) %>%
+  summarise(flight = mean(flight, na.rm = T)) %>% 
+  arrange(desc(flight)) %>% 
+  head(10) %>% 
+  filter(carrier == "OO") 
+
+library(ViewPipeSteps)
+# Addings - View Pipe Chain Steps
+
+
+data %>% 
   group_by(carrier,dest) %>% 
   tally()
 
