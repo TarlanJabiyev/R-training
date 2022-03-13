@@ -150,14 +150,14 @@ dt[, !..cols] #dt[, -..cols]
 
 # Other selections
 
-df %>% select(num_range("V", 1:2))
-cols <- paste0("V", 1:2);dt[, ..cols]
+df %>% select(num_range("C", 1:2))
+cols <- paste0("C", 1:2);dt[, ..cols]
 
 df %>% select(C4, everything())
 cols <- union("C4", names(dt));dt[, ..cols]
 
-df %>% select(contains("V"))
-cols <- grep("V",   names(dt));dt[, ..cols]
+df %>% select(contains("C"))
+cols <- grep("C",   names(dt));dt[, ..cols]
 
 df %>% select(ends_with("3"))
 cols <- grep("3$",  names(dt));dt[, ..cols]
@@ -286,8 +286,9 @@ df %>%
   group_by(C4) %>%
   summarise(sumC2 = sum(C2))
 
-dt[, .(sumC2 = sum(C2)), by = "C4"]
-dt[, by = C4,
+dt[,.(sumC2 = sum(C2)), 
+   by = "C4"]
+dt[,by = C4,
    .(sumC2 = sum(C2))]
 
 # By several groups
@@ -323,7 +324,7 @@ df %>%
   group_by(C4 == "A") %>%
   summarise(sum(C1))
 
-dt[, keyby = C4 == "A",
+dt[, keyby = (C4 == "A"),
    sum(C1)]
 
 # By on a subset of rows
@@ -406,7 +407,7 @@ df %>%
 
 dt[, by = C4,
    lapply(.SD, mean),
-   .SDcols = c("C1", "C2")]## using patterns (regex)
+   .SDcols = c("C1", "C2")]
 dt[, by = C4,
    lapply(.SD, mean),
    .SDcols = patterns("C1|C2|Z0")]
@@ -437,7 +438,7 @@ dt
 
 df <- df %>%
   mutate(across(-any_of("C4"),
-                ~ "^"(.x, 2L)))
+                ~ "^"(.x, 2)))
 #df %>% mutate_at(vars(-C4), "^", 2L)
 df
 cols <- setdiff(names(dt), "C4")
@@ -517,8 +518,7 @@ dt[C4 != "B",
 df <- df %>% arrange(C4, C1)
 df
 
-setkey(dt, C4, C1) #or setkeyv(dt, c("C4", "C1"))
-setindex(dt, C4, C1) # setindexv(dt, c("C4", "C1"))
+setkey(dt, C4, C1) #setindex(dt, C4, C1) 
 dt
 
 # Subset using multiple keys/indices
@@ -581,38 +581,6 @@ df %>%
 
 dt[, .SD[which.min(C2)], by = C4]
 
-# Add a group counter column
-
-df %>%
-  group_by(C4, C1) %>%
-  mutate(Grp = cur_group_id())
-# df %>% mutate(Grp = group_indices(., C4, C1))
-
-dt[, Grp := .GRP, by = .(C4, C1)][]
-dt[, Grp := NULL] # delete for consistency
-
-
-# Read / Write data ----
-
-# Write data to a csv file
-
-df %>% write_csv("df.csv")
-fwrite(dt, "dt.csv")
-
-# Write data to a tab-delimited file
-
-df %>% write_delim("df.txt", delim = "\t")
-fwrite(dt, "dt.txt", sep = "\t")
-
-# Read a csv / tab-delimited file
-
-read_csv("df.csv")
-read_delim("df.txt", delim = "\t")
-
-fread("dt.csv")
-#fread("dt.csv", verbose = TRUE) #full details
-fread("dt.txt", sep = "\t")
-
 
 # Reshape data ----
 
@@ -651,11 +619,11 @@ split(dt, by = "C4")
 
 vec <- c("A:a", "B:b", "C:c")
 vec %>% as_tibble() %>% 
-  separate(value, c("C1", "C2"))
+  separate(value, c("C1", "C2"), sep = ":")
 
 vec <- c("A:a", "B:b", "C:c")
-tstrsplit(vec, split = ":", keep = 2L) #works on vector
-setdt(tstrsplit(vec, split = ":"))[]
+tstrsplit(vec, split = ":", keep = 2) 
+setDT(tstrsplit(vec, split = ":"))[]
 
 
 # Other ----
@@ -738,7 +706,7 @@ x[y, on = "Id", nomatch = 0]
 
 x %>% inner_join(y, by = "Id")
 merge(x, y)
- 
+
 # Join keeping all the rows
 
 x %>% full_join(y, by = "Id")
@@ -762,7 +730,7 @@ x[!y]
 
 x <- data.table(1:3)
 y <- data.table(4:6)
-z <- data.table(7:9, 0L)
+z <- data.table(7:9, 0)
 
 # Bind rows
 
@@ -817,3 +785,25 @@ fsetequal(x, x[order(-V1),])
 
 x %>% all_equal(x)
 all.equal(x, x)
+
+
+# Read / Write data ----
+
+# Write data to a csv file
+
+df %>% write_csv("df.csv")
+fwrite(dt, "dt.csv")
+
+# Write data to a tab-delimited file
+
+df %>% write_delim("df.txt", delim = "\t")
+fwrite(dt, "dt.txt", sep = "\t")
+
+# Read a csv / tab-delimited file
+
+read_csv("df.csv")
+read_delim("df.txt", delim = "\t")
+
+fread("dt.csv")
+#fread("dt.csv", verbose = TRUE) #full details
+fread("dt.txt", sep = "\t")
