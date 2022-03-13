@@ -46,4 +46,3 @@ dt1 %>%
 dt2 %>% 
   right_join(dt1, by = "x") %>% 
   show_query()
-
