@@ -158,3 +158,4 @@ data %>%
 
 
 # https://tidydatatutor.com/
+# https://swcarpentry.github.io/r-novice-gapminder/13-dplyr/
